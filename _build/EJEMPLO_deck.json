@@ -1,0 +1,54 @@
+{
+ "pie": "Curso Gas B · Tema 00 · El Reglamento de Gas",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 00 · Marco normativo",
+   "videoxy": "Vídeo 1 de 3",
+   "titulo": "El Reglamento de Gas",
+   "subtitulo": "Objeto, campo de aplicación y definiciones",
+   "notas": "N1: ...\nN2: ..."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "9",
+     "tipos de instalación que regula"
+    ],
+    [
+     "3",
+     "partes de la instalación receptora"
+    ],
+    [
+     "24",
+     "definiciones en el artículo tercero"
+    ]
+   ],
+   "notas": "N1: ...\nN2: ..."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 1 · Objeto",
+   "titulo": "¿Qué es el Reglamento de Gas?",
+   "vinetas": [
+    "Fija condiciones técnicas y garantías",
+    "Instalaciones y aparatos de gas",
+    "Fin: seguridad de personas y bienes"
+   ],
+   "img_brief": "instalador revisando caldera de gas mural en cocina",
+   "notas": "N1: pregunta guía...\nN2: explica qué, por qué y cuándo, con ejemplo..."
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Qué me llevo",
+   "mapa": [
+    "Reglamento = tronco; ITC = ramas",
+    "Receptora: de la acometida al aparato",
+    "Artículo tercero = diccionario del oficio"
+   ],
+   "notas": "N1: si te quedas con tres cosas...\nN2: (conclusiones en diálogo, NO en pantalla)..."
+  }
+ ]
+}
