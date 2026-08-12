@@ -22,6 +22,11 @@ Cuando la instalación discurra por el **exterior del edificio, interior de un l
 
 Excepcionalmente, cuando **no se pueda respetar la distancia**, se puede **proteger** la tubería de gas con el material indicado en el **punto 4.3 de la parte 4 de la UNE 60670**.
 
+<figure>
+<img src="imagenes_individuales/fig_p18.jpeg" alt="Tubería de gas con separaciones de 3 cm a conducciones de agua, eléctrica, vapor y chimenea">
+<figcaption>Los 3 cm de la tubería de gas a la conducción de agua, la eléctrica, la de vapor y la chimenea, tanto en curso paralelo como en cruce. Pegar el tubo de gas a un cable o a una tubería de agua caliente es la causa de corrosión y de puntos calientes que acaban en fuga.</figcaption>
+</figure>
+
 > **Nota aclaratoria — el «3 cm para todo».** La chuleta es fácil: **3 cm** de separación de la tubería de gas a **agua, electricidad, vapor, chimeneas y suelo**, tanto en **paralelo** como en **cruce**. La única casilla vacía es **suelo en cruce**, que no aplica (un tubo no «cruza» el suelo). Y si en un sitio no llegas a los 3 cm, no lo dejes pegado: **protege** el tubo según la UNE 60670-4.
 
 ### Lugares prohibidos para el trazado
@@ -35,18 +40,16 @@ Excepcionalmente, cuando **no se pueda respetar la distancia**, se puede **prote
 - Locales que contengan **combustibles líquidos** (excepto depósitos de vehículos a motor).
 - **Bocas de aireación o ventilación.** Si la tubería pasa por el hueco de la ventilación aprovechando el espacio, **envainada es válida** siempre que la **superficie libre** que quede sea la **mínima exigida**.
 
-> **Nota aclaratoria —** La lista de prohibidos tiene una idea común: **no metas gas donde ya hay un riesgo o un camino para el fuego/humo**. Un hueco de ascensor, un bajante de basuras, una chimenea o un cuarto de transformador son sitios donde una fuga se convierte en problema gordo. La única excepción práctica es la **boca de ventilación**: puedes aprovecharla **si el tubo va envainado** y **sigue quedando** la superficie libre que la norma pide para ventilar.
-
-
 <figure>
-<img src="imagenes_individuales/fig_p36.jpeg" alt="Figura de la guia Gas a la primera, pagina 36">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 36</figcaption>
+<img src="imagenes_individuales/fig_p19.jpeg" alt="Cuatro sitios prohibidos con señal de stop: ascensor, chimenea, boca de ventilación y forjado">
+<figcaption>Lugares vetados para el tubo de gas (I): hueco de ascensor, chimenea, boca de ventilación y forjado de vivienda. Son sitios donde una fuga se junta con un camino para el fuego o el humo.</figcaption>
 </figure>
 
+> **Nota aclaratoria —** La lista de prohibidos tiene una idea común: **no metas gas donde ya hay un riesgo o un camino para el fuego/humo**. Un hueco de ascensor, un bajante de basuras, una chimenea o un cuarto de transformador son sitios donde una fuga se convierte en problema gordo. La única excepción práctica es la **boca de ventilación**: puedes aprovecharla **si el tubo va envainado** y **sigue quedando** la superficie libre que la norma pide para ventilar.
 
 <figure>
-<img src="imagenes_individuales/fig_p51.jpeg" alt="Figura de la guia Gas a la primera, pagina 51">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 51</figcaption>
+<img src="imagenes_individuales/fig_p20.jpeg" alt="Cuatro sitios prohibidos con señal de stop: transformadores, depósitos de combustible, forjado y rejilla de ventilación">
+<figcaption>Lugares vetados para el tubo de gas (II): local de transformadores eléctricos, local con combustibles líquidos, forjados y bocas de aireación. Meter gas junto a un transformador o a un depósito de gasóleo es sumar dos riesgos que no deben coincidir.</figcaption>
 </figure>
 
 ## Materiales y accesorios
@@ -88,6 +91,11 @@ Las tuberías y accesorios de las instalaciones receptoras deben ser de **materi
 | Dispositivos de corte Dn < 50 | UNE-EN 331 |
 | Dispositivos de corte 50 < Dn < 100 | UNE 60708 |
 | Polietileno (PE) | UNE-EN 1555-1 |
+
+<figure>
+<img src="imagenes_individuales/fig_p23_infografia.png" alt="Tabla resumen de materiales de tubería y su norma UNE de referencia">
+<figcaption>Cada material con su norma UNE de referencia: cobre, corrugado inoxidable, multicapa, acero, soportes, centralizador, contadores, llaves de corte y polietileno. Montar con un tubo o accesorio no homologado es lo primero que salta en una inspección.</figcaption>
+</figure>
 
 > **Nota aclaratoria — no aprendas la tabla, aprende a buscar.** Nadie te pide recitar quince normas de memoria, pero sí reconocer las de siempre: **cobre → UNE-EN 1057**, **multicapa → UNE 53008**, **corrugado inox hasta 0,5 bar → UNE-EN 15266**, **llaves pequeñas (Dn < 50) → UNE-EN 331**, **centralizador → UNE 60490**, **polietileno → UNE-EN 1555-1**. Fíjate que las citamos **sin año**: así lo manda el Reglamento (el listado con años vive en la ITC-ICG 11).
 
@@ -141,18 +149,6 @@ Los **cambios de dirección** se pueden realizar **en frío**, con máquina adec
 Existen distintos formatos de llave: llave con **limitador de caudal y temperatura incorporado**, llave con **limitador de temperatura incorporado**, **limitador de caudal para cocina/encimera doméstica** que se monta dentro de una llave estándar, y llave con **limitador de caudal incorporado**.
 
 > **Nota aclaratoria — el limitador de la cocina de multicapa.** Grábate estos dos números juntos porque van en pareja en la llave de la cocina de multicapa: **caudal 1,6 m³/h** y **temperatura 96 ºC**. El de temperatura es una seguridad extra: si el multicapa se calienta demasiado (un incendio cercano), corta el gas antes de que el plástico falle. Y el corrugado inox **no pasa de 0,5 bar** y va **roscado**, no lo mandes a más presión.
-
-
-<figure>
-<img src="imagenes_individuales/fig_p37_infografia.png" alt="Figura de la guia Gas a la primera, pagina 37">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 37</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p52.jpeg" alt="Figura de la guia Gas a la primera, pagina 52">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 52</figcaption>
-</figure>
 
 ## Tuberías en vainas o conducto
 
@@ -221,12 +217,6 @@ En los casos marcados con (*) el material debe **asegurar la estanqueidad**.
 
 > **Nota aclaratoria — la vaina de ventilación tiene «dos bocas».** Para que ventile de verdad, la vaina de ventilación debe **respirar por sus dos extremos al exterior**; o, si solo respira por uno, el otro extremo va **sellado al tubo** (así el gas solo puede salir por la boca buena). Y cuidado con el metal: la vaina metálica **no debe tocar** ni estructuras ni otras tuberías, para que no se genere corrosión por contacto.
 
-
-<figure>
-<img src="imagenes_individuales/fig_p39.jpeg" alt="Figura de la guia Gas a la primera, pagina 39">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 39</figcaption>
-</figure>
-
 ## Pruebas de estanqueidad
 
 **Toda instalación** se debe someter a una **prueba de estanqueidad con resultado satisfactorio**. Para **instalaciones nuevas** se aplica la **UNE 60670 parte 8**, **antes de la puesta en servicio**. **No** es necesario realizar la prueba de estanqueidad a los **conjuntos de regulación ni a los contadores**. Los **tiempos** de prueba dependen de la **longitud, volumen y tipo** de instalación.
@@ -239,6 +229,11 @@ En los casos marcados con (*) el material debe **asegurar la estanqueidad**.
 | 0,4 < MOP ≤ 2 | > 3,5 | 30 min | 6 h, con registro de presión y temperatura | 24 h, con registro de presión y temperatura |
 | 0,05 < MOP ≤ 0,4 | > 1 | 30 min (15 min si el tramo < 15 m) | 6 h, con registro de presión y temperatura | 24 h, con registro de presión y temperatura |
 | MOP ≤ 0,05 | > 0,1 | 15 min (10 min si el tramo < 10 m) | 6 h, con registro de presión y temperatura | 24 h, con registro de presión y temperatura |
+
+<figure>
+<img src="imagenes_individuales/fig_p37_infografia.png" alt="Tabla de presiones de prueba y tiempos según la MOP y el caudal">
+<figcaption>Presión de prueba y tiempo según la MOP y el caudal de la instalación, antes de la puesta en servicio (UNE 60670-8). Recortar el tiempo de prueba «porque tenía prisa» es dejar pasar la microfuga que luego huele en la vivienda.</figcaption>
+</figure>
 
 Notas de la tabla:
 
@@ -255,6 +250,11 @@ Notas de la tabla:
 - Se usa **únicamente en instalaciones de Baja Presión**, hasta una **presión máxima de 150 mbar**.
 - Se emplea una **columna de agua en forma de U** con escala de hasta **1500 mm c.d.a.**, o cualquier otro dispositivo con escala adecuada. Si se usan **manómetros de esfera o digitales**, la **unidad de medida será como mínimo el mm.c.a.**
 - **Verificar** que **todas las soldaduras contienen material de aportación** de forma visual, y el **correcto apriete de las uniones roscadas**.
+
+<figure>
+<img src="imagenes_individuales/fig_p39.jpeg" alt="Columna de agua en U y tomas de prueba de débil calibre y tipo peterson">
+<figcaption>Instrumentos de la prueba de estanqueidad: columna de agua en U (baja presión) y las tomas de débil calibre y tipo «peterson» donde se conecta el manómetro. Con la toma o el manómetro equivocados para la presión, la lectura te miente y das por buena una fuga.</figcaption>
+</figure>
 
 ### Toma tipo «peterson»
 
@@ -284,19 +284,13 @@ Se aplica la norma **UNE 60670 parte 5, punto 7.3**.
 
 > **Nota aclaratoria — «material de aportación a la vista».** En cualquier prueba, además de que aguante la presión, se **mira cada soldadura**: tiene que verse el **material de aportación** (que la soldadura «rellenó» de verdad) y las **roscas bien apretadas**. Una unión puede pasar la presión un rato y fallar luego; por eso la inspección visual va **siempre** de la mano de la prueba de estanqueidad.
 
-
-<figure>
-<img src="imagenes_individuales/fig_p47_infografia.png" alt="Figura de la guia Gas a la primera, pagina 47">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 47</figcaption>
-</figure>
-
 ## Ideas clave del vídeo
 
-- Distancia de tubería vista a **agua, electricidad, vapor, chimeneas y suelo: 3 cm** (en paralelo y en cruce; suelo no aplica en cruce). Si no llegas, **protege** según UNE 60670-4.
-- **Prohibido** trazar por ascensores, bajantes de basura, chimeneas, forjados de vivienda, cuartos de transformadores/combustibles líquidos y bocas de ventilación (salvo envainada y con superficie libre suficiente).
-- **Soldadura blanda ≤ 0,05 bar**; **fuerte por encima**, y siempre fuerte en **aparcamientos cerrados** y **cocinas tipo A > 30 kW**.
-- Normas clave: cobre **UNE-EN 1057**, multicapa **UNE 53008**, corrugado inox hasta 0,5 bar **UNE-EN 15266**, llaves Dn < 50 **UNE-EN 331**, centralizador **UNE 60490**, PE **UNE-EN 1555-1** (citadas **sin año**).
-- **Press-fitting** válido interior/exterior **hasta 5 bar**, sustituye a la soldadura fuerte; uniones inox-cobre con **manguito CuNi**; inox de **serie 2**.
-- Multicapa de cocina: **limitador de caudal 1,6 m³/h + limitador de temperatura 96 ºC**; corrugado inox **≤ 0,5 bar** y roscado.
-- **Vainas/conductos:** continuas, sin órganos de maniobra; **protección mecánica** (golpes, garajes, vía pública hasta 1,80 m) frente a **ventilación** (falsos techos, altillos, huecos); **de obra 5 cm / acero 1,5 mm**.
-- **Prueba de estanqueidad (UNE 60670-8)** antes de la puesta en servicio, sin regulación ni contadores: tiempos base **60/30/30/15 min** según presión; tramos largos **6 h o 24 h con registro**; manómetro trabajando entre el **35% y el 75%** de escala.
+- **Los 3 cm de separación evitan una avería que no se ve venir.** Tubería de gas a **agua, electricidad, vapor, chimeneas y suelo: 3 cm** (paralelo y cruce; suelo no aplica en cruce); si no llegas, **protege** según UNE 60670-4. Un tubo de gas pegado a la eléctrica o a una tubería de agua caliente termina en **corrosión, punto caliente y fuga**, justo donde no vas a mirar. Barato de respetar en el montaje, carísimo de reparar después.
+- **La lista de trazados prohibidos es la lista de sitios donde una fuga se convierte en incendio o intoxicación.** Nada de gas por **ascensores, bajantes de basura, chimeneas, forjados de vivienda, locales de transformadores o de combustibles líquidos** ni bocas de ventilación (salvo envainada y con superficie libre suficiente). Colar el tubo por un hueco de estos «porque venía de paso» es motivo de rechazo directo en la puesta en servicio.
+- **Soldadura: la frontera es la presión, y equivocarla se paga con la unión que falla.** **Blanda ≤ 0,05 bar**, **fuerte por encima**, y siempre **fuerte en aparcamientos cerrados y cocinas tipo A > 30 kW**. Una soldadura blanda donde tocaba fuerte aguanta la prueba un rato y luego **cede con la temperatura o la presión** y suelta gas. La fuerte aguanta más y da la garantía que esos escenarios exigen.
+- **Monta solo material homologado y con su norma:** cobre **UNE-EN 1057**, multicapa **UNE 53008**, corrugado inox hasta 0,5 bar **UNE-EN 15266**, llaves Dn < 50 **UNE-EN 331**, centralizador **UNE 60490**, PE **UNE-EN 1555-1** (citadas **sin año**; el listado con años vive en la ITC-ICG 11). Un tubo o accesorio sin homologar te lo tumban en la inspección, aunque «funcione».
+- **Uniones: cada metal con su pareja o aparece la corrosión galvánica.** El **press-fitting** vale interior/exterior **hasta 5 bar** y sustituye a la soldadura fuerte; la unión **inox-cobre** pide **manguito CuNi** e inox de **serie 2**. Unir inox y cobre a pelo, sin el manguito adecuado, es fabricarte una **pila galvánica** que corroe la junta y acaba en fuga con los años.
+- **En la cocina de multicapa, los dos limitadores van en pareja: caudal 1,6 m³/h + temperatura 96 ºC**; el corrugado inox **≤ 0,5 bar y roscado**. El limitador de temperatura es el que **corta el gas antes de que el plástico del multicapa funda** en un conato de incendio: quitarlo o no montarlo es dejar la instalación sin ese seguro.
+- **Vaina no es lo mismo que vaina: distingue proteger de ventilar.** Continuas y sin órganos de maniobra; **protección mecánica** (golpes, garajes, vía pública hasta 1,80 m) frente a **ventilación** (falsos techos, altillos, huecos); **de obra 5 cm / acero 1,5 mm**. Una vaina de ventilación con una sola boca sin sellar al tubo **esconde el gas de una fuga** en vez de sacarlo: parece protegido y es justo lo contrario.
+- **La prueba de estanqueidad es el examen final de tu tubo, y sin ella no hay puesta en servicio.** Se aplica la **UNE 60670-8** a **toda instalación nueva** (sin regulación ni contadores): tiempos base **60/30/30/15 min** según presión, tramos largos **6 h o 24 h con registro**, y el manómetro trabajando **entre el 35% y el 75%** de la escala (fuera de ahí, la aguja miente). Desmonta antes los dispositivos delicados (electroválvulas, filtros) y compruébalos luego a la MOP. El resultado satisfactorio es lo que respalda el **certificado de instalación** que firma la empresa instaladora y se entrega a la distribuidora para dar el gas.

@@ -1,6 +1,6 @@
-# Aparatos de gas · Tipos A, B y C y sus condiciones de instalación
+# UNE 60670-6 · Aparatos de gas: tipos A, B y C y sus condiciones de instalación
 
-<p class="eyebrow">Tema 13 · Vídeo 1 de 3 · UNE 60670 · Parte 6</p>
+<p class="eyebrow">Tema 13 · Vídeo 1 de 3 · UNE 60670-6</p>
 
 **Todo el tema arranca aquí: por el aparato.** La UNE 60670-6 se ocupa de los locales que contienen aparatos de gas, pero antes de hablar de volúmenes, rejillas o chimeneas hay que saber **qué tipo de aparato** tenemos delante, porque el tipo (A, B o C) manda sobre la ventilación del local y sobre cómo se evacúan los humos. En este primer vídeo verás el objeto de la norma, la clasificación de los aparatos y —lo más preguntado— **dónde se puede y dónde no se puede instalar cada tipo**. Domínalo y el resto del tema encaja solo.
 
@@ -68,6 +68,11 @@ Según las características de combustión y de evacuación de los productos de 
     - con dispositivo de seguridad antirrevoco (**BS**),
     - sin dispositivo de seguridad antirrevoco,
   - **de tiro forzado** (llevan ventilador/extractor).
+
+<figure>
+<img src="imagenes_individuales/fig_7006_p011.jpeg" alt="Aparatos de tipo B32 y B33 conectados a conducto vertical">
+<figcaption>Dos subtipos de aparato de tipo B (circuito abierto, evacuación conducida): el B32 toma el aire de combustión del local y evacúa los humos por un conducto vertical; el B33 hace lo mismo pero con la toma de aire y la salida de humos por conductos independientes al mismo conducto vertical. En ambos, el aire de combustión sale del propio local: por eso hay que reponerlo con ventilación.</figcaption>
+</figure>
 
 **Aparatos de circuito estanco:**
 
@@ -155,11 +160,11 @@ Se permite instalar aparatos de tipo C en **zona exterior** y en **cualquier loc
 
 ## Ideas clave del vídeo
 
-- La UNE 60670-6 regula **los locales** con aparatos de gas: **configuración, ventilación y evacuación de humos**. Quedan fuera las **salas de máquinas** y los equipos de la UNE 60601.
-- El **tipo de aparato** (A, B o C) manda sobre la ventilación y la evacuación. **A**: no conducida (humos al local); **B**: conducida (aire del local, humos fuera); **C**: estanco (aire de fuera y humos fuera).
-- **Semisótano:** gas **más denso que el aire, nunca**; gas **menos denso**, solo si la diferencia con la calle **no supera 4 m**.
-- **Más de 70 kW** (calderas + absorción + cogeneración en el mismo local) → **sala de máquinas** (UNE 60601 / RITE).
-- **Tipo A y tipo B: prohibidos en dormitorio, baño, ducha o aseo.** El **acumulador de ACS de tipo A no se instala nunca**.
-- **Loft con cocción de tipo A:** seguridad de llama, potencia **≤ 12 kW** y volumen **≥ 80 m³**.
-- **Tipo B3x:** la excepción que puede ir en cocinas, lavaderos, garajes. En tipo B de tiro natural existente, evitar la interacción con la campana en **≤ 2 min**.
-- **Tipo C:** en cualquier local, incluso dormitorio y baño (cumpliendo el REBT en locales húmedos).
+- **Lo primero en cualquier obra: clasifica el aparato.** A, B o C decide la ventilación del local y cómo se evacúan los humos, así que es el dato del que cuelga todo el tema. **A** suelta los humos al local (cocina, calientaplatos); **B** coge el aire del local y los tira fuera por un tubo (el calentador antiguo «de humos»); **C** es estanco (la caldera de ventosa: aire de fuera, humos fuera). Si clasificas mal el aparato, calculas mal la ventilación y el certificado de instalación queda viciado de origen.
+- **La avería que mata: aparato de tipo A o B donde no toca.** Un calentador (B) o una cocina (A) en un **dormitorio, baño, ducha o aseo** es la causa directa de las **intoxicaciones por CO** que salen cada invierno: el aparato consume el oxígeno del cuarto o revoca los humos justo donde la persona duerme o se encierra con el vapor de la ducha. Regla de hierro: **A y B prohibidos** en esos locales; el único que entra es el **C** (estanco), cumpliendo el REBT de locales húmedos.
+- **Trampa de examen y de obra: el acumulador de ACS de tipo A no se pone jamás.** Aunque sea de poca potencia, un termo de agua caliente de tipo A estaría soltando humos dentro de casa durante horas. Si te lo encuentras montado, es una anomalía: no lo des por bueno ni lo certifiques.
+- **Semisótano: manda cómo pesa el gas.** El **GLP** (butano/propano) es más denso que el aire y se acumula en las zonas bajas: **nunca** aparatos de gas en un semisótano. El **gas natural** (más ligero) sí se admite, pero solo si su suelo está a **≤ 4 m** de la calle. Saltarte esto con GLP es dejar una bolsa de gas invisible esperando una chispa.
+- **La frontera de los 70 kW te cambia hasta el papeleo.** Si la suma de potencias (calderas + absorción + cogeneración en el mismo local) pasa de **70 kW**, ya no es un local normal: es **sala de máquinas**, y ahí mandan la **UNE 60601 y el RITE** (proyecto y tramitación aparte, no el simple certificado de instalación de gas). Por debajo, sigues en la 60670-6. Ese 70 kW te reaparecerá en la ventilación industrial del vídeo 2.
+- **El B3x es tu comodín, pero con memoria.** Es el tipo B «con permiso especial»: puede ir en cocinas, lavaderos o garajes y es la **única excepción** a la prohibición de comunicar con dormitorio/baño. Cuando lo veas, piensa: «el B que sí puede estar en más sitios».
+- **Campana extractora + calentador de tiro natural = revoco de humos.** En una instalación existente con un tipo B de tiro natural, al encender la campana de la cocina esta puede «chupar» los humos del calentador hacia dentro de casa: CO en el salón. Por eso, al poner en servicio hay que impedir automáticamente esa interacción, con un corte que actúe en **≤ 2 min**. Es uno de los diagnósticos de avería más típicos en calentadores viejos.
+- **Los datos que no se te pueden caer:** semisótano **4 m** (solo gas ligero), **70 kW** → sala de máquinas, **loft** con cocción **≤ 12 kW** y volumen **≥ 80 m³**, **< 4,65 kW** para los «otros» aparatos de tipo A admitidos, y la interacción campana–calentador cortada en **≤ 2 min**.

@@ -1,6 +1,6 @@
-# Locales, volúmenes y ventilación de aparatos de tipo A y B
+# UNE 60670-6 · Locales, volúmenes y ventilación de aparatos de tipo A y B
 
-<p class="eyebrow">Tema 13 · Vídeo 2 de 3 · UNE 60670 · Parte 6</p>
+<p class="eyebrow">Tema 13 · Vídeo 2 de 3 · UNE 60670-6</p>
 
 **Aquí están los números que más se preguntan.** Una vez sabes qué tipo de aparato tienes (vídeo 1), toca comprobar que el **local** aguanta: qué volumen mínimo necesita, qué es «ventilación rápida», cuándo un patio sirve de patio de ventilación y cuánta **superficie de rejilla** hace falta y dónde colocarla. Este vídeo va cargado de cifras, tablas y fórmulas: llévatelas memorizadas, porque el examen pregunta valores exactos.
 
@@ -205,10 +205,11 @@ Los locales con aparatos de tipo A o tipo B deben cumplir las condiciones de ubi
 
 ## Ideas clave del vídeo
 
-- **Dos locales cuentan como uno** si comunican en la misma planta con aberturas permanentes **≥ 1,5 m²**. **Zona exterior:** hueco abierto **≥ 1,5 m²** con borde a **≤ 0,50 m del techo**.
-- **Solo el tipo A exige volumen mínimo.** No calefacción → tabla 1 (**8 m³**, o **Q̄ₙ − 8**). Calefacción → **11 · Qₙ, mínimo 15 m³**. Los dos a la vez → se suman.
-- **> 30 kW** de tipo A no calefacción → **extracción mecánica** + corte; te libras si **volumen/consumo > 10**; **nunca menos de 6 m³**. Caudal **q = 10·A + 2·Qₙ**.
-- **Ventilación rápida:** abertura practicable **≥ 0,4 m²** al exterior/patio; indirecta con puerta **≥ 1,2 m²** y aparatos sin seguridad **≤ 30 kW**.
-- **Patio de ventilación:** **≥ 3 m²**, lado menor **≥ 1 m**; para humos de B/C, **0,5 · NT, mínimo 4 m²**.
-- **Dimensionado:** **5 cm²/kW, mínimo 125 cm²**; industrial **> 70 kW** → dos aberturas cruzadas; si hay dos aberturas, ninguna **< 50 cm²**.
-- **Tabla 2:** ventilación **arriba** con gas natural (ligero), **abajo** con GLP (pesado); con mucho tipo A, **dos aberturas** y la **superior siempre directa**.
+- **Lo que calculas aquí es lo que firmas.** Detrás del certificado de instalación de una cocina o un calentador va este cálculo de volumen y de rejilla. Si te quedas corto de volumen o de superficie de ventilación, has certificado un local que **no diluye ni renueva el aire**: mala combustión, condensaciones, hollín en la pared y, en el peor caso, CO. Estas cifras no son para el examen, son las que te evitan una anomalía en la revisión.
+- **Solo el tipo A pide volumen mínimo, porque suelta los humos dentro.** No calefacción → **8 m³** (o **Q̄ₙ − 8** por encima de 16 kW); calefacción → **11 · Qₙ, mínimo 15 m³**; los dos a la vez, se **suman**. Si en el local solo hay B y/o C, olvídate del volumen. Confundir las dos fórmulas (aplicar el ×11 a una cocina) es el error de cálculo más habitual.
+- **La regla de oro de la rejilla: 5 cm²/kW, mínimo 125 cm².** Es el número que más se pregunta y el que más se chapucea en obra. Un local de 20 kW → 20 × 5 = 100, pero manda el mínimo: **125 cm²**. Y ojo con la **superficie libre**: una rejilla no deja pasar el hueco entero de la pared (las lamas tapan), por eso debe llevar **grabada de forma indeleble su superficie libre real**. Poner una rejilla sin marcado, o contar el agujero entero, es dejar el local **infraventilado** sin saberlo.
+- **La avería de la extracción sin reposición de aire.** Por encima de **30 kW** de tipo A no calefacción hace falta **extracción mecánica + corte de gas por fallo del extractor**: electroválvula normalmente cerrada, mandada por un **presostato diferencial o interruptor de flujo** en el conducto de extracción, con **rearme manual** a mano (accesibilidad de grado 1). Te libras solo si **volumen/consumo > 10**, y **nunca** bajas de **6 m³**. Caudal mínimo **q = 10·A + 2·Qₙ**. Si falta ese corte, un extractor parado deja los aparatos quemando sin renovación: es el fallo que llena de CO una cocina industrial.
+- **Coloca la ventilación según pesa el gas (tabla 2).** Gas natural (ligero, sube) → abertura **arriba** (≥ 1,80 m del suelo, ≤ 40 cm del techo). GLP (pesado, baja) → abertura **abajo** (≤ 15 cm del suelo). Con bastante tipo A (> 16 kW), **dos aberturas** (arriba y abajo) y la de **arriba siempre directa**. Ponerla al revés es no evacuar el gas fugado justo por donde se acumula: la fuga se queda dentro.
+- **Ventilación rápida ≠ rejilla de renovación.** La rápida es una **abertura practicable ≥ 0,4 m²** (ventana o puerta al exterior/patio) para desalojar de golpe una fuga o los humos de fuegos abiertos sin seguridad; la indirecta pide **puerta ≥ 1,2 m²** y aparatos sin seguridad **≤ 30 kW**. Si por obra no cabe ventilación rápida, hay que meter **detector de gas con corte automático** (electroválvula de rearme manual).
+- **Patios de ventilación, las cifras que caen.** Patio de verdad: **≥ 3 m²** y lado menor **≥ 1 m**; si va techado, hueco al cielo **≥ 2 m²**. Si por ahí salen humos de aparatos B/C: **0,5 · NT, mínimo 4 m²** (NT = locales que evacúan al patio). Un patio angosto convertido en «cañón» de humos es foco de malos olores y de revocos que acaban en queja de los vecinos.
+- **Obra vieja: puedes rebajar volumen a cambio de más ventilación.** Entre el 75 % y el 100 % del volumen de tabla, **+50 % de rejilla**; entre el 50 % y el 75 %, además **detector de CO** (UNE-EN 50291-1) con corte automático. **Nunca** por debajo de **6 m³**. Es la salida legal cuando el local no da la talla, y conviene dejarla reflejada en la documentación de la instalación.

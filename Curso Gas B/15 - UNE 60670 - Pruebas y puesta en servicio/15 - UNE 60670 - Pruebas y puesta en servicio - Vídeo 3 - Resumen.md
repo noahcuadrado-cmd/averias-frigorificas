@@ -1,6 +1,6 @@
-# Puesta en marcha de aparatos y cambio de familia de gas
+# UNE 60670-10 · Puesta en marcha de aparatos y cambio de familia de gas
 
-<p class="eyebrow">Tema 15 · Vídeo 3 de 3 · UNE 60670 · Parte 10</p>
+<p class="eyebrow">Tema 15 · Vídeo 3 de 3 · UNE 60670-10</p>
 
 **Con la instalación en servicio, el último paso es arrancar los aparatos con seguridad.** La UNE 60670-10 dice qué comprobar en la **puesta en marcha** de cada tipo de aparato (A, B y C) y también cuando se **adecúa un aparato por cambio de familia de gas**. Aquí están los valores que más se preguntan: el CO en humos, el CO-ambiente, el CO₂-ambiente, el tiro, y los requisitos de los equipos de medida. Cierran el tema dos anexos normativos con el procedimiento exacto de medición. Es denso: ve fijando cada límite numérico.
 
@@ -142,7 +142,19 @@ Durante los **dos minutos de estabilización** y el tiempo de medida de las conc
 **a) Toma de muestras**
 
 - **a1) Aparatos con conducto de evacuación de los PdC.** Para aparatos con potencia nominal **inferior o igual a 70 kW**, el conjunto del aparato o su sistema de evacuación debe disponer de **toma de muestras accesible** para el análisis. Si no dispone, se debe instalar un sistema de evacuación con toma de muestras **certificado** según la clasificación del aparato de la Norma UNE-EN 1749. La **sonda se introduce perpendicularmente** al conducto de evacuación de manera que, en lo posible, su extremo quede en el **eje de la vena de los PdC** (véase la figura A.1). Una vez efectuada la medición, debe **obturarse el orificio** de toma de muestras con un taponamiento que **garantice la estanquidad en el tiempo**, resistente a la temperatura de humos y a los PdC, y que pueda **desmontarse y montarse** cuantas veces sea necesario manteniendo la estanquidad.
+
+<figure>
+<img src="imagenes_individuales/fig_7010_p013.png" alt="Sonda introducida por el orificio del tubo de evacuación de una caldera de tipo B con cortatiros">
+<figcaption>Figura A.1 — Toma de muestras en un aparato de tipo B con cortatiros: la sonda entra perpendicular por un orificio de Ø ≥ 11 mm practicado sobre la base del tubo de evacuación, con el extremo situado en el eje de la vena de los productos de la combustión.</figcaption>
+</figure>
+
 - **a2) Vitrocerámicas de fuegos cubiertos.** Se debe realizar la medida en **cada uno de los fuegos a la máxima potencia**. Cuando un quemador esté formado por **varias coronas**, cada una alimentada por un inyector diferente, la medida a máxima potencia debe realizarse por cada una de ellas **de forma individual y conjunta**. Para tomar las medidas se coloca la sonda **apoyándola horizontalmente sobre la rejilla** que une los conductos de salida de los PdC, procurando que el punto de colocación sea aproximadamente el **medio de la zona de esa rejilla** que esté en el camino de salida de dichos conductos internos (véase la figura A.2).
+
+<figure>
+<img src="imagenes_individuales/fig_7010_p014.png" alt="Dos sondas apoyadas sobre la rejilla de evacuación de una vitrocerámica de fuegos cubiertos">
+<figcaption>Figura A.2 — Toma de muestras en una vitrocerámica de fuegos cubiertos: la sonda se apoya horizontalmente sobre la rejilla de evacuación de los productos de la combustión, en el punto medio de la zona de salida de cada fuego.</figcaption>
+</figure>
+
 - **a3) Generadores de aire caliente según la Norma UNE-EN 525.** La toma de muestras se hace en el **punto preparado a tal efecto**; si no existe, se toma en **cualquiera de las bocas de impulsión**. La **sonda se introduce perpendicularmente** al conducto de impulsión de manera que, en lo posible, su extremo quede en el **eje de la vena de los PdC**.
 
 **b) Obtención de los valores de la medida**
@@ -150,11 +162,6 @@ Durante los **dos minutos de estabilización** y el tiempo de medida de las conc
 La sonda se debe dejar en la posición de medida **al menos dos minutos**. Entonces el valor de CO puede oscilar muy poco o ser razonablemente estable, en cuyo caso se **anota o registra** ese valor; o el valor de CO puede estar permanentemente oscilando (aparatos en condiciones menos óptimas), en cuyo caso se **observan los valores alcanzados durante un minuto**, registrando el valor **lo más cercano posible al máximo observado**.
 
 Por otra parte, salvo en los generadores de aire caliente según la Norma UNE-EN 525, se debe medir también el valor simultáneo de **O₂ o CO₂**, ya que da una apreciación de la bondad de la medida: siempre que el **O₂ sea superior al 10 %**, o el **CO₂ calculado sea inferior al 6 %** (excepto en calderas de condensación, cuyos valores deben ajustarse a las indicaciones del fabricante), medidos en la **parte superior del cortatiros** (en aparatos de tipo B), se debe verificar que esto no se deba a una **mala colocación de la sonda**, en cuyo caso se **repite la medida**.
-
-Figuras del anexo A (referencias de la norma):
-
-- **Figura A.1** — Toma de muestras en aparatos de tipo B con cortatiros, con orificio existente o practicado en el tubo de evacuación (posición del extremo de la sonda en el eje de la vena de los PdC).
-- **Figura A.2** — Toma de productos de la combustión en vitrocerámicas de fuegos cubiertos.
 
 > **Nota aclaratoria — por qué O₂ alto o CO₂ bajo cantan «medida mala».** Si el analizador ve **mucho oxígeno (> 10 %)** o **poco CO₂ (< 6 %)**, casi siempre es que la sonda ha cogido **aire de fuera** (mal colocada, entrando por el cortatiros): estás midiendo humo «aguado» con aire, no la combustión real. La norma te obliga a **sospechar y repetir**. Las calderas de condensación son la excepción: se guían por lo que diga el fabricante.
 
@@ -184,12 +191,11 @@ La sonda se debe dejar en cada posición de medida **al menos cinco minutos**. E
 
 ## Ideas clave del vídeo
 
-- Antes de arrancar: el aparato debe ser **adecuado al gas**, llevar su **marcado**, y la puesta en marcha termina con **certificado de puesta en marcha** (RD 919/2006, ITC ICG 01 a 11).
-- La tabla 1 fija las comprobaciones mínimas por tipo (A/B/C, UNE-EN 1749). **Montaje** y **estanquidad de la conexión** se hacen a **todos**; el resto depende del tipo. Si algo falla → **llave cerrada, bloqueada y precintada**.
-- **Análisis de la combustión**: CO corregido no diluido; no se arranca si es **superior a 500 ppm**.
-- **CO-ambiente**: a los **5 min**, sonda a **1 m** de los aparatos y **1,80 m** de altura; no se arranca si alcanza **15 ppm**.
-- **Tiro (tipo B de tiro natural)**: no debe haber **revoco**; prueba con **extractor al máximo y puertas/ventanas cerradas**. Por gases: **CO₂-ambiente 2 500 ppm** o **CO-ambiente 15 ppm** paran la puesta en marcha.
-- **Cambio de familia de gas**: repetir comprobaciones **4.2 a 4.5** y aplicar la **UNE 60670-11**.
-- **Equipos de medida**: calibración **≤ 18 meses**, registro **5 años**, incertidumbre **≤ ± 5 %**, con **botellas patrón** identificadas.
-- **Anexo A**: régimen estacionario a máxima potencia, **2 min** de estabilización, toma ≤ **70 kW**; **O₂ > 10 %** o **CO₂ < 6 %** indican mala colocación → repetir.
-- **Anexo B** (radiantes tipo A): **15 min** de calentamiento, sonda a **1,80 m**, un punto cada **25 m²**, **5 min** por posición.
+- **Qué te llevas y para qué sirve.** La Parte 10 es encender los aparatos y **certificar que queman bien sin envenenar el aire**. Aquí se concentran las averías más peligrosas del oficio (CO, revoco, mala combustión) y los números que las delatan. Antes de nada: el aparato debe ser **adecuado al gas** que le llega y llevar su **marcado**; al terminar, **certificado de puesta en marcha** (el tercer certificado del tema; RD 919/2006 e ITC ICG 01 a 11).
+- **Dos comprobaciones a todos, y la consecuencia si algo falla.** Sea A, B o C: **correcto montaje** y **estanquidad de la conexión**, siempre. El resto depende del tipo (UNE-EN 1749). Y la regla de oro: si **cualquier** comprobación sale mal, la **llave del aparato queda cerrada, bloqueada y precintada** y **no se pone en marcha**. Arrancar «para que el cliente tenga agua caliente» un aparato que no pasa es firmar una intoxicación.
+- **CO en humos: 500 ppm es la frontera.** Se mide el **CO corregido no diluido** en los productos de la combustión (anexo A); por encima de **500 ppm** el aparato **no arranca**. Un CO alto es llama mal aireada: verás **llama amarilla, tiznado y ennegrecido** en la campana o la pared. «Corregido no diluido» evita que el aire colado te «rebaje» la lectura y te haga aprobar un aparato peligroso.
+- **CO-ambiente: 15 ppm, y la sonda donde respira la gente.** Es el CO que hay en el **aire del local**, no en el humo. Todos los aparatos a la vez a máxima potencia y, a los **5 minutos**, se mide con la sonda **a 1 m de los aparatos y 1,80 m de altura**. Si alcanza **15 ppm**, ese aparato **no se pone en marcha**. Es el número que separa una cocina segura de una intoxicación lenta en un piso mal ventilado.
+- **Tiro y revoco: el humo que vuelve al salón.** En **tipo B de tiro natural** se comprueba que el tiro es suficiente y que **no hay revoco** (humos que rebotan al local). Se prueba en el peor escenario: **extractor al máximo y puertas y ventanas cerradas**, porque la campana «roba» aire y provoca revoco. Por gases, paran la puesta en marcha **CO₂-ambiente 2 500 ppm** o **CO-ambiente 15 ppm**. Si hay revoco, no se arranca hasta resolverlo: es la causa clásica de intoxicaciones en calentadores atmosféricos.
+- **Cambio de familia = volver a comprobar.** Pasar un aparato de gas natural (2.ª familia) a propano (3.ª) es cambiar inyectores y reglaje; si no repites las comprobaciones **4.2 a 4.5** y aplicas la **UNE 60670-11**, te queda un aparato que **se apaga, hace mala combustión o suelta CO**. Adecuar sin volver a medir no vale.
+- **Equipos de medida: sin calibración, tus medidas no valen nada.** Calibración **cada 18 meses** como máximo, **registro documental 5 años**, incertidumbre **≤ ± 5 %**, con las **botellas patrón** identificadas en el certificado. Un analizador descalibrado te hace aprobar un aparato con CO o rechazar uno bueno; el certificado de calibración es tu respaldo si hay un incidente.
+- **Los anexos, en cristiano.** Anexo A (humos: tipo B/C, vitrocerámicas y generadores): régimen estacionario a máxima potencia, **2 min** de estabilización, toma de muestras en aparatos **≤ 70 kW**; si ves **O₂ > 10 %** o **CO₂ < 6 %**, la sonda ha cogido aire de fuera → **repite la medida**. Anexo B (radiantes tipo A de naves y talleres): **15 min** de calentamiento, sonda a **1,80 m**, un punto **cada 25 m²**, **5 min** por posición.

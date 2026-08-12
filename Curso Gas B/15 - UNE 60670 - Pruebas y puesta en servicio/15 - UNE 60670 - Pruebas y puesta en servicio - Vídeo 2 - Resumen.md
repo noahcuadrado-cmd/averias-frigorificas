@@ -1,6 +1,6 @@
-# Pruebas previas al suministro y puesta en servicio
+# UNE 60670-9 · Pruebas previas al suministro y puesta en servicio
 
-<p class="eyebrow">Tema 15 · Vídeo 2 de 3 · UNE 60670 · Parte 9</p>
+<p class="eyebrow">Tema 15 · Vídeo 2 de 3 · UNE 60670-9</p>
 
 **Una vez la tubería ha pasado la prueba de estanquidad, toca darle gas.** La UNE 60670-9 ordena los dos pasos que faltan: las **pruebas previas** (comprobaciones antes de meter gas) y la **puesta en servicio** (la maniobra de abrir, purgar y dejar la instalación funcionando). Aquí verás quién hace cada cosa, qué se comprueba, cómo se precintan las llaves que no van a servicio y por qué el **purgado** es el momento más delicado. Es un vídeo corto pero muy preguntado: cada guion de la lista puede ser una pregunta.
 
@@ -60,9 +60,10 @@ En el caso de una instalación receptora suministrada desde **depósitos fijos d
 
 ## Ideas clave del vídeo
 
-- La Parte 9 encadena dos pasos tras la prueba de estanquidad: **pruebas previas** y **puesta en servicio**, que realiza el **agente responsable**.
-- **Pruebas previas** (solo partes **visibles y accesibles**): documentación completa, cumplimiento de la norma, locales y salidas de humos de los aparatos, maniobrabilidad de válvulas y, si hay estación de regulación, correcto funcionamiento de regulación y de dispositivos de seguridad.
-- **Puesta en servicio** (con pruebas previas favorables): precintar equipos de medida; dejar **cerradas, bloqueadas y precintadas** las llaves de usuario y de conexión que no van a servicio, y **taponarlas** si están pendientes de instalación.
-- Se **abre la llave de acometida** y se **purga** (acometida interior, instalación común e individuales que van a servicio), acabando **fuera de los límites de inflamabilidad**.
-- Se **verifica la estanquidad a la presión de operación**, se **deja en servicio** si todo es favorable y se **extiende el certificado** de pruebas previas y puesta en servicio, con **copia al titular o usuario**.
-- En **GLP desde depósitos fijos**, la puesta en servicio se hace **tras el primer llenado**.
+- **Qué te llevas y para qué sirve.** La Parte 9 es el guion para **dar gas sin dejarte nada**: primero las pruebas previas (repaso con los ojos y las manos) y luego la puesta en servicio (precintar, purgar, verificar y certificar). Es lo que convierte una tubería probada en una instalación **legalmente en servicio**.
+- **Pruebas previas: solo lo visible y accesible.** Documentación completa, cumplimiento de la norma en lo que se ve, locales y **salidas de humos** de los aparatos, **maniobrabilidad de las válvulas** y —si hay estación de regulación— que **regula y protege** bien. Nadie pica pared para ver tubo empotrado; por eso el diseño y la ejecución previos tienen que estar bien hechos, porque aquí ya no se revisan.
+- **El purgado es el momento más peligroso de todo el tema.** Expulsar el aire con gas (o al revés) crea un punto intermedio donde conviven aire y gas: **mezcla explosiva**. Un purgado hecho hacia un local cerrado, con una llama o un interruptor cerca, es una deflagración. Se purga a **punto seguro (exterior)**, con detector, sin chispas ni llamas, hasta que sale **gas puro** y queda **fuera de los límites de inflamabilidad**.
+- **Cerrada, bloqueada, precintada… y taponada cuando no hay nada detrás.** Las llaves que no van a servicio se dejan **cerradas, bloqueadas y precintadas** (el precinto delata si alguien las toca). Si además la llave **da a la nada** (vivienda o aparato pendiente de instalar), se **tapona**: así, aunque fuercen el precinto, **no sale gas al aire**. Saltarse el tapón es dejar una fuga programada en un montante.
+- **La estanquidad final, ya con gas y a presión de operación.** No confundas las dos estanquidades: la de la Parte 8 era con aire a presión de prueba; esta se verifica **con gas real a la presión de trabajo**. Es la última red de seguridad antes de dejar en servicio: aquí aparece la unión que sellaba en seco pero **rezuma con gas**.
+- **El papel que cierra la faena.** La puesta en servicio termina con el **certificado de pruebas previas y puesta en servicio**, y hay que **entregar copia al titular o usuario**. Sin ese documento la instalación **no está en servicio**, hagas lo que hagas en obra. Lo ejecuta y firma el **agente responsable** que marque la legislación (en la práctica, la empresa instaladora habilitada o la distribuidora según el reparto del RD 919/2006). Es el **segundo certificado** del tema: estanquidad → pruebas previas y puesta en servicio → puesta en marcha de aparatos.
+- **GLP de depósito fijo: primero llenar.** En chalé o urbanización sin red, no hay puesta en servicio con el depósito vacío: se hace **tras el primer llenado**. Sin producto no hay gas con el que purgar ni presión de operación que verificar.

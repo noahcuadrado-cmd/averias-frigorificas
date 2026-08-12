@@ -10,18 +10,6 @@
 - **Vídeo 2 — Tuberías, materiales, vainas y pruebas de estanqueidad:** trazado, distancias, materiales y normas UNE, uniones, vainas/conductos y la prueba de estanqueidad.
 - **Vídeo 3 — Ventilación, evacuación de humos y certificados:** ventilaciones, volumen mínimo, patios, RITE (evacuación de productos de la combustión) y certificados de instalación.
 
-
-<figure>
-<img src="imagenes_individuales/fig_p01.jpeg" alt="Figura de la guia Gas a la primera, pagina 1">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 1</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p47_infografia.png" alt="Figura de la guia Gas a la primera, pagina 47">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 47</figcaption>
-</figure>
-
 ## Contadores centralizados
 
 En edificios de **nueva construcción es obligatorio centralizar los contadores de gas**. Esta parte de la normativa establece las condiciones generales que deben cumplir los recintos destinados a la ubicación de contadores.
@@ -32,6 +20,11 @@ En edificios de **nueva construcción es obligatorio centralizar los contadores 
 - Los recintos deben estar **reservados exclusivamente** para instalaciones de gas.
 - El **totalizador** del contador estará situado a una **altura inferior a 2 m** respecto al suelo. En caso de **módulos prefabricados (UNE 60490)** la altura puede ser de hasta **2,40 m**, siempre y cuando se habilite el recinto con una escalera o útil similar que facilite al técnico la lectura y el mantenimiento.
 
+<figure>
+<img src="imagenes_individuales/fig_p07.jpeg" alt="Recinto de contadores de gas con zona marcada como prohibida para almacenar">
+<figcaption>El recinto de centralización es solo para gas: prohibido usarlo como almacén o trastero. Guardar cajas o bombonas de otros usos junto a los contadores es una anomalía típica que sale en la inspección.</figcaption>
+</figure>
+
 > **Nota aclaratoria —** Lo de «no por debajo del primer sótano» tiene una lógica física sencilla: el gas natural es **más ligero que el aire**, así que si hubiera una fuga tiende a **subir**, no a acumularse en un pozo. Cuanto más abajo metes el gas, más difícil es ventilarlo hacia arriba. Regla mental para toda la ITC: **gas ligero, cuanto más alto mejor; nunca en un agujero profundo**.
 
 > **Nota aclaratoria —** El «totalizador» es la parte del contador donde se **lee el consumo**. Por eso la altura importa: si lo pones a más de 2 m (o 2,40 m en prefabricados) sin escalera, el que va a leer no llega. Piénsalo como el cuadro de luz: tiene que estar **a la vista y a mano**, no encaramado en el techo.
@@ -39,6 +32,11 @@ En edificios de **nueva construcción es obligatorio centralizar los contadores 
 ### Dimensiones y ventilaciones del recinto (UNE 60490)
 
 Las **dimensiones aproximadas de la batería de contadores** se toman de la norma **UNE 60490**. Las **secciones de ventilación** dependen del tipo de recinto y del número de contadores (N):
+
+<figure>
+<img src="imagenes_individuales/fig_p03.jpeg" alt="Cotas de una batería de contadores en local y en armario">
+<figcaption>Dimensiones orientativas de la batería de contadores (UNE 60490): separaciones entre filas (470 mm), altura del totalizador y anchos de módulo en local y en armario. Con estas cotas dimensionas el hueco y evitas la batería que «no cabe» al montar.</figcaption>
+</figure>
 
 | Ventilación | Local técnico | Armario exterior | Armario interior | Conducto técnico | Cuarto de contadores (N≤2) | Cuarto de contadores (N>2) |
 |---|---|---|---|---|---|---|
@@ -51,6 +49,11 @@ Las **dimensiones aproximadas de la batería de contadores** se toman de la norm
 
 - **Por conducto con L > 3**, la sección se incrementará en un **50%**.
 - Si están en un **primer sótano**, la **puerta** del local o armario debe ser **estanca** y la sección **S** debe **incrementarse en un 50%** (antes era el 10%).
+
+<figure>
+<img src="imagenes_individuales/fig_p04_infografia.png" alt="Tabla de secciones de ventilación de la batería de contadores según el recinto">
+<figcaption>Secciones de ventilación (UNE 60490) según recinto y número de contadores: la ventilación indirecta solo se admite en el conducto técnico. Quedarse corto de sección es lo que provoca que el gas de una fuga no se airee y se acumule en el recinto.</figcaption>
+</figure>
 
 > **Nota aclaratoria —** No te agobies memorizando la tabla celda a celda; quédate con la lógica: los **armarios** (cerrados y pequeños) piden **secciones pequeñas** (5-50 cm²) y **no admiten ventilación indirecta**; los **locales y cuartos** (más grandes) piden **200 cm² arriba y abajo**; y el **conducto técnico** sí admite indirecta. Y dos «recargos» de +50%: **conducto largo (L > 3)** y **primer sótano** (además con puerta estanca).
 
@@ -87,21 +90,14 @@ Los **conjuntos de regulación** deben tener **grado de accesibilidad 2** y **se
 
 > **Nota aclaratoria — la puerta que se abre hacia fuera y sin llave desde dentro.** Es puro sentido común de seguridad: si alguien está dentro y hay una fuga o un susto, tiene que poder **salir de un empujón**, sin buscar la llave. Que la puerta abra **hacia fuera** ayuda además a que la presión de una deflagración no la selle. Junta esto con la **toma de corriente** y el **cartel «Contadores de gas»**: son los tres detalles del recinto que más se preguntan.
 
-
-<figure>
-<img src="imagenes_individuales/fig_p03.jpeg" alt="Figura de la guia Gas a la primera, pagina 3">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 3</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p51.jpeg" alt="Figura de la guia Gas a la primera, pagina 51">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 51</figcaption>
-</figure>
-
 ## Contadores en vivienda
 
 Si en **edificios ya construidos** la instalación de contadores **no se puede centralizar**, los contadores se pueden instalar en el **interior de las viviendas** o locales privados a los que suministran.
+
+<figure>
+<img src="imagenes_individuales/fig_p15.jpeg" alt="Comparativa de contadores en edificio nuevo centralizado y en edificio ya construido">
+<figcaption>Nueva edificación con contadores centralizados frente a edificio ya construido con contador en cada vivienda (marcados con A). Cuándo se centraliza y cuándo se va a vivienda depende de si el edificio es nuevo o existente.</figcaption>
+</figure>
 
 - El contador se colocará **lo más cerca posible del punto de entrada** a la vivienda, preferiblemente en **galería abierta, cocina o local** donde se instalen los aparatos a gas.
 - La **altura del totalizador** no sobrepasará los **1,7 m** respecto al suelo.
@@ -130,16 +126,9 @@ Si en **edificios ya construidos** la instalación de contadores **no se puede c
 - **No** en el **cuarto de baño**.
 - **No** en el **cuarto de ducha**.
 
-
 <figure>
-<img src="imagenes_individuales/fig_p04_infografia.png" alt="Figura de la guia Gas a la primera, pagina 4">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 4</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p52.jpeg" alt="Figura de la guia Gas a la primera, pagina 52">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 52</figcaption>
+<img src="imagenes_individuales/fig_p12.jpeg" alt="Cuatro estancias marcadas con señal de stop: baño, ducha, dormitorio y aseo">
+<figcaption>Estancias vetadas para el contador: cuarto de baño, cuarto de ducha, dormitorio y W.C. Son locales donde no hay ventilación garantizada y donde una fuga con la puerta cerrada acaba en intoxicación.</figcaption>
 </figure>
 
 ## Accesibilidad de los dispositivos
@@ -156,6 +145,11 @@ Grado 2
 
 Grado 3
 : Acceso **con escaleras** o medios mecánicos, o **pasando por zona privada**.
+
+<figure>
+<img src="imagenes_individuales/fig_p14.jpeg" alt="Tres siluetas accediendo a una llave: grado 1, grado 2 con armario y grado 3 en altura">
+<figcaption>Los tres grados de accesibilidad: grado 1 (llave a mano, sin cerradura), grado 2 (tras armario o cerradura normalizada) y grado 3 (hay que usar escalera o pasar por zona privada). El grado marca quién puede llegar a cortar el gas y con qué medios.</figcaption>
+</figure>
 
 > **Nota aclaratoria — la escalera de tres peldaños.** Memoriza los grados por lo que te **estorba** para llegar: **Grado 1**, llegas andando y sin llave (lo más fácil); **Grado 2**, hay una **cerradura normalizada** de por medio pero sigues sin escalera; **Grado 3**, necesitas **escalera/medios** o cruzar una **zona privada** (lo más difícil). Cuanto mayor el número, más «barreras». Con esto colocas cualquier llave de las tablas.
 
@@ -186,21 +180,14 @@ Grado 3
 | Llave de aparato | Grado 1 (para el usuario) | Vivienda |
 | Llave de regulador | Grado 1 ó 2 (para el usuario) | Vivienda |
 
+<figure>
+<img src="imagenes_individuales/fig_p16_infografia.png" alt="Tablas de accesibilidad de dispositivos en instalación comunitaria e individual">
+<figcaption>Grado exigido y zona de acceso de cada llave, separando la instalación receptora comunitaria (IRC) de la individual (IRI). Todo lo que toca la distribuidora vive en zona común (grado 2 o 3); lo del usuario, dentro de la vivienda (grado 1).</figcaption>
+</figure>
+
 > **Nota aclaratoria — «zona común» vs «dentro de casa».** Fíjate en el patrón: todo lo que la **distribuidora** necesita tocar (acometida, edificio, montante, contadores, regulación, usuario) vive en **zona comunitaria o pública** y pide **grado 2 o 3**. Todo lo que maneja el **usuario dentro de su vivienda** (llave de vivienda, de aparato, de regulador) es **grado 1**, a mano y sin llave. Si te preguntan por una llave, primero decide **quién la usa y dónde está**, y el grado casi se contesta solo.
 
 > **Nota aclaratoria — el obturador de cierre.** Es un tapón de seguridad que la **distribuidora** puede exigir para dejar sin gas una vivienda de forma controlada. Ojo al detalle de examen: **si montas contadores de funciones añadidas (telemedida/telecorte), NO se monta el obturador**, porque el propio contador ya hace esa función. Y su accesibilidad es **grado 3** y solo para la empresa distribuidora.
-
-
-<figure>
-<img src="imagenes_individuales/fig_p07.jpeg" alt="Figura de la guia Gas a la primera, pagina 7">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 7</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p62_infografia.png" alt="Figura de la guia Gas a la primera, pagina 62">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 62</figcaption>
-</figure>
 
 ## Trazado de tuberías
 
@@ -220,6 +207,11 @@ Cuando la instalación discurra por el **exterior del edificio, interior de un l
 
 Excepcionalmente, cuando **no se pueda respetar la distancia**, se puede **proteger** la tubería de gas con el material indicado en el **punto 4.3 de la parte 4 de la UNE 60670**.
 
+<figure>
+<img src="imagenes_individuales/fig_p18.jpeg" alt="Tubería de gas con separaciones de 3 cm a conducciones de agua, eléctrica, vapor y chimenea">
+<figcaption>Los 3 cm de la tubería de gas a la conducción de agua, la eléctrica, la de vapor y la chimenea, tanto en curso paralelo como en cruce. Pegar el tubo de gas a un cable o a una tubería de agua caliente es la causa de corrosión y de puntos calientes que acaban en fuga.</figcaption>
+</figure>
+
 > **Nota aclaratoria — el «3 cm para todo».** La chuleta es fácil: **3 cm** de separación de la tubería de gas a **agua, electricidad, vapor, chimeneas y suelo**, tanto en **paralelo** como en **cruce**. La única casilla vacía es **suelo en cruce**, que no aplica (un tubo no «cruza» el suelo). Y si en un sitio no llegas a los 3 cm, no lo dejes pegado: **protege** el tubo según la UNE 60670-4.
 
 ### Lugares prohibidos para el trazado
@@ -233,18 +225,16 @@ Excepcionalmente, cuando **no se pueda respetar la distancia**, se puede **prote
 - Locales que contengan **combustibles líquidos** (excepto depósitos de vehículos a motor).
 - **Bocas de aireación o ventilación.** Si la tubería pasa por el hueco de la ventilación aprovechando el espacio, **envainada es válida** siempre que la **superficie libre** que quede sea la **mínima exigida**.
 
-> **Nota aclaratoria —** La lista de prohibidos tiene una idea común: **no metas gas donde ya hay un riesgo o un camino para el fuego/humo**. Un hueco de ascensor, un bajante de basuras, una chimenea o un cuarto de transformador son sitios donde una fuga se convierte en problema gordo. La única excepción práctica es la **boca de ventilación**: puedes aprovecharla **si el tubo va envainado** y **sigue quedando** la superficie libre que la norma pide para ventilar.
-
-
 <figure>
-<img src="imagenes_individuales/fig_p12.jpeg" alt="Figura de la guia Gas a la primera, pagina 12">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 12</figcaption>
+<img src="imagenes_individuales/fig_p19.jpeg" alt="Cuatro sitios prohibidos con señal de stop: ascensor, chimenea, boca de ventilación y forjado">
+<figcaption>Lugares vetados para el tubo de gas (I): hueco de ascensor, chimenea, boca de ventilación y forjado de vivienda. Son sitios donde una fuga se junta con un camino para el fuego o el humo.</figcaption>
 </figure>
 
+> **Nota aclaratoria —** La lista de prohibidos tiene una idea común: **no metas gas donde ya hay un riesgo o un camino para el fuego/humo**. Un hueco de ascensor, un bajante de basuras, una chimenea o un cuarto de transformador son sitios donde una fuga se convierte en problema gordo. La única excepción práctica es la **boca de ventilación**: puedes aprovecharla **si el tubo va envainado** y **sigue quedando** la superficie libre que la norma pide para ventilar.
 
 <figure>
-<img src="imagenes_individuales/fig_p64.jpeg" alt="Figura de la guia Gas a la primera, pagina 64">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 64</figcaption>
+<img src="imagenes_individuales/fig_p20.jpeg" alt="Cuatro sitios prohibidos con señal de stop: transformadores, depósitos de combustible, forjado y rejilla de ventilación">
+<figcaption>Lugares vetados para el tubo de gas (II): local de transformadores eléctricos, local con combustibles líquidos, forjados y bocas de aireación. Meter gas junto a un transformador o a un depósito de gasóleo es sumar dos riesgos que no deben coincidir.</figcaption>
 </figure>
 
 ## Materiales y accesorios
@@ -286,6 +276,11 @@ Las tuberías y accesorios de las instalaciones receptoras deben ser de **materi
 | Dispositivos de corte Dn < 50 | UNE-EN 331 |
 | Dispositivos de corte 50 < Dn < 100 | UNE 60708 |
 | Polietileno (PE) | UNE-EN 1555-1 |
+
+<figure>
+<img src="imagenes_individuales/fig_p23_infografia.png" alt="Tabla resumen de materiales de tubería y su norma UNE de referencia">
+<figcaption>Cada material con su norma UNE de referencia: cobre, corrugado inoxidable, multicapa, acero, soportes, centralizador, contadores, llaves de corte y polietileno. Montar con un tubo o accesorio no homologado es lo primero que salta en una inspección.</figcaption>
+</figure>
 
 > **Nota aclaratoria — no aprendas la tabla, aprende a buscar.** Nadie te pide recitar quince normas de memoria, pero sí reconocer las de siempre: **cobre → UNE-EN 1057**, **multicapa → UNE 53008**, **corrugado inox hasta 0,5 bar → UNE-EN 15266**, **llaves pequeñas (Dn < 50) → UNE-EN 331**, **centralizador → UNE 60490**, **polietileno → UNE-EN 1555-1**. Fíjate que las citamos **sin año**: así lo manda el Reglamento (el listado con años vive en la ITC-ICG 11).
 
@@ -339,18 +334,6 @@ Los **cambios de dirección** se pueden realizar **en frío**, con máquina adec
 Existen distintos formatos de llave: llave con **limitador de caudal y temperatura incorporado**, llave con **limitador de temperatura incorporado**, **limitador de caudal para cocina/encimera doméstica** que se monta dentro de una llave estándar, y llave con **limitador de caudal incorporado**.
 
 > **Nota aclaratoria — el limitador de la cocina de multicapa.** Grábate estos dos números juntos porque van en pareja en la llave de la cocina de multicapa: **caudal 1,6 m³/h** y **temperatura 96 ºC**. El de temperatura es una seguridad extra: si el multicapa se calienta demasiado (un incendio cercano), corta el gas antes de que el plástico falle. Y el corrugado inox **no pasa de 0,5 bar** y va **roscado**, no lo mandes a más presión.
-
-
-<figure>
-<img src="imagenes_individuales/fig_p14.jpeg" alt="Figura de la guia Gas a la primera, pagina 14">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 14</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p65.jpeg" alt="Figura de la guia Gas a la primera, pagina 65">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 65</figcaption>
-</figure>
 
 ## Tuberías en vainas o conducto
 
@@ -419,18 +402,6 @@ En los casos marcados con (*) el material debe **asegurar la estanqueidad**.
 
 > **Nota aclaratoria — la vaina de ventilación tiene «dos bocas».** Para que ventile de verdad, la vaina de ventilación debe **respirar por sus dos extremos al exterior**; o, si solo respira por uno, el otro extremo va **sellado al tubo** (así el gas solo puede salir por la boca buena). Y cuidado con el metal: la vaina metálica **no debe tocar** ni estructuras ni otras tuberías, para que no se genere corrosión por contacto.
 
-
-<figure>
-<img src="imagenes_individuales/fig_p15.jpeg" alt="Figura de la guia Gas a la primera, pagina 15">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 15</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p67.jpeg" alt="Figura de la guia Gas a la primera, pagina 67">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 67</figcaption>
-</figure>
-
 ## Pruebas de estanqueidad
 
 **Toda instalación** se debe someter a una **prueba de estanqueidad con resultado satisfactorio**. Para **instalaciones nuevas** se aplica la **UNE 60670 parte 8**, **antes de la puesta en servicio**. **No** es necesario realizar la prueba de estanqueidad a los **conjuntos de regulación ni a los contadores**. Los **tiempos** de prueba dependen de la **longitud, volumen y tipo** de instalación.
@@ -443,6 +414,11 @@ En los casos marcados con (*) el material debe **asegurar la estanqueidad**.
 | 0,4 < MOP ≤ 2 | > 3,5 | 30 min | 6 h, con registro de presión y temperatura | 24 h, con registro de presión y temperatura |
 | 0,05 < MOP ≤ 0,4 | > 1 | 30 min (15 min si el tramo < 15 m) | 6 h, con registro de presión y temperatura | 24 h, con registro de presión y temperatura |
 | MOP ≤ 0,05 | > 0,1 | 15 min (10 min si el tramo < 10 m) | 6 h, con registro de presión y temperatura | 24 h, con registro de presión y temperatura |
+
+<figure>
+<img src="imagenes_individuales/fig_p37_infografia.png" alt="Tabla de presiones de prueba y tiempos según la MOP y el caudal">
+<figcaption>Presión de prueba y tiempo según la MOP y el caudal de la instalación, antes de la puesta en servicio (UNE 60670-8). Recortar el tiempo de prueba «porque tenía prisa» es dejar pasar la microfuga que luego huele en la vivienda.</figcaption>
+</figure>
 
 Notas de la tabla:
 
@@ -459,6 +435,11 @@ Notas de la tabla:
 - Se usa **únicamente en instalaciones de Baja Presión**, hasta una **presión máxima de 150 mbar**.
 - Se emplea una **columna de agua en forma de U** con escala de hasta **1500 mm c.d.a.**, o cualquier otro dispositivo con escala adecuada. Si se usan **manómetros de esfera o digitales**, la **unidad de medida será como mínimo el mm.c.a.**
 - **Verificar** que **todas las soldaduras contienen material de aportación** de forma visual, y el **correcto apriete de las uniones roscadas**.
+
+<figure>
+<img src="imagenes_individuales/fig_p39.jpeg" alt="Columna de agua en U y tomas de prueba de débil calibre y tipo peterson">
+<figcaption>Instrumentos de la prueba de estanqueidad: columna de agua en U (baja presión) y las tomas de débil calibre y tipo «peterson» donde se conecta el manómetro. Con la toma o el manómetro equivocados para la presión, la lectura te miente y das por buena una fuga.</figcaption>
+</figure>
 
 ### Toma tipo «peterson»
 
@@ -488,18 +469,6 @@ Se aplica la norma **UNE 60670 parte 5, punto 7.3**.
 
 > **Nota aclaratoria — «material de aportación a la vista».** En cualquier prueba, además de que aguante la presión, se **mira cada soldadura**: tiene que verse el **material de aportación** (que la soldadura «rellenó» de verdad) y las **roscas bien apretadas**. Una unión puede pasar la presión un rato y fallar luego; por eso la inspección visual va **siempre** de la mano de la prueba de estanqueidad.
 
-
-<figure>
-<img src="imagenes_individuales/fig_p16_infografia.png" alt="Figura de la guia Gas a la primera, pagina 16">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 16</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p68.jpeg" alt="Figura de la guia Gas a la primera, pagina 68">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 68</figcaption>
-</figure>
-
 ## Ventilaciones · Generalidades
 
 La norma fija las condiciones que deben cumplir los **locales que contienen aparatos a gas**, cualquiera que sea su **tipología, tecnología y aplicación**. Quedan **fuera del alcance** las **salas de máquinas** cuya **potencia útil nominal** de los aparatos instalados sea **superior a 70 kW**. Cuando sea necesaria la **ventilación rápida**, se verifican las ventilaciones conforme a la **UNE 60670-6, punto 4.3**.
@@ -515,23 +484,16 @@ La norma fija las condiciones que deben cumplir los **locales que contienen apar
 | Local considerado zona exterior | A efectos de normativa, un local (galería, terraza o balcón) se considera **zona exterior** si dispone de una **abertura permanente** a exterior o patio de ventilación, con **superficie libre mínima de 1,5 m²**, y cuyo **borde superior** esté a una distancia **≤ 0,5 m del techo** del local. |
 | Aparatos de circuito abierto tipo A en lofts | Se permiten **solo para cocción** si: el aparato incorpora en sus **quemadores superiores y descubiertos dispositivo de seguridad por extinción o detección de llama**; la **suma de potencias de los tipo A de cocción es ≤ 12 kW**; y el **volumen bruto del loft no es inferior a 80 m³** (descontando los espacios independientes adyacentes). El **contador** también se puede instalar en el loft que cumpla estas condiciones, ya que la norma permite instalar un contador en locales que **no tengan separadas** las dependencias de dormitorios y baños/duchas si su **volumen es superior a 75 m³**. |
 
+<figure>
+<img src="imagenes_individuales/fig_p52.jpeg" alt="Planta de cocina y comedor unidos por una abertura permanente mayor de 1,5 m²">
+<figcaption>Cuándo dos locales cuentan como «local único»: la cocina y el comedor se suman a efectos de volumen y ventilación porque los une una abertura permanente superior a 1,5 m². Tratarlos por separado te lleva a dimensionar mal la ventilación.</figcaption>
+</figure>
+
 > **Nota aclaratoria — dr < 1, la clave de todo el gas natural.** «dr» es la **densidad relativa** respecto al aire: si **dr < 1**, el gas es **más ligero** y flota hacia arriba (gas natural). Por eso lo prohíben **bajo el primer sótano**: abajo no ventila. Y define bien «primer sótano»: **suelo a más de 60 cm por debajo** de la calle en todas sus paredes. Ese **60 cm** es un dato de examen.
 
 > **Nota aclaratoria — nada de gas donde se duerme o se ducha.** Dos prohibiciones que no fallan: **dormitorios, baños, duchas y aseos NO llevan aparatos a gas** (riesgo de intoxicación mientras duermes o te duchas con la puerta cerrada). Y ojo al matiz del tipo B de tiro natural: tampoco en un local cuya **puerta comunique directamente** con esos cuartos. El aire viciado no debe tener camino hacia la cama.
 
 > **Nota aclaratoria — «local único» y «zona exterior», dos comodines de 1,5 m².** Coincide el número pero son cosas distintas: **dos locales son uno solo** si los une una abertura **> 1,5 m²** (a efectos de sumar volúmenes y ventilación); y una galería o terraza cuenta como **exterior** si tiene una abertura **≥ 1,5 m²** con el borde a **≤ 0,5 m del techo**. Cuando veas 1,5 m², pregúntate: ¿me están uniendo locales o sacándome al exterior?
-
-
-<figure>
-<img src="imagenes_individuales/fig_p18.jpeg" alt="Figura de la guia Gas a la primera, pagina 18">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 18</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p69.jpeg" alt="Figura de la guia Gas a la primera, pagina 69">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 69</figcaption>
-</figure>
 
 ## Ventilaciones · Ubicación de las aberturas
 
@@ -545,18 +507,6 @@ Condiciones de ubicación de las **aberturas de ventilación** según el tipo de
 
 > **Nota aclaratoria — la frontera de los 16 kW en tipo A.** Con aparatos tipo A (los que sueltan los humos al propio local, como una cocina), la potencia manda: **hasta 16 kW** basta **una abertura arriba** (≥ 1,80 m del suelo, ≤ 40 cm del techo). **Por encima de 16 kW** necesitas **dos aberturas** (una abajo ≤ 50 cm y otra arriba), y la de arriba **obligatoriamente directa**. Idea: más potencia, más humos, más aire, y separado en entrada baja y salida alta.
 
-
-<figure>
-<img src="imagenes_individuales/fig_p19.jpeg" alt="Figura de la guia Gas a la primera, pagina 19">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 19</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p71.jpeg" alt="Figura de la guia Gas a la primera, pagina 71">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 71</figcaption>
-</figure>
-
 ## Ventilaciones · Ejemplos
 
 La superficie de ventilación se calcula como **kW × 5 = S (cm²)**, con un **mínimo de 125 cm²**. **No** aplica a los **aparatos estancos**; solo se tienen en cuenta los de **circuito abierto**.
@@ -569,6 +519,11 @@ La superficie de ventilación se calcula como **kW × 5 = S (cm²)**, con un **m
 | Tipo A + B (conectados y no conectados) | Cocina 10 kW + calentador/caldera 24 kW | (10 + 24) × 5 = **170 cm²** | Aparato A < 16 kW → **8 m³** | Aparatos A sin dispositivo por falta de llama → **0,4 m²** |
 | Tipo B (conectados) | Calentador/caldera 24 kW | 24 × 5 = 120 → **125 cm²** | **No precisa** | **No precisa** |
 
+<figure>
+<img src="imagenes_individuales/fig_p47_infografia.png" alt="Ejemplos resueltos de ventilación en locales de hasta 16 kW">
+<figcaption>Ejemplos resueltos para locales de hasta 16 kW: cómo se aplican kW × 5, el mínimo de 125 cm², el volumen de 8 m³ y la ventilación rápida según haya aparatos tipo A, B o mezcla. Quedarte corto de ventilación en una cocina es la causa directa de mala combustión y CO.</figcaption>
+</figure>
+
 ### Ejemplos de locales con potencia > 16 kW
 
 | Ejemplo | Ventilación | Volumen mínimo | Ventilación rápida |
@@ -579,18 +534,6 @@ La superficie de ventilación se calcula como **kW × 5 = S (cm²)**, con un **m
 > **Nota aclaratoria — «kW por 5, mínimo 125».** La regla estrella de la ventilación de cocinas: multiplica la potencia total de circuito abierto por **5** y tienes los **cm² de ventilación**, pero **nunca menos de 125 cm²** (por eso una cocina de 10 kW, que daría 50, se queda en 125). Cuando pasas de **16 kW** repartes esa superficie en **dos aberturas iguales** (mitad arriba, mitad abajo). Y recuerda: los **estancos no cuentan**, solo el circuito abierto.
 
 > **Nota aclaratoria — la ventilación rápida y el corte por fallo.** «Ventilación rápida» (VR) es la que evacúa deprisa un exceso de gas; el valor típico es **0,4 m²**. Y fíjate en la frontera de los **30 kW**: por debajo puede ser directa o indirecta; **por encima de 30 kW**, la ventilación debe ser **directa** y montas un **sistema de corte por fallo** con **electroválvula de rearme manual fuera del local**. Más potencia, más exigencia.
-
-
-<figure>
-<img src="imagenes_individuales/fig_p20.jpeg" alt="Figura de la guia Gas a la primera, pagina 20">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 20</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p74.png" alt="Figura de la guia Gas a la primera, pagina 74">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 74</figcaption>
-</figure>
 
 ## Volumen mínimo
 
@@ -620,6 +563,11 @@ Ejemplos de cálculo:
 - **Volumen cocina:** 45 kW + 20 kW + 24 kW = 89 kW → 89 − 8 = **81 m³**. **Volumen comedor:** 4 kW → **8 m³**.
 - **Volumen local:** 45 kW + 20 kW + 24 kW + 4 kW = 93 kW → 93 − 8 = **85 m³**.
 
+<figure>
+<img src="imagenes_individuales/fig_p51.jpeg" alt="Planta de cocina industrial con cocina de 45 kW, marmita 20 kW, plancha 24 kW y cafetera 4 kW">
+<figcaption>El local del ejemplo: cocina 45 kW, marmita 20 kW, plancha 24 kW y cafetera 4 kW en cocina y comedor. Sobre esta planta se calculan el volumen mínimo y la extracción mecánica; un local así, mal ventilado, es un caso de intoxicación por CO esperando.</figcaption>
+</figure>
+
 > **Nota aclaratoria — «kW menos 8» y el mínimo de 8.** Para tipo A de cocina/gasodoméstico: **hasta 16 kW → 8 m³** fijos; **por encima → el número de kW menos 8, en m³**. Ejemplo: 25 kW → 17 m³; 45 kW → 37 m³. Los **estancos y conducidos no piden volumen** porque no vierten humos al local. Y si te pasas de **30 kW**, además del volumen necesitas **extracción mecánica** con corte por fallo… salvo que el local sea tan grande que **volumen/kW > 10**.
 
 ### Volumen mínimo de locales · Edificios ya construidos
@@ -632,18 +580,6 @@ Para locales con aparatos de **tipo A que no sean de calefacción**, se modifica
 - Recordatorio de la tabla base: **∑Qn ≤ 16 kW → 8 m³**; **∑Qn > 16 kW → |∑Qn| − 8 m³**.
 
 > **Nota aclaratoria — rebajar volumen en obra existente tiene precio.** En un edificio ya construido no siempre hay 8 m³. La norma te deja bajar, pero **compensando**: entre el **75-100%** del volumen, **+50% de ventilación**; entre el **50-75%**, **+50% de ventilación y detector de CO** que corta el gas. Y una línea roja que no se cruza: **nunca por debajo de 6 m³**. Menos aire, más seguridad activa.
-
-
-<figure>
-<img src="imagenes_individuales/fig_p23_infografia.png" alt="Figura de la guia Gas a la primera, pagina 23">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 23</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p75_infografia.png" alt="Figura de la guia Gas a la primera, pagina 75">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 75</figcaption>
-</figure>
 
 ## Patios de ventilación y evacuación
 
@@ -669,18 +605,6 @@ Son los **espacios dentro del volumen del edificio**, en **comunicación directa
 > **Nota aclaratoria — patio de ventilación vs patio de evacuación.** No es lo mismo **meter aire** que **sacar humos**. El de **ventilación** pide poco: **3 m²**, lado menor **1 m**, y si está techado, **2 m² libres** al exterior. El de **evacuación** (donde desembocan calderas/calentadores conducidos) pide más: **0,5 m² por cada local (NT)** con un **mínimo de 4 m²**, y **25% libre** si está techado. Y ojo: en **finca nueva todo va a cubierta**, no se evacúan tipo B ni C al patio.
 
 > **Nota aclaratoria — NT son locales, no ventanas.** El error clásico: para calcular el patio de evacuación cuentas **locales** que pueden tener aparatos conducidos, **no** las ventanas ni las puertas que dan al patio. Si hay 8 locales que desembocan, NT = 8 → 8 × 0,5 = 4 m² (que además es el mínimo). Cuenta habitaciones-fuente de humos, no huecos.
-
-
-<figure>
-<img src="imagenes_individuales/fig_p36.jpeg" alt="Figura de la guia Gas a la primera, pagina 36">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 36</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p76.jpeg" alt="Figura de la guia Gas a la primera, pagina 76">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 76</figcaption>
-</figure>
 
 ## RITE · Evacuación de los productos de la combustión
 
@@ -713,6 +637,11 @@ Ejemplo para **P = 25 kW** (calderas de condensación):
 | Reforma · Gas natural | 75,9% | 86% |
 | Reforma · Gasóleo | 78,9% | 86% |
 
+<figure>
+<img src="imagenes_individuales/fig_p62_infografia.png" alt="Comparativa de rendimientos exigidos por el RITE y por la ErP para una caldera de 25 kW">
+<figcaption>Rendimientos mínimos RITE frente a ErP para una caldera de 25 kW: el 86% que pide la ErP en calderas de menos de 70 kW solo se alcanza, en la práctica, con condensación. Instalar un aparato que no llega a ese rendimiento es no cumplir para el marcado CE.</figcaption>
+</figure>
+
 > **Nota aclaratoria — condensación por rendimiento, no por capricho.** Para llegar al **86%** que pide la ErP en calderas pequeñas (< 70 kW) prácticamente **hay que ir a condensación**: es la tecnología que aprovecha el calor del vapor de agua de los humos. Por eso el RITE la impone en obra nueva. Quédate con el número redondo: **86% mínimo, calderas de condensación**.
 
 ### Calderas de tipo B3x
@@ -723,7 +652,17 @@ Ejemplo para **P = 25 kW** (calderas de condensación):
 - Ideal para **sustituir calderas atmosféricas** por estancas de **tipo B3x** en **SHUNTS comunitarios**. Para ello, **todos los aparatos** conectados al mismo deben tener un **sistema de tiro forzado**, individual o comunitario.
 - Las **bolas giratorias** en la salida de humos en SHUNT comunitarios **no cumplen** con la **UNE 60670-6, punto 8.5** (si se paran, no pueden dificultar la salida de los humos).
 
+<figure>
+<img src="imagenes_individuales/fig_p64.jpeg" alt="Conductos colectivos de doble y triple pared con entrada de aire para calderas estancas">
+<figcaption>Conductos colectivos de doble y triple pared con entrada de aire, para pasar un shunt de calderas atmosféricas a estancas B3x. Si algún vecino sigue con tiro natural en el mismo conducto, la evacuación falla y vuelven los humos al interior.</figcaption>
+</figure>
+
 > **Nota aclaratoria — el truco del tubo concéntrico.** En una B3x hay **tubo dentro de tubo**: el de fuera (grande) mete aire, el de dentro saca humos. La gracia de seguridad: si el de humos tuviera una fuga, **el propio tubo de aire la reaspira** hacia dentro del aparato, no al local. Por eso sirven para renovar **shunts comunitarios** de calderas atmosféricas, siempre que **todos** los vecinos monten **tiro forzado**.
+
+<figure>
+<img src="imagenes_individuales/fig_p65.jpeg" alt="Sistema biflujo de evacuación colectiva con circulación separada de aire y humos">
+<figcaption>Sistema biflujo: el conducto colectivo separa la entrada de aire y la salida de humos para varias viviendas a la vez. Es la solución para renovar el shunt comunitario sin obligar a cada vecino a sacar su propia salida a fachada.</figcaption>
+</figure>
 
 ### Evacuación de productos de la combustión al exterior
 
@@ -734,21 +673,29 @@ Casos de salida directa al exterior:
 - **C) A través de fachada, celosía o similar, con una cornisa o balcón en cota superior** a la salida de los productos de la combustión. Con cornisa **a menos de 30 cm del techo** y ventana o pared lateral a **más de 30 cm del techo**.
 - **D) Aparato situado en el exterior**, en una terraza, balcón o galería abiertos y techados. La **longitud L** será la **mínima según instrucciones del fabricante**. Si se evacúa en **zona privada**, la **distancia de 2,20 m no es necesaria**, pero se respetará como **mínimo 30 cm del suelo**.
 
+<figure>
+<img src="imagenes_individuales/fig_p68.jpeg" alt="Salida de humos en terraza techada a más de 30 cm del techo">
+<figcaption>Salida a través de la fachada de una terraza o balcón techado: la boca de humos debe quedar a más de 30 cm por debajo del techo. Si sale pegada al techo, los productos de la combustión se acumulan bajo el forjado en vez de dispersarse.</figcaption>
+</figure>
+
+<figure>
+<img src="imagenes_individuales/fig_p69.jpeg" alt="Distancias de la salida de humos cuando hay una cornisa o balcón en cota superior">
+<figcaption>Salida con una cornisa o balcón en cota superior: distancias a respetar a la ventana o pared lateral y a la cornisa. Una salida mal separada mancha la fachada de negro y devuelve humos a la ventana del vecino de arriba.</figcaption>
+</figure>
+
 En cualquiera de los casos anteriores, y de forma general, cuando la salida se realice **directamente al exterior**, se deben cumplir unas **distancias mínimas** respecto a paredes, ventanas o huecos de la construcción. Existen **deflectores divergentes** que permiten **reducir** las distancias mínimas. Estas distancias solo se tienen en cuenta **para la misma planta**; **las plantas superiores no se tienen en cuenta**.
 
+<figure>
+<img src="imagenes_individuales/fig_p71.jpeg" alt="Distancias mínimas de la salida de humos a paredes y huecos en distintas configuraciones">
+<figcaption>Distancias mínimas de la salida al exterior a paredes y huecos según la configuración (2,20 m, 1,5 m, etc.), medidas siempre en la misma planta. Quedarte corto es humo entrando por la ventana de al lado y una anomalía en la revisión.</figcaption>
+</figure>
+
+<figure>
+<img src="imagenes_individuales/fig_p67.jpeg" alt="Salida por muro o celosía con tubo concéntrico y deflectores divergentes del flujo de humos">
+<figcaption>Paso por muro o celosía con el tubo concéntrico (aire envolviendo a los humos) y deflectores que dispersan el flujo. Los deflectores divergentes son el recurso para reducir la distancia mínima cuando la fachada va justa.</figcaption>
+</figure>
+
 > **Nota aclaratoria — el 30 cm del techo y el 2,20 m.** Dos cifras que caen en salidas a exterior: la salida debe quedar **más de 30 cm por debajo del techo** de la terraza/balcón, y frente a la salida se respeta una **distancia (típica 2,20 m)** a huecos, que **no** aplica si evacúas a **zona privada** (ahí basta **30 cm del suelo**). Y truco importante: para medir distancias **solo cuenta tu planta**; lo que haya en pisos de arriba no se tiene en cuenta. Los **deflectores divergentes** son la ayuda cuando vas justo de distancia.
-
-
-<figure>
-<img src="imagenes_individuales/fig_p37_infografia.png" alt="Figura de la guia Gas a la primera, pagina 37">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 37</figcaption>
-</figure>
-
-
-<figure>
-<img src="imagenes_individuales/fig_p77_infografia.png" alt="Figura de la guia Gas a la primera, pagina 77">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 77</figcaption>
-</figure>
 
 ## Certificados de instalación
 
@@ -778,6 +725,11 @@ Reglas prácticas:
     - **C, D, …, N:** consumos caloríficos (referidos al **Hi**) del **resto de aparatos**.
     - **1,10:** coeficiente corrector medio.
 
+<figure>
+<img src="imagenes_individuales/fig_p74.png" alt="Modelo IRG-3, certificado de instalación individual de gas">
+<figcaption>El modelo IRG-3: certificado de instalación individual de gas que rellena y firma la empresa instaladora. Es el papel que legaliza la instalación individual y sin el cual la distribuidora no da el gas.</figcaption>
+</figure>
+
 Correspondencia de contadores de membranas:
 
 | Tipo | Máximo (Nm³/h) | Mínimo (Nm³/h) |
@@ -797,6 +749,11 @@ Presiones del regulador individual:
 |---|---|
 | 0,05 a 0,4 bar (MP-A) | 0,020 bar (BP) |
 | 0,4 a 5 bar (MP-B) | 0,020 bar (BP) |
+
+<figure>
+<img src="imagenes_individuales/fig_p75_infografia.png" alt="Fórmula de Piv, tabla de contadores de membranas y presiones del regulador individual">
+<figcaption>Datos del certificado individual: fórmula de la Piv (mínimo 30 kW), correspondencia de contadores de membranas (G-4 para la vivienda tipo) y presiones de salida del regulador. Con estos valores dimensionas el contador y el regulador; equivocarlos deja la vivienda corta de caudal.</figcaption>
+</figure>
 
 > **Nota aclaratoria — Piv nunca baja de 30 kW.** Aunque la cuenta te dé menos, la **potencia de diseño individual** se toma **como mínimo 30 kW**: es el suelo para dimensionar la vivienda. Y la fórmula tiene truco: los **dos aparatos más gordos entran enteros (A + B)**, el resto entra **a la mitad** (dividido entre 2), y todo se multiplica por **1,10**. Es la simultaneidad dentro de la propia vivienda: no todos los aparatos tiran a tope a la vez.
 
@@ -818,6 +775,11 @@ Presiones del regulador individual:
   - **S2:** factor de simultaneidad **cuando SÍ exista** calefacción individual.
   - **S1 = (19 + N) / [10 × (N + 1)]**
   - **S2 = (19 + N) / [4 × (N + 4)]**
+
+<figure>
+<img src="imagenes_individuales/fig_p76.jpeg" alt="Modelo IRG-2, certificado de instalación común de gas">
+<figcaption>El modelo IRG-2: certificado de instalación común de gas, para el montante y la parte compartida del edificio. Lo firma la empresa instaladora y se entrega a la distribuidora junto con el resto de la documentación de la IRC.</figcaption>
+</figure>
 
 Modelos de armario y caudal nominal:
 
@@ -873,27 +835,26 @@ Factores de simultaneidad S1 y S2 según el número de viviendas:
 | 30 | 0,16 | 0,36 |
 | Más de 30 | 0,15 | 0,35 |
 
+<figure>
+<img src="imagenes_individuales/fig_p77_infografia.png" alt="Fórmula de Pc, modelos de armario de regulación y tabla de factores de simultaneidad S1 y S2">
+<figcaption>Datos del certificado común: fórmula de la Pc, modelos de armario de regulación por caudal nominal y tabla de simultaneidad S1 (sin calefacción individual) y S2 (con calefacción individual). Aplicar mal la simultaneidad sobredimensiona o, peor, deja corta la instalación comunitaria.</figcaption>
+</figure>
+
 > **Nota aclaratoria — la simultaneidad baja con más vecinos.** Es lógica pura: cuantas **más viviendas**, menos probable es que **todas** consuman a tope a la vez, así que el factor **S baja** (de 1,00 en una vivienda a 0,15/0,35 con más de 30). Y hay **dos columnas**: **S1 sin calefacción individual** (baja más rápido) y **S2 con calefacción individual** (baja menos, porque las calderas sí coinciden en invierno). La IRC no se dimensiona sumando a lo bruto, se aplica **S**.
 
 > **Nota aclaratoria — regulador común: entra MP-B, sale MP-A o BP.** En la instalación común el regulador coge la **media presión B (0,4 a 5 bar)** y la baja a **MP-A (0,055 bar)** o a **baja presión (0,021 bar)**, según el diseño del edificio. No lo confundas con el **individual**, que sale a **0,020 bar**. Y el **caudal de diseño** siempre sale de dividir la potencia entre el **poder calorífico superior (Hs)**.
 
-
-<figure>
-<img src="imagenes_individuales/fig_p39.jpeg" alt="Figura de la guia Gas a la primera, pagina 39">
-<figcaption>Guía «Gas a la primera» · figura de la pág. 39</figcaption>
-</figure>
-
 ## Ideas clave del tema
 
-- En **obra nueva** es **obligatorio centralizar** contadores; recinto en **zona comunitaria, grado 2**, **nunca bajo el primer sótano**. Totalizador **< 2 m** (2,40 m prefabricado con escalera) o **≤ 1,7 m** en vivienda.
-- Ventilación del recinto según **UNE 60490**; regulador con **entrada ≥ 150 mbar → válvula de máxima de rearme manual**. Puerta que **abre hacia fuera**, cerradura **normalizada**, cartel **«Contadores de gas»**.
-- Contador en vivienda: **≥ 40 cm** al quemador, **≥ 20 cm** a aparatos/mecanismos eléctricos en todo el perímetro; **prohibido** en dormitorio, W.C., baño y ducha.
-- Accesibilidad (**UNE 60670-2**): **grado 1** sin llave ni escalera; **grado 2** con cerradura normalizada; **grado 3** con escalera o zona privada.
-- Tuberías: **3 cm** de separación a agua, electricidad, vapor, chimeneas y suelo; **soldadura blanda ≤ 0,05 bar**, **fuerte por encima**; **press-fitting hasta 5 bar**; uniones inox-cobre con **manguito CuNi** (inox serie 2).
-- Multicapa de cocina: **limitador de caudal 1,6 m³/h + limitador de temperatura 96 ºC**; corrugado inox **≤ 0,5 bar** y roscado.
-- **Vainas/conductos:** continuas, sin órganos de maniobra; **protección mecánica** (garajes, vía pública hasta 1,80 m) frente a **ventilación** (falsos techos, altillos, huecos); **de obra 5 cm / acero 1,5 mm**.
-- **Prueba de estanqueidad (UNE 60670-8)** antes de la puesta en servicio, sin regulación ni contadores: tiempos base **60/30/30/15 min**; tramos largos **6 h o 24 h con registro**; manómetro trabajando entre el **35% y el 75%** de escala.
-- Ventilaciones: **kW × 5 = cm², mínimo 125 cm²** (estancos no cuentan); **> 16 kW** → dos aberturas (superior directa). Volumen tipo A: **≤ 16 kW → 8 m³**; **> 16 kW → kW − 8**; calefacción directa **kW × 11 (mín. 15 m³)**; nunca **< 6 m³**.
-- **Patio de ventilación**: **3 m²**, lado menor **1 m**, techado libre **2 m²**. **Patio de evacuación**: **NT × 0,5 m² (mín. 4 m²)**, techado libre **25%**.
-- **RITE:** cambiar aparato = aplicar RITE; humos **a cubierta por conducto**; calderas de **condensación, clase 5 NOx y estancas**; **ErP ≥ 86%** (< 70 kW); prohibidos los **atmosféricos de tiro natural** en interior.
-- Certificados: **IRG-1 acometida interior, IRG-2 común, IRG-3 individual**; **< 1 m** modificado = reparación sin certificado. **Piv mínimo 30 kW**; regulador individual sale a **0,020 bar**; **S1/S2** bajan al aumentar viviendas.
+- **Esta guía es tu «cómo se hace en obra» de principio a fin: del contador a los papeles.** No sustituye a la norma, la baja al taller. Si interiorizas estos puntos, montas una instalación que **pasa la prueba de estanqueidad, aprueba la puesta en servicio y no te vuelve como avería** al mes siguiente. Todo cuelga de tres textos: **RD 919/2006** (Reglamento), **RITE** y las **UNE** de aplicación (citadas sin año).
+- **Contadores donde deben ir o hay problema.** En obra nueva se **centraliza** en zona comunitaria, **grado 2**, **nunca bajo el primer sótano** (gas más ligero que el aire: abajo no ventila y se acumula). Totalizador **< 2 m** (2,40 m en prefabricado con escalera) o **≤ 1,7 m** en vivienda, para que se pueda **leer y mantener**; mal colocado, aparecen las estimaciones de consumo y las reclamaciones. Y el contador en vivienda **nunca bajo el fregadero** (humedad, corrosión, falsas fugas).
+- **La ventilación del recinto y la válvula de máxima evitan dos averías gordas.** Secciones según **UNE 60490** (armarios 5-50 cm² sin indirecta; locales/cuartos 200/150 cm²; +50% por conducto L > 3 y por primer sótano con puerta estanca): quedarse corto es que una microfuga no se airee. Regulador con **entrada ≥ 150 mbar → válvula de máxima de rearme manual**, o la sobrepresión te revienta membranas y bloquea aparatos. Y los tres detalles del recinto: puerta que **abre hacia fuera** y **sin llave desde dentro**, **toma de corriente** y cartel **«Contadores de gas»**.
+- **Distancias del contador y de la tubería: fuego, chispa y corrosión.** Contador **≥ 40 cm** al quemador y **≥ 20 cm en todo el perímetro** a aparatos y mecanismos eléctricos; **prohibido** en dormitorio, W.C., baño y ducha. Tubería vista a **3 cm** de agua, electricidad, vapor, chimeneas y suelo. Pegar el gas a un cable o al agua caliente termina en punto caliente y fuga; el contador junto a una chispa, en susto.
+- **Accesibilidad (UNE 60670-2): quién puede cortar el gas.** **Grado 1** sin llave ni escalera, **grado 2** con cerradura normalizada, **grado 3** con escalera o zona privada. La **llave de usuario** va siempre y con **grado 2 para la distribuidora**; si la dejas inaccesible, la compañía no puede cerrar en emergencia y es anomalía.
+- **Materiales y uniones homologados, o te lo tumban.** **Soldadura blanda ≤ 0,05 bar, fuerte por encima** (y siempre fuerte en aparcamientos cerrados y cocinas tipo A > 30 kW); **press-fitting hasta 5 bar** sustituye a la fuerte; unión inox-cobre con **manguito CuNi** (inox serie 2), o corrosión galvánica y fuga. Cada material con su UNE (cobre 1057, multicapa 53008, corrugado inox 15266, PE 1555-1…).
+- **Multicapa de cocina: los dos limitadores en pareja, caudal 1,6 m³/h + temperatura 96 ºC**; el corrugado inox **≤ 0,5 bar y roscado**. El limitador de temperatura corta el gas antes de que el plástico funda en un conato de incendio.
+- **Vaina no es lo mismo que vaina.** Continuas y sin órganos de maniobra; **protección mecánica** (golpes, garajes, vía pública hasta 1,80 m) frente a **ventilación** (falsos techos, altillos, huecos), **de obra 5 cm / acero 1,5 mm**. Una vaina de ventilación con una sola boca sin sellar **esconde el gas** de una fuga en vez de sacarlo.
+- **La prueba de estanqueidad (UNE 60670-8) es el examen final del tubo, y sin ella no hay gas.** Antes de la puesta en servicio, sin regulación ni contadores: tiempos base **60/30/30/15 min** según presión, tramos largos **6 h o 24 h con registro**, manómetro trabajando entre el **35% y el 75%** de escala. Desmonta los dispositivos delicados y compruébalos luego a la MOP. El resultado satisfactorio respalda el certificado que se entrega a la distribuidora.
+- **Ventilación de aparatos: aquí se juega la intoxicación por CO.** **kW × 5 = cm², mínimo 125 cm²** (estancos no cuentan); tipo A **> 16 kW** → dos aberturas (superior directa). Volumen tipo A: **≤ 16 kW → 8 m³**, **> 16 kW → kW − 8**, calefacción directa **kW × 11 (mín. 15 m³)**, **nunca < 6 m³**; más de **30 kW** → extracción mecánica con corte por fallo. Rejilla tapada o volumen corto = mala combustión, hollín y CO.
+- **Patios y RITE: sacar los humos bien.** **Patio de ventilación** 3 m², lado menor 1 m, techado libre 2 m²; **patio de evacuación** NT × 0,5 m² (mín. 4 m²), techado libre 25%, contando **locales, no ventanas**. **Cambiar el aparato = aplicar el RITE**: humos **a cubierta por conducto**, calderas de **condensación, clase 5 de NOx y estancas** (**ErP ≥ 86%** en < 70 kW), **prohibidos los atmosféricos de tiro natural** en interior. Salidas a exterior: **más de 30 cm del techo** y **2,20 m** a huecos (30 cm del suelo en zona privada), midiendo solo la misma planta.
+- **El papeleo cierra la obra y es responsabilidad de la empresa instaladora.** Certificados de instalación: **IRG-1 acometida interior, IRG-2 instalación común, IRG-3 instalación individual**, firmados por la empresa instaladora y entregados a la **distribuidora** para la puesta en servicio (y registrados ante el órgano de industria de la comunidad autónoma cuando proceda). **Modificar < 1 m** es reparación sin certificado; **< 1 año de baja con inspección vigente sin anomalías**, tampoco. Datos que no se caen: **Piv mínimo 30 kW**, regulador individual a **0,020 bar**, y **S1/S2** bajando al aumentar viviendas.

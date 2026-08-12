@@ -1,6 +1,6 @@
-# Instalación y conexión de aparatos · Requisitos de cada conexión
+# UNE 60670-7 · Instalación y conexión de aparatos: requisitos de cada conexión
 
-<p class="eyebrow">Tema 14 · Vídeo 2 de 2 · UNE 60670 · Parte 7</p>
+<p class="eyebrow">Tema 14 · Vídeo 2 de 2 · UNE 60670-7</p>
 
 **Ya sabes qué conexión toca en cada caso; ahora toca montarla bien.** En este vídeo desmenuzamos los **siete tipos de conexión** uno a uno: qué norma cumple, para qué aparatos vale, la **longitud máxima** del tubo, cómo se hacen las **uniones mecánicas** y las **prohibiciones** (partes calientes, cruzar por detrás de hornos, racores de dos piezas). Cerramos con el Anexo A, que te dice de un vistazo qué aparato lleva conexión rígida y cuál flexible.
 
@@ -125,12 +125,9 @@ Son aparatos **normalmente conectados mediante conexión flexible**:
 
 ## Ideas clave del vídeo
 
-- **Rígida (4.1):** tubo de cobre/acero/inox/multicapa/inox corrugado según **UNE 60670-3**, uniones por **junta plana UNE 60719**, **solo aparatos fijos**.
-- **Acero inox corrugado (4.2):** UNE 60713 (o UNE-EN ISO 10380 si falta caudal en no doméstico). Máx. **2 m si DN ≤ 15**; **0,470 m si DN > 15**. Junta plana UNE 60719; una unión puede ser roscada.
-- **Espirometálica con enchufe (4.3):** UNE 60715-1 + enchufe UNE-EN 15069, **solo doméstico**, máx. **1,5 m** (calefacción móvil **0,6 m**), rosca UNE-EN 10226-1, **prohibido racor de dos piezas**.
-- **Acero inox corrugado con enchufe (4.4):** UNE-EN 14800 + enchufe UNE-EN 15069, **solo doméstico**, máx. **2 m** (calefacción móvil **0,75 m**), rosca, **sin racor de dos piezas**.
-- **Elastómero con armadura (4.5):** móviles no domésticos con **GLP** (clase 3) y sopletes (**UNE-EN ISO 3821**), máx. **1,5 m** (calefacción móvil no industrial **0,6 m**; en sopletes no hay tope). Junta plana UNE 60719.
-- **Elastómero (4.6):** UNE 53539 o UNE-EN 16436 clase 1 (ésta, **solo GLP**); móviles, mecheros y sopletes; **boquillas UNE 60714** del mismo DN con **abrazaderas metálicas**; máx. **1,5 m** (calefacción móvil **0,6 m**).
-- **Metálica corrugada (4.7):** UNE-EN 14800, **sin** enchufe de seguridad, máx. **2 m**; junta plana o **tetina** (UNE 60719).
-- Prohibiciones comunes a los flexibles: **nunca bajo las llamas**, **sin contacto con partes calientes** y **no cruzar por detrás de hornos** salvo aislamiento térmico y ≤ **30 °C** de sobrecalentamiento certificado.
-- **Anexo A (informativo):** fijos/encastrados → **rígida**; móviles → **flexible**.
+- **Qué te llevas y para qué sirve.** Sales con la chuleta de montaje de los **siete tipos de conexión**: qué norma cumple cada uno, para qué aparato vale, la **longitud máxima** del tubo y cómo se hace la unión. Es lo que consultas delante del aparato antes de apretar la última tuerca. El **Anexo A** te resuelve la duda de un vistazo: **fijo/encastrado → rígida; móvil → flexible**.
+- **El flexible bajo las llamas es fuego e intoxicación esperando.** La regla que manda por encima de las cifras: **el flexible nunca debe quedar bajo la acción de las llamas**, sin contacto con partes calientes y **sin cruzar por detrás de un horno** (salvo aislamiento térmico certificado con ≤ **30 °C** de sobrecalentamiento por escrito en el manual). Un flexible demasiado largo que cae sobre el quemador se **reseca, se cuartea y fuga**: de ahí a un **incendio o a una fuga con riesgo de CO** hay un paso. Corta el tubo a la longitud mínima y ruta por donde no le llegue calor.
+- **Las longitudes máximas son de examen y de obra.** No las mezcles: acero inox corrugado **2 m si DN ≤ 15** y **0,470 m si DN > 15** (cuanto más gordo, más corto); espirometálica con enchufe **1,5 m** (calefacción móvil **0,6 m**); acero inox corrugado con enchufe **2 m** (calefacción móvil **0,75 m**); elastómero con y sin armadura **1,5 m** (calefacción móvil **0,6 m**); metálica corrugada sin enchufe **2 m**. Pasarse de largo no es «más cómodo»: es dejar tubo que acaba tocando donde no debe.
+- **Los detalles de montaje que revientan si los descuidas.** En las conexiones con **enchufe de seguridad** (4.3 y 4.4) la unión va **roscada UNE-EN 10226-1** y **jamás con racor de dos piezas**, porque el racor se afloja con la vibración y **fuga**. En el flexible de elastómero (el **tubo naranja** de la bombona) van **boquillas UNE 60714** del mismo DN y **abrazaderas metálicas, nunca de plástico**: la goma se dilata con el calor y una brida de plástico cede, el tubo se suelta y tienes **fuga de gas y olor a butano** en la cocina. Y ojo: el tubo de goma tiene fecha de caducidad; el metálico corrugado no.
+- **El papeleo que esto genera.** El tipo de conexión que montas y su correcta ejecución es lo que la **empresa instaladora** certifica y firma en el **certificado de instalación** (el «boletín») y en la **puesta en marcha** del aparato, documento que se entrega al **usuario** y queda a disposición de la **empresa distribuidora** y de la **Comunidad Autónoma**. Sustituir un flexible caducado o mal montado en un aparato ya en servicio es una operación de mantenimiento que también debe quedar registrada. Firmar un montaje con el flexible equivocado o mal apretado es firmar un defecto.
+- **Datos que no se te pueden caer:** las **longitudes máximas** por tipo, los **30 °C** de sobrecalentamiento del horno, **enchufe de seguridad → rosca sí, racor de dos piezas no**, y **boquillas UNE 60714 + abrazadera metálica** en el tubo de goma. Y la brújula del **Anexo A**: fijo → rígida, móvil → flexible.

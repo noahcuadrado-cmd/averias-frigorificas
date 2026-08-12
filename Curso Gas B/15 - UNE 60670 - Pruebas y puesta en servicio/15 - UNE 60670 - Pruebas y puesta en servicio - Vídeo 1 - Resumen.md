@@ -1,6 +1,6 @@
-# Pruebas de estanquidad · Entrega de la instalación receptora
+# UNE 60670-8 · Pruebas de estanquidad para la entrega de la instalación receptora
 
-<p class="eyebrow">Tema 15 · Vídeo 1 de 3 · UNE 60670 · Parte 8</p>
+<p class="eyebrow">Tema 15 · Vídeo 1 de 3 · UNE 60670-8</p>
 
 **Antes de meter gas hay que demostrar que la instalación no pierde.** La UNE 60670-8 fija la prueba de estanquidad que se hace para **entregar** la instalación receptora: con qué se prueba, a qué presión, durante cuánto tiempo y cómo se comprueban los tramos de conexión a los aparatos, los conjuntos de regulación y los contadores. Aquí manda una tabla que decide presión y tiempo según la presión máxima de operación (MOP) y el caudal. Esa tabla es oro de examen: apréndela de memoria.
 
@@ -111,12 +111,11 @@ La estanquidad de las uniones de los elementos que componen el **conjunto de reg
 
 ## Ideas clave del vídeo
 
-- La prueba de estanquidad se hace **antes** de las pruebas previas y la puesta en servicio, con **aire o gas inerte** (nunca gas combustible ni líquido), y **con resultado satisfactorio**.
-- Se cierran las **llaves de los extremos**, se abren las **intermedias** y estas se maniobran **abiertas y cerradas** para comprobar su estanquidad.
-- Se espera a **estabilizar la temperatura**, se hace la **primera lectura** y **desde ahí** se cuenta el tiempo; la prueba es correcta si **no baja la presión**.
-- Presiones de prueba según MOP: **≥ 7 · ≥ 3,5 · ≥ 1 · ≥ 0,1 bar**. Tiempos (q ≤ 150 m³(n)/h): **60 · 30 · 30 · 15 min**.
-- Caudales altos (con cualquier MOP): **6 h** para 150 < q < 600 y **24 h** para q ≥ 600, siempre **con registro de presión y temperatura**.
-- Rebajas por tramo corto: **30 min** (individual < 20 m), **15 min** (< 15 m en 0,05–0,4 bar), **10 min** (< 10 m en baja presión).
-- Dispositivos deteriorables **desmontados** durante la prueba; luego se comprueban montados **a la MOP**.
-- Tramo de conexión del aparato: comprobación **≤ 110 mbar** y **≥ presión de servicio**, llave abierta y mandos cerrados, excluido el aparato.
-- **Conjuntos de regulación y contadores**: solo **comprobación** a la **presión de operación** con detector o agua jabonosa.
+- **Qué te llevas y para qué sirve.** La prueba de estanquidad es el «examen físico» de la tubería: demuestra que el tramo aguanta presión y no pierde **antes** de meter gas. Sin este resultado satisfactorio no se sigue: no hay pruebas previas, no hay puesta en servicio y no hay boletín. Es el paso que respalda tu firma en el **certificado de instalación** (el «boletín», modelo IRG de tu comunidad) que la empresa instaladora habilitada entrega a la distribuidora.
+- **Solo aire o gas inerte, nunca el propio gas ni líquido.** Probar con el gas combustible es meter una atmósfera explosiva en la tubería; probar con agua u otro líquido te deja **humedad dentro** que luego corroe, forma tapones o se hiela en el regulador. La avería que evitas es doble: la explosión durante la prueba y el atasco o la corrosión meses después.
+- **La fuga que no pruebas es la que aparece.** Cierra las llaves de los extremos, abre las intermedias y **manióbralas abiertas y cerradas**: una llave puede sellar bien por fuera y perder por el eje al girarla. Si te la saltas, esa es justo la unión que huele a gas en la vivienda cuando ya está en servicio. Si la prueba no da bien, localiza con **agua jabonosa** y repite una vez eliminada la fuga.
+- **La temperatura engaña; la primera lectura manda.** Al presurizar, el aire se calienta y el manómetro sube; al enfriarse, baja. Si cronometras sin esperar verás una «caída» que **no es fuga**, es física, y rechazarás una instalación buena. Espera a que se estabilice, haz la **primera lectura** y desde ahí cuenta el tiempo: la prueba es correcta si la presión **no baja**.
+- **Los números que no se te pueden caer.** Presiones de prueba según MOP: **≥ 7 · ≥ 3,5 · ≥ 1 · ≥ 0,1 bar**. Tiempos con caudal pequeño (q ≤ 150 m³(n)/h): **60 · 30 · 30 · 15 min**. Caudales grandes con cualquier MOP: **6 h** (150 < q < 600) y **24 h** (q ≥ 600), siempre **con registro de presión y temperatura**. Rebajas por tramo corto: **30 min** (individual < 20 m), **15 min** (< 15 m en 0,05–0,4 bar) y **10 min** (< 10 m en baja presión).
+- **El manómetro adecuado, o la prueba no vale.** Hasta 5 bar, reloj de **0 a 10 bar** (Clase 1, Ø 100); media presión, de **0 a 6** o de **0 a 1,6 bar**; baja presión doméstica, **columna de agua en U**, sensible al milibar. Medir con el rango equivocado es no ver la caída real y dar por buena una fuga pequeña.
+- **Elementos delicados, fuera durante la prueba.** Filtros, electroválvulas, manómetros, indicadores visuales… si les metes la presión de prueba (7 bar a algo que trabajará a 5) los **revientas o descalibras**, y un manómetro descalibrado te da falsas lecturas toda su vida. Se prueba la tubería con ellos desmontados y luego se **comprueba con todo montado a la MOP**.
+- **El «último metro» y los equipos calibrados no se prueban a presión alta.** El tramo llave de aparato → aparato se comprueba **≤ 110 mbar** y **≥ presión de servicio** (llave abierta, mandos cerrados, aparato excluido). Y los **conjuntos de regulación y contadores** solo se **comprueban** a su **presión de operación** con detector o agua jabonosa: meterles la presión de prueba los estropea.

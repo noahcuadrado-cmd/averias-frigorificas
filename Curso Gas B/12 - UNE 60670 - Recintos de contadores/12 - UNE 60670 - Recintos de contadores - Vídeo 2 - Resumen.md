@@ -1,6 +1,6 @@
 # UNE 60670-5 · Sistemas de medición en estaciones de regulación con medida (ERM)
 
-<p class="eyebrow">Tema 12 · Vídeo 2 de 2 · UNE 60670 · Parte 5</p>
+<p class="eyebrow">Tema 12 · Vídeo 2 de 2 · UNE 60670-5</p>
 
 **Cuando la instalación es grande, medir el gas no es solo poner un contador: es todo un sistema de medición.** En este segundo vídeo entramos en las estaciones de regulación con medida (ERM): el contador y sus «acompañantes» —conversores de volumen, manómetros, termómetros y unidades de telemedida—, con sus clases, exactitudes y márgenes de trabajo. Terminamos con los anexos normativos A y B, que fijan los esquemas de medición según la potencia y el caudal. Aquí manda el detalle: porcentajes, clases de exactitud, diámetros de esfera y valores de memoria. Es material muy «de cifra», ideal para preguntas de examen.
 
@@ -138,6 +138,11 @@ Los sistemas de medición que, de acuerdo con la reglamentación vigente, deban 
 2. **Contador.**
 3. **Toma de presión de débil calibre** (PC ≤ 150 mbar).
 
+<figure>
+<img src="imagenes_individuales/fig_7005_p017.png" alt="Esquema de medición Anexo A (≤ 70 kW): válvula, contador y toma de presión">
+<figcaption>Figura A.1 (Anexo A, potencia ≤ 70 kW). Esquema básico de medición: válvula de cierre a la entrada (1), contador (2) y toma de presión (3). Cuando el contador es de más de 10 m³/h se añade también una válvula de cierre a la salida, como muestran las dos válvulas del esquema.</figcaption>
+</figure>
+
 **Figura A.2 – Tercera familia (GLP).** Leyenda:
 
 1. **Válvula de cierre.**
@@ -171,6 +176,11 @@ Los sistemas de medición que, de acuerdo con la reglamentación vigente, deban 
 4. **Contador.**
 5. **Toma de presión de débil calibre** (PC ≤ 150 mbar).
 
+<figure>
+<img src="imagenes_individuales/fig_7005_p018.jpeg" alt="Figura B.1: válvula, válvula de tres vías con manómetro, contador y toma de presión">
+<figcaption>Figura B.1 (Anexo B, > 70 kW, tercera familia). En línea: válvula de cierre (1), válvula de tres vías (2) con el manómetro (3) para contrastación, contador (4) y toma de presión de débil calibre (5) a la salida.</figcaption>
+</figure>
+
 **Figura B.2.** Leyenda:
 
 1. **Válvula de cierre.**
@@ -179,15 +189,19 @@ Los sistemas de medición que, de acuerdo con la reglamentación vigente, deban 
 4. **Contador.**
 5. **Disco en ocho.**
 
+<figure>
+<img src="imagenes_individuales/fig_7005_p019.png" alt="Figura B.2: esquema de medición con by-pass y disco en ocho">
+<figcaption>Figura B.2 (Anexo B, > 70 kW, tercera familia). Como la B.1 pero con línea de by-pass inferior: válvula de cierre (1), válvula de tres vías (2) con manómetro (3), contador (4) y disco en ocho (5) sobre el by-pass para dejarlo ciego y precintado cuando no se usa.</figcaption>
+</figure>
+
 > **Nota aclaratoria — para lo grande (> 70 kW, GLP), la tabla manda.** Con potencias grandes de tercera familia, el esquema (B.1 o B.2) se elige cruzando dos datos en la **tabla B.1**: el **caudal máximo** (m³(n)/h) y el **consumo anual** (GWh). La diferencia entre B.1 y B.2 es el último elemento: **toma de presión de débil calibre** (B.1) frente a **disco en ocho** (B.2). Y dos avisos: la conversión es por **factor fijo**, y **por debajo de 0,1 bar no se ponen conversores**.
 
 ## Ideas clave del vídeo
 
-- En las **ERM**, el sistema de medición va **después del regulador** y cubre caudales **máximo y mínimo**. El tamaño lo marca la potencia: **≤ 70 kW** → anexo A; **> 70 kW** → anexo B (tercera familia) o legislación (segunda familia).
-- Sustituciones: **toma Peterson** aguas abajo de regulador **UNE 60402**; **toma de débil calibre** si la red tiene **MOP ≤ 0,025 bar**. El **by-pass** es **precintable, bloqueable y con disco ciego**.
-- Dimensionamiento del contador: **60-85 %** (grado 3) y **40-85 %** (grados 1 y 2), trabajando **por encima del Qt**. **Turbina y pistones**, con **doble emisor de impulsos**.
-- Conversores (**UNE-EN 12405-1**): tipos **PT** y **PTZ**; **clase C**, error **± 0,5 %**, memoria **35 días** con discriminación horaria.
-- Manómetros: zona de trabajo **35-75 %** del fondo de escala; **válvula de tres vías** metálica no oxidable con toma de **¼"**. **Cápsula hasta 0,6 bar** (UNE-EN 837-3), **Bourdon desde 0,6 bar** (UNE-EN 837-1). Esfera y clase según presión.
-- Termómetros: escala **–10 °C a +60 °C**, exactitud **± 0,5 °C**, en **vaina de acero o latón con aceite mineral**, extraíbles sin cortar el servicio.
-- Unidades remotas (**UR**): **entrada serie**, memoria **≥ 35 días** y **compatibilidad** con el sistema del distribuidor/transportista.
-- Anexo A (≤ 70 kW): llave + contador + toma (**débil calibre** en 2.ª familia, **Peterson** en 3.ª). Anexo B (> 70 kW, 3.ª familia): esquema **B.1/B.2** según la **tabla B.1**; sin conversor por debajo de **0,1 bar**.
+- **Qué te llevas y para qué sirve.** Cuando la instalación crece (ERM), medir el gas ya no es «un contador y listo»: es un **conjunto** (contador + conversor + manómetro + termómetro + telemedida) que va **después del regulador** y se dimensiona por **potencia** (**≤ 70 kW** → anexo A; **> 70 kW** → anexo B en tercera familia o la legislación en segunda). Saber leer estos esquemas te sirve para montar el tren de medida en el orden correcto y para tener claro qué es tuyo y qué es del equipo de medida de la distribuidora.
+- **El contador mal dimensionado se paga en facturación y en averías.** Trabaja al **60-85 %** del caudal máximo en grado de gasificación 3 y al **40-85 %** en grados 1 y 2, y siempre **por encima del Qt** (caudal de transición), su zona más precisa. Si lo pones **sobrado**, a caudales bajos **mide de menos** y llegan reclamaciones de facturación; si lo pones **corto**, se **ahoga**: pérdida de carga, presión que cae y **el aparato que no arranca a plena potencia o se apaga**. En **turbina y pistones**, **doble emisor de impulsos** para cruzar señales y cazar fallos o fraude.
+- **El by-pass es cómodo y peligroso a partes iguales.** Deja pasar todo el gas mientras cambias o contrastas el contador (no dejas al usuario sin servicio), pero debe quedar **precintable, bloqueable y con disco ciego instalado**. Un by-pass **olvidado abierto** significa **gas sin medir** (fraude involuntario) y presión sin control aguas abajo. Solo se abre para la maniobra puntual y luego se vuelve a **precintar**.
+- **Conversores: facturar el volumen «de verdad».** Pasan el volumen bruto al volumen en condiciones de referencia (**PT** corrige presión y temperatura; **PTZ** añade el factor de compresibilidad Z), según **UNE-EN 12405-1**. Datos de examen y de obra: **clase C**, error **± 0,5 %** y **memoria de 35 días** con discriminación horaria. Por debajo de **0,1 bar no se instalan conversores** (nota del anexo B). Un conversor mal parametrizado, o una vaina de termómetro **sin aceite**, falsean la temperatura y con ella **toda la facturación**.
+- **Manómetros y termómetros: que no te mientan.** Manómetro trabajando entre el **35 % y el 75 %** del fondo de escala, con **válvula de tres vías metálica no oxidable** y toma de **¼"** para enchufar el patrón y **contrastar**. La frontera: **cápsula hasta 0,6 bar** (UNE-EN 837-3), **Bourdon de 0,6 bar en adelante** (UNE-EN 837-1); a más presión, **esfera mayor y clase más fina** (1,6 → 1 → 0,6). Termómetro de **–10 °C a +60 °C**, **± 0,5 °C**, en **vaina de acero o latón con aceite mineral**, extraíble **sin cortar el servicio**. Sin la válvula de tres vías no puedes verificar el manómetro sin parar la instalación.
+- **Telemedida (UR).** **Entrada serie**, **≥ 35 días** de memoria y **compatibilidad** con el sistema del distribuidor/transportista. Si cae la red de comunicaciones, esos 35 días guardan el histórico para no perder consumos.
+- **Esquemas y papeleo.** Anexo A (≤ 70 kW): **llave + contador + toma** (toma de **débil calibre** en gas natural, **Peterson** en GLP; y **llave también a la salida** si el contador pasa de **10 m³/h**). Anexo B (> 70 kW, tercera familia): eliges **B.1 o B.2** cruzando caudal y consumo en la **tabla B.1** (B.1 lleva toma de presión; B.2, **disco en ocho**). Recuerda que una **individual de más de 70 kW exige proyecto** y, con proyecto, **certificado de dirección de obra** de técnico competente además del **certificado de instalación**; el **equipo de medida es de la distribuidora**, que lo **precinta** en la puesta en servicio y lo somete al **control metrológico legal** (RD 244/2016). Sustituciones admitidas: **toma Peterson** aguas abajo de regulador **UNE 60402** y **toma de débil calibre** con red de **MOP ≤ 0,025 bar**.

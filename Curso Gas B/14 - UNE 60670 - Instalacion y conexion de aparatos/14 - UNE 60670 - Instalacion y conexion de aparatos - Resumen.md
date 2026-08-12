@@ -1,13 +1,13 @@
-# UNE 60670 · Parte 7 — Instalación y conexión de aparatos a gas
+# UNE 60670-7 · Instalación y conexión de aparatos a gas
 
-<p class="eyebrow">Tema 14 · Resumen íntegro del tema · 2 vídeos</p>
+<p class="eyebrow">Tema 14 · Resumen íntegro del tema · UNE 60670-7 · 2 vídeos</p>
 
 **Este es el tema del «último metro» del gas: cómo se enchufa un aparato a la instalación o a la bombona.** La Parte 7 de la UNE 60670 fija dónde puede ir un aparato, a qué distancia del calor y —lo más preguntado— con qué tipo de conexión se une: rígida o flexible, y qué flexible según el aparato, el uso y el origen del gas. Aquí tienes todo el contenido reescrito claro y directo, sin dejarte ningún requisito, valor, tabla ni prohibición, con muchas notas aclaratorias en los puntos que más se preguntan.
 
 ## Cómo se organiza este tema
 
-- **Vídeo 1 — Generalidades y tipos de conexión.** Qué regula la Parte 7, reglas de ubicación de aparatos (aparatos fijos, distancias al foco de calor) y las dos tablas que deciden qué conexión vale (tabla 1 de aparatos y tabla 2 de mecheros y sopletes).
-- **Vídeo 2 — Requisitos de cada conexión.** Los siete tipos de conexión uno a uno (puntos 4.1 a 4.7): norma, aparatos admitidos, longitudes máximas, uniones y prohibiciones. Cierre con el Anexo A informativo.
+- **Vídeo 1 — Generalidades y tipos de conexión (UNE 60670-7).** Qué regula la Parte 7, reglas de ubicación de aparatos (aparatos fijos, distancias al foco de calor) y las dos tablas que deciden qué conexión vale (tabla 1 de aparatos y tabla 2 de mecheros y sopletes).
+- **Vídeo 2 — Requisitos de cada conexión (UNE 60670-7).** Los siete tipos de conexión uno a uno (puntos 4.1 a 4.7): norma, aparatos admitidos, longitudes máximas, uniones y prohibiciones. Cierre con el Anexo A informativo.
 
 ## Qué regula esta parte de la UNE 60670
 
@@ -49,6 +49,11 @@ Además de las instrucciones del fabricante, en la instalación de los aparatos 
   - Para los aparatos de **tipo C**, con independencia de si se intercala una pantalla de protección, esa distancia debe ser **igual o superior a 10 cm**.
 
 > **Nota aclaratoria — el porqué de los 40 cm.** Imagina un calentador (circuito abierto) colgado justo encima de la encimera. Cuando enciendes los fuegos de abajo, sube una columna de calor que puede achicharrar el calentador. Por eso la norma exige **40 cm** de separación horizontal respecto al quemador más cercano. Si pones una **pantalla** que corte ese calor, te deja bajar hasta **10 cm**. Truco: *40 sin protección, 10 con protección*.
+
+<figure>
+<img src="imagenes_individuales/fig_7007_p007.png" alt="Distancia horizontal entre un aparato de circuito abierto y una cocina, sin y con pantalla de protección">
+<figcaption>Aparato de circuito abierto (un calentador) situado por encima de una cocina. Arriba, sin protección, la proyección del extremo más próximo debe guardar 40 cm horizontales respecto al quemador más cercano. Abajo, intercalando una pantalla de protección, esa distancia puede reducirse hasta 10 cm.</figcaption>
+</figure>
 
 > **Nota aclaratoria — el tipo C es el «listo de la clase».** Un aparato **tipo C es estanco**: coge el aire y expulsa los humos por su propio conducto, sellado respecto a la habitación. Como no «respira» del cuarto ni le afecta tanto el foco de calor, la norma se conforma con **10 cm siempre**, tenga pantalla o no. Regla de memoria: *circuito abierto → 40/10; tipo C → 10 fijo*.
 
@@ -231,14 +236,15 @@ Son aparatos **normalmente conectados mediante conexión flexible**:
 
 ## Ideas clave del tema
 
-- La **Parte 7** de la UNE 60670 regula la **instalación y conexión de aparatos** a la instalación receptora o a un **envase de GLP ≤ 15 kg**, según la legislación y las **instrucciones del fabricante**.
-- Los aparatos **tipo B y C deben ser fijos**. Aparato de **circuito abierto** por encima de una cocción: **40 cm** (reducible a **10 cm** con protección); aparato **tipo C: 10 cm** siempre.
-- La conexión se hace **a través de la llave de conexión de aparato**; con **vibración**, se recomienda **flexible**. La **tabla 1** gobierna los aparatos y la **tabla 2** los mecheros y sopletes.
-- **Rígida:** UNE 60670-3, junta plana UNE 60719, **solo fijos**.
-- **Acero inox corrugado:** UNE 60713 (o UNE-EN ISO 10380 si falta caudal en no doméstico); máx. **2 m si DN ≤ 15** y **0,470 m si DN > 15**.
-- **Con enchufe de seguridad (solo doméstico):** espirometálica (UNE 60715-1 + UNE-EN 15069), **1,5 m** / calefacción móvil **0,6 m**; acero inox corrugado (UNE-EN 14800 + UNE-EN 15069), **2 m** / calefacción móvil **0,75 m**. En ambas, **rosca UNE-EN 10226-1 y prohibido el racor de dos piezas**.
-- **Elastómero con armadura:** móviles no domésticos con **GLP** (clase 3) y sopletes (**UNE-EN ISO 3821**); máx. **1,5 m** (calefacción móvil no industrial **0,6 m**; sopletes sin tope).
-- **Elastómero:** UNE 53539 o UNE-EN 16436 clase 1 (ésta **solo GLP**); **boquillas UNE 60714** del mismo DN con **abrazaderas metálicas**; máx. **1,5 m** (calefacción móvil **0,6 m**).
+- **Qué te llevas y para qué sirve.** La **Parte 7** es el manual del «último metro»: cómo ubicas el aparato respecto al calor y con qué conexión lo unes a la instalación receptora o a un **envase de GLP ≤ 15 kg**, siempre según la legislación y las **instrucciones del fabricante**. Es lo que aplicas en cada aparato que cuelgas, y lo que un inspector mira primero.
+- **La ubicación mal hecha te devuelve a la casa del cliente.** Aparato de **circuito abierto** por encima de una cocción: **40 cm** horizontales (reducible a **10 cm** con pantalla; **tipo C, 10 cm** siempre). Si no respetas la distancia, el calor de los fuegos recalienta el calentador: **carcasa amarilleada, sensor que salta, aparato que se apaga solo**. Y recuerda: **tipo B y C son fijos**; lo móvil es del tipo A.
+- **La conexión mal elegida es una fuga programada.** Se monta **a través de la llave de conexión de aparato**; con **vibración**, flexible (el tubo rígido soldado a algo que tiembla se **fisura y fuga**). La **tabla 1** gobierna los aparatos y la **tabla 2** los mecheros y sopletes: **rígida → solo fijos**; las dos **con enchufe de seguridad → solo doméstico**; **elastómeros → móviles y GLP**.
+- **Rígida (4.1):** UNE 60670-3, junta plana UNE 60719, **solo fijos**.
+- **Acero inox corrugado (4.2):** UNE 60713 (o UNE-EN ISO 10380 si falta caudal en no doméstico); máx. **2 m si DN ≤ 15** y **0,470 m si DN > 15**.
+- **Con enchufe de seguridad, solo doméstico:** espirometálica (UNE 60715-1 + UNE-EN 15069), **1,5 m** / calefacción móvil **0,6 m**; acero inox corrugado (UNE-EN 14800 + UNE-EN 15069), **2 m** / calefacción móvil **0,75 m**. En ambas, **rosca UNE-EN 10226-1 y prohibido el racor de dos piezas** (se afloja con la vibración y fuga).
+- **Elastómero con armadura (4.5):** móviles no domésticos con **GLP** (clase 3) y sopletes (**UNE-EN ISO 3821**); máx. **1,5 m** (calefacción móvil no industrial **0,6 m**; sopletes sin tope).
+- **Elastómero (4.6), el tubo naranja de la bombona:** UNE 53539 o UNE-EN 16436 clase 1 (ésta **solo GLP**); **boquillas UNE 60714** del mismo DN con **abrazaderas metálicas** (nunca de plástico: cede con el calor y el tubo se suelta); máx. **1,5 m** (calefacción móvil **0,6 m**). El de goma caduca; vigílalo.
 - **Metálica corrugada (4.7):** UNE-EN 14800, **sin** enchufe de seguridad, máx. **2 m**; unión por junta plana o **tetina** (UNE 60719).
-- Prohibiciones comunes de los flexibles: **nunca bajo las llamas**, **sin contacto con partes calientes** y **no cruzar por detrás de hornos** salvo aislamiento térmico y ≤ **30 °C** de sobrecalentamiento certificado.
-- **Anexo A (informativo):** fijos/encastrados → **rígida**; móviles → **flexible**.
+- **Prohibiciones comunes de los flexibles (la parte que evita incendios y CO):** **nunca bajo las llamas**, **sin contacto con partes calientes** y **no cruzar por detrás de hornos** salvo aislamiento térmico certificado y ≤ **30 °C** de sobrecalentamiento por escrito en el manual. Un flexible resecado por el calor se cuartea, fuga y puede acabar en **incendio o intoxicación por CO**.
+- **El papeleo.** La ubicación y el tipo de conexión que montas los certifica y firma la **empresa instaladora** en el **certificado de instalación** (el «boletín», con la tabla de aparatos del modelo **IRG-3**) y en la **puesta en marcha** del aparato; el documento se entrega al **usuario** y queda a disposición de la **empresa distribuidora** y de la **Comunidad Autónoma**. Montar un flexible que la tabla no admite es firmar un defecto.
+- **Anexo A (informativo), la brújula del día a día:** fijos/encastrados → **rígida**; móviles → **flexible**.

@@ -1,13 +1,13 @@
 # UNE 60670-5 · Recintos destinados a la instalación de contadores de gas
 
-<p class="eyebrow">Tema 12 · Resumen íntegro del tema · 2 vídeos</p>
+<p class="eyebrow">Tema 12 · Resumen íntegro del tema · 2 vídeos · UNE 60670-5</p>
 
 **El contador es el «taxímetro» de la instalación y esta Parte 5 regula su casa.** La UNE 60670-5 fija las condiciones de los recintos que alojan los contadores —local técnico, armario, nicho y conducto técnico— y también cómo se instala un solo contador y cómo se monta un sistema de medición completo en las estaciones de regulación con medida (ERM). Aquí tienes todo el contenido normativo reescrito claro y directo, sin dejarnos ningún valor: alturas, distancias, superficies de ventilación, clases de exactitud y esquemas de medición. Es un tema muy «de cifra»: memoriza los números.
 
 ## Cómo se organiza este tema
 
-- **Vídeo 1 — Recintos y ubicación de los contadores de gas.** Objeto, generalidades, requisitos de ubicación (nueva construcción y edificio ya construido), instalación centralizada (características, dimensiones, ventilación y conducciones ajenas) e instalación de un solo contador (armario/nicho, interior y exterior).
-- **Vídeo 2 — Sistemas de medición en estaciones de regulación con medida (ERM).** Sistema de medición, contadores, conversores de volumen, manómetros, termómetros, unidades remotas de telemedida y los anexos normativos A y B.
+- **Vídeo 1 — Recintos y ubicación de los contadores de gas (UNE 60670-5).** Objeto, generalidades, requisitos de ubicación (nueva construcción y edificio ya construido), instalación centralizada (características, dimensiones, ventilación y conducciones ajenas) e instalación de un solo contador (armario/nicho, interior y exterior).
+- **Vídeo 2 — Sistemas de medición en estaciones de regulación con medida (ERM) (UNE 60670-5).** Sistema de medición, contadores, conversores de volumen, manómetros, termómetros, unidades remotas de telemedida y los anexos normativos A y B.
 
 ## Objeto de la Parte 5
 
@@ -179,6 +179,11 @@ En los casos de instalación del contador en el interior de la vivienda o local 
 - **No** deben existir **mecanismos eléctricos** (enchufes, interruptores, puntos de luz, etc.) ni **aparatos de producción de agua caliente sanitaria y calefacción** a **menos de 20 cm** de las paredes del contador.
 - Cuando estas distancias no se puedan respetar, se debe intercalar una **pantalla protectora** que cubra totalmente la proyección lateral del contador. Puede hacer de pantalla el **lateral de un mueble** que lo contenga.
 
+<figure>
+<img src="imagenes_individuales/fig_7005_p012.png" alt="Contador respecto a los fuegos de la cocina: 40 cm o pantalla de protección">
+<figcaption>Separación del contador respecto a los fuegos de la cocina o encimera. A la izquierda, distancia libre ≥ 0,40 m. A la derecha, con distancia < 0,40 m se intercala una pantalla de protección que cubre la proyección del contador.</figcaption>
+</figure>
+
 > **Nota aclaratoria — el contador dentro de casa: distancias de seguridad.** Grábate estas cifras porque caen: totalizador a **≤ 1,7 m** (se lee de pie), **40 cm** respecto a los fuegos de la cocina, **20 cm** respecto a enchufes/interruptores y a calderas/calentadores. Prohibido en **dormitorios y baños/duchas** (salvo local sin esas dependencias y con **más de 75 m³**), y **nunca bajo el fregadero**. Si no llegas a las distancias, **pantalla protectora** (vale el lateral de un mueble).
 
 ### Instalación del contador en el exterior
@@ -323,6 +328,11 @@ Los sistemas de medición que, de acuerdo con la reglamentación vigente, deban 
 2. **Contador.**
 3. **Toma de presión de débil calibre** (PC ≤ 150 mbar).
 
+<figure>
+<img src="imagenes_individuales/fig_7005_p017.png" alt="Esquema de medición Anexo A (≤ 70 kW): válvula, contador y toma de presión">
+<figcaption>Figura A.1 (Anexo A, potencia ≤ 70 kW). Esquema básico de medición: válvula de cierre a la entrada (1), contador (2) y toma de presión (3). Cuando el contador es de más de 10 m³/h se añade también una válvula de cierre a la salida, como muestran las dos válvulas del esquema.</figcaption>
+</figure>
+
 **Figura A.2 – Tercera familia (GLP).** Leyenda:
 
 1. **Válvula de cierre.**
@@ -356,6 +366,11 @@ Los sistemas de medición que, de acuerdo con la reglamentación vigente, deban 
 4. **Contador.**
 5. **Toma de presión de débil calibre** (PC ≤ 150 mbar).
 
+<figure>
+<img src="imagenes_individuales/fig_7005_p018.jpeg" alt="Figura B.1: válvula, válvula de tres vías con manómetro, contador y toma de presión">
+<figcaption>Figura B.1 (Anexo B, > 70 kW, tercera familia). En línea: válvula de cierre (1), válvula de tres vías (2) con el manómetro (3) para contrastación, contador (4) y toma de presión de débil calibre (5) a la salida.</figcaption>
+</figure>
+
 **Figura B.2.** Leyenda:
 
 1. **Válvula de cierre.**
@@ -364,17 +379,22 @@ Los sistemas de medición que, de acuerdo con la reglamentación vigente, deban 
 4. **Contador.**
 5. **Disco en ocho.**
 
+<figure>
+<img src="imagenes_individuales/fig_7005_p019.png" alt="Figura B.2: esquema de medición con by-pass y disco en ocho">
+<figcaption>Figura B.2 (Anexo B, > 70 kW, tercera familia). Como la B.1 pero con línea de by-pass inferior: válvula de cierre (1), válvula de tres vías (2) con manómetro (3), contador (4) y disco en ocho (5) sobre el by-pass para dejarlo ciego y precintado cuando no se usa.</figcaption>
+</figure>
+
 > **Nota aclaratoria — para lo grande (> 70 kW, GLP), la tabla manda.** Con potencias grandes de tercera familia, el esquema (B.1 o B.2) se elige cruzando dos datos en la **tabla B.1**: el **caudal máximo** (m³(n)/h) y el **consumo anual** (GWh). La diferencia entre B.1 y B.2 es el último elemento: **toma de presión de débil calibre** (B.1) frente a **disco en ocho** (B.2). Y dos avisos: la conversión es por **factor fijo**, y **por debajo de 0,1 bar no se ponen conversores**.
 
 ## Ideas clave del tema
 
-- La **Parte 5** regula los **recintos** de los contadores (local técnico, armario, nicho y conducto técnico, **solo para gas**) y los **sistemas de medición** de las ERM.
-- Nivel según densidad: **gas natural** (ligero) no por debajo del **semisótano**; **GLP** (pesado) no por debajo de la **planta baja**. **Totalizador** a **< 2 m** (hasta **2,40 m** en módulos prefabricados con escalera; **≤ 1,7 m** en interior/exterior de vivienda).
-- Ubicación en nueva construcción: plurifamiliar → **centralizado**, zona común, **grado 2**; unifamiliar/local → **armario o nicho** en fachada. Edificio ya construido → última opción dentro de vivienda con **llaves de usuario accesibles** desde zona común.
-- Centralización: **puerta hacia afuera** con **llave normalizada** (local técnico se abre **desde dentro sin llave**); **placa** por llave (piso y puerta); carteles interiores con **más de dos contadores** y cartel exterior «Contadores de gas».
-- Conducto técnico: **vertical y rectilíneo**, **100 cm²** de tiro por forjado, **reja pisable si > 400 cm²**, puertas **estancas al rellano**.
-- Ventilación: **dos aberturas** (inferior **≤ 50 cm** del suelo, **≤ 15 cm** el borde inferior con GLP; superior **< 30 cm** del techo); **+50 %** si conducto **> 3 m** o **semisótano** (con **puerta estanca**, sin indirecta). Superficies en la **tabla 1**.
-- Un solo contador dentro de casa: **40 cm** a fuegos, **20 cm** a electricidad/ACS; no en dormitorios/baños ni bajo fregaderos; **pantalla** si no hay distancia. Soportes: **UNE 60495-1** (interior/techado) y **UNE 60495-2** (intemperie).
-- ERM: medición **después del regulador**; **≤ 70 kW** → anexo A; **> 70 kW** → anexo B (3.ª familia) o legislación (2.ª). **By-pass** precintable, bloqueable y con disco ciego.
-- Contadores: dimensionar al **60-85 %** (grado 3) o **40-85 %** (grados 1 y 2), por encima del **Qt**; **doble emisor** en turbina y pistones. Conversores **PT/PTZ**, **clase C**, **± 0,5 %**, **35 días**.
-- Manómetros: trabajo al **35-75 %** del fondo de escala; **válvula de tres vías** con toma de **¼"**; **cápsula ≤ 0,6 bar** (UNE-EN 837-3), **Bourdon ≥ 0,6 bar** (UNE-EN 837-1). Termómetros: **–10 °C a +60 °C**, **± 0,5 °C**, en vaina con aceite. **UR** con memoria **≥ 35 días**.
+- **Qué te llevas y para qué sirve.** La Parte 5 gobierna dos cosas: **la «casa» del contador** (local técnico, armario, nicho o conducto técnico, reservados solo para gas) y, cuando la instalación es grande, **el sistema de medición completo** de las ERM. En obra esto decide si la **empresa distribuidora te da de alta o no**: revisa el recinto (accesibilidad, ventilación, cerradura, carteles) y **precinta el equipo de medida** en la puesta en servicio. Recinto que no cumple = puesta en servicio tumbada.
+- **La densidad del gas manda el nivel.** **Gas natural** (ligero) no por debajo del **semisótano**; **GLP** (pesado) no por debajo de la **planta baja**. No es capricho: el GLP fugado **se arrastra por el suelo** y forma bolsa en el punto más bajo, lista para **deflagrar**; por eso con GLP la abertura inferior de ventilación va a **≤ 15 cm** del suelo. **Totalizador** a **< 2 m** (hasta **2,40 m** en módulos prefabricados con escalera; **≤ 1,7 m** dentro o fuera de la vivienda, para leer de pie).
+- **Ventilación: dos bocas o el recinto acumula gas.** Abertura **inferior** (borde superior **≤ 50 cm** del suelo) y **superior** (borde superior **< 30 cm** del techo), con **rejilla fija** y superficies según la **tabla 1**. **+50 %** si el conducto pasa de **3 m** o si el recinto está en **semisótano** (que además exige **puerta estanca** y **prohíbe la ventilación indirecta**). Comerse una boca o taparla con un tubo ajeno es la receta del **olor a gas en el cuarto de contadores** y del riesgo de explosión.
+- **Ubicación y accesibilidad.** Nueva construcción: plurifamiliar → **centralizado** en zona común con **accesibilidad grado 2**; unifamiliar o local → **armario o nicho** en fachada. Edificio ya construido → como última opción dentro de la vivienda, pero con las **llaves de usuario accesibles desde zona común** (para que la compañía corte sin entrar en casa); si ni eso, **autorización expresa** del distribuidor y posible **obturador de cierre**.
+- **Puerta y carteles, para no equivocar la llave.** Puerta que **abre hacia afuera** con **llave normalizada**; el **local técnico** se abre **desde dentro sin llave**. **Placa** indeleble (piso y puerta) junto a cada llave, carteles de maniobra dentro con **más de dos contadores** y cartel exterior «Contadores de gas». Sin identificación clara, el operario **cierra o abre la llave equivocada** y provoca un corte o un escape en otra vivienda.
+- **Conducto técnico.** **Vertical y rectilíneo**, **100 cm²** de tiro por forjado, **reja pisable si el hueco supera 400 cm²**, puertas de planta **estancas al rellano**.
+- **Un solo contador: distancias que evitan sustos.** **40 cm** a los fuegos de la cocina (o **pantalla de protección**), **20 cm** a enchufes/interruptores y a ACS/calefacción; **nunca en dormitorios ni baños/duchas** (salvo local sin esas dependencias y **> 75 m³**) ni **bajo el fregadero**. El calor de los fuegos **deforma** el contador y sus juntas (fuga a la larga) y un mecanismo eléctrico que chispea junto a una fuga es una **deflagración**. Armario **C-s3,d0** (UNE-EN 13501-1), metálico u obra; empotrado, **sellado con mortero**. Soportes: **UNE 60495-1** (interior/techado) y **UNE 60495-2** (intemperie).
+- **ERM: el tren de medida.** Va **después del regulador**; **≤ 70 kW** → anexo A; **> 70 kW** → anexo B (tercera familia) o legislación (segunda). **By-pass** precintable, bloqueable y con **disco ciego** (olvidarlo abierto = gas sin medir). Contadores dimensionados al **60-85 %** (grado 3) o **40-85 %** (grados 1 y 2), por encima del **Qt**; un contador **corto se ahoga y el aparato se apaga**, uno **sobrado mide de menos** y trae reclamaciones. **Doble emisor** en turbina y pistones.
+- **Instrumentos con cifras que caen.** Conversores **PT/PTZ**, **clase C**, **± 0,5 %**, **35 días** de memoria (sin conversor por debajo de **0,1 bar**). Manómetros al **35-75 %** del fondo de escala, con **válvula de tres vías** y toma de **¼"**; **cápsula ≤ 0,6 bar** (UNE-EN 837-3), **Bourdon ≥ 0,6 bar** (UNE-EN 837-1). Termómetros **–10 °C a +60 °C**, **± 0,5 °C**, en **vaina con aceite mineral**, extraíbles sin cortar el servicio. **UR** de telemedida con **entrada serie**, **≥ 35 días** y compatibilidad con el distribuidor.
+- **El papeleo que firmas y adónde va.** El montaje se refleja en el **certificado de instalación de gas**: **IRG-2** para la instalación común (montante de contadores) e **IRG-3** para cada individual. Lo **firma el instalador habilitado** con **sello de la empresa instaladora**; **copia al titular**; el **distribuidor** archiva su ejemplar a disposición del **órgano competente de la Comunidad Autónoma** y cierra la puesta en servicio **precintando el contador**. En ERM de **más de 70 kW** hay **proyecto** y **certificado de dirección de obra** de técnico competente, y el **equipo de medida (de la distribuidora)** queda sometido al **control metrológico legal** (RD 244/2016). Sin recinto conforme y sin estos papeles, no hay precinto ni suministro.

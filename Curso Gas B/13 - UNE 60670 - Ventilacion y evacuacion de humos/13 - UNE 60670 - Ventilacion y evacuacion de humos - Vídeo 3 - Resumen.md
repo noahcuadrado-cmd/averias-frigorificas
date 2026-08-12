@@ -1,6 +1,6 @@
-# Evacuación de los productos de la combustión · Conductos y chimeneas
+# UNE 60670-6 · Evacuación de los productos de la combustión: conductos y chimeneas
 
-<p class="eyebrow">Tema 13 · Vídeo 3 de 3 · UNE 60670 · Parte 6</p>
+<p class="eyebrow">Tema 13 · Vídeo 3 de 3 · UNE 60670-6</p>
 
 **Los humos tienen que salir bien, o intoxican.** Este último vídeo cierra el tema con la parte de evacuación: cómo son los conductos de los aparatos de tipo B y C (de tiro natural y de tiro forzado), los diámetros mínimos, el sistema de puntuación del conducto, y sobre todo las **distancias** que hay que guardar en las salidas a fachada y patio. Termina con las reglas de los conductos comunes y de las chimeneas. Es un vídeo de tablas y centímetros: apúntalos, porque el examen pregunta el valor exacto.
 
@@ -57,6 +57,11 @@ El conducto de evacuación directa al exterior o a patio de ventilación de un a
   - **d)** **40 cm** con cualquier **pared lateral externa**.
   - **e)** **40 cm** con **cornisas y aleros**, y **20 cm** con cualquier otro resalte.
   - **f)** **220 cm** respecto al **nivel del suelo exterior** de la finca, salvo cuando los humos salgan directamente a una **zona privada** de la finca.
+
+<figure>
+<img src="imagenes_individuales/fig_7006_p021.png" alt="Conducto de tiro natural saliendo por muro con deflector, con 10 cm respecto al muro">
+<figcaption>Salida directa de un aparato de tiro natural a través del muro: el extremo remata en un deflector (a la derecha, con base) y debe guardar como mínimo 10 cm respecto al muro que atraviesa. El deflector protege la boca de la lluvia y del viento sin frenar el tiro.</figcaption>
+</figure>
 
 > **Nota aclaratoria — las distancias del extremo: casi todo 40, dos excepciones.** Regla mnemotécnica: al salir a fachada/patio, casi todas las distancias son **40 cm** (aberturas, ventanas/puertas de otro local, paredes laterales, cornisas y aleros). Solo cambian dos: **10 cm al muro** que atraviesas y **20 cm a cualquier otro resalte**. Y **220 cm (2,20 m) al suelo** para que nadie meta la cara en los humos, salvo que salga a tu propia parcela privada.
 
@@ -115,6 +120,11 @@ Además, para ambos:
 - Con carácter general, el **extremo final del tubo** se diseña para favorecer la **salida frontal (tipo cañón)** de los humos a la **mayor distancia horizontal posible**.
 - **Solo en edificación existente**, cuando no se puedan cumplir las distancias mínimas a una pared frontal, se pueden usar en el extremo **deflectores desviadores del flujo** de los productos de la combustión.
 
+<figure>
+<img src="imagenes_individuales/fig_7006_p024.png" alt="Terminal de salida frontal tipo cañón frente a terminal con deflector que abre el flujo">
+<figcaption>Terminales de tiro forzado. A la izquierda, salida frontal «tipo cañón», que lanza los humos de frente a la mayor distancia posible. A la derecha, un terminal con deflector desviador que abre el flujo en abanico: se usa en edificación existente cuando no se puede guardar la distancia a una pared frontal.</figcaption>
+</figure>
+
 ### Características de la instalación
 
 La **proyección perpendicular** del conducto de salida sobre los planos donde están los **orificios de ventilación** y la **parte practicable de los marcos de ventanas** debe distar **como mínimo 40 cm** de estos, **salvo cuando la salida se efectúe por encima** (en cuyo caso no hace falta esa distancia). En **edificación construida** se pueden usar **deflectores desviadores laterales** cuando no pueda respetarse esa distancia de 40 cm, u otro método del fabricante que garantice que la salida diverge; en cualquiera de estos casos la distancia **nunca debe ser menor de 20 cm**.
@@ -126,14 +136,34 @@ Según el tipo de fachada y de salida (concéntrica o de conductos independiente
 - **a1) Tubo concéntrico** (el interior para la salida de los humos, el exterior para la admisión de aire): el tubo de admisión de aire debe **sobresalir ligeramente del muro en la zona exterior, hasta un máximo de 10 cm**.
 - **a2) Tubo de conductos independientes** (un tubo para entrada de aire y otro para salida de humos): tanto el de salida de humos como el de entrada de aire pueden **sobresalir como máximo 10 cm** de la superficie de la fachada. En ambos casos se pueden colocar **rejillas en los extremos** diseñadas por el fabricante.
 
+<figure>
+<img src="imagenes_individuales/fig_7006_p025.png" alt="Salida de ventosa a través de muro y a través de celosía, con asomo máximo de 10 cm">
+<figcaption>Salida a través de fachada (izquierda, muro) y a través de celosía (derecha): el extremo del tubo puede asomar como máximo 10 cm de la superficie de la fachada. Asomar más deja la boca expuesta y devuelve humos hacia la propia pared.</figcaption>
+</figure>
+
 **b) A través de la fachada de una terraza, balcón o galería techados y abiertos al exterior.** Dos posibilidades:
 
 - **b1)** Si el **eje** del tubo de salida está a una distancia **inferior o igual a 30 cm** del techo de la terraza/balcón/galería (medida perpendicular): **solo se permite en edificación construida**. El tubo se **prolonga hacia el límite del techo** de forma que entre ese límite y el extremo del tubo se guarde una **distancia máxima de 10 cm**, prevaleciendo lo que indique el fabricante.
 - **b2)** Si el **eje** está a una distancia **superior a 30 cm** del techo: el extremo del tubo **no debe sobresalir de la pared que atraviesa más de 10 cm**, prevaleciendo lo que indique el fabricante.
 
+<figure>
+<img src="imagenes_individuales/fig_7006_p026.png" alt="Salida en terraza o balcón techado con el eje a más de 30 cm del techo y asomo de 10 cm">
+<figcaption>Salida por la fachada de una terraza o balcón techado con el eje del tubo a más de 30 cm del techo: el extremo no asoma más de 10 cm de la pared. A la izquierda, tubo concéntrico; a la derecha, conductos independientes de aire y humos.</figcaption>
+</figure>
+
 **c) A través de fachada, celosía o similar, con una cornisa o alero en cota superior a la salida de humos.** Se sigue el **mismo criterio que en el caso b)**, siendo el **límite a considerar el de la cornisa o alero**.
 
+<figure>
+<img src="imagenes_individuales/fig_7006_p027.png" alt="Salida en fachada con cornisa o alero por encima, eje a más de 30 cm y asomo de 10 cm">
+<figcaption>Salida por fachada con una cornisa o alero por encima de la boca de humos: se aplica el mismo criterio que en el balcón techado, pero tomando como límite la cornisa o el alero. Con el eje a más de 30 cm, el tubo asoma como máximo 10 cm.</figcaption>
+</figure>
+
 **d) Aparato situado en el exterior, en una terraza, balcón o galería abiertos y techados.** De forma general se sigue el mismo criterio que en b) y c), con la salvedad de que cuando el **eje** del tubo de salida esté a una distancia **superior a 30 cm** del techo, la **longitud del tubo de salida** debe ser la **mínima indicada por el fabricante**.
+
+<figure>
+<img src="imagenes_individuales/fig_7006_p028.png" alt="Aparato instalado en terraza o balcón techado, con eje a 30 cm o menos y a más de 30 cm del techo">
+<figcaption>Aparato situado en el exterior, en una terraza o balcón techado. A la izquierda, con el eje a 30 cm o menos del techo, el tubo se prolonga hasta el borde dejando 10 cm o menos. A la derecha, con el eje a más de 30 cm, la longitud del tubo (L) es la mínima que indique el fabricante.</figcaption>
+</figure>
 
 Si en los casos **b) o d)** la terraza, balcón o galería se **cierra con un sistema permanente después** de instalar el aparato, los tubos de salida de humos se deben **prolongar para atravesar el cerramiento** siguiendo los mismos criterios que a través de muro o celosía del caso a).
 
@@ -145,17 +175,32 @@ Si en los casos **b) o d)** la terraza, balcón o galería se **cierra con un si
 
 **Entre dos salidas al mismo nivel.** Debe mantenerse una **distancia mínima de 60 cm**, que se puede reducir a **30 cm** si se emplean **deflectores desviadores de flujo** indicados por el fabricante u otro método que garantice que las dos salidas sean **divergentes**.
 
+<figure>
+<img src="imagenes_individuales/fig_7006_p029.png" alt="Distancia entre dos salidas al mismo nivel: 60 cm paralelas y 30 cm divergentes">
+<figcaption>Dos salidas de humos al mismo nivel entre ventanas. Con salidas paralelas, la distancia mínima entre ellas es de 60 cm; si se hacen divergentes con deflectores, se puede reducir a 30 cm. El objetivo es que los humos de una no reentren por la otra ni por las ventanas contiguas.</figcaption>
+</figure>
+
 **Respecto de paredes laterales** (medida desde la **generatriz** del conducto):
 
 - **30 cm** en general.
 - **1 m** cuando en la pared lateral existan **huecos o ventanas** situados a un nivel superior al conducto y a una **distancia ≤ 3 m** (en proyección horizontal) de la pared donde está el conducto, siempre que la **diferencia de cotas** mínima de los huecos con la generatriz (en proyección vertical) sea **inferior a 40 cm**.
 - Ambas distancias se **reducen a la mitad** si se emplean **deflectores desviadores de flujo a 45°** del fabricante u otro método que garantice divergencia.
 
+<figure>
+<img src="imagenes_individuales/fig_7006_p030.png" alt="Distancias a paredes laterales: 30 cm en general y 1 m con ventana próxima por encima">
+<figcaption>Distancia de la salida a una pared lateral con ventana. En general basta con 30 cm, pero sube a 1 m (100 cm) cuando en la pared lateral hay huecos o ventanas por encima del conducto, a 3 m o menos y con diferencia de cotas inferior a 40 cm. Así los humos no entran por la ventana del vecino de al lado.</figcaption>
+</figure>
+
 **Respecto de paredes frontales** (medida desde el **extremo** del conducto):
 
 - **2 m** en general.
 - **3 m** cuando en la pared frontal existan **huecos o ventanas** a un nivel superior al conducto cuya **diferencia de cotas** (en proyección vertical) con la generatriz sea **inferior a 40 cm**.
 - Ambas distancias se reducen a **1,5 m** o **2,2 m**, respectivamente, si se emplean **deflectores desviadores de flujo a 45°** del fabricante u otro método que garantice divergencia.
+
+<figure>
+<img src="imagenes_individuales/fig_7006_p031.png" alt="Distancias a paredes frontales: 2 m y 3 m, reducidas a 2,2 m y 1,5 m con deflector">
+<figcaption>Distancia de la salida a una pared frontal. En general 2 m; sube a 3 m si hay ventanas en la pared frontal por encima del conducto con diferencia de cotas inferior a 40 cm. Con deflectores desviadores a 45° esas distancias bajan a 1,5 m y 2,2 m respectivamente.</figcaption>
+</figure>
 
 > **Nota aclaratoria — 2,20 m para no «ahumar» a nadie.** Si la salida da a una zona por donde pasa o está la gente, el eje va **a 2,20 m del suelo** (por encima de la cabeza). Excepción práctica: si sale a **tu propia parcela privada**, no hace falta. Y los **radiadores de ventosa pequeños (< 4,2 kW)** se libran si están **protegidos** para que nadie toque el tubo caliente.
 
@@ -208,11 +253,11 @@ En **chimeneas colectivas** para la evacuación de humos de aparatos de **tipo B
 
 ## Ideas clave del vídeo
 
-- Solo **B y C** evacúan por conducto (por **cubierta, fachada o patio**). El **tiro natural** lleva **cortatiro** (salvo chimenea-hogar de gas).
-- Todo conducto: material **A1/A2-s1,d0**, liso, rígido, estanco; **orificio de 11 mm** para toma de muestras; **tramo vertical de 20 cm** antes del primer codo; **pendiente ascendente**.
-- **Tiro natural, salida directa:** diámetro mínimo por **tabla 3** (90–175 mm) y **puntuación ≥ +1** por **tabla 4** (subir suma, codos y horizontales restan). **Deflector** en el extremo (tipo B, **UNE 60406**).
-- Extremo del conducto: **10 cm** al muro, **40 cm** a aberturas/ventanas/paredes/aleros, **20 cm** a otros resaltes, **220 cm** al suelo exterior.
-- **Tiro forzado (ventosa):** todo según fabricante; **40 cm** (mín. **20 cm** con deflector) a ventilaciones y ventanas; **10 cm** de asomo; balcones, eje al techo **30 cm**.
-- Distancias de fachada: **laterales 30 cm / 1 m**; **frontales 2 m / 3 m**; **entre salidas 60 cm** (30 con deflector); **2,20 m** sobre zona de personas.
-- **No mezclar** en la misma chimenea: tiro natural con forzado, condensación con no condensación, extractores, ni gas con líquidos/sólidos. Unión de individuales, **15 cm**; regulación de tiro **nunca manual**.
-- **Chimeneas:** cálculo por UNE 123001/123003 y UNE-EN 13384; material metálico **UNE-EN 1856-1**, no metálico **NTE-ISH-74**, plástico **UNE-EN 14471**.
+- **Lo que te llevas: los humos tienen que salir bien o intoxican.** Solo **B y C** evacúan por conducto (cubierta, fachada o patio); el **A no tiene conducto**. Todo conducto: material **A1/A2-s1,d0**, liso, rígido y estanco, con **orificio de 11 mm** para la toma de muestras y **tramo vertical de 20 cm** antes del primer codo. Ese orificio de 11 mm es por donde metes la **sonda del analizador de combustión** en la puesta en marcha y en las revisiones: sin él no puedes medir CO/CO₂ ni el tiro.
+- **Tiro natural: diámetro por tabla 3 y puntuación ≥ +1 por tabla 4.** El diámetro nunca por debajo de tabla 3 (**90 a 175 mm** según kW) y **sin reducciones**. La puntuación premia subir (**+0,1 por cada cm**) y penaliza codos y tramos horizontales: hay que acabar en **≥ +1**. Un conducto tumbado y lleno de codos «suspende», y en obra eso es **revoco, tiro insuficiente y el aparato que se apaga** o que dispara el antirrevoco.
+- **Las distancias del extremo (tiro natural): casi todo 40, dos excepciones.** **10 cm** al muro que atraviesas, **40 cm** a aberturas, ventanas/puertas de otro local, paredes laterales, cornisas y aleros, **20 cm** a cualquier otro resalte y **220 cm** al suelo exterior (salvo zona privada). Acercar la salida a una ventana es meter los humos en casa del vecino: queja, mancha negra en la fachada y anomalía en la revisión.
+- **Tiro forzado (ventosa): todo según fabricante, y el 40 cm de las ventanas.** La proyección del tubo debe distar **≥ 40 cm** de orificios de ventilación y ventanas (salvo salida por encima), y **nunca menos de 20 cm** ni usando deflector. El tubo asoma **≤ 10 cm** de la fachada. En balcones y galerías techados el número mágico es **30 cm de eje al techo**. Si luego cierran el balcón, hay que **alargar** los tubos para sacar los humos de verdad, o acabas con la caldera revocando en un cuarto cerrado.
+- **Distancias de fachada, con y sin deflector.** Laterales **30 cm / 1 m**; frontales **2 m / 3 m**; entre dos salidas **60 cm** (30 con deflector); **2,20 m** sobre zona de personas (salvo zona privada, o ventosa < 4,2 kW protegida). El **deflector desviador a 45°** es el truco que te deja acercarte, porque tuerce los humos y evita que entren por una ventana o choquen de frente.
+- **La lista de «no mezclar» en la misma chimenea.** Tiro natural con tiro forzado (el ventilador de uno revoca al otro), condensación con no condensación (salvo chimenea anticorrosión **UNE 123001** + cálculo **UNE-EN 13384-2**), **extractores o campanas** (chuparían los humos) y **gas con líquidos/sólidos** (si reaprovechas una chimenea vieja, límpiala y comprueba el tiro). Cada una de estas mezclas es un caso real de revoco o de intoxicación.
+- **Detalles de conductos comunes y chimeneas.** **15 cm** de separación entre generatrices al unir individuales; empalmes al conducto común **en ángulo agudo, a favor del flujo**; paso por madera con **10 cm más de agujero** y relleno incombustible; regulación de tiro **nunca a mano**. Cálculo de chimenea por **UNE 123001/123003 y UNE-EN 13384**; material metálico **UNE-EN 1856-1**, no metálico **NTE-ISH-74**, plástico **UNE-EN 14471**.
+- **El papeleo que cierra el trabajo.** Todo esto se comprueba y se firma en el **certificado de instalación (boletín)** por la empresa instaladora habilitada, y la combustión del aparato en su **certificado de puesta en marcha** (medida por el orificio de 11 mm). La instalación se entrega a la **empresa distribuidora** para la puesta en servicio y queda registrada ante el órgano de industria de la **Comunidad Autónoma**, con copia para el **usuario**. Una evacuación mal resuelta es la anomalía que te tumba la puesta en servicio o el **certificado de revisión/inspección** periódica.

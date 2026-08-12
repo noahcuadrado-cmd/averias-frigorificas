@@ -1,6 +1,6 @@
-# UNE 60670 · Instalaciones en servicio y control periódico
+# UNE 60670-11, -12 y -13 · Instalaciones en servicio y control periódico
 
-<p class="eyebrow">Tema 16 · Resumen íntegro del tema · 4 vídeos</p>
+<p class="eyebrow">Tema 16 · Resumen íntegro del tema · UNE 60670-11, -12 y -13 · 4 vídeos</p>
 
 **Este tema es el «después» de la instalación: cuando ya hay gas.** Reúne las **tres últimas partes** de la Norma UNE 60670: la **Parte 11** (operaciones sobre instalaciones en servicio), la **Parte 12** (control periódico de las instalaciones) y la **Parte 13** (control periódico de los aparatos). Aquí está todo lo que el instalador necesita para **operar, reparar, inspeccionar y calificar** una instalación que ya funciona, incluida la lista completa de anomalías con su clasificación, sus plazos y sus valores numéricos. Reproducido íntegro y reescrito en lenguaje de taller, con notas para lo que más cae en el examen.
 
@@ -436,12 +436,34 @@ Aparato en **régimen estacionario** y **máxima potencia alcanzable**. Tras **d
 **a) Toma de muestras**
 
 - **a1) Con conducto de evacuación:** en el **punto preparado**; si no existe, **orificio de diámetro mínimo 11 mm** cerca del aparato (figura A.1), salvo **tubos radiantes de evacuación colectiva (sistema D)**, donde se toma en el **conducto general tras el último aparato**. En **tipo B con cortatiro**, penetrando la sonda por una abertura cercana al **collarín de unión en la base** del tubo o, en su defecto, en la **parte superior del cortatiros** (figura A.2). En **tipo C concéntricos**, asegurar **estanquidad entre admisión y evacuación**. Sonda **perpendicular** al conducto, extremo en el **eje de la vena de los PdC**. Tras medir, **obturar** el orificio con taponamiento estanco, resistente a la temperatura de humos, **desmontable y montable**.
+
+<figure>
+<img src="imagenes_individuales/fig_7013_p014.png" alt="Aparato de tipo B con cortatiros: orificio de entrada de la sonda de diámetro mayor o igual a 11 mm practicado en la base del tubo de evacuación">
+<figcaption>Figura A.1 — Cuando el aparato de tipo B con cortatiros no trae punto de toma, se practica un orificio de ø ≥ 11 mm en el tubo de evacuación, lo más cerca posible del aparato. La sonda entra perpendicular para que su extremo quede en el eje de la vena de los productos de la combustión.</figcaption>
+</figure>
+
+<figure>
+<img src="imagenes_individuales/fig_7013_p015.png" alt="Aparato de tipo B con cortatiros sin orificio: posición de la sonda en la base del tubo de evacuación, parte superior del cortatiros">
+<figcaption>Figura A.2 — Si no existe ni se puede practicar el orificio, la sonda se introduce por una abertura cercana al collarín de unión en la base del tubo de evacuación o, en su defecto, en la parte superior del cortatiros.</figcaption>
+</figure>
+
 - **a2) Vitrocerámicas de fuegos cubiertos:** medida en **cada fuego a máxima potencia**; con varias **coronas** (inyector diferente), medir cada una **individual y conjunta**. Sonda **horizontal sobre la rejilla** de salida de los PdC, en el punto medio de la zona de salida (figura A.4).
+
+<figure>
+<img src="imagenes_individuales/fig_7013_p017.png" alt="Encimera vitrocerámica de fuegos cubiertos: sonda de toma de muestras apoyada sobre la rejilla de evacuación de los productos de la combustión">
+<figcaption>Figura A.4 — Toma de productos de la combustión en una vitrocerámica de fuegos cubiertos: la sonda se apoya horizontalmente sobre la rejilla por donde salen los PdC de los quemadores interiores, midiendo cada fuego a máxima potencia.</figcaption>
+</figure>
+
 - **a3) Generadores de aire caliente UNE-EN 525:** toma en el **punto preparado**; si no, en **cualquier boca de impulsión**. Sonda **perpendicular al conducto de impulsión**, extremo en el eje de la vena de los PdC.
 
 **b) Obtención de los valores**
 
 Sonda en posición **al menos dos minutos**: si el CO oscila poco o es estable, anotar; si oscila permanentemente, **observar un minuto** y registrar el valor **más cercano al máximo**. Salvo generadores de aire caliente UNE-EN 525, medir también el **O₂ simultáneo** (bondad de la medida): si **O₂ > 10 %** (salvo **condensación**, según fabricante), medido en la **parte superior del cortatiros** (tipo B), verificar que no sea por **mala colocación de la sonda** o **inversión del tiro**; repetir y, si hay inversión, colocar la sonda en la **parte inferior del cortatiros** (figura A.3).
+
+<figure>
+<img src="imagenes_individuales/fig_7013_p016.png" alt="Aparato de tipo B con cortatiros y posible inversión de tiro: sonda colocada en la parte inferior del cortatiros">
+<figcaption>Figura A.3 — Ante una posible inversión de tiro (el O₂ sale por encima del 10 %, entra aire y diluye los humos), la sonda se recoloca en la parte inferior del cortatiros para captar los PdC antes de que se mezclen con el aire ambiente.</figcaption>
+</figure>
 
 ### 5.3 Equipos de medida (A.3)
 
@@ -474,11 +496,13 @@ Apropiados, con **medida directa de CO**. **Comprobación periódica** por el fa
 
 ## Ideas clave del tema
 
-- **Parte 11:** operaciones sobre instalaciones **en servicio** (MOP ≤ 5 bar), con **evidencia documental**. La **distribuidora** maneja acometida, contador y cese; la **instaladora**, modificaciones, reparaciones, corrección de defectos y anulación de puntos; el **SAT**, solo **aparatos**.
-- **Reparación vs modificación:** frontera en **1 m**; modificación exige **prueba de estanquidad UNE 60670-8**. **Fugas: agua jabonosa o detector, nunca llama.** Detector y analizador: **calibración/verificación ≤ 18 meses**.
-- **Con indicios de gas:** **no accionar interruptores**, no chispas ni llamas, ventilar, cerrar la llave, detectores **UNE-EN 61779-1/-4** y **linternas de seguridad**.
-- **Clasificación (Partes 12 y 13):** **principal** → subsanar en el acto o **cortar**; **secundaria** → **6 meses**, salvo **fuga secundaria** (Parte 12) → **menos de 15 días naturales**.
-- **Escalera de fuga (gas menos denso, interior no peligroso, midiendo):** **< 1 l/h** apta · **1-5 l/h** pendiente · **> 5 l/h** no apta. **Sin medir → no apta.** **Sala de máquinas** sin detección y corte → no apta con **> 1 l/h**. **Gas más denso (GLP): cualquier fuga, no apta sin medir.**
-- **Anomalías clave de instalación:** nada de **tipo A/B en dormitorio o baño**; tipo B mal ventilado **≤ 8 m³** principal, **> 8 m³** secundaria; ventilación por extractor **80/100 cm²** (≤/> 16 kW de tipo A); en **CS-9**, grietas **arriba** con gas natural y **abajo** con GLP; **extintor de 12 kg** en la ERM.
-- **Aparatos (Parte 13):** **CO-ambiente** ≤ 15 / 15-50 / > 50 ppm (por **CO₂**: 2500 / 5000); **CO-PdC** ≤ 500 / 500-1000 / > 1000 ppm. Sonda a **≈ 1 m** y **1,80 m**, medir a los **5 minutos**.
-- **Anexos A y B (normativos):** procedimiento de medida (orificio **11 mm**, **O₂ > 10 %** avisa de inversión de tiro; aparatos suspendidos tipo A a **1,80 m** cada **25 m²**, **15 min**). Equipos: **≤ 18 meses**, **botellas patrón**, **registro 5 años**, **incertidumbre ≤ ± 5 %**.
+- **Qué te llevas de todo el tema.** Las tres últimas partes de la UNE 60670 son el **«después» de la instalación**: cómo **operar** sobre una instalación que ya tiene gas (Parte 11), cómo **controlar periódicamente las tuberías** (Parte 12) y cómo **controlar los aparatos** (Parte 13). Todo en el mismo terreno de juego: **MOP ≤ 5 bar**. Es el trabajo de mantenimiento y revisión que vas a firmar una y otra vez.
+- **Quién toca qué y a quién avisas.** La **distribuidora** maneja **acometida, contador y cese**; tú, la **instaladora**, haces modificaciones, reparaciones, corrección de defectos y **anulación de puntos**; el **SAT**, solo **aparatos**. La **llave de acometida no la abre nadie más que la distribuidora o quien ella autorice**, y **toda operación deja evidencia documental**. En obra, sin papel no te has cubierto.
+- **El papeleo del control periódico.** Cada visita acaba en **uno de dos documentos**: **certificado** (favorable) o **informe de anomalías** (alcance, situación en que queda la instalación y **plazo de corrección**), siempre con **recomendaciones de seguridad**. Lo firma la **empresa habilitada** que realiza el control, se entrega al **titular/usuario** y las **anomalías principales o instalaciones no aptas** se **comunican a la empresa distribuidora**.
+- **Reparación vs modificación: la frontera de 1 metro.** Tramo **≤ 1 m** → **reparación** (basta comprobar la estanquidad del tramo). Tramo **> 1 m**, ampliar consumo o cambiar de aparato → **modificación**, que exige **prueba de estanquidad completa según UNE 60670-8**. Y la regla de oro repetida en todo el tema: **antes de dar gas, comprueba siempre la estanquidad**; reabrir sobre una unión mal hecha es la avería que más mata.
+- **Fugas: cómo se buscan y cómo se miden.** Se localizan con **agua jabonosa** o **detector, nunca con llama**. El **detector y el analizador** se **calibran o verifican al menos cada 18 meses**. Para estanquidad, **manómetro de esfera clase 1,6 trabajando al 35-75 % de la escala** o **giro de la métrica del contador** (resolución ≥ 1 litro, **5 minutos**).
+- **Con indicios de gas, el error que mata es el interruptor.** **No acciones interruptores** (ni apagues la luz), no generes chispas ni llamas, **ventila y cierra la llave**. Detectores **UNE-EN 61779-1/-4** y **linterna de seguridad** (antideflagrante).
+- **Principal o secundaria decide si cortas.** **Principal** → subsanar en el acto o **cortar** (la instalación o el aparato). **Secundaria** → **6 meses**, salvo **fuga secundaria** (Parte 12) → **menos de 15 días naturales**.
+- **La escalera de fuga en litros/hora (> 70 kW y comunes).** Gas menos denso, interior no peligroso, midiendo: **< 1 l/h apta · 1-5 l/h pendiente · > 5 l/h no apta**. **Sin medir → no apta.** **Sala de máquinas** sin detección y corte → no apta ya con **> 1 l/h**. **GLP (más denso): cualquier fuga es no apta, sin medir** —pesa, se acumula abajo y explota—.
+- **Las anomalías que más vidas salvan.** Nada de **tipo A o B en dormitorio o baño** (CO mientras duermes); **tipo B mal ventilado** → principal si **V ≤ 8 m³**, secundaria si **> 8 m³**; **flexible roto** → principal, **caducado o mal puesto** → secundaria; ventilación por extractor **80/100 cm²** según los **16 kW** de tipo A; **extintor de 12 kg** en la ERM; y en **CS-9**, grietas **arriba con gas natural, abajo con GLP**.
+- **Los números del CO en los aparatos (Parte 13).** **CO-ambiente:** ≤ 15 / 15-50 (moderado) / > 50 ppm (grave); **CO₂-ambiente:** 2500 / 5000; **CO-PdC:** ≤ 500 / 500-1000 (deficiente) / > 1000 ppm (no higiénica). Sonda a **≈ 1 m y 1,80 m**, medir a los **5 minutos**. Analizador: **≤ 18 meses**, **botellas patrón**, **registro 5 años**, **incertidumbre ≤ ± 5 %**, orificio de toma **11 mm**.

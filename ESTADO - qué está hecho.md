@@ -23,7 +23,11 @@ Panel de control del curso **Gas B** (PROMPT MAESTRO v9).
 - [x] **FASE 1 — Tema 00 v2** (34 notas aclaratorias con ejemplos, renombradas). Estándar aprobado por el cliente.
 - [x] **FASE 1 — Bloque A (temas 01-08)** completo y verificado. Commit.
 - [x] **FASE 1 — Bloque B (temas 09-17)** completo y verificado. Commit.
-- [x] **FASE 1 COMPLETA (18 temas): 49 vídeos · 67 PDF de estudio · 718 páginas · +1.100 notas aclaratorias.**
+- [x] **FASE 1 COMPLETA (18 temas): 49 vídeos · 67 PDF de estudio.**
+- [x] Mejoras aplicadas sobre FASE 1:
+  - Títulos UNE con nº de parte (UNE 60670-1…13).
+  - Imágenes emparejadas fino en temas con figuras (04 impresos IRG, 07 IRV, 12/13/14/15/16 esquemas) y Tema 17 (29 figuras) con pies descriptivos.
+  - «Ideas clave del vídeo» reescritas como cierre práctico (utilidad, averías reales, boletines/papeleo con quién firma y dónde se entrega).
 - [ ] Diagramas de comprensión (pasada aparte, cuando el texto esté cerrado). Los PDF de estudio van SIN imágenes (decisión del cliente).
 
 ## Correcciones aplicadas

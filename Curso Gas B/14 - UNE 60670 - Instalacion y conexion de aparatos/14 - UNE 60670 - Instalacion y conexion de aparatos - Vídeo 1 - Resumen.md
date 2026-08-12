@@ -1,6 +1,6 @@
-# Instalación y conexión de aparatos · Generalidades y tipos de conexión
+# UNE 60670-7 · Instalación y conexión de aparatos: generalidades y tipos de conexión
 
-<p class="eyebrow">Tema 14 · Vídeo 1 de 2 · UNE 60670 · Parte 7</p>
+<p class="eyebrow">Tema 14 · Vídeo 1 de 2 · UNE 60670-7</p>
 
 **Aquí empieza la parte de la norma que más pisas en obra: cómo se cuelga un aparato del gas.** La UNE 60670-7 dice dónde puede ir un aparato, a qué distancia del calor y —lo más preguntado— con qué tipo de conexión se une a la instalación o a la bombona. En este primer vídeo montamos el mapa: qué regula la norma, las reglas de ubicación de aparatos y las dos grandes tablas que deciden qué conexión vale para cada aparato. En el vídeo 2 bajamos al detalle de cada tipo de conexión.
 
@@ -44,6 +44,11 @@ Además de las instrucciones del fabricante, en la instalación de los aparatos 
   - Para los aparatos de **tipo C**, con independencia de si se intercala una pantalla de protección, esa distancia debe ser **igual o superior a 10 cm**.
 
 > **Nota aclaratoria — el porqué de los 40 cm.** Imagina un calentador (circuito abierto) colgado justo encima de la encimera. Cuando enciendes los fuegos de abajo, sube una columna de calor que puede achicharrar el calentador. Por eso la norma exige **40 cm** de separación horizontal respecto al quemador más cercano. Si pones una **pantalla** que corte ese calor, te deja bajar hasta **10 cm**. Truco: *40 sin protección, 10 con protección*.
+
+<figure>
+<img src="imagenes_individuales/fig_7007_p007.png" alt="Distancia horizontal entre un aparato de circuito abierto y una cocina, sin y con pantalla de protección">
+<figcaption>Aparato de circuito abierto (un calentador) situado por encima de una cocina. Arriba, sin protección, la proyección del extremo más próximo debe guardar 40 cm horizontales respecto al quemador más cercano. Abajo, intercalando una pantalla de protección, esa distancia puede reducirse hasta 10 cm.</figcaption>
+</figure>
 
 > **Nota aclaratoria — el tipo C es el «listo de la clase».** Un aparato **tipo C es estanco**: coge el aire y expulsa los humos por su propio conducto, sellado respecto a la habitación. Como no «respira» del cuarto ni le afecta tanto el foco de calor, la norma se conforma con **10 cm siempre**, tenga pantalla o no. Regla de memoria: *circuito abierto → 40/10; tipo C → 10 fijo*.
 
@@ -107,9 +112,9 @@ Nota de la tabla 2:
 
 ## Ideas clave del vídeo
 
-- La **Parte 7** de la UNE 60670 regula la **instalación y conexión de aparatos** a la instalación receptora o a un **envase de GLP ≤ 15 kg**, siguiendo la legislación y las **instrucciones del fabricante**.
-- Los aparatos de **tipo B y C deben ser fijos**; lo móvil se reserva a los tipo A.
-- Aparato de **circuito abierto** por encima de una cocción: **40 cm** de distancia horizontal, reducible a **10 cm** con protección. Aparato **tipo C: 10 cm** siempre (con o sin pantalla).
-- La conexión se hace **a través de la llave de conexión de aparato**; si hay **vibración**, se recomienda **flexible**.
-- **Tabla 1** decide la conexión de los **aparatos** (según fijo/móvil y D/ND); **tabla 2**, la de **mecheros y sopletes**.
-- **Rígida → solo fijos.** Las dos conexiones **con enchufe de seguridad → solo uso doméstico**. Los **elastómeros → móviles y GLP**.
+- **Qué te llevas y para qué sirve.** Este vídeo te da el criterio para dos decisiones que tomas en cada aparato que cuelgas: **dónde lo pones** (distancia al foco de calor) y **con qué tipo de conexión lo unes**. La Parte 7 gobierna el «último metro», de la **llave de conexión de aparato hacia el aparato**, tanto si el gas viene de la instalación receptora como de un **envase de GLP ≤ 15 kg**. Con esto colocas cualquier aparato sin improvisar y sin discutir con el que venga a inspeccionar.
+- **La distancia al calor no es un capricho: es la avería más típica del calentador.** Un aparato de **circuito abierto** (un calentador) colgado encima de la encimera necesita **40 cm** horizontales al quemador más cercano (**10 cm** si intercalas pantalla; **tipo C, 10 cm** siempre). Si te lo saltas, la columna de calor de los fuegos recalienta el calentador: **carcasa amarilleada o deformada, sensor de humos que salta, aparato que se apaga solo** y quejas de agua que se corta al cocinar. Colócalo a distancia o pon pantalla, y te ahorras esa visita de vuelta.
+- **Fijo o móvil manda en la conexión, y equivocarse se paga en fuga.** Los aparatos **tipo B y C deben ser fijos** (lo móvil es cosa del tipo A). Si a un aparato que **vibra** (una secadora, un equipo con motor) le pones tubo **rígido**, la vibración lo **fatiga y lo fisura** hasta que fuga por la unión; por eso ahí se recomienda **flexible**. Elegir mal aquí es sembrar una fuga que aparecerá meses después.
+- **Las dos tablas son tu filtro anti-error.** La **tabla 1** decide la conexión de los **aparatos** (según fijo/móvil y doméstico/no doméstico) y la **tabla 2** la de **mecheros y sopletes**. Tres ideas te resuelven casi todo: **rígida → solo fijos**; las dos **con enchufe de seguridad → solo doméstico** (valen fijo y móvil); **elastómeros → mundo de lo móvil y del GLP**. Poner en obra una conexión que la tabla no admite para ese uso es exactamente lo que un inspector marca como defecto y te obliga a rehacer.
+- **El papeleo que esto genera.** La ubicación del aparato y el tipo de conexión que has montado forman parte de lo que la **empresa instaladora** refleja y firma en el **certificado de instalación** (el «boletín», con la tabla de aparatos del modelo **IRG-3**) y en el **certificado de puesta en marcha** del aparato; ese certificado se entrega al **usuario** y queda a disposición de la **empresa distribuidora** y de la **Comunidad Autónoma**. Si conectas un aparato con un flexible que no corresponde, estás firmando algo que no cumple la Parte 7.
+- **Datos que no se te pueden caer:** **40/10 cm** (circuito abierto) y **10 cm fijos** para tipo C; **tipo B y C = fijos**; frontera en la **llave de conexión de aparato**; límite de **15 kg** del envase de GLP; y **tabla 1 (aparatos) frente a tabla 2 (mecheros y sopletes)**.
