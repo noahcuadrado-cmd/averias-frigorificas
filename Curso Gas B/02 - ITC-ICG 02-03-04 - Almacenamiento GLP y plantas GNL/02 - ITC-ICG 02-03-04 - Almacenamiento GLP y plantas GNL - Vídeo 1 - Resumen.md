@@ -170,11 +170,11 @@ Para la carga o descarga se **prohíbe** emplear elementos de elevación de tipo
 
 ## Ideas clave del vídeo
 
-- La **ITC-ICG 02** regula los **centros de almacenamiento y distribución de envases de GLP**; «modificación» solo cuando la ampliación **cambia de categoría**.
-- Cinco categorías por **kg** (de mayor a menor): **1.ª** 25.001–250.000 · **2.ª** 12.501–25.000 · **3.ª** 1.001–12.500 · **4.ª** 501–1.000 · **5.ª** hasta 500.
-- Capacidad: **Ct = Cn × N × 0,65**, contando envases **llenos y vacíos**.
-- Diseño general (todos salvo 5.ª): almacenamiento **al aire libre**, envases llenos **en vertical**, evacuación **≤ 25 m**, letrero de prohibido fumar y **prohibido el trasvase** entre envases.
-- Distancias de seguridad (1.ª/2.ª/3.ª): interior **6/6/2 m**, exterior **20/15/10 m**; **+10 m** ante colegios, hospitales, hoteles, vías férreas o líneas de alta tensión.
-- **Cerramiento** a **10 m**: muro **EI 180 de 2,5 m** hacia zonas con gente, **malla de 2 m** el resto.
-- Apilado en jaulas: hasta 15 kg → **4 llenas / 6 vacías**; más de 15 kg → **1 altura**.
-- Incendios: agua a **5 kg/cm²**, bocas **DN25**, **90 min** de autonomía; **6 bocas** en 1.ª, **2** en 2.ª/3.ª; extintores según el **Cuadro II** (un **43A-183B** = dos **21A-113B**).
+- **Qué te llevas:** la **ITC-ICG 02** es el manual de la «nave de las bombonas». Lo primero que se hace al pisar un centro es clasificarlo por kilos y calcular su capacidad con **Ct = Cn × N × 0,65**, contando envases **llenos y vacíos** (un vacío nunca lo está del todo: sigue sumando). De la categoría cuelga todo lo demás: **1.ª** 25.001–250.000 · **2.ª** 12.501–25.000 · **3.ª** 1.001–12.500 · **4.ª** 501–1.000 · **5.ª** hasta 500. Retén que solo cuenta como **modificación** reglamentaria la ampliación que **hace saltar de categoría**.
+- **Para qué sirve en obra:** las reglas de diseño general son las que miras de un vistazo cuando montas o revisas un centro. Almacenamiento **al aire libre** (a lo sumo cubierta ligera), envases llenos **siempre en vertical**, recorrido de evacuación **≤ 25 m**, letrero de **prohibido fumar** y **prohibido el trasvase** de un envase a otro.
+- **La avería que evitas:** el **GLP pesa más que el aire**. En un recinto cerrado una fuga se va **a ras de suelo**, se embolsa y con una chispa tienes la explosión; por eso «al aire libre» es innegociable y el mechero se queda en la puerta. Y rellenar bombonas por tu cuenta (el trasvase prohibido) es sobrellenar, fugar y jugártela: eso solo se hace en planta de llenado autorizada.
+- **Apilado sin sustos:** en jaulas, domésticas de **hasta 15 kg → 4 alturas llenas / 6 vacías**; las de **más de 15 kg → una sola altura**, llenas o vacías. Nada de imanes ni eslingas chapuceras: una jaula que cae es un golpe en la válvula y una **fuga garantizada**.
+- **Distancias que sostienen o tumban el proyecto:** interior **6/6/2 m** y exterior **20/15/10 m** (1.ª/2.ª/3.ª); **+10 m** si al otro lado de la valla hay colegio, hospital, hotel, cuartel, vía férrea o línea de alta tensión. La exterior siempre es mayor: proteger al de fuera pesa más.
+- **Cerramiento:** muro **EI 180 de 2,5 m** hacia donde pasa gente, **malla de 2 m** el resto, a **10 m** mínimo del almacenamiento y con **todos los edificios dentro**.
+- **Contra incendios (1.ª):** agua a **5 kg/cm²**, bocas **DN25** a 10 m, **90 min** de autonomía y **6 bocas** (2 en 2.ª/3.ª); extintores según el **Cuadro II** (un **43A-183B** equivale a dos **21A-113B**). Estos medios, más la **instrucción del personal y el ensayo anual** del material, son lo que separa un conato apagado de un centro ardiendo.
+- **El papeleo llega en el siguiente vídeo:** proyecto, inspección del organismo de control y comunicación a la Comunidad Autónoma son de la 4.ª/5.ª y la documentación, que cierran la ITC-02.
