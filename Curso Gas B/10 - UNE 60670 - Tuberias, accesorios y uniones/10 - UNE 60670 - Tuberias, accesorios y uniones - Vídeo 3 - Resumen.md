@@ -1,6 +1,6 @@
-# Tipos de uniones
+# UNE 60670-3 · Tipos de uniones
 
-<p class="eyebrow">Tema 10 · Vídeo 3 de 3 · UNE 60670 · Parte 3</p>
+<p class="eyebrow">Tema 10 · Vídeo 3 de 3 · UNE 60670-3</p>
 
 **Donde no hay fuga, hay una buena unión.** Este vídeo cierra la Parte 3 con el capítulo que más se pregunta: cómo se unen los tubos entre sí y con los accesorios. Verás las uniones **por soldadura** (blanda y fuerte), las **mecánicas desmontables** (junta plana, bridas, metal-metal) y las **mecánicas no desmontables** (roscadas, press-fitting, corrugado). Presta especial atención a lo que está **prohibido** y a las combinaciones de materiales que **exigen intercalar una pieza de aleación de cobre**: ahí están las trampas del examen.
 
@@ -137,11 +137,11 @@ Se pueden emplear también las uniones que sean **aceptadas en la Norma UNE-EN 1
 
 ## Ideas clave del vídeo
 
-- Toda unión debe **asegurar la estanquidad**, sin verse afectada por el gas, la presión ni el medio exterior.
-- **Soldadura fuerte obligatoria** por encima de **0,05 bar** (y en **aparcamientos cerrados**); la **blanda** solo hasta **0,05 bar** en uso doméstico o cocinas tipo A **≤ 30 kW**.
-- Puntos de fusión clave: **220 °C** (blanda), **450 °C** (capilaridad fuerte) y **850 °C** (cobre-acero por bordón). **Prohibido el estaño-plomo** como aportación (salvo uniones con plomo).
-- Entre **metales distintos** se intercala siempre un **accesorio de aleación de cobre** (cobre-acero, cobre-inox, y manguito para acero/inox-plomo).
-- Uniones con **plomo**: solo en **ampliaciones/modificaciones en servicio**, **≤ 0,05 bar** y **uso doméstico**.
-- **Mecánicas desmontables** (junta plana, bridas, metal-metal) y **no desmontables** (roscada, press-fitting, axial, corrugado): todas **hasta MOP 5 bar**.
-- **Metal-metal**: solo en **conjuntos de regulación**. **Junta plana / bridas**: solo en accesorios desmontables y conexiones rígidas de aparatos fijos.
-- **PE-metal**: enlaces **desmontables** (UNE 60405-1 y -3) frente a enlaces **fijos** (UNE 60405-1 y -2).
+- **Qué te llevas.** Donde no hay fuga, hay una buena unión. Toda unión debe **asegurar la estanquidad** pase lo que pase (gas, presión, ambiente). Y el juez de que lo has hecho bien es la **prueba de estanquidad** (UNE 60670-8) antes de dar servicio: las uniones chapuceras son justo las que la tiran.
+- **Blanda vs. fuerte, la frontera en 0,05 bar.** Por **encima de 0,05 bar → soldadura fuerte siempre**; la **blanda** solo hasta 0,05 bar en uso doméstico o cocina tipo A **≤ 30 kW**. Y en **aparcamiento cerrado**, fuerte aunque la presión sea baja. ¿Por qué importa en obra? Porque en un incendio la blanda se funde antes y suelta el gas: soldar blando donde tocaba fuerte es alimentar el fuego.
+- **Tres puntos de fusión de examen y de obra:** **220 °C** (blanda), **450 °C** (capilaridad fuerte) y **850 °C** (cobre-acero por bordón). **Prohibido el estaño-plomo** como aportación (salvo las uniones con plomo): es tóxico y deja la unión fuera de norma.
+- **La regla del "traductor".** Entre **metales distintos**, nunca unión directa: cobre-acero y cobre-inox se unen **intercalando un accesorio de aleación de cobre**; acero o inox con plomo, con **manguito de aleación de cobre**. Unir cobre y acero a pelo crea un **par galvánico** que corroe la junta y termina en fuga con el tiempo.
+- **El plomo, solo para parchear lo viejo:** únicamente en **ampliaciones o modificaciones de instalaciones ya en servicio**, **≤ 0,05 bar** y **uso doméstico**. Nada de plomo en obra nueva.
+- **Mecánicas, todas hasta MOP 5 bar.** Desmontables (junta plana, bridas y **metal-metal solo en conjuntos de regulación**) y no desmontables (roscada UNE 19500 con accesorios UNE-EN 10242, press-fitting radial, axial y corrugado). El press-fitting es hoy el rey en obra rápida: si te olvidas de **prensar** un accesorio o maltratas la **junta tórica** (UNE-EN 549), tienes la fuga esperando a salir en la prueba… o peor, después.
+- **Detalles que se cuelan:** PE por electrofusión (a tope si ≥ DN 110); acero a tope por arco (oxiacetilénica solo ≤ DN 50); **no abocardar** para capilaridad salvo baterías/colectores y sin perder espesor. **PE-metal**: enlace **desmontable** (UNE 60405-1 y -3) frente a **fijo** (UNE 60405-1 y -2); no los confundas.
+- **El papeleo.** La **prueba de estanquidad** superada y las uniones ejecutadas quedan avaladas en el **certificado de instalación** (el "boletín", modelos tipo **IRG**) que **firma la empresa instaladora** y se entrega a la **empresa distribuidora** y al **titular**; la instalación no se pone en servicio sin esa prueba. Una unión que gotea gas es lo que convierte un boletín en un problema con tu firma detrás.

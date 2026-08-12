@@ -1,6 +1,6 @@
 # UNE 60670-4 · Dimensionado de la instalación receptora
 
-<p class="eyebrow">Tema 11 · Vídeo 1 de 3 · UNE 60670 · Parte 4</p>
+<p class="eyebrow">Tema 11 · Vídeo 1 de 3 · UNE 60670-4 · Diseño y construcción</p>
 
 **Antes de doblar el primer tubo, hay que echar números.** La Parte 4 de la UNE 60670 es la norma de **diseño y construcción** de las instalaciones receptoras de gas hasta 5 bar. Este primer vídeo cubre su encaje dentro de la norma completa y todo el bloque de **dimensionado**: qué datos te tiene que dar la distribuidora, cómo se calcula la potencia de una vivienda y de todo el edificio, el factor de simultaneidad, los caudales de diseño y los criterios de cálculo (velocidad máxima y presiones mínimas). Son las cuentas que sostienen todo lo demás.
 
@@ -248,10 +248,10 @@ Tabla 3 – Presión mínima de gas en la llave de aparato
 
 ## Ideas clave del vídeo
 
-- La **UNE 60670-4** es la norma de **diseño y construcción** de receptoras hasta 5 bar; es la Parte 4 de una norma de **13 partes**.
-- La distribuidora debe facilitar **siete datos** de partida (familia y denominación, Hs, densidades, Wobbe, presión de garantía, rango de presiones y DN de la llave de acometida).
-- **Grado de gasificación:** grado 1 hasta **30 kW**, grado 2 de **30 a 70 kW**, grado 3 por encima de **70 kW**. Mínimo obligatorio, siempre 30 kW.
-- **Piv:** los dos aparatos mayores enteros y el resto entre 2, todo por **1,10**. **Pil:** suma de consumos por 1,10.
-- **Pc = Sn × ΣPiv + ΣPil**; el factor **baja** al crecer el nº de viviendas y **S2 (con calefacción) > S1**.
-- Las instalaciones de **más de 70 kW se individualizan**, con llaves para aislarlas del resto.
-- **Caudal = potencia / Hs**. Velocidad máxima del gas **20 m/s**. Presiones mínimas en llave de aparato: **17 / 20 / 42,5 / 25 mbar**.
+- **Qué te llevas y para qué sirve.** Este vídeo es la calculadora del tema: con los datos de la distribuidora sacas potencias, caudales y, al final, el **diámetro de cada tubo**. Dimensionar bien no es un trámite de examen; es lo que hace que la caldera dé toda su potencia y el calentador no se quede corto de agua caliente. Aquí decides si la instalación irá sobrada o pillada de por vida.
+- **Los siete datos de partida los da la distribuidora por escrito:** familia y denominación del gas, Hs, densidades, Wobbe, presión de garantía, rango de presiones y DN de la llave de acometida. No te los inventas ni los mides tú. Si arrancas a calcular sin ellos, el diámetro sale a ojo y ahí empieza el problema. Y si en la zona hay previsto un cambio de gas, la instalación tiene que valer para los dos para no rehacerla.
+- **El error más caro es infradimensionar.** Si te quedas corto de diámetro (o pasas de los **20 m/s**), la **pérdida de carga** se dispara y a la llave del aparato llega **menos presión de la que marca la tabla**: **17 mbar** gas natural, **20** butano, **42,5** propano a 50 y **25** propano a 37. En obra eso es: caldera que modula a la baja o se apaga, calentador que no calienta el agua, quemadores con llama pobre, silbidos y vibraciones por exceso de velocidad y arrastre de suciedad al aparato. Media avería de «el aparato no rinde» es en realidad una instalación mal dimensionada.
+- **Grado de gasificación: memoriza 30 y 70.** Hasta **30 kW** grado 1, de **30 a 70** grado 2, más de **70** grado 3; nunca bajes de 30 kW (suelo obligatorio). En vivienda, **Piv**: los dos aparatos que más consumen enteros y el resto entre 2, todo por **1,10**; en local no doméstico, **Pil**: suma de consumos por 1,10.
+- **Pc = Sn × ΣPiv + ΣPil, y el 70 manda individualizar.** El factor de simultaneidad **baja** cuantas más viviendas (de 1,00 a 0,15/0,35) y **S2 (con calefacción) siempre es mayor que S1**. Un restaurante, una lavandería o una caldera de bloque de **más de 70 kW se individualizan**, con llave a cada lado: si no lo haces, el día que repares esa instalación grande dejas sin gas a todo el edificio; hecho bien, la aíslas y los vecinos ni se enteran.
+- **Caudal = potencia / Hs**, y con ese caudal eliges el tubo. Si el gas se mide por masa (butano/propano en kg), el caudal sale en **kg/h**, no en m³/h.
+- **Papeleo.** Estos cálculos no se quedan en tu libreta: se reflejan en la **memoria o el proyecto** de la instalación (proyecto firmado por técnico competente cuando la potencia o el tipo de instalación lo exigen) y, con la obra terminada, en el **certificado de instalación de gas (modelo IRG)** que firma la **empresa instaladora habilitada** y se entrega a la **empresa distribuidora** antes de la puesta en servicio. Un dimensionado que no cuadra con lo montado es un certificado que no deberías firmar.

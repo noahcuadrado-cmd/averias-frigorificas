@@ -1,6 +1,6 @@
-# UNE 60670 · Generalidades de las instalaciones receptoras
+# UNE 60670-1 · Generalidades de las instalaciones receptoras
 
-<p class="eyebrow">Tema 09 · Vídeo 1 de 3 · UNE 60670 · Parte 1</p>
+<p class="eyebrow">Tema 09 · Vídeo 1 de 3 · UNE 60670-1 · Generalidades</p>
 
 **La UNE 60670 es la norma reina del gasista de categoría B.** Es la que dice cómo se diseña, se construye, se prueba, se pone en servicio y se revisa una instalación receptora de gas cuando la presión no pasa de 5 bar. En este primer vídeo vemos la **Parte 1 (Generalidades)**: cómo está organizada la norma, qué se considera exactamente una instalación receptora, qué clases hay y qué requisitos generales debe cumplir. Es el mapa que te coloca todo lo demás.
 
@@ -104,9 +104,9 @@ Los requisitos para el **diseño, construcción, ensayo, puesta en servicio, uti
 
 ## Ideas clave del vídeo
 
-- La **UNE 60670** regula las instalaciones receptoras con **MOP ≤ 5 bar** y consta de **13 partes**; la Parte 1 son las **generalidades** y la Parte 2 la **terminología**.
-- Es instalación receptora la que cumple **las tres condiciones**: gas de familia **UNE-EN 437**, **MOP ≤ 5 bar** y destinada a **conectar aparatos de gas**.
-- **No** es instalación receptora un **aparato móvil** con un único envase de GLP **< 15 kg**, ni un **aparato popular** (envase **≤ 3 kg**); pero su **conexión, ubicación, ventilación y puesta en marcha** sí se rigen por la norma.
-- Tres **clases** por suministro: **canalizado**, **granel** (depósito fijo o envase > 15 kg) y **envases** (< 15 kg).
-- Tres **partes** posibles: **acometida interior → instalación común → instalación individual**.
-- Los requisitos generales buscan **aportación adecuada de gas** y **seguridad en la conducción**, y desarrollan las recomendaciones de la **UNE-EN 1775**.
+- **Qué te llevas y para qué sirve.** La **UNE 60670** es tu norma de cabecera para toda instalación receptora con **MOP ≤ 5 bar**, y son **13 partes**: la 1 (generalidades) y la 2 (terminología) te colocan el mapa. En obra eso es saber a qué parte ir sin dar vueltas: **pruebas de estanquidad → parte 8**, **puesta en servicio → parte 9**, **control periódico → partes 12 (instalación) y 13 (aparatos)**. No es teoría de examen: es no perder media mañana buscando dónde lo dice la norma.
+- **Que sea o no «instalación receptora» decide si hay boletín.** Las **tres condiciones** (gas de familia **UNE-EN 437** + **MOP ≤ 5 bar** + servir a aparatos) y el límite de **15 kg / 3 kg** separan lo que hay que **legalizar** de un «cacharro suelto». En cuanto hay tubería fija, varios aparatos o más carga, ya es receptora y toca **certificado de instalación** (el «boletín», en los modelos oficiales tipo **IRG**), que **firma la empresa instaladora habilitada de categoría B** y se entrega a la **empresa distribuidora** (con copia para el titular); sin ese documento la distribuidora no da suministro. La chapuza típica es justo esa: instalación fija montada como si fuera camping-gas, **sin boletín y sin prueba de estanquidad**. Ahí tienes la fuga esperando.
+- **La clase de suministro cambia con quién hablas y dónde empieza lo tuyo.** **Canalizado** (red de distribución), **granel** (depósito fijo o envase > 15 kg) y **envases** (< 15 kg). No es una etiqueta: en canalizado el gas y la **llave de acometida** los pone la **distribuidora**; en granel y envases tu punto de partida es la **salida del depósito o del regulador** acoplado a los envases. Equivocarte de clase es equivocarte de interlocutor y del límite de tu instalación.
+- **Las tres partes encajadas te dicen qué certificas y quién responde.** **Acometida interior → instalación común → instalación individual.** La común es de la **comunidad**; la individual, del **usuario**. Saber dónde acaba una y empieza la otra evita firmar tramos que no son tuyos y aclara a quién avisas cuando algo falla en el montante.
+- **Los dos objetivos de fondo son la causa raíz de media avería.** Todo lo que exige la norma persigue **aportación adecuada de gas** y **seguridad en la conducción** (desarrollando la **UNE-EN 1775**). Si el tubo va justo, el aparato **se ahoga**: mala combustión, llama amarilla, **se apaga solo**. Si la conducción no es estanca, aparece la **fuga**. Cuando diagnostiques, casi siempre estás fallando en uno de esos dos frentes.
+- **Datos que no se te pueden caer:** **MOP ≤ 5 bar**, **13 partes**, límites **15 kg** (móvil) y **3 kg** (popular), **tres clases** (canalizado, granel, envases) y el orden de las **tres partes** (acometida interior → común → individual).

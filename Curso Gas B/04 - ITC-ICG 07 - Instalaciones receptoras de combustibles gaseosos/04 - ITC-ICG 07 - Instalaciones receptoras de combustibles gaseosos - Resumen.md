@@ -176,13 +176,28 @@ Incluirá el correspondiente **croquis** de la instalación especificando:
 
 Hará **especial mención** a que las **pruebas de resistencia mecánica y estanquidad** que le correspondan, según las normas **UNE 60310 y UNE 60311**, han arrojado **resultados positivos**.
 
+<figure>
+<img src="imagenes_individuales/fig_1724_p147.png" alt="Modelo IRG-1, certificado de acometida interior de gas">
+<figcaption>Modelo IRG-1: certificado de acometida interior de gas. Fíjate en la casilla de tipo de trazado (aéreo/enterrado) y en la declaración de que las pruebas de estanquidad han dado resultado satisfactorio.</figcaption>
+</figure>
+
 #### b) Certificado de instalación común de gas
 
 Incluirá el correspondiente **croquis** especificando: **trazado, tipo de material, longitudes de tubería, diámetros, elementos o sistemas de regulación, medida y control, accesorios, caudales previstos para cada tramo** y los **esquemas** necesarios.
 
+<figure>
+<img src="imagenes_individuales/fig_1724_p149.png" alt="Modelo IRG-2, certificado de instalación común de gas">
+<figcaption>Modelo IRG-2: certificado de instalación común de gas. Recoge la potencia de diseño de la común y el número de instalaciones individuales a las que alimenta.</figcaption>
+</figure>
+
 #### c) Certificado de instalación individual de gas
 
 Incluirá el correspondiente **croquis** especificando: **trazado, tipo de material, longitudes de tubería, diámetros, elementos o sistemas de regulación, medida y control, accesorios**, los **aparatos de consumo conectados o previstos** (indicando su **consumo calorífico nominal**) y los **esquemas** necesarios.
+
+<figure>
+<img src="imagenes_individuales/fig_1724_p151.png" alt="Modelo IRG-3, certificado de instalación individual de gas">
+<figcaption>Modelo IRG-3: certificado de instalación individual de gas. Es el único que incorpora la tabla de aparatos instalados o previstos con su potencia nominal en kW y la casilla de uso (doméstico, comercial o industrial).</figcaption>
+</figure>
 
 #### Certificación adicional de chimeneas (edificios de nueva planta)
 
@@ -397,6 +412,16 @@ La revisión de una receptora no alimentada desde red y suministrada a **> 5 bar
 
 Cuando la visita sea **favorable**, se cumplimentará y entregará al usuario un **certificado de revisión periódica** (modelos del anexo, para receptoras **comunes o individuales**).
 
+<figure>
+<img src="imagenes_individuales/fig_1724_p153.png" alt="Modelo IRG-4, certificado de revisión periódica de instalaciones individuales y aparatos no alimentados desde redes">
+<figcaption>Modelo IRG-4: certificado de revisión periódica de instalaciones individuales y aparatos NO alimentados desde redes (GLP a granel o envasado). Certifica que no existen anomalías principales ni secundarias; su plazo de validez es de cinco años.</figcaption>
+</figure>
+
+<figure>
+<img src="imagenes_individuales/fig_1724_p155.png" alt="Modelo IRG-5, certificado de revisión periódica de instalación común no alimentada desde redes">
+<figcaption>Modelo IRG-5: certificado de revisión periódica de la instalación común NO alimentada desde redes de distribución. Mismo esquema que el IRG-4 pero referido a la parte común del edificio.</figcaption>
+</figure>
+
 Si se detectan **anomalías** (de la **UNE 60670 o UNE 60620**), se cumplimentará y entregará un **informe de anomalías** con los datos mínimos del anexo.
 
 - **Anomalía principal** que no puede corregirse en el momento → **interrumpir el suministro** y **precintar** la parte o el aparato afectado. Son principales las de la **UNE 60670 o UNE 60620**. **Todas las fugas** detectadas en instalaciones de **GLP** se consideran **anomalía principal**.
@@ -501,15 +526,12 @@ Tanto el informe de **instalación individual y aparatos** como el de **instalac
 
 ## Ideas clave del tema
 
-- La **ITC-ICG 07** regula el **diseño, ejecución y utilización** de las **instalaciones receptoras** y de los **locales** que las contienen, además de la **instalación y revisión de los aparatos**.
-- **Chimeneas**: diseño/cálculo por **UNE 123001, UNE-EN 13384-1 y -2**; materiales por **UNE-EN 1856-1** (metálicos) o **NTE-ISH-74** (no metálicos). Evacuación **por cubierta**; excepción a **fachada/patio** para estancos o tiro forzado **≤ 70 kW** y tiro natural de **ACS ≤ 24,4 kW**.
-- **Patios de ventilación**: **0,5 × NT** (mín. **4 m²**) en existentes; **1 × NT** (siempre **> 6 m²**) en obra nueva; techado con abertura del **25 %** (mín. **4 m²**).
-- Norma según presión: **≤ 5 bar → UNE 60670**; **> 5 bar → UNE 60620**. Calderas/equipos **> 70 kW** (conjunta): **sala de máquinas** con **UNE 60601**. Tramos **enterrados**: **UNE 60310/60311**.
-- Ejecución: **sin autorización administrativa**. **Proyecto** si individual **> 70 kW**, común o acometida interior **> 2.000 kW**, cualquier instalación **> 5 bar**, o ampliación que supere el **30 %**. **Proyecto ⇒ certificado de dirección de obra**.
-- Entrega: **prueba de estanquidad** (**UNE 60670-8** o **UNE 60620**). Tres certificados de instalación: **acometida interior**, **común** e **individual** (este último lista **aparatos** y su **consumo nominal**).
-- Puesta en servicio: **cerrar/bloquear/precintar/taponar** llaves sin uso y **purgar**. Con red la hace el **distribuidor** (9 pasos; el 6 es **precintar el contador**); sin red, el **suministrador**. **Más de un año** parado → **como nueva**.
-- **Comunicación a la Administración** solo si la instalación **requería proyecto**.
-- **Inspección** (conectada a red) vs **revisión** (no conectada a red): ambas **cada 5 años**. Alcance por potencia (**≤ 70 kW** con aparatos **incluidos**; **> 70 kW** o **> 5 bar** con aparatos **excluidos**). La revisión añade **protección catódica** y coincide con la del depósito.
-- Anomalías: **principal → corte y precinto** (todas las fugas son principales); **secundaria → plazo** (15 días hábiles en estanquidad). **El que inspecciona no repara.** Plazos: aviso **3 meses**, visita **5 días**, datos guardados **10 años**.
-- **Modificación**: cambio de material/trazado **> 1 m**, ampliación de consumo o cambio de aparato distinto; la comunica la **instaladora** al suministrador.
-- **Anexo**: **IRG-1** acometida interior, **IRG-2** común, **IRG-3** individual, **IRG-4** revisión individual (sin red), **IRG-5** revisión común (sin red). **Gas natural = punto de suministro; GLP = número de póliza.**
+- **El tema que más pisa la obra.** La **ITC-ICG 07** gobierna toda la vida de la instalación receptora: **diseño, ejecución y utilización**, más los **locales** y los **aparatos**. Si dominas esto, dominas el día a día del oficio y el núcleo del examen.
+- **Humos bien sacados o problemas garantizados.** Evacuación **por cubierta** salvo excepción (**estancos/tiro forzado ≤ 70 kW**; **tiro natural de ACS ≤ 24,4 kW**). Chimenea: diseño/cálculo por **UNE 123001 y UNE-EN 13384-1/-2**; material por **UNE-EN 1856-1** (metálica) o **NTE-ISH-74** (no metálica). Hacerlo mal = **tiro insuficiente, retorno de humos, ennegrecido/revocos y CO** en la vivienda.
+- **Patios y ubicación de aparatos.** Patio **0,5 × NT (mín. 4 m²)** en existente, **1 × NT (> 6 m²)** en obra nueva; techado con abertura permanente del **25 % (mín. 4 m²)**. Aparato de **circuito abierto conducido** en cocina solo si evitas que el **extractor le robe el tiro** (si no, inversión de humos y CO, con el aparato apagándose); excepción, los de **solo ACS**.
+- **La norma la manda la presión; la sala, la potencia.** **≤ 5 bar → UNE 60670**; **> 5 bar → UNE 60620**. Equipos con potencia **conjunta > 70 kW → sala de máquinas UNE 60601**. Enterrado **→ UNE 60310/60311**, consultando **al distribuidor el material de su red** (o enterrarás uniones que acaban en fuga).
+- **Papeleo de ejecución.** **Sin autorización administrativa.** **Proyecto** si individual **> 70 kW**, común o acometida interior **> 2.000 kW**, cualquiera a **> 5 bar**, o ampliación **> 30 %** → con **certificado de dirección de obra**. Entrega con **prueba de estanquidad** (**UNE 60670-8** o **UNE 60620**) reflejada en el **certificado de instalación** (**IRG-1** acometida, **IRG-2** común, **IRG-3** individual; solo el individual lista **aparatos y consumo**). Copia al **titular**; el distribuidor/suministrador **archiva** a disposición de la **Comunidad Autónoma**.
+- **Puesta en servicio sin sustos.** **Cerrar, bloquear, precintar y taponar** llaves sin uso; **purgar** para no dejar **mezcla aire-gas explosiva**. **Con red** la hace el **distribuidor** (9 pasos; el 6 precinta el **contador**) y emite el **certificado de pruebas previas y puesta en servicio**; **sin red**, el **suministrador**; **sin contrato**, la **empresa instaladora**. **Más de un año** parado → **como nueva**. Se **comunica a la Administración** solo si la instalación **requería proyecto**.
+- **Control periódico: inspección o revisión, cada 5 años.** **Conectada a red → inspección**; **no conectada → revisión** (añade **protección catódica** y coincide con la del depósito). Alcance por potencia (**≤ 70 kW** aparatos **incluidos**; **> 70 kW** o **> 5 bar**, **excluidos**). Descuidarlo = fugas, combustión sucia, **CO** y **corte del suministro**.
+- **Anomalías y plazos que se preguntan y se viven.** **Principal** (toda **fuga** lo es) → **corte y precinto**; **secundaria** → **plazo** (15 días hábiles en estanquidad). **El que inspecciona no repara.** Aviso **3 meses**, visita **5 días**, datos guardados **10 años**. Papeles: **certificado de inspección**, **informe de anomalías**, **justificante de corrección**, **certificado de subsanación** (para desprecintar) y **certificado de revisión** (**IRG-4** individual / **IRG-5** común, sin red).
+- **Modificación y regla de oro documental.** Cambio de **material/trazado > 1 m**, **ampliación de consumo** o **cambio de aparato distinto** = modificación: la **instaladora comunica al suministrador** y el **enganche lo paga el usuario**. Y en todo impreso: **gas natural = punto de suministro; GLP = número de póliza**.

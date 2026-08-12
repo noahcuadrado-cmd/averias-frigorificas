@@ -1,6 +1,6 @@
-# Materiales de tubería y accesorios
+# UNE 60670-3 · Materiales de tubería y accesorios
 
-<p class="eyebrow">Tema 10 · Vídeo 1 de 3 · UNE 60670 · Parte 3</p>
+<p class="eyebrow">Tema 10 · Vídeo 1 de 3 · UNE 60670-3</p>
 
 **Aquí empieza la parte más de taller de toda la norma.** La UNE 60670-3 es el catálogo oficial de con qué se construye una instalación receptora: qué tubos valen, de qué calidad, con qué espesores, cómo se curvan y qué accesorios se les puede poner. En este primer vídeo cubrimos el arranque de la norma (para qué sirve y a qué se aplica) y, sobre todo, los **materiales de las tuberías**: polietileno, cobre, acero, acero inoxidable, multicapa y acero inoxidable corrugado. Domina espesores, estados del material y normas de referencia: son preguntas de examen casi seguras.
 
@@ -149,12 +149,11 @@ Las vainas, conductos y pasamuros que se utilicen para **enfundar un tramo** de 
 
 ## Ideas clave del vídeo
 
-- La **Parte 3** es el catálogo de **materiales, elementos y uniones**; se aplica a instalaciones receptoras con **MOP ≤ 5 bar**.
-- Regla madre de los materiales: **no los deteriora el gas por dentro ni el medio por fuera**; si no, van **protegidos contra la corrosión** (y con **Marcado CE**, Reglamento UE 305/2011).
-- **Polietileno (PE 80 / PE 100, UNE-EN 1555): solo enterrado o en vaina** —el sol lo destruye—; alimenta armarios con una pared al exterior.
-- **Cobre** Cu-DHP (UNE-EN 1057): espesor **1 mm** (visto/vaina/empotrado/aparatos) y **1,5 mm** (enterrado); duro o recocido; **curvado en frío sin mandril interno**.
-- **Acero** (UNE-EN 10255): curvado en frío preferentemente **hasta 2"**, sin mandril interno; accesorios soldados UNE-EN 10253-2, roscados UNE-EN 10242.
-- **Acero inoxidable**: UNE-EN 10312 **Serie 2**, tipo según el ambiente; accesorios de presión con Serie 2.
-- **Multicapa** polímero–Al–polímero (UNE 53008): **siempre** con **limitador de caudal y de temperatura**, sea cual sea la longitud.
-- **Acero inoxidable corrugado** (UNE-EN 15266): **dos capas**, una estructural y otra de protección.
-- **Vainas, conductos y pasamuros**: material adecuado a su función, detalle en la **UNE 60670-4**.
+- **Qué te llevas y para qué.** La Parte 3 (UNE 60670-3) es tu almacén oficial: qué tubo, qué calidad y qué espesor puedes montar en una receptora de **MOP ≤ 5 bar**. Elegir bien el material es lo que hace que la instalación **pase la prueba de estanquidad a la primera** y no te la marquen como defecto en la inspección.
+- **La regla madre, y por qué te salva de una fuga.** El material no lo debe deteriorar **ni el gas por dentro ni el medio por fuera**; si el ambiente ataca (acero enterrado, zona húmeda), o eliges material que aguante o lo proteges con recubrimiento (y siempre con **Marcado CE**, Reglamento UE Nº 305/2011). Saltártelo es la receta de la **corrosión perforante**: el clásico agujerito en un tubo enterrado que acaba en **fuga soterrada**, la más difícil y cara de localizar.
+- **Polietileno = Para Enterrar (PE 80/PE 100, UNE-EN 1555).** Solo enterrado o en vaina; **el sol lo cuartea**. Un tramo de PE colgando en fachada es una fuga a plazo fijo: se agrieta por UV y suelta gas. Si lo ves en obra, es defecto de rechazo directo.
+- **Cobre Cu-DHP (UNE-EN 1057): los dos espesores que no puedes confundir.** **1 mm** para visto/vaina/empotrado/conexión de aparatos y **1,5 mm** para enterrado. Poner 1 mm bajo tierra deja la pared demasiado justa para que la corrosión la perfore. Curvado en frío **sin mandril interno**: el mandril arruga y estrangula el tubo, y un estrangulamiento aguas arriba deja al aparato sin caudal, con **llama pobre y mala combustión**.
+- **Acero (UNE-EN 10255):** curvado en frío preferentemente **hasta 2"**; por encima, codos. Accesorios soldados UNE-EN 10253-2, roscados UNE-EN 10242. Acero enterrado, siempre protegido: sin recubrimiento se lo come el terreno.
+- **Inox Serie 2 (UNE-EN 10312)**, tipo según el ambiente (costa e industria piden más). **Multicapa** polímero–Al–polímero (UNE 53008): **siempre limitador de caudal y de temperatura, sea cual sea la longitud** —el multicapa aguanta mal el calor, y sin esos limitadores una fuente de calor cercana lo reblandece y termina en fuga—. **Corrugado** (UNE-EN 15266): dos capas, una estructural y otra de protección.
+- **El papeleo que esto genera.** Todo material debe llevar **Marcado CE** y su declaración de prestaciones; guárdala, porque el **certificado de instalación** (el "boletín", modelos tipo **IRG**) declara con qué se ha construido, lo **firma la empresa instaladora** y se entrega a la **empresa distribuidora** y al **titular**, con registro ante el órgano competente de la **Comunidad Autónoma**. Material sin CE o espesor incorrecto = defecto en ese certificado y en la inspección periódica.
+- **Datos que no se te caen:** MOP ≤ 5 bar; PE 80/PE 100; cobre **1 y 1,5 mm**; acero hasta **2"**; inox **Serie 2**; multicapa **siempre** con sus dos limitadores; vainas, conductos y pasamuros con material adecuado a su función (detalle en la **UNE 60670-4**).

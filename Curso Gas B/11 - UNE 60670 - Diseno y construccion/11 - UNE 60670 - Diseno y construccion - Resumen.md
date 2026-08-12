@@ -1,14 +1,14 @@
 # UNE 60670-4 · Diseño y construcción
 
-<p class="eyebrow">Tema 11 · Resumen íntegro del tema · 3 vídeos</p>
+<p class="eyebrow">Tema 11 · UNE 60670-4 · Diseño y construcción · Resumen íntegro (3 vídeos)</p>
 
 **La norma que convierte los cálculos en una instalación real.** La Parte 4 de la UNE 60670 fija cómo se **diseña y construye** una instalación receptora de gas hasta 5 bar: desde el dimensionado (potencias, simultaneidad, caudales) hasta el trazado permitido y prohibido de las tuberías, su protección y ventilación, la regulación de presión y toda la cadena de llaves de corte. Aquí tienes el capítulo completo reescrito en lenguaje de instalador, **sin dejarte nada**, con notas aclaratorias en los puntos que más se preguntan.
 
 ## Cómo se organiza este tema
 
-- **Vídeo 1 — Dimensionado de la instalación receptora:** objeto y encaje de la norma, datos de partida, grado de gasificación, potencia de acometida/instalación común, factor de simultaneidad, caudales y criterios de diseño (apartados 3.1 a 3.5).
-- **Vídeo 2 — Trazado y ubicación de las tuberías:** clasificación, pasos permitidos y prohibidos, tuberías vistas, envainadas, enterradas y empotradas, protección, ventilación y sellados (capítulo 4).
-- **Vídeo 3 — Tomas de presión, regulación y llaves de corte:** tomas de presión, elementos de regulación por familia de gas y todos los dispositivos de corte (capítulos 5, 6 y 7).
+- **Vídeo 1 — Dimensionado de la instalación receptora** (UNE 60670-4)**:** objeto y encaje de la norma, datos de partida, grado de gasificación, potencia de acometida/instalación común, factor de simultaneidad, caudales y criterios de diseño (apartados 3.1 a 3.5).
+- **Vídeo 2 — Trazado y ubicación de las tuberías** (UNE 60670-4)**:** clasificación, pasos permitidos y prohibidos, tuberías vistas, envainadas, enterradas y empotradas, protección, ventilación y sellados (capítulo 4).
+- **Vídeo 3 — Tomas de presión, regulación y llaves de corte** (UNE 60670-4)**:** tomas de presión, elementos de regulación por familia de gas y todos los dispositivos de corte (capítulos 5, 6 y 7).
 
 ## La norma UNE 60670-4: objeto y encaje
 
@@ -633,12 +633,13 @@ En el caso de un **regulador con llave incorporada**, esta **no puede asumir la 
 
 ## Ideas clave del tema
 
-- La **UNE 60670-4** es la Parte 4 (diseño y construcción) de una norma de **13 partes** para receptoras hasta 5 bar.
-- **Dimensionado:** grado de gasificación por potencia (**≤30 / 30–70 / >70 kW**); Piv (dos aparatos enteros, resto entre 2, ×1,10) y Pil (suma ×1,10); **Pc = Sn × ΣPiv + ΣPil**; el factor baja con más viviendas y **S2 > S1**. Las de **más de 70 kW se individualizan**.
-- **Caudal = potencia / Hs**. Velocidad máxima **20 m/s**. Presión mínima en llave de aparato: **17 (2H) / 20 (3B) / 42,5 (3P 50) / 25 (3P 37) mbar**.
-- **Trazado:** ideal visto o envainado; **empotrado** solo en casos tasados (máx. 0,40 m; 2,50 m hacia regulación/contadores). Prohibido pasar por ascensores, transformadores, locales domésticos con combustible líquido (salvo clase C y ≤1000 l), bajantes de basura, chimeneas, conductos de ventilación y dentro de forjados.
-- **Tuberías vistas:** sujeción según tabla 4; **3 cm** a otros servicios y al suelo; sin contacto con metales; señalizar **"gas"** o franja amarilla; **PE nunca visto**.
-- **Vainas y conductos:** cuatro funciones (protección mecánica, ventilación, acceso a armarios, suelo/subsuelo); materiales de la tabla 6; vaina de ventilación **continua, estanca y con las dos bocas al exterior**, sellando el extremo que da a local sin ventilar. Semisótano ventilado: **S = 10·A, mínimo 200 cm²**, para gas ligero a **≤50 mbar**.
+- **Qué te llevas y para qué sirve.** La **UNE 60670-4** (Parte 4 de una norma de **13 partes**, para receptoras hasta 5 bar) es la que convierte los cálculos en una instalación real: **cómo se diseña y por dónde va cada tubo**. Es la norma que más manejarás en obra y la que el inspector revisa primero.
+- **Dimensionado sin fallos, porque de ahí salen los diámetros.** Grado de gasificación por potencia (**≤30 / 30–70 / >70 kW**); **Piv** (dos aparatos enteros, resto entre 2, ×1,10) y **Pil** (suma ×1,10); **Pc = Sn × ΣPiv + ΣPil** (el factor baja con más viviendas, **S2 > S1**); las de **más de 70 kW se individualizan**. Infradimensionar es la causa oculta de «el aparato no rinde»: caldera que se apaga, agua caliente escasa, llama pobre.
+- **Caudal = potencia / Hs**, velocidad máxima **20 m/s** y presión mínima en llave de aparato **17 (2H) / 20 (3B) / 42,5 (3P 50) / 25 (3P 37) mbar**. Si a la llave del aparato llega menos, la instalación está mal calculada o pierde demasiada carga.
+- **Trazado: reparar sin picar y no pasar por donde no se debe.** Ideal visto o envainado; **empotrado** solo en casos tasados (máx. **0,40 m**; 2,50 m hacia regulación/contadores), sin uniones mecánicas y probado antes de tapar. Prohibido pasar por ascensores, transformadores, locales domésticos con combustible líquido (salvo clase C y ≤ 1000 l), bajantes de basura, chimeneas, conductos de ventilación y dentro de forjados. Saltárselo es la fuga oculta o el incendio del mañana.
+- **Tuberías vistas:** sujeción según tabla 4; **3 cm** a otros servicios y al suelo; **sin contacto** con metales (par galvánico y corrosión); señalizar **«gas»** o franja amarilla; **PE nunca visto**.
+- **Vainas y conductos:** cuatro funciones (protección mecánica, ventilación, acceso a armarios, suelo/subsuelo); materiales de la tabla 6 (metal siempre en mecánica y semisótano); **vaina de ventilación continua, estanca y con las dos bocas al exterior**, sellando el extremo que da a local sin ventilar, para que una fuga no se acumule dentro. Semisótano ventilado: **S = 10·A, mínimo 200 cm²**, solo gas ligero a **≤ 50 mbar**. Y **sella** entrada y salida de los armarios de regulación/contadores para que la fuga no viaje a la vivienda.
 - **Regulación — gas natural:** a más MOP, más seguridades (máxima/mínima). Conjuntos **0,4–5 bar**: grado 2, salida al exterior, **5 cm²**. Frontera de conjunto de regulación: **4,8 m³(n)/h**. Regulador con **VAS** interior: ventilación **5 cm²** (arriba gas ligero, abajo gas pesado).
-- **Regulación — GLP:** reducción en **dos etapas**, entrada de la receptora **0,1–2 bar** (UNE-EN 16129); inversor automático y **antirretornos** en baterías de envases.
-- **Cadena de llaves:** acometida → edificio → montante colectivo → usuario → contador → vivienda → aparato. **Llave de edificio** si la acometida interior ≥ **25 m vista** o **4 m enterrada**. La **llave de vivienda nunca hace de llave de aparato**.
+- **Regulación — GLP:** reducción en **dos etapas**, entrada de la receptora **0,1–2 bar** (**UNE-EN 16129**); **inversor automático** y **antirretornos** en baterías de envases; cada vivienda con **seguridad por mínima** si cuelga de un depósito común.
+- **Cadena de llaves y seguridades:** acometida → edificio → montante colectivo → usuario → contador → vivienda → aparato. **Llave de edificio** si la acometida interior ≥ **25 m vista** o **4 m enterrada**. La **llave de vivienda nunca hace de llave de aparato**. En cocina doméstica, **limitador de exceso de flujo (UNE 60719)**.
+- **Papeleo, de principio a fin.** El dimensionado va en la **memoria o el proyecto** (proyecto de técnico competente cuando procede); el trazado, con su **croquis**, y las **pruebas de estanquidad** respaldan el **certificado de instalación de gas (modelo IRG)** que firma la **empresa instaladora habilitada**. Con ese certificado, la **empresa distribuidora** hace la **puesta en servicio**, y la **puesta en marcha de los aparatos** la certifica quien los arranca. Copia para el **usuario**, original para la **distribuidora**: sin ese circuito, no hay gas legal.

@@ -139,6 +139,16 @@ La revisión de una receptora no alimentada desde red y suministrada a **> 5 bar
 
 Cuando la visita sea **favorable**, se cumplimentará y entregará al usuario un **certificado de revisión periódica** (modelos del anexo, para receptoras **comunes o individuales**).
 
+<figure>
+<img src="imagenes_individuales/fig_1724_p153.png" alt="Modelo IRG-4, certificado de revisión periódica de instalaciones individuales y aparatos no alimentados desde redes">
+<figcaption>Modelo IRG-4: certificado de revisión periódica de instalaciones individuales y aparatos NO alimentados desde redes (GLP a granel o envasado). Certifica que no existen anomalías principales ni secundarias; su plazo de validez es de cinco años.</figcaption>
+</figure>
+
+<figure>
+<img src="imagenes_individuales/fig_1724_p155.png" alt="Modelo IRG-5, certificado de revisión periódica de instalación común no alimentada desde redes">
+<figcaption>Modelo IRG-5: certificado de revisión periódica de la instalación común NO alimentada desde redes de distribución. Mismo esquema que el IRG-4 pero referido a la parte común del edificio.</figcaption>
+</figure>
+
 Si se detectan **anomalías** (de la **UNE 60670 o UNE 60620**), se cumplimentará y entregará un **informe de anomalías** con los datos mínimos del anexo.
 
 - **Anomalía principal** que no puede corregirse en el momento → **interrumpir el suministro** y **precintar** la parte o el aparato afectado. Son principales las de la **UNE 60670 o UNE 60620**. **Todas las fugas** detectadas en instalaciones de **GLP** se consideran **anomalía principal**.
@@ -243,12 +253,16 @@ Tanto el informe de **instalación individual y aparatos** como el de **instalac
 
 ## Ideas clave del vídeo
 
-- El **mantenimiento** es responsabilidad del **titular** (o usuario). Las **modificaciones** las hace siempre un **instalador**, que emite certificado para el usuario.
-- **Inspección periódica** (alimentadas desde red): **cada 5 años**. Alcance según potencia: **≤ 70 kW** desde llave de usuario, aparatos **incluidos**; **> 70 kW/centralizada** desde llave de edificio, aparatos **excluidos**; **> 5 bar** desde llave de acometida, aparatos **excluidos**.
-- Procedimiento: aviso con **3 meses**; visita del distribuidor con **5 días**; anomalía secundaria de estanquidad, **15 días hábiles**; datos guardados **10 años**. **El que inspecciona no repara.**
-- **Anomalía principal** → corte de gas y **precinto** (todas las fugas son principales); **secundaria** → plazo. Reapertura tras subsanar: **certificado de subsanación** y desprecintado.
-- Categorías: individuales **A, B o C**; comunes solo **A o B**.
-- **Revisión periódica** (NO alimentadas desde red): **cada 5 años**, la encarga el **titular** a una **empresa instaladora**; añade la **protección catódica** y se **hace coincidir** con la revisión del depósito. En revisión, «todas las fugas de **GLP**» son anomalía principal.
-- **Inspección vs revisión** se decide por: **¿conectada a la red? Sí → inspección; No → revisión.**
-- **Modificación**: cambio de material/trazado **> 1 m**, ampliación de consumo o cambio de aparato por otro distinto. La comunica la **instaladora** al suministrador; el **enganche** lo paga el usuario.
-- **Anexo**: **IRG-1** (acometida interior), **IRG-2** (común), **IRG-3** (individual), **IRG-4** (revisión individual, sin red), **IRG-5** (revisión común, sin red). **Gas natural = punto de suministro; GLP = número de póliza.**
+- **La instalación no acaba al encenderla.** El **mantenimiento** es del **titular** (o usuario); tú entras cuando hay que **modificar** (siempre un instalador, con **certificado** para el usuario) o cuando toca el control periódico.
+- **Inspección vs revisión: una sola pregunta.** ¿Está conectada a la **red de distribución**? **Sí → inspección** (4.1); **No → revisión** (4.2). Ambas **cada 5 años** y miran casi lo mismo: **estanquidad, conservación, combustión higiénica, ventilación y volumen del local, detección de gas y evacuación de humos**. La **revisión** añade la **protección catódica** de la tubería de acero enterrada y **se hace coincidir** con la revisión del depósito o los envases.
+- **Por qué esto importa en obra.** Saltarse el control es dejar que la instalación se degrade a ciegas: **fugas, combustión sucia con exceso de CO, ennegrecido, aparatos que se apagan por falta de tiro o ventilación**. Un aparato **tipo A o B en dormitorio, baño o ducha** o la **falta de sistema de detección y corte** se corrigen **con la norma vigente de hoy** (plazo: hasta la siguiente visita), porque son riesgo directo de **intoxicación por CO**.
+- **El alcance depende de la potencia (y el aparato entra o no).** **≤ 70 kW**: desde la **llave de usuario**, aparatos **incluidos**. **> 70 kW / centralizada**: desde la **llave de edificio**, aparatos **excluidos**. **> 5 bar**: desde la **llave de acometida**, aparatos **excluidos**.
+- **Las cifras del procedimiento, de memoria.** Aviso del distribuidor con **3 meses**; visita con **5 días** de antelación mínima; **15 días hábiles** para una anomalía **secundaria** de estanquidad; datos guardados **10 años** (consultables por la **Comunidad Autónoma**); periodicidad **5 años**.
+- **Anomalías: la principal corta, la secundaria da plazo.** **Principal** (todas las **fugas** lo son) → **corte de suministro y precinto** en el acto. **Secundaria** → plazo de corrección. Regla de oro: **el que inspecciona NO repara** (conflicto de interés). Para volver a dar gas tras subsanar una principal, la instaladora emite el **certificado de subsanación** y hace el **desprecintado**.
+- **Los papeles del control y adónde van.**
+  - **Certificado de inspección** (favorable): **copia al titular**, **copia a la distribuidora** y **copia en tu poder**; **firmado por instalador habilitado + sello** de la empresa.
+  - **Informe de anomalías**: a la **distribuidora** y **copia al titular**, con **plazo** de corrección.
+  - **Justificante de corrección de anomalías** (modelo del anexo): al **usuario** y **copia al distribuidor**; lo emite quien repara (instalador habilitado o servicio técnico).
+  - **Certificado de revisión periódica**: **IRG-4** (individual, sin red) o **IRG-5** (común, sin red), al usuario.
+- **Categorías e impresos.** Inspección de **individuales: A, B o C**; de **comunes: solo A o B**. Con tu **B** llegas a las dos. **IRG-1** acometida interior, **IRG-2** común, **IRG-3** individual, **IRG-4** revisión individual (sin red), **IRG-5** revisión común (sin red). Y el par que se repite en todo impreso: **gas natural = punto de suministro; GLP = número de póliza**.
+- **Modificación: la regla del metro.** Cambio de **material o trazado > 1 m**, **ampliación de consumo** o **cambio de aparato por otro distinto** = modificación. La **empresa instaladora comunica al suministrador** → este pide **enganche** al distribuidor → **pruebas previas** → el **enganche lo paga el usuario final**.

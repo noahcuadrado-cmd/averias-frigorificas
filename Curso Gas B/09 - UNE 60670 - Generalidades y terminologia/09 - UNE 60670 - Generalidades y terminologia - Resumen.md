@@ -1,14 +1,14 @@
-# UNE 60670 · Generalidades y terminología
+# UNE 60670-1 y -2 · Generalidades y terminología
 
-<p class="eyebrow">Tema 09 · Resumen íntegro del tema · 3 vídeos</p>
+<p class="eyebrow">Tema 09 · Resumen íntegro del tema · UNE 60670-1 y -2 · 3 vídeos</p>
 
 **La UNE 60670 es la norma reina del gasista de categoría B.** Sus Partes 1 (Generalidades) y 2 (Terminología) son la puerta de entrada a todo lo demás: la Parte 1 dice qué es y cómo se clasifica una instalación receptora, y la Parte 2 fija, con precisión de examen, el significado exacto de cada palabra que usa la norma. Aquí tienes ambas partes reescritas claras y directas, pero **sin dejarte nada normativo**, con muchas notas aclaratorias en los puntos que más se preguntan.
 
 ## Cómo se organiza este tema
 
 - **Vídeo 1 — Generalidades (UNE 60670-1):** estructura de la norma, definición y clasificación de las instalaciones receptoras y requisitos generales.
-- **Vídeo 2 — Terminología (I):** objeto de la Parte 2 y glosario 3.1 a 3.60 (accesibilidad, aparatos, aparcamientos, conductos, consumos, dispositivos, gases e instalaciones).
-- **Vídeo 3 — Terminología (II):** glosario 3.61 a 3.122 (explosividad, llaves, medidas, presiones, combustión, seguridad y evacuación).
+- **Vídeo 2 — Terminología (I) (UNE 60670-2):** objeto de la Parte 2 y glosario 3.1 a 3.60 (accesibilidad, aparatos, aparcamientos, conductos, consumos, dispositivos, gases e instalaciones).
+- **Vídeo 3 — Terminología (II) (UNE 60670-2):** glosario 3.61 a 3.122 (explosividad, llaves, medidas, presiones, combustión, seguridad y evacuación).
 
 ## La norma UNE 60670: objeto y estructura
 
@@ -561,14 +561,11 @@ Para los fines de este documento se aplican los términos, símbolos y definicio
 
 ## Ideas clave del tema
 
-- La **UNE 60670** regula las instalaciones receptoras con **MOP ≤ 5 bar** y consta de **13 partes**; la Parte 1 son las **generalidades** y la Parte 2 la **terminología**.
-- Es instalación receptora la que cumple **las tres condiciones**: gas de familia **UNE-EN 437**, **MOP ≤ 5 bar** y destinada a **conectar aparatos de gas**. **No** lo es un aparato móvil con envase **< 15 kg** ni un aparato popular (envase **≤ 3 kg**), aunque su conexión, ubicación, ventilación y puesta en marcha sí se rigen por la norma.
-- Tres **clases** por suministro (**canalizado, granel, envases**) y tres **partes** posibles (**acometida interior → instalación común → instalación individual**).
-- **Instalación receptora:** de la **llave de acometida (excluida)** a las **llaves de conexión de aparato (incluidas)**; fuera los aparatos y sus conexiones. Regla del «excluida/incluida»: lo ajeno fuera, lo tuyo dentro.
-- **Aparatos A/B/C:** A no evacúa fuera; B coge aire del local y evacúa fuera; C es estanco. A y B son de **circuito abierto**.
-- **Condiciones de referencia = 15 °C** y **normales = 0 °C**, ambas a **1 013,25 mbar**; de ahí el **m³(s)** y el **m³(n)**.
-- **Familias por Wobbe superior:** 1ª (22,4–24,8), 2ª/gas natural (39,1–54,7), 3ª/GLP (72,9–87,3) MJ/m³.
-- **LIE/LSE:** entre ambos límites (en % de gas en aire) la mezcla es explosiva.
-- **Presiones (todas relativas):** **MOP** continuada, **MIP** incidente breve, **TOP** temporal, **OP** actual, **DP** diseño; pruebas **STP** (resistencia) y **CTP** (conjunta). **Presión de garantía**: mínima a la salida de la llave de acometida.
-- **Sala de máquinas** solo si la potencia útil nominal conjunta es **> 70 kW**; **semisótano** si el suelo queda **> 60 cm** bajo el nivel exterior; **soldadura** blanda (220 °C a < 450 °C) o fuerte (≥ 450 °C).
-- **Válvulas de seguridad:** **VAS** alivia; **VISmáx.** corta por exceso; **VISmín.** corta por defecto de presión.
+- **Qué te llevas de todo el tema.** La **UNE 60670** (MOP ≤ 5 bar, **13 partes**) es tu norma de cabecera; la **parte 1** define y clasifica, la **parte 2** pone nombre exacto a cada cosa. Dominar estas dos es tener el mapa para moverte por las otras once sin perderte: estanquidad **parte 8**, puesta en servicio **parte 9**, control periódico **partes 12 y 13**.
+- **Ser o no «instalación receptora» decide el papeleo.** Tres condiciones (**UNE-EN 437** + **MOP ≤ 5 bar** + servir a aparatos) y el límite **15 kg / 3 kg**. Si es receptora, hay **certificado de instalación** (el «boletín», modelos **IRG**) que **firma la empresa instaladora habilitada de categoría B** y se entrega a la **distribuidora**; sin él no hay suministro. Montar fijo como si fuera camping-gas, sin boletín ni estanquidad, es la chapuza que acaba en fuga.
+- **Límites «excluida/incluida»: qué pruebas, qué firmas, quién responde.** La receptora va de la **llave de acometida (excluida)** a las **llaves de conexión de aparato (incluidas)**; el aparato y su latiguillo, fuera. Dentro, la **común** (de la comunidad) y la **individual** (del usuario) se separan en la **llave de usuario**. Ese límite marca el tramo que sometes a estanquidad y de qué respondes.
+- **A/B/C y ventilación: aquí está el CO.** **A** no evacúa (aire del local, humos dentro), **B** coge aire del local y evacúa por conducto (**revoco** si el tiro falla), **C** es estanco. El tipo equivocado o mal emplazado, o un conducto obstruido, dan **revoco, hollín, malos olores e intoxicación por CO**. El **tiro** saca humos; el **revoco** los devuelve; el **terminal/deflector** protege del viento.
+- **Familias por Wobbe: el aparato está tarado a SU gas.** 1ª (22,4–24,8), 2ª/gas natural (39,1–54,7), 3ª/GLP (72,9–87,3) MJ/m³. Cambiar de familia sin **adecuar** el aparato da **llama amarilla, ennegrecido y CO**; tras el cambio o la puesta en marcha se firma el **certificado de puesta en marcha** del aparato (criterios de la parte 10).
+- **Presiones: calcular bien y probar bien.** **MOP** (continuada), **MIP** (incidente breve), **TOP** (temporal), **OP** (actual), **DP** (diseño, resistencia mecánica); pruebas **STP** (resistencia) y **CTP** (conjunta). **Todas relativas.** La **presión de garantía** (mínima a la salida de la acometida) es el **punto de partida del cálculo**: si dimensionas corto, el aparato **se ahoga y se apaga**; si pruebas a poca presión, la **fuga pasa desapercibida**.
+- **Seguridad que corta y que alivia.** **VAS** alivia (suelta gas), **VISmáx.** corta por exceso, **VISmín.** corta por defecto; el **corte automático** es **normalmente cerrado** (sin luz, cierra) con **rearme manual**. **LIE/LSE** es la franja (en % de gas en aire) en la que la mezcla explota, lo que vigila el **detector de gas**.
+- **Números que se deciden en obra:** **sala de máquinas > 70 kW**, **semisótano > 60 cm**, **soldadura** blanda (220 °C a < 450 °C) / fuerte (≥ 450 °C), **aparcamiento > 100 m² / garaje ≤ 100 m²**, condiciones **referencia 15 °C / normales 0 °C** (de ahí el **m³(s)** y el **m³(n)**). Cada cifra cambia una exigencia real: ventilación, emplazamiento, tipo de unión o el caudal que lees en la etiqueta.

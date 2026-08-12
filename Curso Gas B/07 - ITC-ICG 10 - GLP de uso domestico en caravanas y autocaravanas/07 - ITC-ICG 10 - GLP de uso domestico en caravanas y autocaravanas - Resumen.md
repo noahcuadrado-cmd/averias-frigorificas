@@ -67,6 +67,11 @@ La empresa instaladora cumplimentará el correspondiente **certificado de instal
 - el **titular** de la instalación, y
 - el **órgano competente de la Comunidad Autónoma**.
 
+<figure>
+<img src="imagenes_individuales/fig_1724_p255.png" alt="Modelo IRV-1, certificado de instalación de gas en vehículos habitables de recreo">
+<figcaption>Modelo IRV-1 del anexo 1: certificado de instalación individual de gas en vehículos habitables de recreo. Lo firma el instalador autorizado (o el fabricante del vehículo) y recoge marca y tipo del vehículo, potencia nominal y presión de alimentación, la relación de aparatos instalados y la declaración de que las pruebas de estanquidad se han hecho con resultado satisfactorio.</figcaption>
+</figure>
+
 > **Nota aclaratoria — por triplicado, tres destinos.** El certificado de instalación se hace en **tres copias**: una se la queda la **empresa instaladora**, otra es para el **titular** (el dueño de la caravana) y otra para el **órgano competente de la Comunidad Autónoma**. Aunque el texto solo nombra dos destinatarios de copia, «por triplicado» implica que la instaladora conserva la suya. El modelo de este certificado está en el **anexo 1** de la propia ITC.
 
 ### 4.3 Puesta en servicio
@@ -105,6 +110,11 @@ Los **titulares** o, en su defecto, los **usuarios** de las instalaciones de GLP
 
 El titular de la instalación deberá encargar **cada 4 años** a una **empresa instaladora** la **revisión** de la instalación y aparatos de GLP.
 
+<figure>
+<img src="imagenes_individuales/fig_1724_p257.png" alt="Modelo IRV-2, certificado de revisión periódica de instalaciones alimentadas desde envases de GLP">
+<figcaption>Modelo IRV-2 del anexo 1: certificado de revisión periódica de instalaciones y aparatos alimentados desde envases de GLP en vehículos de recreo habitables. Acredita que se han comprobado ventilaciones, evacuación de los productos de la combustión, caducidad de componentes y dispositivos de maniobra (norma UNE-EN 1949), la estanquidad de la instalación y el funcionamiento de los aparatos; su plazo de validez es de cuatro años, que es justo la periodicidad de la revisión.</figcaption>
+</figure>
+
 > **Nota aclaratoria — cada 4 años, y es REVISIÓN.** Dos datos que se preguntan juntos. Primero, la periodicidad: **cada 4 años** hay que revisar la instalación y los aparatos de la caravana. Segundo, y muy importante, se llama **revisión** (no «inspección»). ¿Por qué? Porque, como viste en el artículo 7 del Reglamento, la instalación de la caravana **no está conectada a una red de distribución** (funciona con bombonas propias), y todo lo que no cuelga de la red se **revisa**, no se inspecciona. Chuleta: *caravana → bombonas → sin red → revisión → cada 4 años*.
 
 > **Nota aclaratoria — de quién es la obligación.** El responsable del buen estado es el **titular** (el dueño) y, si no, el **usuario**. Es el titular quien tiene que **encargar** la revisión a una empresa instaladora. La instaladora ejecuta y recomienda, pero quien responde de que la caravana esté en condiciones es el propietario. Igual que con el coche: el taller te lo revisa, pero llevarlo a la ITV es cosa tuya.
@@ -119,14 +129,12 @@ La ITC incorpora en su **anexo 1** los modelos de **certificado de instalación*
 
 ## Ideas clave del tema
 
-- La **ITC-ICG 10** regula las instalaciones de **GLP de uso doméstico en caravanas y autocaravanas** (artículo **2.1,g)** del Reglamento).
-- Quedan **excluidos** los **aparatos portátiles con su propia alimentación de gas** (hornillos, estufas de cartucho).
-- El diseño, construcción y montaje se rige por la norma **UNE-EN 1949**; la **ejecución** la hace una **empresa instaladora de gas**.
-- Los **aparatos** cumplen las directivas europeas de aparatos de gas o lo indicado en la **ITC-ICG 08**, según proceda.
-- **Prueba de estanquidad:** manómetro **0 a 1 bar, clase 1, escala de 20 mbar** (o manotermógrafo); la presión **no debe bajar** durante un mínimo de **15 minutos**.
-- El **certificado de instalación** (anexo 1, modelos **IRV**) se emite **por triplicado**: instaladora, titular y Comunidad Autónoma.
-- **No hay que comunicar** nada a la Administración; el titular solo **conserva el certificado** a disposición de esta.
-- Presión de funcionamiento de los aparatos: **30 mbar**.
-- Los **envases** (llenos o vacíos, dentro o fuera) van **sujetos** durante el uso y en marcha; se **desconectan** en estacionamientos prolongados.
-- Las **tuberías de gas** no se pueden usar como **puesta a tierra** ni para instalaciones eléctricas o radioeléctricas.
-- **Revisión cada 4 años** por empresa instaladora; es **revisión** (no inspección) porque la instalación **no cuelga de una red** de distribución.
+- **Qué te llevas y para qué:** la **ITC-ICG 10** es la instrucción de la instalación **fija** de gas de caravanas y autocaravanas (bombonas de butano/propano). La reconoces porque desarrolla el **artículo 2.1,g)** del Reglamento. Lo que queda **fuera** son los **cacharros portátiles con su propia alimentación** (hornillo de cartucho, estufa de camping): esos no los certificas tú.
+- **Tu norma de cabecera es la UNE-EN 1949** (sin año): manda en diseño, montaje, pruebas y recomendaciones de mantenimiento. Los **aparatos**, conformes a las directivas europeas de gas o a lo indicado en la **ITC-ICG 08**. Y la instalación **solo la ejecuta una empresa instaladora de gas**: si te llega "montada por el cuñado", no la puedes certificar sin repasarla y probarla.
+- **La prueba de estanquidad es tu seguro contra la avería más grave:** una fuga de GLP en un habitáculo cerrado que además circula. Herramienta exacta: **manómetro 0 a 1 bar, clase 1, escala de 20 mbar** (o manotermógrafo). Criterio: la presión **no baja en 15 minutos como mínimo**. Si la aguja cae, hay fuga; repasa regulador, latiguillo y racores con agua jabonosa y no des gas hasta que aguante. Cerrar una instalación que "pierde un poco" es firmarte un problema.
+- **Los 30 mbar no son un dato suelto, son la frontera entre llama azul y una intoxicación:** con presión o regulador equivocados aparece **mala combustión** (llama amarilla, **tiznado/ennegrecido** de los aparatos, hollín) y, lo grave, **monóxido de carbono (CO)** en pocos metros cúbicos. Si el usuario se queja de **olores raros, aparato que ahúma o que se apaga**, empieza por **presión y ventilación**: en una caravana una ventilación mal hecha mata.
+- **Bombonas SIEMPRE sujetas**, llenas o vacías, dentro o fuera del habitáculo, tanto en uso como en marcha: una bombona suelta en una curva golpea el grifo y provoca una fuga circulando. Y en **estacionamientos prolongados** (invernaje) se **desconectan** de la instalación: menos gas conectado sin vigilancia, menos riesgo.
+- **Prohibido usar la tubería de gas como toma de tierra** o para cualquier instalación eléctrica o de radio: es poner una posible chispa justo donde hay combustible. Cae en examen y evita incendios reales.
+- **El papeleo, claro:** al acabar, la **empresa instaladora** rellena el **certificado de instalación** —**modelo IRV-1 del anexo 1**— **por triplicado**: una copia para la propia instaladora, otra para el **titular** y otra para el **órgano competente de la Comunidad Autónoma**. Ese certificado es "la llave del gas": hasta que no se expide **no hay puesta en servicio**, y solo entonces el titular pide las bombonas al suministrador.
+- **La trampa de examen:** aquí **NO se comunica nada a la Administración** (a diferencia del régimen general con sus plazos). Basta con que el **titular conserve el certificado** y lo tenga a disposición de la Administración si se lo reclaman.
+- **Revisión cada 4 años**, que encarga el **titular** a una empresa instaladora, y se llama **revisión** —no inspección— porque la caravana va con bombonas propias y **no cuelga de una red** de distribución. Se documenta con el **modelo IRV-2** (certificado de revisión periódica), que comprueba ventilaciones, evacuación de humos, estanquidad y funcionamiento de los aparatos según la **UNE-EN 1949**.

@@ -1,14 +1,14 @@
 # UNE 60670-3 · Tuberías, elementos, accesorios y sus uniones
 
-<p class="eyebrow">Tema 10 · Resumen íntegro del tema · 3 vídeos</p>
+<p class="eyebrow">Tema 10 · UNE 60670-3 · Resumen íntegro del tema · 3 vídeos</p>
 
 **Esta es la parte de la norma que más pisa el taller.** La UNE 60670-3 es el catálogo oficial de con qué se construye una instalación receptora de gas de MOP ≤ 5 bar: qué tubos valen y de qué calidad, qué elementos se intercalan (reguladores, contadores, llaves) y cómo se unen unos con otros. Aquí tienes el contenido íntegro de la Parte 3, reescrito en lenguaje de instalador pero **sin dejarte nada normativo**: espesores, presiones, normas de referencia, prohibiciones y excepciones, con notas aclaratorias en los puntos que más se preguntan.
 
 ## Cómo se organiza este tema
 
-- **Vídeo 1 — Materiales de tubería y accesorios:** objeto y campo de aplicación; polietileno, cobre, acero, acero inoxidable, multicapa y acero inoxidable corrugado; vainas, conductos y pasamuros.
-- **Vídeo 2 — Elementos de la instalación:** tramos de presión; tallos; estaciones, conjuntos y reguladores (2.ª y 3.ª familia); válvulas de seguridad; contadores y soportes; centralización; dispositivos de corte; conexiones y tomas de presión.
-- **Vídeo 3 — Tipos de uniones:** soldadura (blanda y fuerte, y por materiales); uniones mecánicas desmontables y no desmontables.
+- **Vídeo 1 (UNE 60670-3) — Materiales de tubería y accesorios:** objeto y campo de aplicación; polietileno, cobre, acero, acero inoxidable, multicapa y acero inoxidable corrugado; vainas, conductos y pasamuros.
+- **Vídeo 2 (UNE 60670-3) — Elementos de la instalación:** tramos de presión; tallos; estaciones, conjuntos y reguladores (2.ª y 3.ª familia); válvulas de seguridad; contadores y soportes; centralización; dispositivos de corte; conexiones y tomas de presión.
+- **Vídeo 3 (UNE 60670-3) — Tipos de uniones:** soldadura (blanda y fuerte, y por materiales); uniones mecánicas desmontables y no desmontables.
 
 ## Cómo encaja esta parte en la Norma UNE 60670
 
@@ -447,14 +447,9 @@ Se pueden emplear también las uniones que sean **aceptadas en la Norma UNE-EN 1
 
 ## Ideas clave del tema
 
-- La **Parte 3** es el catálogo de **materiales, elementos y uniones** de las instalaciones receptoras con **MOP ≤ 5 bar**.
-- Regla madre de los materiales: **no los deteriora el gas por dentro ni el medio por fuera**; si no, van **protegidos contra la corrosión** y con **Marcado CE**.
-- **Polietileno (PE 80/PE 100, UNE-EN 1555): solo enterrado o en vaina**. **Cobre** Cu-DHP: **1 mm** (visto/vaina/empotrado/aparatos) y **1,5 mm** (enterrado), curvado sin **mandril interno**.
-- **Acero** (UNE-EN 10255): curvado preferentemente **hasta 2"**. **Inox** UNE-EN 10312 **Serie 2**. **Multicapa** polímero–Al–polímero: **siempre limitador de caudal y de temperatura**. **Corrugado**: dos capas (UNE-EN 15266).
-- **Tramos de presión**: cortes en **5 – 2 – 0,4 – 0,15 – 0,05 bar**. Elementos y tomas de presión se clasifican por su MOP.
-- **Reguladores 2.ª familia**: UNE 60402-1, UNE 60402-2 y UNE 60411 por escalón. **GLP**: reguladores por **UNE-EN 16129**; adaptador de salida libre por **UNE 60408**. Frontera del **envase de 15 kg**.
-- **Válvula de máxima**: **siempre rearme manual** y tarado **precintado**. **Contadores**: membrana, turbina, pistones y **ultrasónico** (UNE-EN 14236).
-- **Llaves de corte** DN ≤ 100: **clase −20 °C** y **bloqueables/precintables en "cerrado"**. **Flexible de contador**: máximo **0,80 m**. **Tomas de presión**: corte en **150 mbar**.
-- **Soldadura fuerte obligatoria** por encima de **0,05 bar** y en **aparcamientos cerrados**; **blanda** solo hasta **0,05 bar** en uso doméstico o cocina tipo A **≤ 30 kW**. Fusiones: **220 / 450 / 850 °C**. **Prohibido el estaño-plomo** de aportación.
-- Entre **metales distintos** (cobre-acero, cobre-inox, acero/inox-plomo) se **intercala aleación de cobre**. El **plomo** solo en ampliaciones en servicio, **≤ 0,05 bar** y uso doméstico.
-- Todas las **uniones mecánicas** (desmontables y no desmontables) valen **hasta MOP 5 bar**. **Metal-metal** solo en **conjuntos de regulación**; **PE-metal** desmontable (UNE 60405-1/-3) o fijo (UNE 60405-1/-2).
+- **Qué te llevas de toda la Parte 3 (UNE 60670-3).** Es el catálogo de con qué se construye y se une una receptora de **MOP ≤ 5 bar**. Dominarla es lo que hace que tu instalación **pase la prueba de estanquidad y la inspección** sin defectos: material correcto, elemento correcto, unión correcta. Todo lo demás son consecuencias de estas tres decisiones.
+- **Materiales, la regla madre.** No los deteriora **el gas por dentro ni el medio por fuera**; si no, protegidos y con **Marcado CE** (Reglamento UE Nº 305/2011). **PE 80/PE 100 (UNE-EN 1555) solo enterrado o en vaina** —el sol lo cuartea—; **cobre Cu-DHP 1 mm / 1,5 mm enterrado** (UNE-EN 1057); **acero hasta 2"** (UNE-EN 10255); **inox Serie 2** (UNE-EN 10312); **multicapa siempre con limitador de caudal y de temperatura** (UNE 53008); **corrugado** de dos capas (UNE-EN 15266). Espesor corto enterrado o PE al aire = **corrosión o UV = fuga**; curvar con mandril interno = estrangulamiento = **mala combustión** aguas abajo.
+- **Elementos, cada uno por su presión.** Tabla de tramos con cortes en **5 – 2 – 0,4 – 0,15 – 0,05 bar**. Reguladores 2.ª familia (UNE 60402-1, UNE 60402-2, UNE 60411) y GLP por **UNE-EN 16129**, con la frontera del **envase de 15 kg**; adaptador de salida libre por **UNE 60408**. Regulador mal elegido o descalibrado = presión que no toca = **llama amarilla, ennegrecido, aparato que se apaga y CO**.
+- **Seguridad y medida.** **Válvula de máxima: siempre rearme manual y tarado precintado**; **VIS de mínima** ≤ 4,8 m³(n)/h (UNE 60403) —si "el gas se corta solo", sospecha de una fuga aguas abajo antes que del aparato—. Contadores de membrana, turbina, pistones y **ultrasónico** (UNE-EN 14236). **Llaves DN ≤ 100: clase −20 °C y bloqueables/precintables en "cerrado"**. **Flexible de contador ≤ 0,80 m** (UNE 60713). **Tomas de presión**: corte en **150 mbar**.
+- **Uniones, donde nacen las fugas.** **Soldadura fuerte obligatoria por encima de 0,05 bar y en aparcamientos cerrados**; blanda solo hasta 0,05 bar en uso doméstico o cocina tipo A ≤ 30 kW. Fusiones **220 / 450 / 850 °C**, con el **estaño-plomo prohibido** de aportación. Entre **metales distintos, aleación de cobre** de por medio (nada de cobre-acero directo: par galvánico que corroe). El **plomo**, solo para ampliar lo viejo (≤ 0,05 bar, uso doméstico). **Todas las mecánicas hasta 5 bar**; press-fitting con su **junta tórica** (UNE-EN 549) bien prensada; **PE-metal** desmontable (UNE 60405-1/-3) o fijo (UNE 60405-1/-2).
+- **El papeleo que cierra el círculo.** Lo que montas con esta parte se plasma en el **certificado de instalación de gas** (el "boletín", modelos tipo **IRG**), que **firma la empresa instaladora** tras superar la **prueba de estanquidad** (UNE 60670-8) y la **puesta en marcha** de los aparatos; se entrega a la **empresa distribuidora** —que da la **puesta en servicio** y precinta contador y regulador— y al **titular**, con registro ante el órgano competente de la **Comunidad Autónoma**. Después, la instalación vive de **revisiones** (empresa instaladora) e **inspecciones periódicas** (distribuidora u organismo de control): material, elementos y uniones mal elegidos reaparecen ahí como **defectos con tu firma detrás**.

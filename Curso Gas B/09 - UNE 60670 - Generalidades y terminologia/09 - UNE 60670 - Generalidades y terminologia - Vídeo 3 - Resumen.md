@@ -1,6 +1,6 @@
-# UNE 60670 · Terminología (II): presiones, combustión y seguridad
+# UNE 60670-2 · Terminología (II): presiones, combustión y seguridad
 
-<p class="eyebrow">Tema 09 · Vídeo 3 de 3 · UNE 60670 · Parte 2</p>
+<p class="eyebrow">Tema 09 · Vídeo 3 de 3 · UNE 60670-2 · Terminología</p>
 
 **La segunda mitad del diccionario, y la más «técnica».** Aquí entran los términos que más se preguntan y más se confunden: la explosividad (LIE/LSE), las llaves de la instalación, el poder calorífico, y sobre todo la **familia de presiones** (MOP, MIP, DP, OP, STP, CTP…). Domina estas definiciones al pie de la letra y tendrás cazadas las preguntas trampa del examen. Van los términos 3.61 a 3.122, del límite inferior de explosividad a las zonas comunitarias.
 
@@ -230,12 +230,11 @@
 
 ## Ideas clave del vídeo
 
-- **LIE / LSE:** entre el límite inferior y el superior (en **% de gas en aire**) la mezcla es explosiva; fuera de esa franja, no.
-- **Árbol de llaves:** acometida → edificio → montante colectivo → usuario (frontera común/individual) → vivienda/local privado → contador/regulador → conexión de aparato.
-- **Familia de presiones:** **MOP** (continuada), **MIP** (incidente breve), **TOP** (temporal), **OP** (actual), **DP** (diseño); pruebas **STP** (resistencia) y **CTP** (conjunta). **Todas son presiones relativas.**
-- **Presión de garantía:** mínima a la salida de la llave de acometida; punto de partida del cálculo.
-- **Hs vs Hi:** en el superior el agua se supone condensada; en el inferior, en vapor. El fabricante suele dar el consumo referido al **Hi**.
-- **Sala de máquinas** solo si la potencia útil nominal conjunta es **superior a 70 kW** (con exclusiones: autónomos, cocción, radiación, etc.).
-- **Semisótano:** suelo **más de 60 cm** por debajo del nivel exterior en todo su contorno.
-- **Soldadura:** **blanda** funde entre 220 °C y menos de 450 °C; **fuerte**, a 450 °C o más.
-- **Válvulas de seguridad:** **VAS** alivia (suelta gas); **VISmáx.** corta por exceso; **VISmín.** corta por defecto de presión.
+- **Qué te llevas y para qué sirve.** Es la mitad más técnica del diccionario y la que más se toca en obra: **presiones, llaves, combustión y seguridad**. Son los términos que aparecen en el **certificado de pruebas** y en el parte de una **inspección o revisión**, así que conviene manejarlos con la definición exacta.
+- **La familia de presiones no es para el examen, es para no reventar ni ahogar la instalación.** La **DP** (diseño) fija la **resistencia mecánica** de tubos y accesorios; la **STP** (resistencia) y la **CTP** (conjunta resistencia + estanquidad) son las presiones **a las que haces la prueba** para entregar la instalación (parte 8). Probar a menos presión de la que toca deja pasar la **fuga que no ves**. Y recuerda: **todas son relativas** (por encima de la atmosférica). Etiquetas: **MOP** continuada, **MIP** incidente breve, **TOP** temporal, **OP** actual.
+- **La presión de garantía es el número con el que arrancas el cálculo.** Es la **mínima a la salida de la llave de acometida**. Si dimensionas los tubos por debajo de lo que pide el caudal, el aparato **se ahoga**: llama pobre, **se apaga** o salta por baja presión. Media avería de «no calienta» empieza en un tramo mal calculado desde esa presión de partida.
+- **El árbol de llaves te salva en una emergencia.** De la calle al aparato: **acometida → edificio → montante colectivo → usuario → vivienda o local privado → contador/regulador → conexión de aparato**. Cada una corta «de ahí para adentro». Saber cuál cerrar —y que sea accesible— es la diferencia entre parar una fuga en segundos o tener que evacuar el edificio.
+- **Tiro y revoco: aquí es donde hay muertos.** El **tiro** es la depresión que saca los humos; el **revoco** es el fallo por el que **los humos vuelven al local** por el cortatiro → **CO**. El **terminal/deflector** protege el tiro **del viento**. Un conducto mal rematado, obstruido o sin aire de aporte da **revoco, hollín, malos olores e intoxicación**. En el control periódico esto es de lo primero que compruebas.
+- **Válvulas de seguridad: cada una hace una cosa.** La **VAS** (sobrepresión) **alivia** soltando un poco de gas al exterior; la **VISmáx.** **corta** por presión alta; la **VISmín.** **corta** por presión baja. Cuando «salta y corta el gas» sin motivo aparente, sospecha del tarado de estas o del regulador antes de tocar el aparato.
+- **Hs frente a Hi, y por qué rinden las de condensación.** En el poder calorífico **superior (Hs)** el agua de los humos se supone **condensada** (recuperas ese calor); en el **inferior (Hi)**, en **vapor** (se va por la chimenea). El fabricante suele dar el consumo referido al **Hi**. Una caldera de condensación mal montada (sin evacuación de condensados o con retorno demasiado alto) pierde justo esa ventaja.
+- **Números que se preguntan y que decides en obra:** **soldadura** blanda (220 °C a < 450 °C) / fuerte (≥ 450 °C) —una unión mal elegida es una **fuga**—; **sala de máquinas** si la potencia útil nominal conjunta es **> 70 kW** (cambia ventilación y exigencias); **semisótano** si el suelo queda **> 60 cm** bajo el nivel exterior (condiciona dónde puedes emplazar el gas); y **LIE/LSE**, la franja (en % de gas en aire) en la que la mezcla **explota**, que es lo que vigila el **detector de gas**.

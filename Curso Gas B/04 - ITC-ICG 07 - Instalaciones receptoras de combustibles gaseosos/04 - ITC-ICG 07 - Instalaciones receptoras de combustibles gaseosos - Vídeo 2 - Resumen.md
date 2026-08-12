@@ -64,13 +64,28 @@ Incluirá el correspondiente **croquis** de la instalación especificando:
 
 Hará **especial mención** a que las **pruebas de resistencia mecánica y estanquidad** que le correspondan, según las normas **UNE 60310 y UNE 60311**, han arrojado **resultados positivos**.
 
+<figure>
+<img src="imagenes_individuales/fig_1724_p147.png" alt="Modelo IRG-1, certificado de acometida interior de gas">
+<figcaption>Modelo IRG-1: certificado de acometida interior de gas. Fíjate en la casilla de tipo de trazado (aéreo/enterrado) y en la declaración de que las pruebas de estanquidad han dado resultado satisfactorio.</figcaption>
+</figure>
+
 #### b) Certificado de instalación común de gas
 
 Incluirá el correspondiente **croquis** especificando: **trazado, tipo de material, longitudes de tubería, diámetros, elementos o sistemas de regulación, medida y control, accesorios, caudales previstos para cada tramo** y los **esquemas** necesarios.
 
+<figure>
+<img src="imagenes_individuales/fig_1724_p149.png" alt="Modelo IRG-2, certificado de instalación común de gas">
+<figcaption>Modelo IRG-2: certificado de instalación común de gas. Recoge la potencia de diseño de la común y el número de instalaciones individuales a las que alimenta.</figcaption>
+</figure>
+
 #### c) Certificado de instalación individual de gas
 
 Incluirá el correspondiente **croquis** especificando: **trazado, tipo de material, longitudes de tubería, diámetros, elementos o sistemas de regulación, medida y control, accesorios**, los **aparatos de consumo conectados o previstos** (indicando su **consumo calorífico nominal**) y los **esquemas** necesarios.
+
+<figure>
+<img src="imagenes_individuales/fig_1724_p151.png" alt="Modelo IRG-3, certificado de instalación individual de gas">
+<figcaption>Modelo IRG-3: certificado de instalación individual de gas. Es el único que incorpora la tabla de aparatos instalados o previstos con su potencia nominal en kW y la casilla de uso (doméstico, comercial o industrial).</figcaption>
+</figure>
 
 #### Certificación adicional de chimeneas (edificios de nueva planta)
 
@@ -152,11 +167,15 @@ Salvo en el caso de las **instalaciones que requieren proyecto**, **no es precis
 
 ## Ideas clave del vídeo
 
-- La ejecución de una instalación receptora **no precisa autorización administrativa**.
-- Precisan **proyecto**: individuales **> 70 kW**; comunes **> 2.000 kW**; acometidas interiores **> 2.000 kW**; cualquier instalación a **> 5 bar**; las de nuevas técnicas/materiales; y ampliaciones que superen el **30 %** de la potencia de diseño. **Proyecto ⇒ certificado de dirección de obra** (técnico competente).
-- Antes de entregar: **prueba de estanquidad** (**UNE 60670-8** o **UNE 60620**), reflejada en el certificado de instalación. Acometida interior enterrada: **certificado de acometida** al distribuidor **antes** de la puesta en marcha.
-- Tres certificados de instalación: **acometida interior** (a), **común** (b), **individual** (c, el único que lista **aparatos** y su **consumo nominal**). En obra nueva con chimeneas, **certificación adicional** de las chimeneas.
-- Puesta en servicio: **cerrar, bloquear, precintar y taponar** llaves sin uso y **purgar** para eliminar mezcla aire-gas.
-- Con contrato y red: la hace el **distribuidor** (9 pasos: 1-5 comprobar, 6-9 precintar contador, probar estanquidad, dar servicio y certificar). Sin red: la hace el **suministrador**.
-- **Más de un año** sin suministro tras resolución de contrato → se trata **como nueva instalación**.
-- **Comunicación a la Administración**: solo obligatoria si la instalación **requería proyecto**; en el resto, no, pero la documentación se guarda a disposición de la Administración.
+- **Montar es media faena; la otra media son los papeles.** Para **ejecutar** una receptora **no necesitas autorización administrativa**: haces las cosas bien, las documentas y, si tocaba proyecto, las comunicas. Nada de esperar permisos.
+- **¿Necesito proyecto? Cuatro disparadores.** Individual **> 70 kW**; común o acometida interior **> 2.000 kW**; cualquier instalación a **> 5 bar** (sea cual sea la potencia); y las **ampliaciones que superen el 30 %** de la potencia de diseño (o nuevas técnicas/materiales). **Hay proyecto ⇒ hay certificado de dirección de obra** firmado por técnico competente. Saber esto te evita arrancar una obra que luego no se puede legalizar.
+- **La prueba estrella: estanquidad.** Antes de entregar, **tú** (la empresa instaladora) pruebas que no hay fugas según **UNE 60670-8** (baja) o **UNE 60620** (alta), y el **resultado positivo va en el certificado de instalación**. Una estanquidad mal hecha es **olor a gas, corte en la siguiente inspección** y, en lo grave, deflagración.
+- **Purgar bien o no encender.** En la puesta en servicio hay que **purgar** hasta que no quede **mezcla aire-gas dentro de los límites de inflamabilidad**: purgar mal es arriesgar una **deflagración al primer chispazo** o un aparato que ni arranca por aire en la línea.
+- **Cerrar, bloquear, precintar, taponar.** Las llaves de viviendas aún sin contrato se dejan **cerradas, bloqueadas y precintadas**, y **taponadas** si ni siquiera hay aparato. Saltárselo es dejar **gas suelto en un local sin terminar**: fuga e intoxicación esperando a pasar.
+- **Los papeles que firmas y adónde van.**
+  - **Certificado de instalación** (modelos **IRG-1** acometida interior, **IRG-2** común, **IRG-3** individual): lo **firma el instalador habilitado** con **sello de la empresa instaladora**; **copia al titular**. Solo el **individual (IRG-3)** lista los **aparatos y su consumo nominal**.
+  - **Certificado de acometida interior** enterrada → **al distribuidor ANTES de la puesta en marcha** (lo enterrado no se revisa a ojo una vez tapado).
+  - **Certificación de chimeneas** en obra nueva → técnico facultativo competente u **organismo de control**, previa a la puesta en servicio.
+  - **Certificado de pruebas previas y puesta en servicio** → lo emite el **distribuidor** (o el **suministrador** si no hay red), con **copia al titular/usuario**.
+- **¿Quién da el gas? Depende de la red.** **Con red** lo hace el **distribuidor** en 9 pasos (1-5 comprobar; 6-9 precintar el contador, probar estanquidad, dar servicio y certificar). **Sin red**, esas mismas pruebas y el certificado los hace el **suministrador**. **Sin contrato**, manda la **empresa instaladora**, que **siempre** entrega el **certificado de instalación** al titular.
+- **Dos datos que se cuelan en el examen y en la obra.** **Más de un año** sin suministro tras resolver contrato → se trata **como instalación nueva**. Y **se comunica a la Administración** solo si la instalación **requería proyecto**; en el resto no comunicas, pero **guardas la documentación** a disposición del **órgano competente de la Comunidad Autónoma**.

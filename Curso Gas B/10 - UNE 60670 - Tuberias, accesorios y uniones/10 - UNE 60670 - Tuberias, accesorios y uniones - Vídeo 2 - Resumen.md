@@ -1,6 +1,6 @@
-# Elementos de la instalación
+# UNE 60670-3 · Elementos de la instalación
 
-<p class="eyebrow">Tema 10 · Vídeo 2 de 3 · UNE 60670 · Parte 3</p>
+<p class="eyebrow">Tema 10 · Vídeo 2 de 3 · UNE 60670-3</p>
 
 **Tubo hay, pero una instalación es mucho más que tubo.** En este vídeo repasamos todos los **elementos** que se intercalan en la instalación receptora y en la conexión de aparatos: tallos, estaciones y conjuntos de regulación, reguladores, válvulas de seguridad, contadores, soportes, centralizaciones, llaves de corte, conexiones flexibles y tomas de presión. Cada uno tiene su norma UNE de referencia y sus rangos de presión. Aquí es donde más números y más siglas aparecen, así que apóyate en la tabla de tramos de presión que abre el capítulo.
 
@@ -167,12 +167,12 @@ En tramos con MOP **superior a 150 mbar e inferior o igual a 5 bar**, las tomas 
 
 ## Ideas clave del vídeo
 
-- Los elementos se clasifican por la **tabla de tramos de presión**: cortes en **5 – 2 – 0,4 – 0,15 – 0,05 bar**.
-- **Tallo con entrada en PE** (UNE 60405): hace la transición visto/enterrado; el PE va siempre **protegido del sol**. Ya se admite **PE-multicapa**.
-- **Reguladores 2.ª familia** por escalón: **UNE 60402-1** (0,4/0,1), **UNE 60402-2** (0,15-0,4 / 0,15), **UNE 60411** (0,4-5 / ≤0,4, ≤ 250 m³/h).
-- **GLP (3.ª familia):** reguladores por **UNE-EN 16129** (por encima y por debajo de 15 kg); adaptador de salida libre para envases ≤ 15 kg por **UNE 60408**.
-- **Válvula de máxima**: **siempre rearme manual** y tarado **precintado**; **VIS de mínima** ≤ 4,8 m³(n)/h por **UNE 60403**.
-- **Contadores**: membrana (UNE-EN 1359 + UNE 60510), turbina (UNE-EN 12261), pistones (UNE-EN 12480), **ultrasónico** (UNE-EN 14236).
-- **Llaves de corte** DN ≤ 100: **clase −20 °C** y **bloqueables/precintables en "cerrado"** (UNE-EN 331 / UNE 60718); enterrables de PE (UNE-EN 1555-4) y metálicas (UNE-EN 13774).
-- **Flexible de contador** de acero inox corrugado: longitud **máxima 0,80 m** (UNE 60713).
-- **Tomas de presión**: hasta **150 mbar** débil calibre o Peterson; por encima de **150 mbar**, solo **Peterson** (UNE 60719).
+- **Qué te llevas.** Una receptora es tubo **más** elementos: tallos, reguladores, contadores, válvulas de seguridad, llaves y flexibles. Cada uno se elige por su **tramo de presión** (cortes en **5 – 2 – 0,4 – 0,15 – 0,05 bar**) y tiene su UNE. Equivocar el escalón es equivocar la pieza, y eso se paga aguas abajo.
+- **El tallo (UNE 60405)** casa el PE enterrado con el metal visto; su parte de plástico va siempre **protegida del sol** (bajo tierra o en vaina), y ya se admite **PE-multicapa**. Un tallo con el PE al aire es la misma fuga por UV del vídeo anterior.
+- **Reguladores, el corazón de la presión.** 2.ª familia por escalón: **UNE 60402-1** (0,4/0,1), **UNE 60402-2** (0,15-0,4 / 0,15), **UNE 60411** (0,4-5 / ≤0,4, ≤ 250 m³(n)/h). GLP (3.ª familia): **UNE-EN 16129** por encima y por debajo de **15 kg**; adaptador de salida libre para envases ≤ 15 kg por **UNE 60408**. Elegir mal el regulador o dejarlo descalibrado da al aparato una **presión que no le toca**: llama amarilla, **ennegrecido** de la olla y del revoco, aparato que **se apaga** o que quema mal y suelta **CO**. Casi toda avería de combustión empieza en una presión mal dada.
+- **Los dos guardianes.** La **válvula de máxima** corta si la presión sube: **siempre rearme manual** y **tarado precintado** para que nadie lo toque. La **VIS de mínima** (≤ 4,8 m³(n)/h, **UNE 60403**) corta si la presión cae, muchas veces por una **fuga aguas abajo**. Cuando el cliente te dice "el gas se corta solo", antes de culpar al aparato mira si ha saltado un guardián: ahí puede estar la fuga.
+- **Contadores:** membrana (UNE-EN 1359 + UNE 60510), turbina (UNE-EN 12261), pistones (UNE-EN 12480) y **ultrasónico** doméstico (UNE-EN 14236). El contador y el conjunto de regulación suelen ser de la **empresa distribuidora** y van **precintados**: romper un precinto sin autorización es problema serio.
+- **Llaves de corte DN ≤ 100:** **clase de temperatura −20 °C** (que no se agarrote con el frío y cierre el día de una emergencia) y **bloqueables/precintables en "cerrado"** (UNE-EN 331 / UNE 60718). Enterrables de PE (UNE-EN 1555-4) y metálicas (UNE-EN 13774). Una llave que no cierra cuando hay una fuga no sirve de nada.
+- **El 0,80 m que se clava:** el flexible de acero inox corrugado del **contador** (UNE 60713) **no pasa de 0,80 m**. Pasarse de longitud o confundirlo con los flexibles de aparato o de envase (esos, en la Parte 7) es defecto de rechazo.
+- **Tomas de presión (UNE 60719):** hasta **150 mbar**, débil calibre o Peterson; por encima de 150 mbar, **solo Peterson**. Son tu "pinchazo" para el manómetro: sin ellas no compruebas presiones ni en la puesta en servicio ni en una revisión.
+- **El papeleo.** Todos estos elementos quedan reflejados en el **certificado de instalación** (el "boletín", modelos tipo **IRG**) que **firma la empresa instaladora**; la **puesta en servicio** y el precintado del contador y el regulador los realiza la **empresa distribuidora**. Un elemento mal elegido reaparece como defecto en ese certificado y en la **revisión o inspección periódica**.

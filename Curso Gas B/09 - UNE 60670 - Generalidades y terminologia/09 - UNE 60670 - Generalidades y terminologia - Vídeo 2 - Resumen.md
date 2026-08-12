@@ -1,6 +1,6 @@
-# UNE 60670 · Terminología (I): accesos, aparatos e instalaciones
+# UNE 60670-2 · Terminología (I): accesos, aparatos e instalaciones
 
-<p class="eyebrow">Tema 09 · Vídeo 2 de 3 · UNE 60670 · Parte 2</p>
+<p class="eyebrow">Tema 09 · Vídeo 2 de 3 · UNE 60670-2 · Terminología</p>
 
 **El diccionario del gasista.** La Parte 2 de la UNE 60670 fija, con precisión de examen, el significado exacto de cada palabra que usa la norma. Aquí no hay que «entender la idea»: hay que quedarse con la **definición literal**, porque muchas preguntas del examen son simplemente «¿qué es…?». En este vídeo va la primera mitad del glosario (términos 3.1 a 3.60), del grado de accesibilidad hasta la intemperie.
 
@@ -233,11 +233,9 @@ Para los fines de este documento se aplican los términos, símbolos y definicio
 
 ## Ideas clave del vídeo
 
-- La Parte 2 es el **glosario técnico** de toda la UNE 60670; en el examen se pregunta la **definición literal**.
-- Novedades de esta edición: nuevos términos (**aparato móvil, intemperie, local o edificio industrial, loft, ventilación cruzada**) y se elimina «**primer sótano**» (queda «semisótano»).
-- **Accesibilidad 1/2/3:** grado 1 sin llaves ni escaleras; grado 2 con armario y llave normalizada; grado 3 con escaleras/medios especiales o paso por zona privada.
-- **Aparatos A/B/C:** A no evacúa fuera; B coge aire del local y evacúa fuera; C es estanco. A y B son de **circuito abierto**.
-- **Condiciones de referencia = 15 °C** y **normales = 0 °C**, ambas a **1 013,25 mbar**.
-- **Aparcamiento** > 100 m²; **garaje** ≤ 100 m². Aparcamiento **abierto** cumple aberturas (≥ 1/20, ≥ 1/40 uniforme) y ≤ 0,5 m al techo.
-- **Familias de gas por Wobbe superior:** 1ª (22,4–24,8), 2ª/gas natural (39,1–54,7), 3ª/GLP (72,9–87,3) MJ/m³.
-- **Instalación receptora:** de la **llave de acometida (excluida)** a las **llaves de conexión de aparato (incluidas)**; fuera los aparatos y sus conexiones.
+- **Qué te llevas y para qué sirve.** Es el **diccionario literal** de la norma; en el examen se pregunta la definición exacta, pero en obra estos términos son los que escribes en el **certificado de instalación** y los que discutes con la distribuidora. El matiz fino (**«excluida ésta / incluidas éstas»**, las cifras) es lo que separa un boletín bien hecho de uno que te devuelven.
+- **A/B/C no es trivia: es ventilación y es CO.** El **tipo A** coge aire del local y **no evacúa** (cocina, calentador atmosférico antiguo): exige ventilación y da CO si falta; el **tipo B** coge aire del local y **evacúa por conducto** (caldera de tiro natural): si el tiro falla hay **revoco** y CO dentro; el **tipo C** es **estanco** (ni toca el aire del local ni suelta humos en él). Colocar el tipo equivocado o en un local prohibido —un B atmosférico en un baño, por ejemplo— es causa directa de **intoxicaciones por CO**. Tras la puesta en marcha o un cambio de familia se firma el **certificado de puesta en marcha** del aparato.
+- **Accesibilidad 1/2/3 te la juegas en el mantenimiento.** Grado 1 (sin llaves ni escalera), grado 2 (armario o registro con llave normalizada), grado 3 (escalera/medios especiales o paso por zona privada). Si montas una **llave de corte** o un contador con peor accesibilidad de la que le corresponde, luego **no puedes hacer el control periódico** ni cortar rápido en una emergencia. El grado se decide al montar, no se improvisa.
+- **La familia del gas (por Wobbe) es a lo que está tarado el aparato.** 1ª (22,4–24,8), 2ª/**gas natural** (39,1–54,7), 3ª/**GLP** (72,9–87,3) MJ/m³. Meter a un aparato un gas de otra familia o a otra presión sin **adecuarlo** da **llama amarilla, ennegrecido, hollín y CO**. Aquí solo los clasificas; el ajuste es la parte 10, pero la avería de combustión suele empezar confundiendo la familia.
+- **Los límites común/individual (excluida/incluida) deciden qué pruebas y qué firmas.** La **instalación común** va de la **llave de edificio (excluida)** a las **llaves de usuario (incluidas)**; la **individual**, de la **llave de usuario (excluida)** a las **llaves de conexión de aparato (incluidas)**. Ese límite marca **qué tramo sometes a estanquidad** y **quién responde** (comunidad o usuario). La **conexión del aparato y el propio aparato quedan fuera** de la receptora.
+- **Datos que no se te caen:** **condiciones de referencia 15 °C / normales 0 °C** (ambas a 1 013,25 mbar), **aparcamiento > 100 m² / garaje ≤ 100 m²** (abierto si cumple aberturas ≥ 1/20, ≥ 1/40 uniforme y ≤ 0,5 m al techo), y los rangos de **Wobbe** de las tres familias.
