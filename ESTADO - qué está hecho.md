@@ -18,8 +18,10 @@ Panel de control del curso **Gas B** (PROMPT MAESTRO v9).
 ## Progreso
 - [x] Repo inicializado, rama de trabajo publicada.
 - [x] 16 PDF de origen en `_materiales_origen/`.
-- [x] **FASE 0 — estructura de 17 carpetas creada** (`Curso Gas B/`) + MAPA DEL CURSO + FUENTE.md por tema. ← *pendiente tu OK*.
-- [ ] FASE 1 — texto íntegro + PDF global + PDF por vídeo (empieza por Tema 00).
+- [x] **FASE 0 — estructura de 18 carpetas** (`Curso Gas B/`, temas 00-17) + MAPA + FUENTE.md.
+- [x] Motor de PDF del curso (`_build/`): plantilla navy + generador reutilizable.
+- [~] **FASE 1 — Tema 00 completo** (Resumen global + 3 PDF por vídeo, anti-omisiones OK). ← *pendiente tu OK al estándar*.
+- [ ] FASE 1 — resto de temas (01-17), por tandas.
 - [ ] FASE 2 — PowerPoints (plantilla exacta, N1/N2, animaciones).
 - [ ] FASE 3 — audio + incrustación + MP4.
 - [ ] FASE 4 — SCORM v2 (tests, tienda, actividad).

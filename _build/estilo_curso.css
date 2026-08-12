@@ -1,0 +1,74 @@
+/* ==== Plantilla PDF - Curso Gas B (PROMPT MAESTRO v9) ==== */
+:root{
+  --navy:#1E2761;
+  --navy2:#2E3A80;
+  --ink:#1b2330;
+  --muted:#64748B;
+  --line:#d7deea;
+  --note:#F3F6FB;
+  --note-border:#2E3A80;
+  --warn:#FFF6E6;
+  --warn-border:#C9871A;
+}
+@page{
+  size:A4;
+  margin:20mm 18mm 20mm 18mm;
+  @bottom-left{ content: string(curso); color:var(--muted); font-size:8pt; }
+  @bottom-right{ content: "Pag. " counter(page) " / " counter(pages); color:var(--muted); font-size:8pt; }
+  @top-right{ content: string(tema); color:var(--muted); font-size:8pt; }
+}
+*{ box-sizing:border-box; }
+body{
+  font-family:"Montserrat","Segoe UI","DejaVu Sans",Arial,sans-serif;
+  color:var(--ink); font-size:10.5pt; line-height:1.5; margin:0;
+}
+h1{
+  color:#fff; background:var(--navy); string-set: tema content();
+  font-size:19pt; font-weight:800; margin:0 0 14pt; padding:14pt 16pt;
+  border-radius:10px; line-height:1.2;
+}
+h2{
+  color:var(--navy); font-size:14pt; font-weight:800; margin:16pt 0 6pt;
+  padding-bottom:4pt; border-bottom:2px solid var(--navy); break-after:avoid;
+}
+h3{ color:var(--navy2); font-size:11.5pt; font-weight:700; margin:11pt 0 4pt; break-after:avoid; }
+h4{ color:var(--navy2); font-size:10.5pt; font-weight:700; margin:8pt 0 3pt; break-after:avoid; }
+p{ margin:0 0 7pt; text-align:justify; }
+ul,ol{ margin:0 0 8pt; padding-left:18pt; }
+li{ margin:0 0 3pt; }
+strong{ color:var(--navy); }
+a{ color:var(--navy2); text-decoration:none; }
+code{ background:#eef2fa; padding:0 3px; border-radius:3px; font-size:9.5pt; }
+
+/* Tablas: cabecera navy */
+table{ width:100%; border-collapse:collapse; margin:8pt 0 12pt; font-size:9.5pt; break-inside:avoid; }
+thead th{ background:var(--navy); color:#fff; text-align:left; padding:6pt 8pt; font-weight:700; }
+tbody td{ border:1px solid var(--line); padding:5pt 8pt; vertical-align:top; }
+tbody tr:nth-child(even){ background:#f6f8fc; }
+
+/* Nota del instructor (blockquote) */
+blockquote{
+  margin:9pt 0; padding:9pt 12pt; background:var(--note);
+  border-left:4px solid var(--note-border); border-radius:0 8px 8px 0;
+}
+blockquote p{ margin:0 0 4pt; }
+blockquote p:last-child{ margin:0; }
+
+/* Aviso / cuidado (blockquote que empieza con AVISO) */
+blockquote.aviso{ background:var(--warn); border-left-color:var(--warn-border); }
+
+/* Caja de portada del video/tema */
+.portada{ text-align:center; padding:8pt 0 4pt; }
+.eyebrow{ color:var(--muted); font-size:9pt; letter-spacing:2px; text-transform:uppercase; font-weight:700; }
+
+/* Ideas clave */
+.ideas{ background:var(--note); border:1px solid var(--line); border-radius:10px; padding:10pt 14pt; margin:14pt 0 4pt; }
+.ideas h2{ border:0; margin:0 0 6pt; }
+
+/* Bloque de definiciones */
+dl{ margin:0 0 8pt; }
+dt{ font-weight:700; color:var(--navy); margin-top:6pt; }
+dd{ margin:0 0 4pt 0; padding-left:0; }
+
+hr{ border:0; border-top:1px solid var(--line); margin:14pt 0; }
+.small{ font-size:9pt; color:var(--muted); }

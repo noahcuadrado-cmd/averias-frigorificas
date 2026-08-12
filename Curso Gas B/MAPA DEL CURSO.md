@@ -30,6 +30,21 @@ Curso completo (sin recortes) montado con el PROMPT MAESTRO v9.
 | 15 | Pruebas y puesta en servicio | 8 + 9 + 10 |
 | 16 | Instalaciones en servicio y control periódico | 11 + 12 + 13 |
 
+## Bloque C — Guía práctica (cierre)
+
+| Tema | Título | Fuente |
+|---|---|---|
+| 17 | Gas a la primera (guía práctica NEDGIA) | NEDGIA (79 pág, muy ilustrada) |
+
+## Criterios de edición (FASE 1)
+- **Poda con criterio de examinador**: fuera portadas, índices, prólogos, promos
+  editoriales, avisos legales, bibliografía y apéndices que no entran en examen ni
+  ayudan a comprender. Se conserva íntegro todo lo normativo (artículos, valores,
+  tablas, definiciones, excepciones). Ante la duda, se queda.
+- **Notas aclaratorias** del instructor en puntos difíciles, marcadas y separadas
+  del texto normativo.
+- Tema 17: extraer **todas las imágenes** con su texto (alimentan los PPTX).
+
 ## Notas
 - **Agrupar ≠ resumir**: los temas que juntan varias partes/ITC llevan el contenido íntegro.
 - Los PDF de origen están en `_materiales_origen/` (raíz del repo). Las partes UNE, además, copiadas dentro de su tema.
