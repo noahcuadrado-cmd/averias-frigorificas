@@ -1,5 +1,5 @@
 {
- "pie": "Curso Gas B · Tema 03 · Estaciones de servicio de gas",
+ "pie": "Curso Gas B · Tema 03 · ITC-ICG 05 · Estaciones de servicio",
  "slides": [
   {
    "tipo": "portada",
@@ -7,17 +7,17 @@
    "videoxy": "Vídeo 1 de 2",
    "titulo": "La gasolinera de gas",
    "subtitulo": "Estaciones de servicio para vehículos a gas",
-   "notas": "N1: ¿Qué pasa cuando un coche o un camión reposta gas en lugar de gasolina o gasóleo? ¿Dónde se regula esa gasolinera?\nN2: En este vídeo recorremos la instrucción técnica cero cinco, que es tu manual cuando montas o amplías una estación de repostaje de gas para vehículos. Hay cuatro combustibles posibles: el gas licuado del petróleo a granel, el gas natural comprimido, el gas natural licuado y el hidrógeno en fase gas. Verás qué instalaciones entran, qué norma manda según el tipo de gas, y todo el circuito de papeles hasta que la estación puede echar el primer suministro. Es una instrucción corta pero llena de datos muy preguntables: normas por combustible, plazos y periodicidades."
+   "notas": "N1: ¿Qué pasa cuando un camión reposta gas en vez de gasóleo? ¿Y dónde se regula esa gasolinera?\nN2: En este vídeo abrimos la instrucción técnica cero cinco, tu manual cuando montas o amplías una estación de repostaje de gas para vehículos. Fíjate bien, porque pueden convivir cuatro combustibles distintos: el gas licuado del petróleo a granel, el gas natural comprimido, el gas natural licuado y el hidrógeno en fase gas. Vamos a ver qué instalaciones entran, qué norma manda según el gas, y toda la cadena de papeles hasta que la estación echa el primer suministro. Es una instrucción corta, pero cargada de datos muy preguntables: normas por combustible, plazos y periodicidades. Aquí se ganan o se pierden preguntas de examen, así que vamos con calma y las fijamos una a una."
   },
   {
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["4", "gases: GLP, GNC, GNL e H2"],
+    ["4", "gases: GLP, GNC, GNL e H₂"],
     ["15", "días hábiles para comunicar"],
     ["5", "años: inspección y mangueras"]
    ],
-   "notas": "N1: Antes de entrar, tres números que resumen el vídeo.\nN2: Cuatro combustibles distintos pueden convivir en una estación de repostaje, y no se regulan igual ninguno de ellos. Quince días hábiles es el plazo que tienes, tras el primer llenado, para comunicar la instalación a la Administración. Y cinco años es la periodicidad de dos obligaciones que se olvidan y cuestan un expediente: la inspección oficial por organismo de control y el cambio de todas las mangueras de repostaje. Si retienes estos tres datos, ya llevas medio vídeo ganado."
+   "notas": "N1: Antes de entrar, quédate con tres números que resumen todo el vídeo.\nN2: El primero, cuatro. Cuatro combustibles distintos pueden repostarse en una estación, y ninguno se regula igual que otro. El segundo, quince. Quince días hábiles es el plazo que tienes, desde el primer llenado, para comunicar la instalación a la Administración; es un plazo que se olvida y cuesta un expediente. Y el tercero, cinco. Cinco años es la periodicidad de dos obligaciones que caen fijo: la inspección oficial por organismo de control y el cambio de todas las mangueras de repostaje. Si retienes estos tres números, ya llevas medio vídeo ganado."
   },
   {
    "tipo": "contenido",
@@ -25,12 +25,12 @@
    "titulo": "¿De qué manda la ITC 05?",
    "vinetas": [
     "Proyectar, construir y explotar",
-    "Almacenamiento y suministro",
+    "Almacenamiento y suministro de gas",
     "GLP · GNC · GNL · hidrógeno",
     "Carburante para vehículos a motor"
    ],
    "img_brief": "cng gas station vehicle refueling",
-   "notas": "N1: ¿Qué regula exactamente esta instrucción?\nN2: Fija los requisitos técnicos esenciales y las medidas de seguridad mínimas para proyectar, construir y explotar las instalaciones de almacenamiento y suministro de gas cuando ese gas se usa como carburante para vehículos a motor. Ojo a los cuatro gases: gas licuado del petróleo a granel, gas natural comprimido, gas natural licuado e hidrógeno en fase gas. No son intercambiables ni se regulan igual, como verás enseguida. Truco de memoria: son los gases que mueven vehículos. Si en el examen ves gasóleo o gasolina en esta lista, es falso: esta instrucción va de gases."
+   "notas": "N1: ¿Qué regula exactamente esta instrucción, con sus palabras?\nN2: Fija los requisitos técnicos esenciales y las medidas de seguridad mínimas para proyectar, construir y explotar las instalaciones de almacenamiento y suministro de gas, pero solo cuando ese gas se usa como carburante para vehículos a motor. Ojo a los cuatro gases: gas licuado del petróleo a granel, gas natural comprimido, gas natural licuado e hidrógeno en fase gas. No son intercambiables ni comparten normativa. Truco de memoria: son los gases que mueven vehículos. Y aquí va la trampa de examen: si ves gasóleo o gasolina metidos en esta lista, es falso, porque esta instrucción va solo de gases."
   },
   {
    "tipo": "contenido",
@@ -39,11 +39,11 @@
    "vinetas": [
     "Estaciones de nueva construcción",
     "Ampliaciones de las existentes",
-    "Acceso libre (al público)",
-    "Acceso restringido (personal formado)"
+    "Acceso libre: abierta al público",
+    "Acceso restringido: personal formado"
    ],
    "img_brief": "gas station fuel dispenser row",
-   "notas": "N1: ¿A qué estaciones se aplica, y qué es eso del acceso restringido?\nN2: Se aplica a las estaciones de nueva construcción y a las ampliaciones de las que ya existen, tanto de acceso libre como restringido. Acceso restringido no es un candado cualquiera: significa que solo entra un número limitado de personas que han recibido formación específica y bajo la responsabilidad del titular. Piensa en el surtidor interno de una flota de autobuses o de una empresa de reparto: solo repostan los conductores formados. Todo lo demás, una estación abierta al público, es acceso libre. Y la instrucción se aplica a las dos por igual."
+   "notas": "N1: ¿A qué estaciones se aplica, y qué significa eso del acceso restringido?\nN2: Se aplica a las estaciones de nueva construcción y a las ampliaciones de las que ya existen, tanto de acceso libre como de acceso restringido. Y cuidado, porque acceso restringido no es un simple candado: exige que solo entren un número limitado de personas que han recibido formación específica y bajo la responsabilidad del titular. Piensa en el surtidor interno de una flota de autobuses, donde solo repostan conductores formados. Todo lo demás, una estación abierta al público, es acceso libre. Lo importante: la instrucción se aplica a las dos por igual, no te libras por ser restringida."
   },
   {
    "tipo": "contenido",
@@ -55,8 +55,8 @@
     "Sin almacenamiento intermedio",
     "Se trata como aparato a gas"
    ],
-   "img_brief": "cng compressor small industrial unit",
-   "notas": "N1: ¿Hay equipos de repostaje que se salgan de esta instrucción?\nN2: Sí, uno concreto. Los equipos de uso propio para suministrar gas natural comprimido a vehículos con un caudal máximo inferior a diez metros cúbicos por hora y sin almacenamiento intermedio quedan fuera del ámbito. No se consideran una estación, sino un aparato a gas conectado a la instalación receptora que le da el combustible, y así se tratan a efectos de instalación, puesta en servicio e inspecciones. Regla mental: poco caudal más no acumula gas es igual a aparato, no estación. Encajarlo en el saco equivocado te cambia el proyecto, las pruebas y las inspecciones, así que es un caso típico de examen."
+   "img_brief": "small industrial gas compressor unit",
+   "notas": "N1: ¿Hay algún equipo de repostaje que se salga de esta instrucción?\nN2: Sí, uno muy concreto y muy preguntado. Los equipos de uso propio que suministran gas natural comprimido a vehículos, con un caudal máximo inferior a diez metros cúbicos por hora y sin almacenamiento intermedio, quedan fuera del ámbito. No se consideran una estación, sino un aparato a gas colgado de la instalación receptora que le da el combustible, y así se tratan a efectos de instalación, puesta en servicio e inspecciones. La regla mental: poco caudal más que no acumula gas es igual a aparato, no estación. Y esto importa en obra, porque encajarlo en el saco equivocado te cambia el proyecto, las pruebas y las inspecciones."
   },
   {
    "tipo": "contenido",
@@ -64,11 +64,12 @@
    "titulo": "La norma la manda el gas",
    "vinetas": [
     "GLP → UNE 60630",
-    "GNC, GNL, H₂ → Directiva 2014/94/UE",
-    "Cada gas tiene su norma"
+    "GNC · GNL · H₂ → Directiva 2014/94/UE",
+    "Y sus reglamentos delegados",
+    "Cada gas, su propia norma"
    ],
-   "img_brief": "technical standards binders shelf",
-   "notas": "N1: ¿Qué norma se usa para diseñar y construir la estación?\nN2: Aquí la clave es que la norma la manda el gas, no tú. Separa mentalmente el gas licuado del petróleo por un lado, que va por la norma nacional UNE sesenta mil seiscientos treinta, y el resto de gases por otro, que van por el marco europeo, la directiva de combustibles alternativos y sus reglamentos delegados. Esa directiva europea, en la pantalla, la ves con su número identificador, pero para narrarla basta con llamarla la directiva de combustibles alternativos. Diseñar con la norma que no toca es la vía directa a una instalación que luego no pasa la inspección inicial y hay que rehacer."
+   "img_brief": "technical standards binders on shelf",
+   "notas": "N1: ¿Con qué norma se diseña y se construye la estación?\nN2: La clave es que la norma la manda el gas, no tú. Separa mentalmente el gas licuado del petróleo por un lado, que va con su norma nacional, la UNE sesenta mil seiscientos treinta, que ves en pantalla; y por otro lado el resto de gases, que van con el marco europeo, la directiva de combustibles alternativos y sus reglamentos delegados. Esa directiva la ves en pantalla con su número identificador, porque es un dato legal europeo, pero para explicarla basta con llamarla la directiva de combustibles alternativos. Diseñar con la norma que no toca es la vía directa a una instalación que luego no pasa la inspección inicial y hay que rehacer entera."
   },
   {
    "tipo": "contenido",
@@ -77,10 +78,11 @@
    "vinetas": [
     "GNC → UNE-EN ISO 16923",
     "GNL → UNE-EN ISO 16924",
-    "Hidrógeno → ISO 19880-1"
+    "Hidrógeno → ISO 19880-1",
+    "GLP sigue con su norma nacional"
    ],
    "img_brief": "hydrogen fuel station pump",
-   "notas": "N1: ¿Y mientras esa directiva europea todavía no es de aplicación, con qué se cumple?\nN2: Con una norma puente para cada gas. El gas natural comprimido cumple la ISO dieciséis mil novecientos veintitrés; el gas natural licuado, la dieciséis mil novecientos veinticuatro; y el hidrógeno, la diecinueve mil ochocientos ochenta guion uno. Truco para no equivocarte: los números del gas natural van casi seguidos, el comprimido y el licuado, dieciséis mil novecientos veintitrés y veinticuatro; el hidrógeno se va aparte, con un número mucho más alto. Recuerda que el gas licuado del petróleo sigue siempre con su norma nacional propia, no entra en este bloque."
+   "notas": "N1: ¿Y mientras esa directiva europea todavía no es de aplicación, con qué se cumple?\nN2: Con una norma puente para cada gas. El gas natural comprimido cumple la ISO dieciséis mil novecientos veintitrés; el gas natural licuado, la dieciséis mil novecientos veinticuatro; y el hidrógeno, la diecinueve mil ochocientos ochenta, guion uno. Truco para no confundirte: los números del gas natural van casi seguidos, el comprimido y el licuado, uno detrás del otro; el hidrógeno se va aparte, con un número mucho más alto. Y recuerda siempre que el gas licuado del petróleo no entra en este bloque: sigue con su norma nacional propia, pase lo que pase con Europa."
   },
   {
    "tipo": "contenido",
@@ -89,11 +91,11 @@
    "vinetas": [
     "No precisa autorización administrativa",
     "Sí precisa proyecto completo",
-    "Firma técnico facultativo competente",
-    "Hasta plan de emergencia"
+    "Lo firma técnico facultativo competente",
+    "Incluye hasta plan de emergencia"
    ],
    "img_brief": "engineer reviewing technical project drawings",
-   "notas": "N1: ¿Hace falta pedir permiso a la Administración para montar la estación?\nN2: Aquí funciona la lógica de siempre en gas: no se pide permiso antes, se comunica después. La construcción no precisa autorización administrativa. Ahora bien, cuidado con el matiz que confunde: no necesita autorización, pero sí necesita proyecto, un documento técnico completo firmado por un técnico facultativo competente, es decir un ingeniero titulado, y no una simple memoria del instalador. Es una instalación gorda, con depósitos y surtidores, por eso lleva proyecto con planos de detalle, diagramas del circuito eléctrico y hasta plan de emergencia. No confundas autorización, que es permiso antes, con comunicación, que es aviso después."
+   "notas": "N1: ¿Hace falta pedir permiso a la Administración para montar la estación?\nN2: Aquí funciona la lógica de siempre en gas: no se pide permiso antes, se comunica después. La construcción no precisa autorización administrativa. Pero cuidado con el matiz que hace caer a mucha gente: no necesita autorización, y sin embargo sí necesita proyecto. Un proyecto técnico completo, firmado por un técnico facultativo competente, es decir, un ingeniero titulado, no una simple memoria del instalador. Es una instalación gorda, con depósitos y surtidores, y por eso el proyecto lleva planos de detalle, diagramas del circuito eléctrico y hasta un plan de emergencia. No mezcles nunca autorización, que es permiso antes, con comunicación, que es aviso después."
   },
   {
    "tipo": "contenido",
@@ -106,7 +108,7 @@
     "Bajo supervisión del director de obra"
    ],
    "img_brief": "gas pipe pressure test gauge",
-   "notas": "N1: ¿Quién ejecuta la instalación y quién hace las primeras pruebas?\nN2: Reparto de papeles claro. La parte de gas, las tuberías, los depósitos y los surtidores de gas, la monta una empresa instaladora de gas habilitada. Lo demás, la obra civil, la marquesina, la iluminación, es cosa del titular. Terminado el montaje, y antes de la puesta en servicio, la propia empresa instaladora que lo ha ejecutado realiza las pruebas previstas, bajo la supervisión del director de obra, y anota el resultado en el certificado. En el examen, si preguntan quién ejecuta la instalación de gas, la respuesta es siempre la empresa instaladora de gas."
+   "notas": "N1: ¿Quién ejecuta la instalación y quién hace las primeras pruebas?\nN2: El reparto de papeles es muy claro. La parte de gas, es decir, las tuberías, los depósitos y los surtidores de gas, la monta una empresa instaladora de gas habilitada. Todo lo demás, la obra civil, la marquesina, la iluminación, corre bajo la responsabilidad del titular. Terminado el montaje, y antes de la puesta en servicio, la propia empresa instaladora que lo ha ejecutado realiza las pruebas previstas, bajo la supervisión del director de obra, y anota el resultado en el certificado. En el examen, si te preguntan quién ejecuta la instalación de gas, la respuesta es siempre la misma: la empresa instaladora de gas."
   },
   {
    "tipo": "contenido",
@@ -116,10 +118,10 @@
     "Inspección inicial obligatoria",
     "La hace el organismo de control",
     "Asisten instaladora y director de obra",
-    "En condiciones seguras (UNE 60250)"
+    "En condiciones seguras: UNE 60250"
    ],
-   "img_brief": "safety inspector clipboard industrial site",
-   "notas": "N1: Después de las pruebas de la instaladora, ¿quién da el visto bueno de verdad?\nN2: Son dos pasos que se preguntan juntos. Primero, las pruebas que hace el que monta, la empresa instaladora, supervisada por el director de obra. Después, una inspección inicial que dirige un tercero independiente, el organismo de control, con la instaladora y el director echándole una mano. Durante esos ensayos, director e instaladora toman todas las precauciones para que se hagan en condiciones seguras, según la norma UNE sesenta mil doscientos cincuenta. La idea es sencilla: primero me pruebo a mí mismo, luego me examina el árbitro."
+   "img_brief": "safety inspector with clipboard industrial site",
+   "notas": "N1: Después de las pruebas de la instaladora, ¿quién da el visto bueno de verdad?\nN2: Son dos pasos que se preguntan juntos, así que fíjalos juntos. Primero, las pruebas que hace el que monta, la empresa instaladora, supervisada por el director de obra. Y después, una inspección inicial que dirige un tercero independiente, el organismo de control, con la instaladora y el director de obra echándole una mano. Durante esos ensayos, director e instaladora toman todas las precauciones para que se hagan en condiciones seguras, según la norma UNE sesenta mil doscientos cincuenta. La idea que no se te puede olvidar: primero me pruebo a mí mismo, y luego me examina el árbitro."
   },
   {
    "tipo": "contenido",
@@ -131,21 +133,33 @@
     "Dirección de obra → director de obra",
     "El de instalación, por triplicado"
    ],
-   "img_brief": "signing official certificate document desk",
-   "notas": "N1: ¿Cuántos certificados salen de aquí y quién firma cada uno?\nN2: Tres documentos con tres firmantes, y esto cae fijo. El certificado de instalación lo firma la empresa instaladora, y va por triplicado: original, copia para el titular y copia para el órgano competente de la comunidad autónoma. El certificado de inspección lo firma el organismo de control tras los ensayos favorables, y es la luz verde de toda la operación: hasta que ese papel no existe, la estación no está en disposición de servicio. Y el certificado de dirección de obra lo firma el director de obra, con copia para titular y comunidad autónoma. Asocia siempre cada certificado con quien lo firma y lo tendrás resuelto."
+   "img_brief": "signing official certificate document on desk",
+   "notas": "N1: ¿Cuántos certificados salen de aquí y quién firma cada uno?\nN2: Tres documentos con tres firmantes, y esta asociación cae fija en el examen. El certificado de instalación lo firma la empresa instaladora, y va por triplicado: original, copia para el titular y copia para el órgano competente de la comunidad autónoma. El certificado de inspección lo firma el organismo de control, tras los ensayos favorables, y es la luz verde de toda la operación: hasta que ese papel no existe, la estación no está en disposición de servicio. Y el certificado de dirección de obra lo firma el director de obra, con copia para titular y comunidad autónoma, y lleva como anexo las actas de pruebas y la lista de componentes. Asocia cada certificado con quien lo firma y lo tienes ganado."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 4 · Puesta en servicio",
-   "titulo": "Luz verde y aviso",
+   "eyebrow": "Apartado 4.6 · Puesta en servicio",
+   "titulo": "La luz verde para echar gas",
    "vinetas": [
     "Certificado de inspección = disposición de servicio",
-    "Titular pide el primer suministro",
-    "Comunicar en 15 días hábiles",
-    "Contados desde el primer llenado"
+    "El titular pide el primer suministro",
+    "Al comercializador o al distribuidor"
    ],
    "img_brief": "gas station manager reviewing paperwork",
-   "notas": "N1: Ya está la estación lista, ¿cuándo puede echar gas y cuándo hay que avisar?\nN2: Una vez expedido el certificado de inspección, la instalación queda en disposición de servicio, y en ese momento el titular puede pedir el primer suministro al comercializador o al distribuidor. Y aquí van dos datos calientes de examen: tras el primer llenado tienes un plazo máximo de quince días hábiles, no naturales, para presentar la documentación por duplicado ante la comunidad autónoma, que te devuelve copia diligenciada. No lo confundas con el plazo general de las instalaciones receptoras, que son treinta días desde la puesta en servicio. Para la estación de servicio, memoriza quince días hábiles desde el primer llenado."
+   "notas": "N1: Ya está todo probado e inspeccionado, ¿cuándo puede la estación echar gas?\nN2: El momento exacto es este: una vez expedido el certificado de inspección, y no antes, la instalación queda en disposición de servicio. Solo en ese instante el titular puede ponerse en contacto con el comercializador o con el distribuidor para solicitar el primer suministro. Fíjate en el orden, porque es el corazón de la instrucción: sin certificado de inspección, no hay disposición de servicio; y sin disposición de servicio, no hay primer suministro. Dicho en cristiano de obra: sin ese papel firmado por el organismo de control, la gasolinera no echa ni una gota de gas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.7 · Comunicación",
+   "titulo": "El plazo que cuesta un expediente",
+   "vinetas": [
+    "Comunicar en 15 días hábiles",
+    "Desde la fecha del primer llenado",
+    "Por duplicado a la Comunidad Autónoma",
+    "Con certificados, proyecto y Plan de Mantenimiento"
+   ],
+   "img_brief": "official stamping documents at counter",
+   "notas": "N1: Y una vez suministrando, ¿hay que avisar a la Administración? ¿Con qué plazo?\nN2: Sí, y aquí van dos datos calientes que caen fijo. El plazo es de quince días hábiles, no naturales, y se cuenta desde la fecha del primer llenado, no desde que acabas el montaje. En ese plazo presentas la documentación por duplicado ante el órgano competente de la comunidad autónoma, que te devuelve copia diligenciada. Va el certificado de instalación, la fecha del primer suministro, el certificado de inspección, el proyecto constructivo, el certificado de dirección de obra y el plan de mantenimiento. Y no lo confundas con el plazo general de las instalaciones receptoras, que son treinta días desde la puesta en servicio. Para la estación de servicio, graba a fuego: quince días hábiles desde el primer llenado."
   },
   {
    "tipo": "contenido",
@@ -157,18 +171,35 @@
     "Libro de Mantenimiento firmado",
     "GLP: los depósitos van aparte"
    ],
-   "img_brief": "fuel pump hose nozzle station",
-   "notas": "N1: Una vez funcionando, ¿qué obligaciones marca la ley año tras año?\nN2: El titular responde de que todo esté en perfecto estado, pero la ley fija dos periodicidades de cinco años innegociables: la inspección periódica por un organismo de control cada cinco años, y la sustitución de todas las mangueras de repostaje al menos cada cinco años. Truco: cada lustro, revisión oficial y mangueras nuevas. Una manguera pasada de vida es una fuga de carburante a presión en las manos del cliente. Todo se anota en el Libro de Mantenimiento, con fecha, quién y qué intervención, firmado por quien la hace y por el titular. Y un detalle fino: en estaciones de gas licuado del petróleo, esa inspección no cubre los depósitos de almacenamiento, que tienen su propio régimen, el de los depósitos fijos de ese gas."
+   "img_brief": "fuel pump hose nozzle at station",
+   "notas": "N1: Una vez funcionando, ¿qué obligaciones marca la ley año tras año?\nN2: El titular responde de que todo esté en perfecto estado, pero la ley clava dos periodicidades de cinco años que son innegociables. Una, la inspección periódica por un organismo de control, cada cinco años. Y dos, la sustitución de todas las mangueras de repostaje, al menos cada cinco años. El truco: cada lustro, revisión oficial y mangueras nuevas. Y no es burocracia: una manguera pasada de vida es una fuga de carburante a presión en las manos del cliente. Todo se anota en el Libro de Mantenimiento, con fecha, quién y qué intervención, firmado por quien la hace y por el titular. Un detalle fino de examen: en estaciones de gas licuado del petróleo, esa inspección no cubre los depósitos de almacenamiento, que tienen su propio régimen, el de los depósitos fijos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Repaso relámpago",
+   "titulo": "Lo que no se te puede olvidar",
+   "vinetas": [
+    "4 gases; GNC pequeño = aparato",
+    "El gas manda la norma de diseño",
+    "Sin permiso, pero con proyecto",
+    "Sin inspección, no hay suministro",
+    "15 días hábiles y cada 5 años"
+   ],
+   "img_brief": "checklist clipboard gas station",
+   "notas": "N1: Antes del cierre, cerremos los ojos y repasemos lo esencial de un tirón.\nN2: Cuatro gases posibles, y el equipo pequeño de gas natural comprimido de uso propio no es estación, es un aparato. La norma de diseño la manda el gas: el licuado del petróleo por su norma nacional, y el resto por el marco europeo con sus normas puente. La estación no necesita permiso previo, pero sí proyecto firmado por técnico competente. La cadena de firmas termina en el certificado de inspección del organismo de control, y hasta que no existe, no hay primer suministro. Y las fechas: quince días hábiles desde el primer llenado para comunicar, y cada cinco años inspección y mangueras. Si recitas esto, tienes el vídeo dominado."
   },
   {
    "tipo": "cierre",
-   "titulo": "Qué me llevo",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Llevas una gasolinera de gas de la obra al primer repostaje",
    "mapa": [
-    "El gas manda la norma de diseño",
-    "Sin certificado de inspección, no hay suministro",
-    "Cada 5 años: inspección y mangueras"
+    "Ya colocas cada gas con su norma sin dudar",
+    "Ya sabes que sin certificado de inspección no hay suministro",
+    "Ya no se te escapan los quince días hábiles del primer llenado",
+    "Ya distingues una estación de un simple aparato a gas"
    ],
-   "notas": "N1: Si te quedas con tres cosas de este vídeo, que sean estas.\nN2: Primera: la norma de diseño la manda el gas, no tú; el gas licuado del petróleo por su norma nacional, y el gas natural comprimido, el licuado y el hidrógeno por el marco europeo con sus normas puente. Segunda, la cadena que da la luz verde: primero pruebas de la instaladora, luego inspección del organismo de control, y hasta que ese certificado de inspección no existe la estación no está en disposición de servicio y no puedes pedir el primer suministro. Sin ese papel, no hay gasolinera. Y tercera: dos periodicidades de cinco años que se olvidan y cuestan caro, la inspección periódica y el cambio de todas las mangueras, todo anotado en el Libro de Mantenimiento, porque lo que no está escrito, para la inspección no existe."
+   "tagline": "Con la ITC-ICG 05 dominada, hoy ya eres más gasista que ayer. Vamos a por las bombonas.",
+   "notas": "N1: Cerramos fuerte. Si te quedas con cuatro conquistas de este vídeo, ¿cuáles son?\nN2: Una, ya colocas cada combustible con su norma: el gas licuado del petróleo por su norma nacional y el resto por el marco europeo. Dos, ya sabes que la luz verde la da el certificado de inspección del organismo de control, y que sin él la estación no está en disposición de servicio ni echa una gota. Tres, ya no se te escapan los quince días hábiles desde el primer llenado para comunicar por duplicado. Y cuatro, ya distingues una estación de un simple aparato: poco caudal y sin almacenamiento, es aparato.\nN1: ¿Y cómo aparece esto en el examen y en la obra?\nN2: En el examen te lo cruzan: te ponen un surtidor pequeño y te preguntan si es estación, o te cambian los quince días hábiles por treinta a ver si picas. En la obra, imagina que un organismo de control levanta un boletín porque las mangueras llevaban seis años sin cambiar: eso es una estación fuera de norma, con un expediente encima y riesgo de fuga en pista. Hoy sabes evitarlo. Eres más gasista que ayer, sin duda. Y en el siguiente vídeo bajamos del surtidor a la bombona: los envases de gas licuado del petróleo para uso propio, con sus capacidades, sus distancias y su famosa prueba de estanquidad. Te espero allí."
   }
  ]
 }

@@ -7,50 +7,41 @@
    "videoxy": "Vídeo 1 de 3",
    "titulo": "El Reglamento de Gas",
    "subtitulo": "Objeto, campo de aplicación y definiciones",
-   "notas": "N1: Antes de tocar un solo tubo, ¿qué es lo primero que manda?\nN2: Manda un único texto, el Reglamento técnico de distribución y utilización de combustibles gaseosos, el famoso Real Decreto novecientos diecinueve. En este primer vídeo vemos para qué sirve, a qué instalaciones se aplica y, sobre todo, el vocabulario exacto con el que vas a trabajar todo el curso. Dominar estas definiciones es tener media asignatura ganada, porque son las palabras que aparecen en el boletín, en el examen y en cada avería que te encuentres."
+   "notas": "N1: Antes de tocar un solo tubo, ¿qué es lo primero que manda?\nN2: Manda un único texto: el Reglamento técnico de distribución y utilización de combustibles gaseosos, el famoso Real Decreto novecientos diecinueve. Todo tu oficio se apoya en él. En este primer vídeo vemos para qué sirve, a qué instalaciones se aplica y, sobre todo, el vocabulario exacto con el que vas a trabajar. Domina estas definiciones y tienes media asignatura ganada, porque son las palabras que aparecen en el boletín, en el examen y en cada avería que pises."
   },
   {
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    [
-     "9",
-     "tipos de instalación regulados"
-    ],
-    [
-     "3",
-     "partes de la receptora"
-    ],
-    [
-     "24",
-     "definiciones del artículo 3"
-    ]
+    ["9", "tipos de instalación regulados"],
+    ["3", "partes de la receptora"],
+    ["24", "definiciones del artículo 3"]
    ],
-   "notas": "N1: ¿Qué tres números resumen este vídeo?\nN2: Nueve tipos de instalación que el Reglamento mete bajo su paraguas, desde la red de la calle hasta el aparato; tres partes en las que se divide la instalación receptora, que es tu terreno; y veinticuatro definiciones en el artículo tercero, el diccionario del oficio. Si te quedas con estos tres bloques, tienes el esqueleto del vídeo: qué se regula, cuál es tu zona y con qué palabras se nombra todo."
+   "notas": "N1: ¿Qué tres números te dan el esqueleto del vídeo?\nN2: Nueve tipos de instalación que el Reglamento mete bajo su paraguas, desde la red de la calle hasta el aparato. Tres partes en las que se divide la instalación receptora, que es tu terreno del día a día. Y veinticuatro definiciones en el artículo tercero, el diccionario del oficio. Si retienes estos tres bloques, ya sabes qué se regula, cuál es tu zona y con qué palabras se nombra todo. Lo demás cuelga de aquí."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Artículo 1 · Objeto",
-   "titulo": "¿Qué es el Reglamento de Gas?",
+   "titulo": "¿Para qué existe el Reglamento?",
    "vinetas": [
     "Fija condiciones técnicas y garantías",
     "Instalaciones y aparatos de gas",
     "Fin único: seguridad de personas y bienes"
    ],
    "img_brief": "gas boiler installation kitchen",
-   "notas": "N1: Si tuvieras que explicar en una frase para qué existe este Reglamento, ¿qué dirías?\nN2: Su objeto es fijar las condiciones técnicas y las garantías que deben reunir las instalaciones de gas y los aparatos que lo queman, con una única finalidad de fondo: preservar la seguridad de las personas y los bienes. Todo lo demás, cada distancia, cada prueba, cada certificado, cuelga de esa idea. Cuando en obra dudes si algo se hace de una manera o de otra, la brújula es siempre la misma: la opción más segura para quien vive ahí. Por ejemplo, ante una ventilación justita, el Reglamento tira siempre a proteger al usuario."
+   "notas": "N1: Si tuvieras que resumir en una frase para qué existe este Reglamento, ¿qué dirías?\nN2: Su objeto es fijar las condiciones técnicas y las garantías que deben reunir las instalaciones de gas y los aparatos que lo queman, con una única finalidad de fondo: preservar la seguridad de las personas y los bienes. Todo lo demás, cada distancia, cada prueba, cada certificado, cuelga de esa idea. Cuando en obra dudes si algo se hace de una manera o de otra, la brújula es siempre la misma: la opción más segura para quien vive ahí. Por ejemplo, ante una ventilación justita, el Reglamento tira siempre a proteger al usuario."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Artículo 1 · Estructura",
-   "titulo": "Tronco y ramas",
+   "titulo": "El tronco y las ramas",
    "vinetas": [
     "Reglamento: lo general, para todos",
     "ITC: el detalle de cada instalación",
     "Cumplirlo no exime de otras normas"
    ],
-   "img_brief": "large tree trunk branches",
-   "notas": "N1: ¿De dónde sale cada norma que aplicas en obra?\nN2: Imagina el Reglamento como el tronco de un árbol y las Instrucciones Técnicas Complementarias, las ITC, como sus ramas. El tronco, el articulado, dice lo que vale para todos; cada rama baja al detalle de su tipo de instalación. Cuando te preguntes 'esto, ¿de dónde sale?', la respuesta casi siempre es: lo general, del tronco; el detalle, de la rama que toque. Y ojo, cumplir el Reglamento no te libra de cumplir otras normas que regulen cosas distintas sobre esa misma instalación, como las de electricidad o incendios."
+   "img_brief": "large tree trunk branches sky",
+   "notas": "N1: Cuando dudes de dónde sale una norma, ¿dónde miras?\nN2: Imagina el Reglamento como el tronco de un árbol y las Instrucciones Técnicas Complementarias, las ITC, como sus ramas. El tronco, el articulado, dice lo que vale para todos. Cada rama baja al detalle de su tipo de instalación. Así, cuando te preguntes 'esto, ¿de dónde sale?', la respuesta casi siempre es: lo general, del tronco; el detalle, de la rama que toque. Y ojo, cumplir el Reglamento no te libra de cumplir otras normas que regulan cosas distintas sobre esa misma instalación, como las de electricidad o las de incendios. Esta lógica de tronco y ramas se repite en todo el curso."
   },
   {
    "tipo": "contenido",
@@ -61,8 +52,8 @@
     "Ley de industria: la seguridad industrial",
     "El Reglamento las baja al taller"
    ],
-   "img_brief": "law books gavel desk",
-   "notas": "N1: ¿Por qué hay dos leyes por encima del Reglamento?\nN2: Porque un reglamento no nace solo: desarrolla lo que una ley le ordena. La Ley del sector de hidrocarburos manda en el negocio del gas, quién lo distribuye, quién lo comercializa; y la Ley de industria manda en la seguridad industrial. El Reglamento es el manual de instrucciones que baja esas dos leyes al taller, al tubo y a la llave. Si en el examen te preguntan de qué leyes cuelga, ya lo sabes: hidrocarburos e industria."
+   "img_brief": "law books stacked wooden desk",
+   "notas": "N1: ¿Por qué hay dos leyes por encima del Reglamento?\nN2: Porque un reglamento no nace solo: desarrolla lo que una ley le ordena. La Ley del sector de hidrocarburos manda en el negocio del gas, quién lo distribuye y quién lo comercializa. La Ley de industria manda en la seguridad industrial. El Reglamento es el manual de instrucciones que baja esas dos leyes al taller, al tubo y a la llave. Si en el examen te preguntan de qué leyes cuelga, ya lo tienes: hidrocarburos e industria. Y fíjate en el detalle, porque las sanciones tampoco las inventa el Reglamento: te remite a esas dos leyes."
   },
   {
    "tipo": "contenido",
@@ -70,38 +61,38 @@
    "titulo": "¿A qué se aplica?",
    "vinetas": [
     "Distribución por canalización (red de calle)",
-    "Almacenamiento de GLP: envases, depósitos, GNL",
+    "GLP: envases, depósitos fijos, GNL",
     "Estaciones de servicio de gas",
     "Instalaciones receptoras: tu terreno",
     "Aparatos de gas"
    ],
-   "img_brief": "gas meter cabinet street",
-   "notas": "N1: ¿Todo lo que huele a gas entra aquí?\nN2: El Reglamento cubre nueve tipos, que puedes agrupar así: la red de la calle o distribución por canalización, hasta dieciséis bar; todo el mundo del GLP, es decir las bombonas, los depósitos fijos de los chalés y las plantas de gas natural licuado; las estaciones de servicio para repostar coches a gas; las instalaciones receptoras, que son tu terreno del día a día; y los propios aparatos que queman el gas. De todas, la letra h, las receptoras, es donde vas a vivir como gasista de categoría B."
+   "img_brief": "gas meter cabinet building street",
+   "notas": "N1: ¿Todo lo que huele a gas entra aquí?\nN2: El Reglamento cubre nueve tipos, que puedes agrupar así para no perderte. Uno, la red de la calle, o distribución por canalización, hasta dieciséis bar. Dos, todo el mundo del GLP: las bombonas, los depósitos fijos de los chalés y las plantas de gas natural licuado. Tres, las estaciones de servicio para repostar coches a gas. Cuatro, las instalaciones receptoras, tu terreno del día a día. Y cinco, los propios aparatos que queman el gas. De las nueve letras, la hache, las receptoras, es donde vas a vivir como gasista de categoría B."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Artículo 2 · Instalación receptora",
-   "titulo": "¿Dónde empieza y acaba?",
+   "titulo": "¿Dónde empieza y dónde acaba?",
    "vinetas": [
     "Desde la llave de acometida (excluida)",
     "Hasta la llave de aparato (incluida)",
     "Aparato y latiguillo: fuera",
-    "Incluida/excluida = de qué respondes"
+    "Incluida/excluida decide de qué respondes"
    ],
-   "img_brief": "gas shut off valve pipe",
-   "notas": "N1: ¿Dónde está la frontera de lo que es tuyo?\nN2: El truco de 'incluida o excluida' se entiende con la llave del portal. La llave de acometida es como la llave del portal que pone la compañía: no es tuya, por eso va excluida. Desde ahí hacia dentro, hasta las llaves de conexión de cada aparato, sí es tuyo, por eso van incluidas. Regla de una frase: la receptora empieza donde acaba la acometida y termina en la llave del aparato; el aparato y su latiguillo, fuera. Esto no es un tecnicismo: esa frontera marca qué tramo pruebas con la estanquidad y qué firmas en el boletín."
+   "img_brief": "gas shut off valve copper pipe",
+   "notas": "N1: ¿Dónde está la frontera de lo que es tuyo?\nN2: El truco de 'incluida o excluida' se entiende con la llave del portal. La llave de acometida es como la llave del portal que pone la compañía: no es tuya, por eso va excluida. Desde ahí hacia dentro, hasta las llaves de conexión de cada aparato, sí es tuyo, por eso van incluidas. Regla de una frase: la receptora empieza donde acaba la acometida y termina en la llave del aparato; el aparato y su latiguillo, fuera. Y esto no es un tecnicismo: esa frontera marca qué tramo pruebas con la estanquidad y qué firmas en el boletín. Si dejas un tramo fuera sin probar, ahí es justo donde aparece la fuga que no viste."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Artículo 2 · El límite de los 15 kg",
+   "eyebrow": "Artículo 2 · El límite de 15 kg",
    "titulo": "¿Instalación o cacharro suelto?",
    "vinetas": [
     "Bombona <15 kg + un aparato móvil: fuera",
     "Tubería fija o varios aparatos: dentro",
-    "Dentro = boletín y estanquidad"
+    "Dentro = boletín y prueba de estanquidad"
    ],
    "img_brief": "small gas cylinder camping stove",
-   "notas": "N1: ¿Una bombona de camping es instalación receptora?\nN2: El límite de quince kilos separa la instalación del cacharro suelto. La bombona pequeña, de menos de quince kilos, con su tubo flexible a un único aparato móvil, no es instalación receptora: es camping-gas y no se legaliza como tal. Pero en cuanto pones tubería fija, varios aparatos o una bombona más grande, ya es instalación receptora y entra el Reglamento entero: certificado y prueba de estanquidad. Muchas chapuzas de campo son justo esto, una instalación fija montada como si fuera camping-gas, sin boletín y sin prueba. Ahí tienes la avería esperando."
+   "notas": "N1: Una bombona de camping con su hornillo, ¿es instalación receptora?\nN2: El límite de quince kilos separa la instalación del cacharro suelto. La bombona pequeña, de menos de quince kilos, con su tubo flexible a un único aparato móvil, no es instalación receptora: es camping-gas y no se legaliza como tal. Pero en cuanto pones tubería fija, varios aparatos o una bombona más grande, ya es instalación receptora y entra el Reglamento entero: certificado y prueba de estanquidad. Muchas chapuzas de campo son exactamente esto, una instalación fija montada como si fuera camping-gas, sin boletín y sin prueba. Ahí tienes la avería esperando a que alguien la encienda."
   },
   {
    "tipo": "contenido",
@@ -110,10 +101,10 @@
    "vinetas": [
     "Nuevas, modificaciones y ampliaciones",
     "Existentes: solo lo que tocas se actualiza",
-    "Controles periódicos: a todas"
+    "Controles periódicos: a todas, sin excepción"
    ],
-   "img_brief": "old gas pipe wall building",
-   "notas": "N1: Sale un reglamento nuevo, ¿hay que rehacer lo viejo?\nN2: No. Una instalación antigua no se rehace porque salga normativa nueva: se respeta como está, hasta que la tocas. En el momento en que la amplías o la modificas, lo que toques se pone al día. Y aunque no la toques, los controles periódicos, las inspecciones y revisiones, le caen igual. Nadie se libra del control periódico por ser antiguo. Piensa en una vivienda de hace décadas: mientras no metas mano, vive con su reglamento de origen, pero su inspección le toca igual."
+   "img_brief": "old gas pipe brick wall",
+   "notas": "N1: Sale un reglamento nuevo, ¿hay que rehacer lo viejo?\nN2: No. Una instalación antigua no se rehace porque salga normativa nueva: se respeta como está, hasta que la tocas. En el momento en que la amplías o la modificas, lo que toques se pone al día con la norma actual. Y aunque no la toques, los controles periódicos, las inspecciones y las revisiones, le caen igual. Nadie se libra del control periódico por ser antiguo. Piensa en una vivienda de hace décadas: mientras no metas mano, vive con su reglamento de origen, pero su inspección le toca exactamente igual que a la de al lado."
   },
   {
    "tipo": "contenido",
@@ -121,12 +112,12 @@
    "titulo": "Las muñecas rusas del gas",
    "vinetas": [
     "Acometida interior: de la calle al edificio",
-    "Instalación común: montante compartido",
+    "Instalación común: el montante compartido",
     "Instalación individual: hasta cada aparato",
     "Cada tramo empieza donde acaba el anterior"
    ],
    "img_brief": "gas riser pipes building staircase",
-   "notas": "N1: ¿Cómo colocas los tres tramos sin equivocarte?\nN2: El gas entra y va pasando por tres tramos encajados, siempre en el mismo orden. Primero la acometida interior, de la calle al edificio; luego la instalación común, el montante que sube por el edificio y es compartido; y por último la instalación individual, lo que entra en cada vivienda hasta cada aparato. Cada tramo empieza justo donde acaba el anterior. Si te imaginas el gas subiendo por la escalera y entrando en tu piso, colocas los tres tramos sin fallar."
+   "notas": "N1: ¿Cómo colocas los tres tramos sin equivocarte nunca?\nN2: El gas entra y va pasando por tres tramos encajados, siempre en el mismo orden, como muñecas rusas. Primero la acometida interior, de la calle al edificio. Luego la instalación común, el montante que sube por el edificio y es compartido por los vecinos. Y por último la instalación individual, lo que entra en cada vivienda hasta cada aparato. Cada tramo empieza justo donde acaba el anterior. Si te imaginas el gas subiendo por la escalera y entrando en tu piso, colocas los tres tramos sin fallar. Y saber en qué tramo estás decide quién lo mantiene y quién lo inspecciona."
   },
   {
    "tipo": "contenido",
@@ -137,8 +128,8 @@
     "Contador en la valla: sin común",
     "Casi todo va a la individual"
    ],
-   "img_brief": "single family house gas meter",
-   "notas": "N1: ¿Siempre hay tres tramos?\nN2: No siempre. La propia definición dice 'en su caso más general', porque no todas las instalaciones tienen los tres. En una vivienda unifamiliar, un chalé con el contador en la valla, no hay instalación común ni acometida interior: va casi todo directo a la instalación individual. Así que no te agobies si en una instalación real falta un tramo; es completamente normal. Lo importante es reconocer qué tramo tienes delante para saber qué le corresponde."
+   "img_brief": "single family house gas meter box",
+   "notas": "N1: ¿Siempre están los tres tramos?\nN2: No siempre. La propia definición dice 'en su caso más general', porque no todas las instalaciones tienen los tres. En una vivienda unifamiliar, un chalé con el contador en la valla, no hay instalación común ni acometida interior: va casi todo directo a la instalación individual. Así que no te agobies si en una instalación real falta un tramo; es completamente normal y no es un error. Lo importante es reconocer qué tramo tienes delante para saber qué le corresponde y qué papel te toca firmar."
   },
   {
    "tipo": "contenido",
@@ -152,7 +143,7 @@
     "Titular es el dueño; usuario lo consume"
    ],
    "img_brief": "gas technician uniform clipboard",
-   "notas": "N1: ¿Sabrías separar quién hace qué?\nN2: La otra mitad del diccionario son las personas, los agentes. Ata cabos: el fabricante hace el producto; la empresa instaladora, que es la razón social, monta y certifica; el instalador, la persona con carné, ejecuta; el distribuidor lleva el gas por la red; el comercializador te lo vende; el titular es el dueño que responde del mantenimiento y el usuario el que lo gasta. Si separas 'tuberías' de 'personas', las preguntas cruzadas del examen dejan de tener trampa, y en obra sabes a quién firmas y a quién avisas."
+   "notas": "N1: ¿Sabrías separar quién hace qué en una instalación?\nN2: La otra mitad del diccionario son las personas, los agentes, y aquí está la trampa clásica del examen. Ata cabos: el fabricante hace el producto. La empresa instaladora, que es la razón social, monta y certifica. El instalador, la persona con carné, ejecuta. El distribuidor lleva el gas por la red. El comercializador te lo vende. El titular es el dueño que responde del mantenimiento y el usuario es el que lo gasta. Si separas 'tuberías' de 'personas', las preguntas cruzadas dejan de tener trampa, y en obra sabes exactamente a quién firmas y a quién avisas."
   },
   {
    "tipo": "contenido",
@@ -161,21 +152,37 @@
    "vinetas": [
     "1.ª familia: manufacturados (en desuso)",
     "2.ª familia: gas natural",
-    "3.ª familia: GLP (butano y propano)",
+    "3.ª familia: GLP, butano y propano",
     "Cada aparato, tarado para su gas"
    ],
    "img_brief": "blue gas flame stove burner",
-   "notas": "N1: ¿Qué son las tres familias de la norma?\nN2: Los combustibles gaseosos se clasifican en tres familias por cómo queman. La primera son los gases manufacturados y el aire propanado, casi en desuso; la segunda es el gas natural, el de la ciudad; y la tercera es el GLP, butano y propano. Esto no es trivia: cada aparato está tarado para su gas y su presión. Meterle un gas de otra familia o a otra presión da mala combustión, llama amarilla, ennegrecido y monóxido de carbono. Aquí solo los clasificas; el ajuste vendrá más adelante, pero la causa de media avería de combustión empieza por confundir la familia."
+   "notas": "N1: ¿Qué son las tres familias de la norma UNE-EN cuatrocientos treinta y siete?\nN2: Los combustibles gaseosos se clasifican en tres familias por cómo queman. La primera son los gases manufacturados y el aire propanado, casi en desuso. La segunda es el gas natural, el de la ciudad. Y la tercera es el GLP, butano y propano. Esto no es un dato de relleno: cada aparato está tarado para su gas y su presión. Meterle un gas de otra familia, o a otra presión, da mala combustión, llama amarilla, ennegrecido y monóxido de carbono. Aquí solo los clasificas; el ajuste vendrá más adelante, pero recuerda que la causa de media avería de combustión empieza por confundir la familia."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Repaso relámpago",
+   "titulo": "Fíjalo en treinta segundos",
+   "vinetas": [
+    "Reglamento = tronco; ITC = ramas",
+    "Nueve tipos; la h son tus receptoras",
+    "Receptora: de acometida a llave de aparato",
+    "Artículo 3: tres partes + los agentes"
+   ],
+   "img_brief": "gas pipe wall bracket detail",
+   "notas": "N1: Cerramos con un repaso rápido. ¿Te suenan ya los cuatro pilares?\nN2: Uno, tronco y ramas: lo general en el Reglamento, el detalle en cada ITC. Dos, nueve tipos de instalación, y la letra hache, las receptoras, es tu terreno. Tres, la receptora va de la llave de acometida, excluida, a la llave del aparato, incluida. Y cuatro, el artículo tercero es tu diccionario: separa las tres partes encajadas de las personas del oficio. Si eres capaz de recitar estos cuatro puntos de carrerilla, tienes el vídeo dominado. Repítelos en voz alta una vez antes de seguir."
   },
   {
    "tipo": "cierre",
-   "titulo": "Qué me llevo",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes de dónde sale cada norma",
    "mapa": [
-    "Reglamento = tronco; ITC = ramas",
-    "Receptora: de la acometida a la llave del aparato",
-    "Artículo 3 = diccionario del oficio"
+    "Colocas cualquier norma: tronco o rama",
+    "Marcas tu receptora con una sola frontera",
+    "Separas tuberías de personas sin trampa",
+    "El artículo 3 ya es tu diccionario"
    ],
-   "notas": "N1: Si te quedas solo con tres cosas de este vídeo, ¿cuáles?\nN2: Primera: el Reglamento es el tronco y cada ITC una rama, y todo cuelga de dos leyes con un único fin, la seguridad de las personas. Segunda: tu terreno es la instalación receptora, que va de la llave de acometida, excluida, a la llave del aparato, incluida; esa frontera decide qué pruebas y qué firmas. Y tercera: el artículo tercero es tu diccionario, separa las tres partes encajadas, acometida interior, común e individual, de las personas del oficio. Con esas tres ideas no te pierdes en el resto del curso. En el próximo vídeo damos el salto al día a día: materiales y el camino completo hasta que la instalación tiene gas."
+   "tagline": "Hoy ya eres más gasista que ayer. Vamos a por los materiales y el gas.",
+   "notas": "N1: Cerramos fuerte. Si te quedas con lo esencial, ¿qué has conquistado hoy?\nN2: Tres logros que ya son tuyos. Uno: sabes colocar cualquier norma en su sitio, lo general en el tronco del Reglamento y el detalle en la rama de su ITC. Dos: marcas la frontera de tu instalación receptora con una sola frase, de la llave de acometida excluida a la llave del aparato incluida, y con eso ya sabes qué pruebas y qué firmas. Y tres: el artículo tercero ha dejado de ser una lista para convertirse en tu diccionario, con las tres partes encajadas por un lado y las personas del oficio por otro.\nN1: ¿Y por qué esto vale oro en el examen y en la obra?\nN2: Porque en el examen te lo preguntan cruzado: te mezclan una parte con un agente, o te ponen una bombona de camping a ver si la cuelas como receptora. Y en la obra decide quién firma el boletín y de qué tramo respondes. Confundir la frontera es dejar un tramo sin probar, y ahí aparece la fuga. Hoy ya eres más gasista que ayer. En el siguiente vídeo damos el salto al día a día: los materiales y el camino completo desde que terminas la instalación hasta que tiene gas. Te espero allí."
   }
  ]
 }
