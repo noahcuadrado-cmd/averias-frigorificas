@@ -21,8 +21,9 @@ Panel de control del curso **Gas B** (PROMPT MAESTRO v9).
 - [x] **FASE 0 — estructura de 18 carpetas** (`Curso Gas B/`, temas 00-17) + MAPA + FUENTE.md.
 - [x] Motor de PDF del curso (`_build/`): plantilla navy + generador reutilizable.
 - [x] **FASE 1 — Tema 00 v2** (34 notas aclaratorias con ejemplos, renombradas). Estándar aprobado por el cliente.
-- [x] **FASE 1 — Bloque A (temas 01-08)** completo y verificado (28 md + PDFs). Commit.
-- [~] **FASE 1 — Bloque B (temas 09-17)** en producción (workflow, un agente por tema UNE/guía).
+- [x] **FASE 1 — Bloque A (temas 01-08)** completo y verificado. Commit.
+- [x] **FASE 1 — Bloque B (temas 09-17)** completo y verificado. Commit.
+- [x] **FASE 1 COMPLETA (18 temas): 49 vídeos · 67 PDF de estudio · 718 páginas · +1.100 notas aclaratorias.**
 - [ ] Diagramas de comprensión (pasada aparte, cuando el texto esté cerrado). Los PDF de estudio van SIN imágenes (decisión del cliente).
 
 ## Correcciones aplicadas
@@ -34,6 +35,8 @@ Panel de control del curso **Gas B** (PROMPT MAESTRO v9).
 - [ ] FASE 5 — montaje en Moodle.
 
 ## Próximo paso
-Esperar OK del cliente a la estructura de FASE 0. Con el OK → arrancar **FASE 1
-del Tema 00** (Reglamento de Gas: articulado y generalidades), extracción íntegra
-con verificación anti-omisiones.
+FASE 1 cerrada en los 18 temas. Pendiente de OK del cliente para elegir el siguiente frente:
+1. **Diagramas de comprensión** (pasada aparte que pidió el cliente), o
+2. **FASE 2 — PowerPoints** (plantilla exacta, N1/N2, animaciones), o
+3. Repaso/ajuste de algún tema concreto de FASE 1.
+Los PDF de estudio van SIN imágenes (decisión del cliente); las imágenes/diagramas son pasada aparte.
