@@ -1,0 +1,224 @@
+{
+ "pie": "Curso Gas B · Tema 02 · Centros de envases de GLP (I)",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 02 · Reglamento · ITC-ICG 02/03/04",
+   "videoxy": "Vídeo 1 de 4",
+   "titulo": "Centros de envases de GLP (I)",
+   "subtitulo": "Clasificación, cálculo de capacidad y diseño general",
+   "notas": "N1: ¿Dónde se guardan y reparten las bombonas de butano y propano antes de llegar a tu casa?\nN2: En los llamados centros de envases de GLP, la nave de las bombonas. La ITC-ICG cero dos es su manual. En este primer vídeo montamos los cimientos: para qué sirve, cómo se clasifican los centros por kilos, cómo se calcula esa capacidad y todas las normas de diseño general, para rematar con las categorías más grandes y exigentes, la primera, la segunda y la tercera. Aquí caen las distancias de seguridad, los cerramientos, las alturas de apilado y las dos grandes tablas. Graba las cifras, porque el examen las pregunta tal cual."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "5",
+     "categorías por kilos de GLP"
+    ],
+    [
+     "0,65",
+     "coeficiente de la fórmula de capacidad"
+    ],
+    [
+     "25 m",
+     "recorrido máximo de evacuación"
+    ]
+   ],
+   "notas": "N1: Tres números para situarte antes de entrar.\nN2: Primero, los centros se ordenan en cinco categorías según los kilos de gas que almacenan. Segundo, para calcular esa capacidad se multiplica por un coeficiente de cero coma sesenta y cinco, que es un margen de seguridad, no el cien por cien del volumen. Y tercero, una cifra de diseño que se repite: desde cualquier punto del almacenamiento, el recorrido hasta la salida no puede pasar de veinticinco metros. Si retienes estas tres, el resto del vídeo encaja solo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 1 · Objeto",
+   "titulo": "¿De qué manda esta ITC?",
+   "vinetas": [
+    "Requisitos y seguridad mínima",
+    "Proyectar · construir · explotar",
+    "Centros de GLP envasado",
+    "Butano y propano en bombonas"
+   ],
+   "img_brief": "gas cylinders storage warehouse",
+   "notas": "N1: ¿Qué regula exactamente la ITC-ICG cero dos?\nN2: Fija los requisitos técnicos esenciales y las medidas de seguridad mínimas para proyectar, construir y explotar los centros de almacenamiento y distribución de GLP envasado, esas naves llenas de bombonas de butano y propano. Son los centros a los que se refiere el artículo dos del Reglamento. Ojo al matiz: hablamos de gas en envases, en botellas, no del depósito fijo del chalé, que es otra instrucción distinta que veremos más adelante. También incluye criterios de transporte de envases, que veremos en el vídeo dos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 1 · Modificación",
+   "titulo": "Cuándo se toca un centro",
+   "vinetas": [
+    "Modificar = ampliar y cambiar de categoría",
+    "Más bombonas sin saltar: no cuenta",
+    "Cruzar el umbral de kilos: sí cuenta"
+   ],
+   "img_brief": "warehouse worker clipboard inventory",
+   "notas": "N1: ¿Cuándo se considera legalmente que has modificado un centro?\nN2: Solo cuando lo amplías y esa ampliación te hace cambiar de categoría. Si tienes un centro de tercera y le metes más bombonas pero sigues siendo de tercera, para el Reglamento no has hecho ninguna modificación reglamentaria. En cuanto cruzas el umbral de kilos y saltas a segunda, ahí sí. Piénsalo como subir de división: mientras juegues en la misma liga, nada cambia. Ese es el matiz que el examen pregunta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Clasificación",
+   "titulo": "Las cinco categorías",
+   "vinetas": [
+    "1.ª: hasta 250.000 kg",
+    "2.ª: hasta 25.000 kg",
+    "3.ª: hasta 12.500 kg",
+    "4.ª: hasta 1.000 kg",
+    "5.ª: hasta 500 kg"
+   ],
+   "img_brief": "propane cylinders rows outdoor",
+   "notas": "N1: ¿Cómo se ordenan los centros y por qué al revés de lo que parece?\nN2: Se clasifican por su capacidad nominal de contenido total, en kilos de GLP. Y la numeración va al revés de la intuición: la primera es la más grande, hasta doscientos cincuenta mil kilos, y la quinta la más pequeña, hasta quinientos kilos, esa que ves en la gasolinera. Memoriza los saltos clave: quinientos, mil, doce mil quinientos, veinticinco mil y doscientos cincuenta mil. Las categorías cuarta y quinta son las de poca cosa, tienda de barrio y gasolinera, con reglas mucho más suaves, que veremos en el vídeo dos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Cálculo",
+   "titulo": "Ct = Cn × N × 0,65",
+   "vinetas": [
+    "Cn: capacidad nominal del envase",
+    "N: envases llenos Y vacíos",
+    "× 0,65: margen de seguridad",
+    "Total = suma de parciales"
+   ],
+   "img_brief": "empty gas cylinder warehouse",
+   "notas": "N1: ¿Cómo se calcula la capacidad y dónde están las trampas?\nN2: La fórmula es capacidad total igual a capacidad nominal del envase por el número de envases por cero coma sesenta y cinco. Dos trampas de examen en una línea. La primera: se multiplica por cero coma sesenta y cinco, un coeficiente de seguridad, porque no se cuenta el cien por cien del volumen. La segunda: en el número de envases cuentas los llenos y también los vacíos. ¿Por qué los vacíos? Porque una bombona vacía nunca está del todo vacía, siempre queda gas dentro y da la lata igual. Así que a la hora de sumar kilos, la botella vacía también suma. Truco: en el recuento no perdono ni las vacías."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.1 · Diseño general",
+   "titulo": "Siempre al aire libre",
+   "vinetas": [
+    "Almacenamiento al aire libre",
+    "A lo sumo, cubierta ligera",
+    "Una sola planta, no subterránea",
+    "Llenos separados de vacíos"
+   ],
+   "img_brief": "outdoor gas cylinder cage storage",
+   "notas": "N1: ¿Por qué las bombonas van fuera y no en un almacén cerrado?\nN2: Porque un centro de bombonas no es un almacén cerrado: las botellas van al aire libre, a lo sumo bajo una cubierta ligera. La razón es física y es la clave de todo el tema: si hubiera una fuga en un recinto cerrado, el GLP, que pesa más que el aire, se acumularía a ras de suelo y bastaría una chispa para la explosión. Al aire libre, el gas se disipa. Además, la zona de llenos va separada y señalizada de la de vacíos, en una sola planta no subterránea, con el piso al nivel del terreno o por encima. Estas reglas valen para todos los centros salvo los de quinta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.1 · Diseño general",
+   "titulo": "Evacuación y colocación",
+   "vinetas": [
+    "Recorrido a salida ≤ 25 m",
+    "Excepción: superficie 25 m² o < 6 m",
+    "Envases llenos: siempre verticales",
+    "En jaulas si van en varias alturas"
+   ],
+   "img_brief": "emergency exit warehouse sign",
+   "notas": "N1: ¿Cómo se sale de un centro si hay un susto, y cómo se colocan las botellas?\nN2: Hay que prever la fácil salida del personal: el recorrido real hasta el exterior, sorteando obstáculos, no puede pasar de veinticinco metros. Se libran de esa regla los almacenamientos muy pequeños, de veinticinco metros cuadrados de superficie, o cuando la distancia a la salida es inferior a seis metros. Y una regla de oro que verás repetida: los envases llenos con válvula de seguridad se colocan siempre en posición vertical, de pie, y en jaulas si se apilan en más de una altura. Una botella tumbada con la válvula en contacto con el líquido es una fuga esperando a pasar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.1 · Prohibiciones",
+   "titulo": "Fuego y trasvase, prohibidos",
+   "vinetas": [
+    "Sin llamas ni fuentes de calor",
+    "Cartel: prohibido fumar y encender",
+    "Mechero y cerillas, en la puerta",
+    "Prohibido rellenar o trasvasar"
+   ],
+   "img_brief": "no smoking sign industrial",
+   "notas": "N1: ¿Qué está terminantemente prohibido dentro de un centro?\nN2: Todo lo que dé fuego. Nada de llamas libres ni fuentes de calor que suban la temperatura de los envases, ni sustancias inflamables cerca. Por eso hay un letrero visible de gas inflamable, prohibido fumar y encender fuegos, y todo el que entra deja antes en la puerta el mechero, las cerillas, cualquier cosa que produzca chispa. Y cae fijo en el examen: en un centro de envases se prohíbe el llenado o el trasvase de gas de una botella a otra. Eso solo se hace en las plantas de llenado autorizadas, con sus básculas y su seguridad. Rellenar bombonas por tu cuenta es de lo más peligroso y sancionable que existe."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · 1.ª, 2.ª y 3.ª",
+   "titulo": "Distancias de seguridad",
+   "vinetas": [
+    "Solo en zonas no residenciales",
+    "Interior: 6 · 6 · 2 m",
+    "Exterior: 20 · 15 · 10 m",
+    "La exterior siempre es mayor"
+   ],
+   "img_brief": "industrial fence perimeter storage",
+   "notas": "N1: ¿Qué diferencia hay entre distancia interior y exterior?\nN2: Piensa en tu parcela. La distancia interior es la que hay entre las bombonas y tus propios edificios, la oficina, el vestuario: es de puertas para dentro, y vale seis, seis y dos metros para primera, segunda y tercera. La exterior es la que hay entre las bombonas y lo que no es tuyo, la finca del vecino o la carretera pública: es de puertas para fuera, y vale veinte, quince y diez metros. Fíjate: la exterior siempre es más grande, porque proteger a los de fuera pesa más. Y recuerda que estos centros grandes solo se pueden montar en zonas no residenciales."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · Distancias",
+   "titulo": "El +10 m de sitios sensibles",
+   "vinetas": [
+    "Colegios, hospitales, hoteles",
+    "Cuarteles, mercados, museos",
+    "Vías de tren y tranvía",
+    "Líneas eléctricas de alta tensión"
+   ],
+   "img_brief": "school building exterior street",
+   "notas": "N1: ¿Cuándo hay que alejarse todavía más del vecino?\nN2: Si al otro lado de tu valla hay un colegio, un hospital, un hotel, un cuartel, un mercado, un edificio de mucha gente, o bien una vía de tren, un tranvía o una línea eléctrica aérea de alta tensión, la distancia exterior crece diez metros más. La lógica es pura: donde hay mucha gente junta, o donde hay una fuente de chispa e incendio como la catenaria o la alta tensión, te alejas más. No aprendas la lista palabra por palabra; quédate con la idea: sitios con mucha gente, más líneas eléctricas o férreas, igual a diez metros más."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · Cerramiento",
+   "titulo": "El muro y la malla",
+   "vinetas": [
+    "A 10 m mínimo del almacenamiento",
+    "Todos los edificios, dentro",
+    "Hacia la calle: muro EI 180, 2,5 m",
+    "Resto: malla metálica, 2 m"
+   ],
+   "img_brief": "metal mesh fence industrial wall",
+   "notas": "N1: ¿Cómo se cierra un centro grande por fuera?\nN2: Con un cerramiento que tiene dos calidades. El lado que da a la calle o a donde pasa gente es un muro serio, continuo, resistente al fuego, de dos metros y medio de altura. Los lados interiores o traseros pueden ser malla metálica, más barata, de dos metros. Recuerda las dos alturas emparejadas con su material: muro dos coma cinco, malla dos. Y dos detalles preguntones: el cerramiento va a diez metros como mínimo del almacenamiento, y todos los edificios del centro quedan dentro de él."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · Apilado",
+   "titulo": "Alturas de las jaulas",
+   "vinetas": [
+    "Domésticas ≤ 15 kg: 4 llenas / 6 vacías",
+    "Más de 15 kg: 1 sola altura",
+    "Acceso con carretilla elevadora",
+    "Nada de imanes ni eslingas malas"
+   ],
+   "img_brief": "forklift warehouse cage pallet",
+   "notas": "N1: ¿Cuántas alturas de bombonas se pueden apilar?\nN2: Depende del peso. Las domésticas, esas de hasta quince kilos, la butano naranja de toda la vida, se apilan en jaulas: cuatro alturas si están llenas, seis si están vacías, porque las vacías pesan menos y aguantan más pisos. Pero las gordas, las de más de quince kilos, van a ras de suelo, una sola altura, estén llenas o vacías. Truco: la pequeña sube, la grande no. Las jaulas se colocan de modo que entre la carretilla elevadora, y para moverlas nada de elementos magnéticos ni cuerdas o eslingas chapuceras: una jaula que cae es un golpe en la válvula y una fuga garantizada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · Incendios",
+   "titulo": "Agua contra incendios (1.ª)",
+   "vinetas": [
+    "Red de agua a 5 kg/cm²",
+    "Bocas DN25 a 10 m del almacén",
+    "6 bocas en 1.ª · 2 en 2.ª y 3.ª",
+    "Sin agua de calle: 90 min de autonomía"
+   ],
+   "img_brief": "fire hose reel red wall",
+   "notas": "N1: ¿Con qué se apaga un incendio en un centro de primera?\nN2: Con agua a presión. La red da cinco kilos por centímetro cuadrado de presión, con bocas de incendio equipadas del tipo de ene veinticinco, repartidas a diez metros como mínimo del almacenamiento de envases llenos. Si no tienes agua de la calle, tu depósito propio y las bombas deben aguantar noventa minutos funcionando a esa presión. Y recuerda el número de bocas: seis en primera categoría, dos en segunda y tercera. La primera categoría además lleva alarma de incendios y vigilancia permanente fuera del horario de trabajo. Truco visual: primera categoría, primera línea de defensa, seis bocas y alarma."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · Extintores",
+   "titulo": "El Cuadro II, sin agobios",
+   "vinetas": [
+    "A más centro, más extintores",
+    "3.ª: 5 extintores 21A-113B",
+    "1.ª grande crece por tramos",
+    "1 de 43A-183B = 2 de 21A-113B"
+   ],
+   "img_brief": "red fire extinguisher industrial",
+   "notas": "N1: ¿Hay que memorizar toda la tabla de extintores?\nN2: No, quédate con la lógica y tres anclas. Primera: cuanto mayor es el centro, más extintores lleva. Segunda: la tercera categoría es la única que va con extintores pequeños, cinco de eficacia veintiuno a, ciento trece b. Tercera: la primera categoría grande crece por tramos, sumando extintores por cada dieciocho mil setecientos cincuenta kilos de más. Y una equivalencia muy preguntable: puedes cambiar un extintor de cuarenta y tres a, ciento ochenta y tres b, por uno de veintiuno a, ciento trece b, pero poniendo el doble. Idea sencilla: un extintor grande equivale a dos pequeños. Y ojo, si no hay agua suficiente, se puede aumentar la dotación de extintores en un cincuenta por ciento."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · Otras exigencias",
+   "titulo": "Rayos y cortafuegos",
+   "vinetas": [
+    "Protección contra rayos",
+    "Sin transformadores de alta tensión",
+    "Comunicación con el exterior",
+    "Motor con cortafuegos en el escape"
+   ],
+   "img_brief": "exhaust pipe truck engine",
+   "notas": "N1: ¿Qué otros detalles cierran el diseño de un centro grande?\nN2: Tres cosas. El centro va protegido contra las descargas eléctricas atmosféricas, es decir, contra los rayos, y no se permiten transformadores ni aparellaje de alta tensión dentro del recinto. Debe tener comunicación con el exterior por si pasa algo. Y una pieza que verás una y otra vez en este tema: ningún vehículo con motor entra al recinto si no lleva un aparato cortafuegos adaptado al tubo de escape. Es una malla que impide que una chispa o la llama del motor salga al ambiente cargado de gas. Regla sencilla: motor más zona con GLP, igual a cortafuegos obligatorio. Volverá a aparecer en el transporte y en la cuarta y quinta del vídeo dos."
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Qué me llevo",
+   "mapa": [
+    "5 categorías · fórmula con × 0,65 y vacíos",
+    "Al aire libre · vertical · nunca trasvase",
+    "Distancias interior 6/6/2, exterior 20/15/10"
+   ],
+   "notas": "N1: Si te quedas con tres cosas de este vídeo, que sean estas.\nN2: Primera: lo primero que se hace al pisar un centro es clasificarlo por kilos y calcular su capacidad con la fórmula, contando envases llenos y vacíos, porque un vacío nunca lo está del todo. Segunda, la que evita la avería gorda: el GLP pesa más que el aire, así que en un recinto cerrado una fuga se embolsa a ras de suelo y con una chispa explota; por eso el almacenamiento es al aire libre, la botella va vertical y el trasvase está prohibido. Y tercera: las distancias sostienen o tumban el proyecto, interior seis, seis y dos, exterior veinte, quince y diez, con diez metros más si al otro lado hay colegio, hospital o alta tensión. El papeleo y las categorías pequeñas llegan en el siguiente vídeo."
+  }
+ ]
+}

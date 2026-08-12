@@ -1,0 +1,276 @@
+{
+ "pie": "Curso Gas B · Tema 02 · Depósitos fijos de GLP (ITC-ICG 03)",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 02 · Reglamento · ITC-ICG 02/03/04",
+   "videoxy": "Vídeo 3 de 4",
+   "titulo": "Depósitos fijos de GLP",
+   "subtitulo": "ITC-ICG 03 · del proyecto al mantenimiento",
+   "notas": "N1: ¿Qué le da gas al chalé o a la urbanización adonde no llega el gas natural?\nN2: Un depósito fijo de GLP, de superficie o enterrado, que alimenta una red o la instalación de una casa. Esa es la ITC-ICG cero tres. Aquí manda una norma técnica de referencia, la une sesenta mil doscientos cincuenta, que verás citada una y otra vez. En este vídeo cubrimos el objeto y el campo de aplicación, la documentación, con esa pregunta de proyecto o memoria, las pruebas y certificados, la puesta en servicio con su primer llenado, y todo el mantenimiento: revisiones periódicas, prueba de presión cada quince años, corrosión, depósitos con protección adicional, provisionales y retirada de servicio. Muchas cifras: apúntalas."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "13 m³",
+     "por encima: hace falta proyecto"
+    ],
+    [
+     "85 %",
+     "corte del primer llenado"
+    ],
+    [
+     "15",
+     "años entre pruebas de presión"
+    ]
+   ],
+   "notas": "N1: Tres cifras clave antes de entrar.\nN2: La primera dispara el papeleo: por encima de trece metros cúbicos de capacidad hace falta proyecto; por debajo, y sin nada raro, basta memoria técnica. La segunda es de seguridad pura: al llenar un depósito, el corte salta al ochenta y cinco por ciento del volumen, nunca al cien. Y la tercera es de mantenimiento: cada quince años toca una prueba de presión. Estas tres cifras son las que más se preguntan de toda la instrucción."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 1 · Objeto",
+   "titulo": "¿Qué regula la ITC-03?",
+   "vinetas": [
+    "Almacenar GLP en depósitos fijos",
+    "De superficie o enterrados",
+    "Alimentan red o instalación receptora",
+    "Referencia: UNE 60250"
+   ],
+   "img_brief": "lpg storage tank garden house",
+   "notas": "N1: ¿De qué instalación habla esta instrucción?\nN2: Fija los requisitos técnicos y las medidas esenciales de seguridad en el diseño, construcción, montaje y explotación del almacenamiento de GLP mediante depósitos fijos, esos tanques del jardín o enterrados, tanto de superficie como bajo tierra. Su función es alimentar una red de distribución por canalización o la instalación receptora de una vivienda o comunidad. Y desde ya interiorízalo: el detalle fino no está en la ITC, está en la norma une sesenta mil doscientos cincuenta, que es la biblia de este capítulo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Campo",
+   "titulo": "Los dos topes",
+   "vinetas": [
+    "Superficie: hasta 2.000 m³",
+    "Enterrado: hasta 500 m³",
+    "De la boca de carga a las válvulas",
+    "Cambio de categoría = como nueva"
+   ],
+   "img_brief": "buried lpg tank green cover",
+   "notas": "N1: ¿Hasta cuánto gas cubre esta ITC y por dónde empieza y acaba?\nN2: El tope depende de dónde esté el depósito: dos mil metros cúbicos en superficie, quinientos si está enterrado. Tiene su lógica: un depósito enterrado, si falla, es más difícil de vigilar y de atacar, así que se le pone un tope más bajo. La instalación va desde la boca de carga hasta las válvulas de salida, incluidas estas. Y como en la instrucción anterior, se considera modificación la que cambia de categoría, y entonces se trata como si fuera nueva."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Recambio",
+   "titulo": "Cambiar por otro casi igual",
+   "vinetas": [
+    "Depósito similar: sin proyecto nuevo",
+    "Diferencia de volumen ≤ ±10%",
+    "Misma categoría y distancias",
+    "Basta memoria justificativa"
+   ],
+   "img_brief": "technician installing storage tank",
+   "notas": "N1: ¿Y si solo cambias un depósito viejo por otro parecido?\nN2: Entonces no rehaces el proyecto. Si el nuevo es casi idéntico, con una diferencia de volumen no superior al diez por ciento arriba o abajo, sin cambiar la clasificación por capacidad y manteniendo las distancias de seguridad, basta con una memoria justificativa que emite la empresa instaladora ante la Comunidad Autónoma. Es la regla del recambio equivalente. La cifra clave a retener es ese diez por ciento. Fíjate en quién firma la memoria, la instaladora, porque en el vídeo cuatro, con el GNL, esto cambia."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4 · Diseño",
+   "titulo": "Quién y con qué",
+   "vinetas": [
+    "Ejecuta empresa instaladora de gas",
+    "Equipos a presión: RD 769/1999",
+    "Dimensionar para el caudal punta",
+    "Todo según UNE 60250"
+   ],
+   "img_brief": "gas pressure regulator valves",
+   "notas": "N1: ¿Quién ejecuta la instalación y con qué criterio?\nN2: La ejecución la hace una empresa instaladora de gas, salvo las que son propiedad de los operadores al por mayor de GLP, que también pueden. Todo el diseño, construcción y montaje sigue la une sesenta mil doscientos cincuenta. Los equipos a presión del conjunto cumplen el Real Decreto setecientos sesenta y nueve, que traspone la directiva europea de equipos a presión. Y la instalación se dimensiona con capacidad suficiente para el caudal punta y con autonomía, es decir, para el momento de más consumo y para aguantar entre llenados."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.1 · Autorización",
+   "titulo": "¿Permiso previo?",
+   "vinetas": [
+    "Sí, si alimenta una red a terceros",
+    "No, si es una comunidad para sí",
+    "Solicitud oficial por duplicado",
+    "Autoriza la Comunidad Autónoma"
+   ],
+   "img_brief": "residential building courtyard tank",
+   "notas": "N1: ¿Cuándo hace falta pedir autorización antes de construir?\nN2: Solo cuando el depósito alimenta una red de distribución por canalización, es decir, cuando das gas a terceros. Si es el depósito de una comunidad de vecinos para su propio consumo, sin vender a nadie de fuera, no hace falta autorización. Regla sencilla: doy gas a terceros por una red, pido autorización; solo doy gas a los míos, no. Para pedirla, el titular presenta a la Comunidad Autónoma un proyecto con solicitud en modelo oficial, todo por duplicado, y le devuelven un ejemplar diligenciado con la fecha de entrada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.2 · Proyecto",
+   "titulo": "Los cuatro casos de proyecto",
+   "vinetas": [
+    "Capacidad > 13 m³",
+    "Alimenta una red de distribución",
+    "Vaporizador, trasvase o boca desplazada",
+    "Lugar de acceso público"
+   ],
+   "img_brief": "engineer technical drawing plans",
+   "notas": "N1: ¿Cuándo se exige proyecto de técnico competente?\nN2: En cuatro casos, memorízalos como lista. Uno, capacidad de almacenamiento superior a trece metros cúbicos, que es el disparador más preguntado. Dos, cuando alimenta una red de distribución por canalización. Tres, cuando lleva vaporizador, equipo de trasvase o boca de carga a distancia enterrada, o que no discurra por terreno de la misma propiedad. Y cuatro, cuando la estación está en un lugar de libre acceso al público. Si no se da ninguno de estos, basta memoria técnica. El número mágico que retienes es trece metros cúbicos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.3 · Memoria",
+   "titulo": "Cuando basta memoria técnica",
+   "vinetas": [
+    "Instalación normal, sin los cuatro casos",
+    "La firma el instalador o el técnico",
+    "Datos, emplazamiento y autonomía",
+    "Diagrama, plano y documentación"
+   ],
+   "img_brief": "gas fitter paperwork clipboard",
+   "notas": "N1: ¿Qué es la memoria técnica y quién la puede firmar?\nN2: Es el documento más ligero para las instalaciones normales, las que no caen en ninguno de los cuatro casos de proyecto. Y aquí viene lo que te importa para tu carné: la memoria técnica la puede suscribir el instalador con su categoría de depósitos fijos de GLP, mientras que el proyecto lo firma un técnico facultativo competente, un titulado. Es decir: con Gas B podrás firmar memorias de depósitos fijos, pero no proyectos. La memoria recoge datos del titular y de la instaladora, emplazamiento, uso, justificación de la autonomía, diagrama de principio, plano acotado y documentación de los depósitos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.4 · Pruebas previas",
+   "titulo": "12 y 24 meses",
+   "vinetas": [
+    "Prueba hidrostática si hay golpe",
+    "O si cambia de emplazamiento",
+    "> 12 meses en el sitio",
+    "O > 24 meses desde fábrica"
+   ],
+   "img_brief": "pressure gauge testing tank",
+   "notas": "N1: ¿Cuándo hay que volver a probar un depósito antes de enchufarlo?\nN2: Un depósito que ha estado mucho tiempo esperando hay que volver a probarlo con una prueba hidrostática, certificada por un organismo de control autorizado. Hay dos relojes gemelos: cuando han pasado más de doce meses desde que llegó al emplazamiento, o más de veinticuatro meses desde las pruebas de fábrica. También si lo mueves de sitio o si el instalador ve un desperfecto por las operaciones de carga y descarga. Truco: un año en la parcela, o dos desde fábrica, a probar otra vez. Superadas las pruebas, la puesta en servicio conlleva una inspección inicial del organismo de control."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.5 · Certificados",
+   "titulo": "Quién firma qué",
+   "vinetas": [
+    "Instaladora: certificado de instalación",
+    "Organismo: certificado de inspección",
+    "Con proyecto: dirección de obra",
+    "Copias a titular y Administración"
+   ],
+   "img_brief": "signing certificate document pen",
+   "notas": "N1: ¿Qué papeles se emiten al terminar la obra?\nN2: Tres firmas distintas. La empresa instaladora cumplimenta el certificado de instalación, por triplicado, con copia para el titular y para la Comunidad Autónoma. El organismo de control emite el certificado de inspección, y con él la instalación queda en disposición de servicio. Y si hubo proyecto, el director de obra emite el certificado de dirección de obra, que como anexo incluye el estado de la protección contra la corrosión, las actas de pruebas, la documentación de los depósitos y la justificación de que se cumplen los requisitos de seguridad. Cada agente firma lo suyo: no los mezcles."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.6 · Primer llenado",
+   "titulo": "El 85 %, la burbuja",
+   "vinetas": [
+    "Se comunica antes del primer llenado",
+    "Contrato de mantenimiento ya firmado",
+    "Corte del llenado al 85 %",
+    "Se comprueba la estanquidad"
+   ],
+   "img_brief": "lpg tank level gauge dial",
+   "notas": "N1: ¿Por qué nunca se llena un depósito hasta arriba?\nN2: Porque el GLP líquido se dilata con el calor. El punto alto de llenado corta al ochenta y cinco por ciento del volumen: ese quince por ciento de hueco es el colchón para que, en pleno verano, el líquido tenga sitio para expandirse sin reventar el depósito ni disparar la válvula de seguridad. Cifra de examen segura: ochenta y cinco por ciento. Antes del primer llenado se comunica todo a la Comunidad Autónoma, y fíjate en un detalle: el contrato de mantenimiento ya tiene que ir firmado. Un depósito fijo nace con su mantenimiento contratado. En ese primer llenado se comprueba la estanquidad y ese corte, y queda anotado en el Libro de Mantenimiento."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.1 · Mantenimiento",
+   "titulo": "Contrato y corrosión",
+   "vinetas": [
+    "Contrato con servicio de urgencias",
+    "Libro de Mantenimiento al día",
+    "Corrosión: control anual",
+    "Corriente impresa: cada 3 meses"
+   ],
+   "img_brief": "cathodic protection anode pipe",
+   "notas": "N1: ¿Qué obliga el mantenimiento y cada cuánto se vigila la corrosión?\nN2: El titular debe tener un contrato con una empresa instaladora que disponga de servicio de urgencias permanente, encargada de las revisiones y, muy en especial, de la protección contra la corrosión. De cada visita queda constancia en el Libro de Mantenimiento. Y aquí hay dos relojes: el potencial de protección se controla cada año; pero si la protección catódica es por corriente impresa, con un equipo eléctrico alimentado, se comprueba cada tres meses. Regla: corriente impresa, más vigilancia, trimestral, porque depende de un aparato que puede fallar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.2 · Revisiones",
+   "titulo": "Cada 2 años o con la casa",
+   "vinetas": [
+    "Alimenta una red: cada 2 años",
+    "Alimenta una casa: con la receptora",
+    "Ambas revisiones, en la misma visita",
+    "Favorable: certificado de revisión"
+   ],
+   "img_brief": "technician checking gas meter outdoor",
+   "notas": "N1: ¿Cada cuánto se revisa el depósito?\nN2: Dos casos. Si el depósito da gas a una red de distribución, su revisión es cada dos años. Si solo alimenta la instalación de una casa o comunidad, su revisión se engancha a la de la instalación receptora, la de la ITC-ICG cero siete, y se hacen las dos juntas en la misma visita. No te líes: red, dos años; casa, a la vez que la receptora. Si la revisión sale favorable, la instaladora emite un certificado de revisión para el titular; si sale con problemas, un informe de anomalías que el titular debe subsanar. Y sin acreditar la revisión en plazo, no hay suministro de GLP."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.2.1 · Comprobaciones",
+   "titulo": "Las 13 comprobaciones",
+   "vinetas": [
+    "1–3: papeles y bomberos",
+    "4–9: el hierro y la corrosión",
+    "10–13: que no fugue",
+    "Boca y mangueras: 3 bar, 10 min"
+   ],
+   "img_brief": "soapy water leak test pipe",
+   "notas": "N1: ¿Hay que aprenderse los trece puntos de la revisión de carrerilla?\nN2: No, agrúpalos. Los puntos uno a tres son papeleo y bomberos: el último certificado de inspección, la inspección visual y el estado de los extintores. Los puntos cuatro a nueve son el hierro: el recubrimiento del depósito, las tuberías y anclajes, las llaves y manómetros, el cerramiento, los rótulos, la protección contra la corrosión y la toma de tierra. Y los puntos diez a trece son que no fugue, las pruebas de estanquidad. La cifra fina que cae: la boca de carga desplazada y las mangueras de trasvase se prueban a tres bar durante diez minutos. Y el clásico de siempre: las fugas finas se cazan con agua jabonosa, porque las burbujas te delatan el escape."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.3 · Prueba de presión",
+   "titulo": "Cada 15 años · muestreo",
+   "vinetas": [
+    "Prueba de presión cada 15 años",
+    "La hace un organismo de control",
+    "Superficie: solo muestra del lote",
+    "Muestra redondea arriba, mínimo 8"
+   ],
+   "img_brief": "industrial storage tanks row outdoor",
+   "notas": "N1: ¿Qué prueba mayor toca cada quince años?\nN2: La prueba de presión, cada quince años, según la une sesenta mil doscientos cincuenta, encargada a un organismo de control. Hay un detalle práctico para los depósitos de superficie: la primera prueba periódica no se hace a todo el lote, sino a una muestra estadística. Y de ese muestreo retén dos cosas: la muestra se redondea siempre hacia arriba y nunca baja de ocho unidades. Y si sale un depósito malo en la muestra, se revisa el doble; si sale otro, el lote completo. Es el típico control de calidad: a más fallos, más miras. Durante estas pruebas, con el depósito fuera de servicio, se puede tirar de uno provisional."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.4 · Corrosión",
+   "titulo": "El enemigo del enterrado",
+   "vinetas": [
+    "Enterrado: protección catódica",
+    "Salvo estudio del terreno que exima",
+    "Control anual del potencial",
+    "Anomalía: aviso inmediato al titular"
+   ],
+   "img_brief": "rusty metal pipe corrosion soil",
+   "notas": "N1: ¿Por qué tanto miedo a la corrosión en un depósito enterrado?\nN2: Porque está rodeado de tierra húmeda, que se lo va comiendo poco a poco. La protección catódica es un truco electroquímico para que el hierro no se oxide, y por eso se vigila el potencial de protección cada año. Los depósitos enterrados la llevan siempre, salvo que un estudio de agresividad del terreno demuestre que no hace falta. Idea: enterrado, corrosión, protección catódica, salvo estudio que lo exima. De todos los controles queda constancia en un registro, y ante cualquier anomalía se avisa de inmediato al titular para subsanarla."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.5 · Protección adicional",
+   "titulo": "Me ahorro desenterrar",
+   "vinetas": [
+    "Sello de fábrica autorizado",
+    "No hay que desenterrar si pasa pruebas",
+    "Documentación técnica, una sola vez",
+    "La guarda el fabricante 15 años"
+   ],
+   "img_brief": "factory storage tank manufacturing",
+   "notas": "N1: ¿Qué ventaja da que un depósito tenga protección adicional?\nN2: Un depósito enterrado normal, para probarlo, habría que sacarlo del hoyo, que es carísimo. Los depósitos catalogados como de protección adicional se libran de desenterrarse si pasan las pruebas del fabricante: esa es la ventaja del sello. Para conseguirlo, antes de venderlos, el fabricante presenta a un organismo de control una documentación técnica que permite evaluar la protección contra la corrosión; esa documentación se presenta una sola vez y el fabricante la conserva quince años desde el último depósito fabricado. Si es favorable, se emite un acta de conformidad que le da la consideración de protección adicional."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.6 · Provisionales",
+   "titulo": "El depósito de sustitución",
+   "vinetas": [
+    "Para no dejar sin gas en pruebas",
+    "Volumen máximo 5 m³",
+    "Máximo 60 días, prorrogables",
+    "Proyecto solo la primera vez"
+   ],
+   "img_brief": "temporary gas tank construction site",
+   "notas": "N1: ¿Qué se hace mientras arreglas o pruebas el depósito fijo?\nN2: No se deja a la gente sin gas: se pone un depósito provisional que da servicio mientras tanto. Dos cifras que caen: su volumen no excede de cinco metros cúbicos y solo se puede usar hasta sesenta días, prorrogables con autorización expresa del órgano competente. Lo instala una empresa instaladora, cumple la reglamentación de equipos a presión, y cada vez que se conecta se hace una prueba de estanquidad. Y un detalle cómodo: el proyecto de legalización se hace solo la primera vez; luego ya está tramitado y se puede reutilizar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 7 · Retirada",
+   "titulo": "Sin dejar una bomba",
+   "vinetas": [
+    "Inertizar con nitrógeno",
+    "O desgasificar con agua",
+    "Certificado a la Administración",
+    "Cese: 2 años sin uso o 5 sin mantener"
+   ],
+   "img_brief": "nitrogen gas cylinder industrial",
+   "notas": "N1: ¿Cómo se saca de servicio un depósito para siempre?\nN2: Nunca se abandona con gas dentro, porque seguiría siendo una bomba. Hay que vaciarlo de gas de verdad: se inertiza rellenándolo de nitrógeno, un gas que no arde, o se desgasifica con agua. Lo hace una empresa instaladora, que lo certifica, y se entrega copia del certificado a la Comunidad Autónoma. Ojo a las cifras del cese de actividad: se considera que un depósito cesa si pasan dos años consecutivos sin consumo, si no hay contrato de mantenimiento, o si pasan cinco años sin el mantenimiento oportuno. La misma lógica del inertizado la verás en las plantas de GNL del vídeo cuatro."
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Qué me llevo",
+   "mapa": [
+    "Firmo memoria, no proyecto · el corte es 13 m³",
+    "El llenado corta al 85 % · presión cada 15 años",
+    "Enterrado = corrosión · retirar = inertizar"
+   ],
+   "notas": "N1: Tres ideas para quedarte con la ITC-ICG cero tres.\nN2: Primera, la que afecta a tu carné: con Gas B firmas la memoria técnica de un depósito fijo, pero no el proyecto; y el número que dispara ese proyecto es trece metros cúbicos, junto con la red, el vaporizador o el acceso público. Segunda, la seguridad del día a día: el llenado corta al ochenta y cinco por ciento para dejar sitio a la dilatación del verano, y la gran prueba de presión toca cada quince años. Y tercera: el enterrado se pelea contra la corrosión con protección catódica, y cuando un depósito sale de servicio nunca se deja con gas, se inertiza con nitrógeno o se desgasifica con agua. Esa misma filosofía la reencontrarás en el GNL."
+  }
+ ]
+}

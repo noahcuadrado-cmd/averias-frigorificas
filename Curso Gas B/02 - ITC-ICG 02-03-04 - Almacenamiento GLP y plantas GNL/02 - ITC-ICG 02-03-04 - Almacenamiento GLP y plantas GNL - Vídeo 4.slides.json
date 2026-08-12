@@ -1,0 +1,185 @@
+{
+ "pie": "Curso Gas B · Tema 02 · Plantas satélite de GNL (ITC-ICG 04)",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 02 · Reglamento · ITC-ICG 02/03/04",
+   "videoxy": "Vídeo 4 de 4",
+   "titulo": "Plantas satélite de GNL",
+   "subtitulo": "ITC-ICG 04 · el gas natural licuado y el frío",
+   "notas": "N1: ¿Cómo llega el gas natural adonde no hay gasoducto?\nN2: Con una planta satélite de GNL. La ITC-ICG cero cuatro regula esos depósitos de gas natural licuado, a temperatura criogénica, muy frío, que abastecen una zona o una industria donde no llega la red. Cambia el producto y cambian dos protagonistas: la norma de referencia pasa a ser la une sesenta mil doscientos diez, y quien monta y mantiene es el especialista criogénico. Es la instrucción más corta de las tres, pero muy preguntable en autorización, plazos de comunicación y controles periódicos, con esa fórmula de volumen por presión. Vamos con ella completa."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "1.000 m³",
+     "capacidad máxima de la planta"
+    ],
+    [
+     "5",
+     "años entre controles periódicos"
+    ],
+    [
+     "300",
+     "umbral de la fórmula V × P"
+    ]
+   ],
+   "notas": "N1: Tres cifras que resumen el GNL.\nN2: La primera es el techo: una planta satélite no pasa de mil metros cúbicos de capacidad conjunta. La segunda es el reloj del mantenimiento: el control periódico se hace cada cinco años. Y la tercera es el número que decide quién puede hacerlo: se multiplica el volumen por la presión, y si el resultado pasa de trescientos, tiene que venir sí o sí un organismo de control. Con estas tres cifras dominas la parte que más cae del vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 1 · Objeto",
+   "titulo": "¿Qué es una planta satélite?",
+   "vinetas": [
+    "GNL = gas natural licuado",
+    "Enfriado a unos 160 °C bajo cero",
+    "Depósito local que recibe y reparte",
+    "Un gasoducto de mentira"
+   ],
+   "img_brief": "lng cryogenic tank industrial plant",
+   "notas": "N1: ¿Qué significa GNL y qué es una planta satélite?\nN2: GNL es gas natural licuado: el mismo gas natural de la ciudad, pero enfriado a unos ciento sesenta grados bajo cero hasta hacerlo líquido. Al licuarse reduce muchísimo su volumen, y eso permite transportarlo en cisterna a sitios donde no llega el gasoducto. La planta satélite es el depósito local que recibe ese GNL, lo vuelve a gas y lo reparte por la zona o la industria. Piénsala como un gasoducto de mentira: donde no llega la tubería, llega el camión y llena el depósito. Fija esa temperatura, ciento sesenta bajo cero, porque de ahí sale todo lo demás."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Campo",
+   "titulo": "El techo y el recambio",
+   "vinetas": [
+    "Hasta 1.000 m³ de capacidad conjunta",
+    "Cambio de categoría = como nueva",
+    "Recambio similar: ≤ ±10%",
+    "Firma el director de obra"
+   ],
+   "img_brief": "lng storage tank facility fence",
+   "notas": "N1: ¿Hasta cuánto llega esta ITC y qué pasa con los recambios?\nN2: El límite es mil metros cúbicos de capacidad conjunta de GNL; por encima ya no es una planta satélite a estos efectos. Como en el GLP, la modificación que cambia de categoría se trata como instalación nueva, y para el recambio equivalente, sustituir un depósito por otro similar con hasta un diez por ciento de diferencia de volumen, no hace falta proyecto nuevo. Pero atención a un matiz que el examen adora cruzar: aquí la memoria justificativa la firma el director de obra, mientras que en la ITC cero tres, la de depósitos fijos de GLP, la firmaba la empresa instaladora. Pequeña diferencia, gran pregunta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4 · Diseño",
+   "titulo": "Entra el especialista criogénico",
+   "vinetas": [
+    "Montaje: empresa criogénica",
+    "No vale un instalador de gas normal",
+    "Referencia: UNE 60210",
+    "Equipos a presión: RD 769/1999"
+   ],
+   "img_brief": "worker cryogenic insulated pipe valve",
+   "notas": "N1: ¿Quién puede montar y mantener una planta de GNL?\nN2: Esta es la gran diferencia con el GLP. El GNL está muy frío, es criogénico, y trabajarlo exige formación y materiales específicos. Por eso el montaje y el mantenimiento no los hace una empresa instaladora de gas normal, sino una empresa especializada en trabajos criogénicos y equipos a presión: el especialista criogénico. Asocia siempre la tríada del GNL: gas natural licuado, norma une sesenta mil doscientos diez y especialista criogénico. Compáralo con el depósito de GLP, que iba con la une sesenta mil doscientos cincuenta y una empresa instaladora de gas. Los equipos a presión cumplen además el Real Decreto setecientos sesenta y nueve."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.1 · Autorización",
+   "titulo": "Aquí sí, casi siempre",
+   "vinetas": [
+    "Autorización administrativa previa",
+    "Salvo uso propio y exclusivo",
+    "Solicitud en modelo oficial",
+    "La otorga la Comunidad Autónoma"
+   ],
+   "img_brief": "government office stamp application",
+   "notas": "N1: ¿Hace falta permiso previo para una planta de GNL?\nN2: Como regla general, sí. A diferencia de los centros de envases, que nunca lo necesitan, y de los depósitos de GLP, que solo si dan gas a terceros, la planta de GNL sí requiere autorización administrativa previa a la construcción, otorgada por la Comunidad Autónoma. La única excepción es que sea para el uso propio y exclusivo de un usuario, por ejemplo una fábrica que se autoabastece. Regla: GNL, pide permiso antes, salvo autoconsumo exclusivo. Para pedirlo, el titular presenta un proyecto con el modelo oficial de solicitud."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.2 · Documentación",
+   "titulo": "Siempre proyecto",
+   "vinetas": [
+    "Proyecto de técnico competente",
+    "Nada de memoria técnica aquí",
+    "Obra civil, cálculos, planos",
+    "Extra: planes de emergencia"
+   ],
+   "img_brief": "engineer safety plan documents desk",
+   "notas": "N1: ¿Vale la memoria técnica en el GNL?\nN2: No, aquí no hay memoria que valga: toda planta satélite de GNL exige proyecto redactado por técnico facultativo competente. El proyecto incluye el objeto y la ubicación, la normativa, la descripción y los cálculos, la obra civil, el montaje y pruebas, el presupuesto, el pliego de condiciones y los planos. Y fíjate en el extra que no aparecía en el GLP: la documentación de seguridad y los planes de emergencia frente a accidentes graves. El GNL se maneja en instalaciones más serias, así que el papeleo sube de nivel."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.3–5.5 · Certificados",
+   "titulo": "Dos papeles y hay gas",
+   "vinetas": [
+    "Pruebas en obra del organismo",
+    "Certificado de dirección de obra",
+    "Certificado de inspección",
+    "Sin certificado de instalación"
+   ],
+   "img_brief": "inspector checking industrial equipment",
+   "notas": "N1: ¿En qué se apoya la puesta en servicio del GNL?\nN2: En dos papeles. Antes, el organismo de control, con la empresa de montaje y el director de obra, hace las pruebas en obra de resistencia y estanquidad. Luego el director de obra emite el certificado de dirección de obra, y el organismo de control el certificado de inspección. Con esos dos, la instalación queda en disposición de servicio y el titular llama al suministrador para el primer llenado. Fíjate en un detalle que cae: aquí no hay certificado de instalación de empresa instaladora, como sí lo había en el GLP; manda el director de obra, porque en GNL siempre hay proyecto."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.6 · Comunicación",
+   "titulo": "15 días hábiles",
+   "vinetas": [
+    "Tras la puesta en servicio",
+    "Plazo: 15 días hábiles",
+    "Proyecto y certificados",
+    "No confundir con los 30 del articulado"
+   ],
+   "img_brief": "calendar deadline office desk",
+   "notas": "N1: ¿Cuánto tiempo hay para comunicar la puesta en servicio?\nN2: Cuidado con este plazo, que es muy preguntón. Tras la puesta en servicio, el titular tiene un plazo máximo de quince días hábiles para presentar la documentación por duplicado ante la Comunidad Autónoma: el proyecto constructivo, el certificado de dirección de obra, el de inspección, la documentación de los recipientes a presión y la fecha de puesta en servicio. Son quince días hábiles, que no cuentan domingos ni festivos, y no lo confundas con los treinta días genéricos del articulado del Reglamento para las instalaciones receptoras. Cada instalación tiene su plazo: aquí, quince hábiles."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.1 · Mantenimiento",
+   "titulo": "El mismo esqueleto",
+   "vinetas": [
+    "Contrato con especialista criogénico",
+    "Servicio de urgencias permanente",
+    "Libro de Mantenimiento",
+    "Posible exención con medios propios"
+   ],
+   "img_brief": "maintenance logbook binder industrial",
+   "notas": "N1: ¿Se parece el mantenimiento del GNL al del GLP?\nN2: Muchísimo. El titular debe tener un contrato de mantenimiento con un especialista criogénico que disponga de servicio de urgencias permanente, encargado de conservar la instalación y hacer las revisiones según la une sesenta mil doscientos diez. Existe un Libro de Mantenimiento donde se anota cada visita, y las empresas titulares con capacidad y medios propios pueden quedar eximidas del contrato. Es casi el mismo texto que la ITC cero tres; el cambio de fondo es quién firma, el especialista criogénico, y la norma, la sesenta mil doscientos diez. Si dominaste el mantenimiento del vídeo tres, este lo tienes medio ganado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.2 · Controles",
+   "titulo": "La fórmula V × P",
+   "vinetas": [
+    "Control periódico cada 5 años",
+    "V × P ≤ 300: criogénico o usuario",
+    "V × P > 300: solo organismo de control",
+    "Certificado por cuadriplicado"
+   ],
+   "img_brief": "pressure gauge dial industrial tank",
+   "notas": "N1: ¿Quién puede hacer el control periódico y cada cuánto?\nN2: El control periódico se hace cada cinco años, con las pruebas de la une sesenta mil doscientos diez. Y quién lo hace depende de una fórmula: multiplica el volumen geométrico en metros cúbicos por la presión máxima de trabajo en bar. Si el resultado es trescientos o menos, lo puede hacer gente de la casa, el especialista criogénico o el servicio de mantenimiento del usuario, o un organismo de control. Pero si pasa de trescientos, tiene que venir obligatoriamente un organismo de control independiente. Cuanto más grande y más presión, más ojos externos. El resultado se documenta en un certificado por cuadriplicado: usuario, titular, órgano competente y el propio agente. Retén el número: trescientos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.2 · Prueba de presión",
+   "titulo": "Neumática cada 15 años",
+   "vinetas": [
+    "Prueba de presión cada 15 años",
+    "Neumática, no hidráulica",
+    "Con gas, para no meter humedad",
+    "Organismo con especialista criogénico"
+   ],
+   "img_brief": "nitrogen pressure test cryogenic tank",
+   "notas": "N1: ¿En qué se diferencia la gran prueba del GNL de la del GLP?\nN2: No mezcles los dos relojes: el control periódico es cada cinco años, pero la prueba de presión es cada quince años. Y aquí está el matiz de examen: en el GNL esa prueba es neumática, con aire o gas, no hidráulica con agua como en el GLP. ¿Por qué? Porque meter agua en un depósito criogénico sería introducir humedad y estropearlo. La realiza un organismo de control asistido por un especialista criogénico, que emite un acta de pruebas. Confundir hidráulica del GLP con neumática del GNL es el error clásico de examen y de obra: en frío, prueba neumática."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.3 · Retirada",
+   "titulo": "Un año sin carga: inertizar",
+   "vinetas": [
+    "Un año sin recibir GNL: inertizar",
+    "Nitrógeno u otro gas inerte",
+    "Lo certifica un organismo de control",
+    "Nunca desmontar sin inertizar"
+   ],
+   "img_brief": "nitrogen purging industrial tank valve",
+   "notas": "N1: ¿Qué se hace si la planta deja de recibir gas?\nN2: Regla clara: si la planta pasa un año sin recibir ninguna carga de GNL, el titular debe inertizarla, es decir, llenarla de nitrógeno u otro gas inerte para que no quede atmósfera inflamable dentro. Lo hace la empresa de mantenimiento y lo supervisa y certifica un organismo de control. Y la frase de oro para el examen: bajo ningún concepto se desmonta una planta ni ninguno de sus depósitos sin inertizar antes. Es la misma filosofía de seguridad que en el GLP del vídeo tres: un depósito vacío de gas inflamable sigue siendo peligroso hasta que lo neutralizas."
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Qué me llevo",
+   "mapa": [
+    "GNL → UNE 60210 → especialista criogénico",
+    "Siempre proyecto · autorización previa · 15 hábiles",
+    "V×P: 300 · presión neumática · inertizar"
+   ],
+   "notas": "N1: Tres ideas para cerrar la ITC-ICG cero cuatro y el tema.\nN2: Primera, la tríada: el GNL es gas natural licuado, criogénico a unos ciento sesenta bajo cero, y va siempre con la une sesenta mil doscientos diez y el especialista criogénico, no una instaladora normal. Segunda, el papeleo de nivel superior: aquí siempre hay proyecto, con planes de emergencia, se necesita autorización previa salvo autoconsumo, y la puesta en servicio se comunica en quince días hábiles. Y tercera, las cifras de mantenimiento: control cada cinco años, con organismo de control obligatorio si volumen por presión pasa de trescientos, prueba neumática, no hidráulica, cada quince años, y si pasa un año sin carga, se inertiza. Nunca se desmonta nada sin inertizar antes. Con esto cierras el tema del almacenamiento."
+  }
+ ]
+}

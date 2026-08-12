@@ -1,0 +1,178 @@
+{
+ "pie": "Curso Gas B · Tema 07 · ITC-ICG 10 · Caravanas",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 07 · Reglamento · ITC-ICG 10",
+   "videoxy": "Vídeo 1 de 1",
+   "titulo": "GLP en caravanas y autocaravanas",
+   "subtitulo": "ITC-ICG 10: la instalación fija de gas del vehículo de recreo",
+   "notas": "N1: ¿Qué pinta un gasista en una caravana? Más de lo que parece, ¿verdad?\nN2: Pues mira, esta es una de las instrucciones más cortas del Reglamento, pero cae muchísimo en el examen. Cuando una caravana o una autocaravana lleva cocina, calefacción o calentador alimentados con bombonas de GLP, esa instalación tiene su propia norma: la ITC-ICG diez. En este vídeo la vamos a ver entera, apartado por apartado. Fíjate en cinco datos que se preguntan tal cual: la norma que la rige, la prueba de estanquidad, la presión de trabajo, cada cuánto se revisa, y esa rareza de que aquí no hay que comunicar nada a la Administración. Vamos con ello."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "15",
+     "minutos mínimo que aguanta la presión en la prueba de estanquidad"
+    ],
+    [
+     "30",
+     "mbar de presión de funcionamiento de los aparatos"
+    ],
+    [
+     "4",
+     "años entre revisiones de la instalación"
+    ]
+   ],
+   "notas": "N1: Si solo pudieras memorizar tres números de este tema, ¿cuáles serían?\nN2: Estos tres. El primero: quince minutos, que es el tiempo mínimo que la presión tiene que aguantar sin bajar para dar por buena la estanquidad. El segundo: treinta milibares, la presión a la que funcionan los aparatos de la caravana, típica del butano y el propano con regulador doméstico. Y el tercero: cuatro años, que es cada cuánto hay que revisar la instalación. Con estos tres clavados ya llevas media pregunta ganada. Los vamos viendo uno a uno."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 1 · Objeto",
+   "titulo": "¿Qué regula esta ITC?",
+   "vinetas": [
+    "Requisitos técnicos y medidas de seguridad",
+    "Diseño, construcción, pruebas, instalación y uso",
+    "GLP doméstico en caravanas y autocaravanas",
+    "Desarrolla el artículo 2.1,g) del Reglamento"
+   ],
+   "img_brief": "camper van gas installation",
+   "notas": "N1: ¿De dónde cuelga esta ITC dentro del Reglamento?\nN2: Acuérdate del Tema cero: el artículo dos del Reglamento listaba nueve tipos de instalaciones con letras. La letra ge era justamente el GLP de uso doméstico en caravanas y autocaravanas. Pues esta ITC-ICG diez es la rama que desarrolla esa letra ge. Fija los requisitos técnicos esenciales y las medidas de seguridad en el diseño, la construcción, las pruebas, la instalación y la utilización. Si en el examen te preguntan de qué apartado del Reglamento cuelga la ITC-ICG diez, la respuesta es artículo dos punto uno, letra ge. Ese detallito lo preguntan más de lo que crees."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Campo de aplicación",
+   "titulo": "A qué se aplica",
+   "vinetas": [
+    "Instalaciones y aparatos de GLP doméstico",
+    "Vehículos habitables de recreo de carretera",
+    "Mantenimiento: vale para nuevas y existentes"
+   ],
+   "img_brief": "caravan interior kitchen stove",
+   "notas": "N1: ¿Qué es exactamente un vehículo habitable de recreo de carretera?\nN2: Es la definición fina de caravana o autocaravana: un vehículo pensado para vivir dentro y circular por carretera. Ojo a la palabra recreo, que significa ocio, no vivienda fija ni vehículo industrial. Y fíjate en un matiz importante para el mantenimiento: las revisiones periódicas se aplican tanto a las caravanas nuevas como a las que ya existían. Es la regla general del Reglamento: lo viejo no se rehace por capricho, pero las revisiones caen igual. Nadie se libra de la revisión por tener una caravana antigua, igual que nadie se libra de la ITV por tener un coche viejo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Exclusiones",
+   "titulo": "Qué queda fuera",
+   "vinetas": [
+    "Aparatos portátiles con su propia alimentación",
+    "Hornillo de cartucho, estufa de camping",
+    "La ITC regula solo la instalación fija"
+   ],
+   "img_brief": "portable camping gas stove cartridge",
+   "notas": "N1: Un hornillo de camping con su cartucho, ¿lo tienes que certificar tú?\nN2: No. Ese es el punto que quieren que confundas. Un hornillo de camping con su propio cartucho, o una estufa portátil de butano que lleva la bombona encima, no entra en esta ITC: son aparatos portátiles que incorporan su propia alimentación de gas. La ITC-ICG diez regula la instalación fija de la caravana, es decir, las tuberías, el regulador, las bombonas sujetas y los aparatos conectados a ellas. Los cacharros sueltos que te metes dentro no son cosa tuya. Es la misma lógica del cacharro portátil que ya viste en el Reglamento con el límite de quince kilos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3 · Diseño y ejecución",
+   "titulo": "La norma y quién la monta",
+   "vinetas": [
+    "Diseño y montaje según UNE-EN 1949",
+    "Aparatos: directivas europeas o ITC-ICG 08",
+    "La ejecuta una empresa instaladora de gas"
+   ],
+   "img_brief": "technician installing gas pipe",
+   "notas": "N1: ¿Cuál es la norma estrella de este tema, y quién puede montar la instalación?\nN2: La norma es la UNE-EN mil novecientos cuarenta y nueve. Es LA norma de la ITC-ICG diez: manda en el diseño, la construcción, el montaje, las pruebas previas y las recomendaciones de mantenimiento. Si te aparece esta norma en el examen, piensa caravanas. Y recuerda que las normas UNE se citan sin año. En cuanto a quién la monta: no la monta cualquiera, la ejecuta una empresa instaladora de gas habilitada según la ITC-ICG nueve. El dueño no puede ponerse a soldar tubos de gas en su autocaravana. Y los aparatos deben venir conformes a las directivas europeas de gas o a lo que diga la ITC-ICG ocho. Ejemplo de obra: si te llega una caravana montada por el cuñado, no la puedes certificar sin repasarla y probarla entera."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.1 · Pruebas previas",
+   "titulo": "La prueba de estanquidad",
+   "vinetas": [
+    "Antes de la puesta en servicio",
+    "Manómetro 0 a 1 bar, clase 1, escala 20 mbar",
+    "O manotermógrafo del mismo rango",
+    "Correcta si no baja en 15 min mínimo"
+   ],
+   "img_brief": "pressure gauge manometer gas",
+   "notas": "N1: ¿Cómo sabes que una instalación de caravana es estanca?\nN2: Este apartado es una mina de preguntas de examen, así que memoriza el aparato dato a dato. Antes de la puesta en servicio, la instaladora prueba resistencia y estanquidad. Para la estanquidad se usa un manómetro de rango cero a uno bar, clase uno, con divisiones de escala de veinte milibares, o un manotermógrafo del mismo rango. Lo de clase uno es la clase de precisión, o sea, su margen de error: un aparato fino, capaz de detectar una pérdida pequeña. Y el criterio de éxito: la presión no debe bajar durante un tiempo no inferior a quince minutos desde la primera lectura. No inferior significa como mínimo: puedes esperar más, nunca menos. Truco: si la aguja cae, hay fuga; si se queda quieta un cuarto de hora, es estanca. En obra, si baja, repasas regulador, latiguillo y racores con agua jabonosa y no das gas hasta que aguante."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.2 · Certificados",
+   "titulo": "El certificado de instalación",
+   "vinetas": [
+    "Modelo IRV-1 del anexo 1",
+    "Por triplicado",
+    "Copias: instaladora, titular y Comunidad Autónoma"
+   ],
+   "img_brief": "installation certificate document signature",
+   "notas": "N1: ¿Cuántas copias del certificado se hacen y para quién?\nN2: La empresa instaladora rellena el certificado de instalación, que es el modelo IRV uno del anexo uno de la propia ITC. Y se emite por triplicado, o sea, tres copias con tres destinos: una se la queda la instaladora, otra es para el titular, que es el dueño de la caravana, y otra para el órgano competente de la Comunidad Autónoma. Aunque el texto solo nombra dos destinatarios de copia, por triplicado implica que la instaladora conserva la suya. Si ves las siglas IRV en una pregunta, ya sabes: es el certificado de instalación de la caravana."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.3 · Puesta en servicio",
+   "titulo": "El papel abre el gas",
+   "vinetas": [
+    "Con el certificado expedido, ya hay servicio",
+    "El titular pide los envases al suministrador",
+    "Primero el papel, luego el gas"
+   ],
+   "img_brief": "propane gas cylinder delivery",
+   "notas": "N1: ¿Cuándo puede el dueño pedir sus bombonas?\nN2: El certificado es la llave que abre el gas. Una vez que la instaladora lo ha expedido, la instalación se considera en disposición de servicio. En ese momento, y no antes, el titular puede solicitar al suministrador los envases de GLP. Hasta que la instaladora no firma, no hay puesta en servicio. La secuencia es clarísima y por eso la preguntan: primero el papel, luego el gas. Nunca al revés."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.4 · Comunicación",
+   "titulo": "La excepción: no se comunica",
+   "vinetas": [
+    "No es precisa ninguna comunicación",
+    "El titular conserva el certificado",
+    "A disposición de la Administración si lo pide"
+   ],
+   "img_brief": "filing documents folder cabinet",
+   "notas": "N1: Aquí está la trampa de examen: ¿hay que comunicar la puesta en servicio a la Administración?\nN2: No. Y esta es LA excepción que tienes que recordar. En casi todo el Reglamento, tras la puesta en servicio el titular tiene que comunicar a la Comunidad Autónoma en un plazo, acuérdate de los treinta días del artículo cinco punto siete. Pues bien, en la caravana no hay que comunicar nada. Basta con que el titular guarde el certificado y lo tenga a mano por si la Administración se lo reclama. Así que si en el examen ves que en las instalaciones de GLP de caravanas hay que comunicar a la Administración en treinta días, eso es falso: no se comunica. Es de las trampas favoritas del examinador."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5 · Utilización",
+   "titulo": "Presión y bombonas",
+   "vinetas": [
+    "Presión de funcionamiento: 30 mbar",
+    "Envases siempre sujetos, llenos o vacíos",
+    "Dentro o fuera, en uso y en marcha",
+    "Desconectar en estacionamiento prolongado"
+   ],
+   "img_brief": "propane gas cylinder strap secured",
+   "notas": "N1: ¿Por qué son tan importantes esos treinta milibares y por qué se atan las bombonas?\nN2: Los aparatos de la caravana funcionan a treinta milibares, la presión típica del GLP con regulador doméstico. Es un valor fijo que se pregunta tal cual, y no es un capricho: con presión o regulador equivocados aparece mala combustión, llama amarilla, tiznado de los aparatos y, lo grave, monóxido de carbono en pocos metros cúbicos. Si un usuario se te queja de olores raros, aparato que ahúma o que se apaga, empieza mirando presión y ventilación: en una caravana una ventilación mal hecha mata. Y las bombonas: siempre sujetas, llenas o vacías, dentro o fuera del habitáculo, tanto en uso como conduciendo. Una bombona suelta golpeando en una curva puede romper el grifo y provocar una fuga circulando. Detalle de examen: aplica también a los envases vacíos. Y en estacionamientos largos, como el invernaje, se desconectan de la instalación: menos gas conectado sin vigilancia, menos riesgo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5 · Prohibición",
+   "titulo": "La tubería no es un cable",
+   "vinetas": [
+    "Prohibido usarla como toma de tierra",
+    "Ni para instalaciones eléctricas",
+    "Ni para instalaciones radioeléctricas"
+   ],
+   "img_brief": "electrical grounding wire clamp",
+   "notas": "N1: ¿Se puede enganchar la toma de tierra a la tubería de gas?\nN2: Jamás. Las tuberías de gas nunca se pueden usar como conductor de puesta a tierra ni como parte de una instalación eléctrica o de radio. Piénsalo: enganchar un cable eléctrico a la tubería de gas es buscarse una chispa justo donde hay combustible. Y en un habitáculo pequeño y cerrado como el de una caravana, eso es una receta para el incendio. Este punto cae en examen, y la respuesta correcta siempre es que está prohibido. En obra lo verás en revisiones: gente que ha atado el negativo o la tierra a un tubo de gas por comodidad. Eso se corrige en el sitio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6 · Mantenimiento",
+   "titulo": "Revisión cada 4 años",
+   "vinetas": [
+    "El titular es el responsable",
+    "Encarga la revisión a una instaladora",
+    "Cada 4 años · es revisión, no inspección",
+    "Se documenta con el modelo IRV-2"
+   ],
+   "img_brief": "technician checking gas installation caravan",
+   "notas": "N1: ¿Cada cuánto se revisa, quién lo encarga, y por qué se llama revisión y no inspección?\nN2: Tres datos que se preguntan juntos. Primero, cada cuánto: cada cuatro años hay que revisar la instalación y los aparatos de la caravana. Segundo, quién: el responsable del buen estado es el titular, el dueño, y si no, el usuario; es el titular quien tiene que encargar la revisión a una empresa instaladora. La instaladora ejecuta y recomienda, pero quien responde de que la caravana esté en condiciones es el propietario, igual que con el coche: el taller te lo mira, pero llevarlo a pasar la ITV es cosa tuya. Y tercero, muy importante: se llama revisión, no inspección. ¿Por qué? Porque, como viste en el artículo siete del Reglamento, la caravana funciona con bombonas propias y no cuelga de una red de distribución, y todo lo que no cuelga de la red se revisa, no se inspecciona. La chuleta es: caravana, bombonas, sin red, revisión, cada cuatro años. Se documenta con el modelo IRV dos, que comprueba ventilaciones, evacuación de humos, estanquidad y funcionamiento de los aparatos según la UNE-EN mil novecientos cuarenta y nueve."
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Qué me llevo",
+   "mapa": [
+    "ITC-ICG 10 = instalación fija; UNE-EN 1949 manda",
+    "Estanquidad: no baja en 15 min · uso a 30 mbar",
+    "No se comunica · revisión cada 4 años (IRV)"
+   ],
+   "notas": "N1: Si te quedas con tres ideas de todo el vídeo, que sean estas, ¿vale?\nN2: La primera: la ITC-ICG diez regula la instalación fija de gas de la caravana, la que desarrolla el artículo dos punto uno letra ge, y su norma de cabecera es la UNE-EN mil novecientos cuarenta y nueve, sin año. Fuera quedan los cacharros portátiles con su propio cartucho, y la instalación solo la ejecuta una empresa instaladora de gas. La segunda: los dos datos técnicos que te van a preguntar seguro. La estanquidad, con manómetro de cero a uno bar, clase uno y escala de veinte milibares, es correcta si la presión no baja en al menos quince minutos; y los aparatos funcionan a treinta milibares, con las bombonas siempre sujetas y desconectadas en los parones largos. Y la tercera, las dos trampas: aquí no se comunica nada a la Administración, solo se guarda el certificado; y la revisión es cada cuatro años, se llama revisión y no inspección porque la caravana va con bombonas y no cuelga de una red, y se documenta con los modelos IRV del anexo uno. Con eso tienes el tema resuelto."
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "pie": "Curso Gas B · Tema 05 · Aparatos de gas",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 05 · Reglamento · ITC-ICG 08",
+   "videoxy": "Vídeo 2 de 4",
+   "titulo": "Tipos de aparato y puesta en marcha",
+   "subtitulo": "Clasificación A/B/C, conexión y certificado",
+   "notas": "N1: Dejamos la fábrica. ¿Qué empieza aquí de verdad?\nN2: Tu trabajo de piso. En este vídeo vemos cómo se clasifican los aparatos según por dónde respiran y expulsan humos, los tipos A, B y C; quién puede conectarlos, arrancarlos, mantenerlos y adecuarlos; qué se comprueba al ponerlos en marcha y qué certificado hay que entregar. Es el corazón práctico de la ITC-ICG cero ocho y una de las zonas más preguntadas del examen. Atención especial a no confundir los tipos de aparato con las categorías de instalador."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["3", "tipos de aparato: A, B y C"],
+    ["24,4", "kW, umbral del aparato exigente"],
+    ["5", "años de archivo del certificado"]
+   ],
+   "notas": "N1: ¿Qué tres números marcan este vídeo?\nN2: Tres tipos de aparato por su combustión: A, B y C. El umbral de veinticuatro coma cuatro kilovatios, que separa el aparato exigente del normal. Y los cinco años que hay que archivar el certificado de puesta en marcha a disposición de la Comunidad Autónoma. Con estos tres números tienes el esqueleto del vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Circuito de combustión",
+   "titulo": "Aparatos tipo A, B y C",
+   "vinetas": [
+    "A: aire del local, humos al local",
+    "B: aire del local, humos al exterior",
+    "C: estanco, aire y humos al exterior",
+    "B y C = conducidos"
+   ],
+   "img_brief": "condensing gas boiler flue",
+   "notas": "N1: ¿Cómo clasifica la ITC los aparatos por su combustión?\nN2: Por de dónde toman el aire para quemar y por dónde evacúan los humos. El tipo A, no conducido, coge aire del local y devuelve los humos al local; por eso exige buena ventilación del recinto: una cocina, un horno, una encimera. El tipo B, de cámara abierta, coge aire del local pero echa los humos al exterior por un conducto: el calentador o la caldera atmosférica. Y el tipo C, estanco, toma el aire de fuera y expulsa los humos fuera, sin tocar el aire de la estancia: la caldera estanca. Los tipos B y C son los que la norma llama conducidos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Regla mnemotécnica",
+   "titulo": "Por dónde respira y por dónde echa el humo",
+   "vinetas": [
+    "A: respira y echa al local",
+    "B: respira del local, echa fuera",
+    "C: respira y echa fuera",
+    "Más aislado = menos depende de ventilación"
+   ],
+   "img_brief": "wall vent grille exterior",
+   "notas": "N1: ¿Cómo no confundirlos nunca?\nN2: Piensa en respirar y echar el humo. El A respira del local y echa al local. El B respira del local y echa fuera. El C respira de fuera y echa fuera. Cuanto más aislado del local está el circuito, más seguro es respecto al ambiente: por eso el C es el que menos depende de la ventilación de la estancia y el mejor en locales complicados, como un baño pequeño. El A, en cambio, si le falta ventilación, acumula CO."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Aviso de examen",
+   "titulo": "Tipos ≠ categorías de instalador",
+   "vinetas": [
+    "Tipo A/B/C: cómo quema el aparato",
+    "Categoría A/B/C: nivel del carné",
+    "Categoría B trabaja con A, B y C"
+   ],
+   "img_brief": "gas installer certification card",
+   "notas": "N1: Comparten letra. ¿Dónde está la trampa?\nN2: Es una trampa clásica de examen. El tipo A, B o C describe cómo quema y evacúa el aparato, su circuito de combustión. La categoría A, B o C, que está en la ITC-ICG cero nueve, es el nivel del carné del instalador, qué instalaciones puede montar una persona. No tienen nada que ver una letra con la otra: un instalador de categoría B puede trabajar con aparatos de tipo A, B o C sin problema."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartados 5.1 y 5.5",
+   "titulo": "Trámite con la Administración: ninguno",
+   "vinetas": [
+    "No precisa autorización previa",
+    "No precisa comunicación posterior",
+    "Sí: certificado de puesta en marcha"
+   ],
+   "img_brief": "office paperwork stamp desk",
+   "notas": "N1: ¿Hay que pedir permiso a la Administración para poner un aparato?\nN2: No. Instalar un aparato ni necesita autorización previa, que es el apartado cinco uno, ni comunicación posterior, que es el cinco cinco. Lo normal en gas es hacer y, cuando toca, comunicar; aquí ni siquiera hay que comunicar. Lo único obligatorio es el certificado de puesta en marcha que le das al cliente y archivas tú. No lo confundas con la comunicación de la instalación receptora: esa sí, la presenta el titular a los treinta días, pero es de la instalación, no del aparato."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.2 · Conexión",
+   "titulo": "Quién conecta el aparato",
+   "vinetas": [
+    "Regla: siempre el instalador (UNE 60670-7)",
+    "Excepción: tubo flexible con abrazadera",
+    "No conectados: UNE 60670-6, cap. 4"
+   ],
+   "img_brief": "flexible gas hose stove connection",
+   "notas": "N1: ¿Puede el usuario conectar su propio aparato?\nN2: Por regla general conecta el instalador, según la UNE sesenta mil seiscientos setenta, en su parte siete. La única excepción es el tubo flexible elastomérico con abrazadera, el típico latiguillo de goma de una cocina de butano: ese lo puede poner el propio usuario. Por eso cualquiera cambia el tubo de su cocina, pero conectar una caldera con tubería rígida es cosa del instalador. Y los aparatos no conectados a instalación receptora van por las condiciones de ubicación de la UNE sesenta mil seiscientos setenta, parte seis, capítulo cuatro. Regla de bolsillo: conectado a la siete, suelto a la seis."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.3.1",
+   "titulo": "Quién arranca, mantiene y repara",
+   "vinetas": [
+    "Conducidos (B/C) > 24,4 kW",
+    "y vitrocerámicas de fuegos cubiertos",
+    "→ SAT certificado o instalador cap. 4",
+    "Resto: SAT o empresa instaladora"
+   ],
+   "img_brief": "technician servicing gas boiler",
+   "notas": "N1: ¿Dónde está la línea que separa el aparato exigente del normal?\nN2: Aquí. Los conducidos de tipo B y C de más de veinticuatro coma cuatro kilovatios de potencia útil y las vitrocerámicas de fuegos cubiertos solo los ponen en marcha, mantienen o reparan el servicio técnico del fabricante con sistema de calidad certificado, o instaladores que cumplan el capítulo cuatro de la ITC-ICG cero nueve. Todo lo demás, los de menor potencia y los de tipo A, lo puede hacer el servicio técnico del fabricante o una empresa instaladora. Truco: más de veinticuatro coma cuatro kilovatios y con humos conducidos, gente especialmente cualificada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.3.2",
+   "titulo": "Cambio de familia de gas",
+   "vinetas": [
+    "Ejemplo: de natural a propano/butano",
+    "SAT certificado o instalador cat. A o B",
+    "La categoría C no puede",
+    "Componentes idénticos al certificado"
+   ],
+   "img_brief": "gas injector nozzle replacement",
+   "notas": "N1: ¿Quién puede adecuar un aparato a otro gas?\nN2: Adecuar por cambio de familia es, por ejemplo, pasar una caldera de gas natural, que es la segunda familia, a propano o butano, que es la tercera: hay que cambiar inyectores y reglajes. La ITC lo reserva al servicio técnico del fabricante con calidad certificada o a instaladores de categoría A o B; aquí sí manda el carné, y la categoría C no puede. Y una condición de oro: los recambios deben ser idénticos a los aprobados en la certificación de tipo. Cambiar inyectores por unos que hacen el apaño da mala combustión, llamas amarillas y CO."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5.4",
+   "titulo": "Comprobaciones y certificado",
+   "vinetas": [
+    "Comprobaciones: UNE 60670-10 + fabricante",
+    "Emitir y entregar el certificado al cliente",
+    "Modelo del anexo 4",
+    "Archivar 5 años (Comunidad Autónoma)"
+   ],
+   "img_brief": "combustion gas analyzer boiler",
+   "notas": "N1: Terminas de arrancar el aparato. ¿Qué haces ahora?\nN2: Las comprobaciones mínimas salen de la UNE sesenta mil seiscientos setenta, parte diez, más las indicaciones adicionales del fabricante: nunca es solo la norma ni solo el manual, son las dos cosas. Después emites y entregas al cliente el certificado de puesta en marcha, con el modelo del anexo cuatro, y guardas copia cinco años a disposición del órgano competente de la Comunidad Autónoma. Dos datos de examen que caen juntos: certificado de puesta en marcha y cinco años de archivo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 4 · Contenido",
+   "titulo": "Qué lleva el certificado",
+   "vinetas": [
+    "Agente, cliente y datos del aparato",
+    "Pruebas: análisis de combustión",
+    "Firma del técnico y sello",
+    "Firma del cliente"
+   ],
+   "img_brief": "signed certificate document",
+   "notas": "N1: ¿Qué bloques tiene el certificado del anexo cuatro?\nN2: Son fáciles de recordar: quién arranca, el agente; para quién, el cliente; qué, el aparato con tipo, marca, modelo, potencia y número de fabricación; y cómo salió, las pruebas. Lo firma el técnico, con sello de empresa, y también el cliente. Y ojo al detalle que gusta al examen: cuando procede, se adjunta la impresión del análisis de combustión, esa tira que escupe el analizador con CO, CO dos, tiro y rendimiento. Es la prueba física de que la combustión es correcta."
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Qué me llevo",
+   "mapa": [
+    "A/B/C: por dónde respira y echa humo",
+    "Ni permiso ni comunicación; sí certificado",
+    "Conducido > 24,4 kW = gente cualificada"
+   ],
+   "notas": "N1: Tres ideas para no olvidar de este vídeo, ¿cuáles?\nN2: Primero, los tipos A, B y C se distinguen por de dónde respira el aparato y por dónde echa el humo; el A depende de la ventilación, el B del tiro, y el C es el menos dependiente de la estancia. Segundo, instalar un aparato no necesita ni autorización ni comunicación, pero sí exige entregar el certificado de puesta en marcha, firmado por técnico y cliente con el ticket del análisis, y guardarlo cinco años. Y tercero, los conducidos de más de veinticuatro coma cuatro kilovatios y el cambio de familia de gas piden gente especialmente cualificada y componentes idénticos: nada de apaños."
+  }
+ ]
+}

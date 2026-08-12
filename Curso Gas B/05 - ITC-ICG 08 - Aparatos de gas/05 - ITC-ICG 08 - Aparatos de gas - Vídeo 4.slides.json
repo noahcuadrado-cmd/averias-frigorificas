@@ -1,0 +1,183 @@
+{
+ "pie": "Curso Gas B · Tema 05 · Aparatos de gas",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 05 · Reglamento · ITC-ICG 08",
+   "videoxy": "Vídeo 4 de 4",
+   "titulo": "Placa de características y seguridad",
+   "subtitulo": "Anexos 2 y 3: marcado, prescripciones y pruebas",
+   "notas": "N1: El aparato tiene que llevar su DNI y aguantar lo que promete. ¿Dónde lo dice?\nN2: En los dos últimos anexos de la ITC-ICG cero ocho. El anexo dos fija qué datos lleva la placa de características y cómo se comprueba que ese marcado no se borra. El anexo tres recoge las prescripciones de seguridad y las pruebas que debe superar un aparato cuando no existe una norma específica para él: el listado largo de exigencias de diseño, los famosos dos punto tres, y las pruebas de estanquidad y funcionamiento. Es denso, pero cae en el examen a base de detalles."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["7", "datos mínimos de la placa"],
+    ["20", "prescripciones de seguridad"],
+    ["2", "pruebas mínimas del aparato"]
+   ],
+   "notas": "N1: ¿Qué tres números resumen el cierre de la ITC?\nN2: Siete datos mínimos en la placa de características. Veinte prescripciones de seguridad en el anexo tres, del dos tres uno al dos tres veinte. Y dos pruebas mínimas: la de estanquidad y la de funcionamiento. Con estos tres números tienes el mapa del vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 2 · Placa",
+   "titulo": "La placa es el DNI del aparato",
+   "vinetas": [
+    "Fijada sólida y duraderamente",
+    "Visible y legible",
+    "Caracteres indelebles"
+   ],
+   "img_brief": "gas appliance metal nameplate",
+   "notas": "N1: ¿Por qué tanta exigencia con la placa?\nN2: Cada aparato incorpora una placa de características fijada de forma sólida y duradera, visible y legible, con caracteres indelebles, es decir, que no se borran. ¿Por qué indelebles? Porque dentro de años alguien tendrá que leerla para revisar o reparar el aparato. Igual que un coche lleva su ficha técnica, cada aparato lleva su placa con lo esencial."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 2 · Contenido",
+   "titulo": "Qué datos lleva la placa",
+   "vinetas": [
+    "Fabricante e importador",
+    "Marca y modelo; nº de serie",
+    "Categoría del aparato",
+    "Gas y presión de reglaje",
+    "Consumo (kW/PCI) y datos eléctricos"
+   ],
+   "img_brief": "boiler rating plate data",
+   "notas": "N1: ¿Qué lees exactamente en la placa?\nN2: Los datos mínimos son el nombre o marca del fabricante y, en su caso, el importador; la denominación comercial con marca y modelo; el número de serie o fabricación; la categoría del aparato; el tipo de gas en relación con la presión, indicando solo la presión del reglaje actual; el consumo calorífico nominal en kilovatios sobre PCI; y la naturaleza y tensión de la corriente eléctrica con la potencia máxima absorbida, en voltios, amperios, hercios y kilovatios. Son los datos que necesitas para regular, revisar y rellenar el certificado de puesta en marcha."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 2 · Detalles",
+   "titulo": "El hueco para tu anotación",
+   "vinetas": [
+    "Consumo regulable: espacio libre",
+    "Anotas el consumo que has regulado",
+    "Consumo en kW sobre PCI"
+   ],
+   "img_brief": "technician writing on appliance label",
+   "notas": "N1: ¿La placa la escribe solo la fábrica?\nN2: No del todo. En los aparatos de consumo calorífico regulable, la placa deja un espacio libre para que tú, el instalador, sitúes la indicación del valor del consumo al que lo has dejado regulado durante la puesta en marcha: es tu firma técnica sobre el propio aparato. Y ojo a las siglas: el consumo se expresa en kilovatios referidos al poder calorífico inferior, el PCI, que es la energía que da el gas sin aprovechar el calor del vapor de agua de los humos. Es la referencia estándar del sector."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 2 · Advertencias",
+   "titulo": "Las dos advertencias",
+   "vinetas": [
+    "General: normas + lugar ventilado",
+    "General: consultar instrucciones",
+    "Exterior: uso exclusivo al aire libre"
+   ],
+   "img_brief": "outdoor patio gas heater",
+   "notas": "N1: ¿Qué frases obliga a poner la norma en el aparato?\nN2: La advertencia general dice, en esencia, instalar de acuerdo con las normas en vigor, utilizar únicamente en lugares suficientemente ventilados y consultar las instrucciones antes de instalar y usar. Y si el aparato es de uso exclusivo al aire libre, lleva además esa frase, que puede ir en la propia placa o en una placa independiente. No es adorno: meter en un local cerrado un aparato pensado para exterior es la receta de la intoxicación por CO."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 2 · Verificación",
+   "titulo": "Que la placa dure",
+   "vinetas": [
+    "Indelebilidad, corrosión y adherencia",
+    "Todo con la UNE 60750",
+    "Resiste frotamiento, humedad y calor"
+   ],
+   "img_brief": "durability testing metal plate",
+   "notas": "N1: ¿Cómo se comprueba que la placa aguanta con el tiempo?\nN2: No te compliques: la indelebilidad de los caracteres, la resistencia a la corrosión si la placa es metálica y la adherencia si es adhesiva se verifican con la misma norma, la UNE sesenta mil setecientos cincuenta. La lógica es sencilla: la placa tiene que durar tanto como el aparato aunque la froten, se moje o se caliente, y tras todos los ensayos debe seguir legible, sin deformarse y sin despegarse. De poco sirve un DNI que se borra al segundo año."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 3 · Campo de aplicación",
+   "titulo": "La red de seguridad",
+   "vinetas": [
+    "Aparatos sin norma específica",
+    "Requisitos y pruebas mínimas",
+    "Excluye homologados que cambian de familia"
+   ],
+   "img_brief": "gas appliance safety inspection",
+   "notas": "N1: ¿Cuándo entra en juego el anexo tres?\nN2: Es el plan B de la conformidad que viste en el apartado tres: si no hay norma UNE o EN específica, se aplican los requisitos y pruebas del anexo tres para certificar un aparato huérfano de norma. Y la exclusión tiene su lógica: quedan fuera los aparatos ya homologados que vayan a usar un gas de distinta familia, siempre que ese cambio ya estuviera considerado en la homologación inicial. Si ya estaba previsto, no hay que pasar otra vez por aquí."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 3 · 2.1-2.2",
+   "titulo": "Condiciones generales y materiales",
+   "vinetas": [
+    "Seguridad total en uso normal",
+    "Materiales: mecánica, química, térmica",
+    "Propiedades garantizadas por el fabricante"
+   ],
+   "img_brief": "stainless steel burner material",
+   "notas": "N1: ¿Con qué idea base arranca el anexo tres?\nN2: Con dos. Primera: el diseño y la fabricación deben ser tales que el aparato funcione con seguridad total y no entrañe peligro para personas, animales domésticos ni bienes, siempre que se use en condiciones normales de funcionamiento. Segunda: los materiales deben ser adecuados y resistentes a las condiciones mecánicas, químicas y térmicas a las que se sometan, y sus propiedades importantes para la seguridad las garantiza el fabricante o el proveedor. Estas prescripciones valen también para los equipos componentes cuando existe el riesgo correspondiente."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 3 · 2.3.1-2.3.20",
+   "titulo": "Veinte prescripciones, seis ideas",
+   "vinetas": [
+    "Aguantar el uso, sin roturas",
+    "Sobrevivir a imprevistos (luz, incendio)",
+    "Nada de fugas peligrosas",
+    "Fallar sin peligro",
+    "Encender y quemar bien; no quemar al usuario"
+   ],
+   "img_brief": "gas safety valve mechanism",
+   "notas": "N1: ¿Cómo digiero veinte puntos sin perderme?\nN2: No los memorices sueltos, agrúpalos por idea. Aguantar el uso: sin desajuste, deformación ni rotura, y aguantando la presión. Sobrevivir a imprevistos: condensación, incendio de origen externo, cortes o fluctuaciones de la energía auxiliar. Nada de fugas peligrosas, ni por encendido ni acumuladas. Fallar sin peligro: si se rompe un dispositivo de seguridad, no debe haber peligro. Encender y quemar bien: encendido suave y cruzado, llama estable, combustión sin escapes. Y no quemar al usuario: temperaturas de mandos y superficies controladas. Con estos bloques colocas cualquier punto."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 3 · Punto de oro",
+   "titulo": "El dispositivo del 2.3.15",
+   "vinetas": [
+    "Interior: dispositivo anti-acumulación",
+    "Sin él: solo local bien ventilado",
+    "O uso exclusivo al aire libre"
+   ],
+   "img_brief": "kitchen ventilation grille wall",
+   "notas": "N1: ¿Cuál es el punto que más cae del anexo tres?\nN2: El dos, tres, quince. Los aparatos destinados a usarse en locales disponen de un dispositivo específico que evita la acumulación peligrosa de gas no quemado en el local; los que no lo llevan solo se usan en locales con ventilación suficiente o son de uso exclusivo al aire libre. Es el mismo criterio que ya veías en el manual técnico del vídeo uno y en las advertencias del aparato y del embalaje: todo encaja. Es lo que evita las fugas acumuladas, el revoco de humos y el CO."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 3 · 3.1",
+   "titulo": "Prueba de estanquidad",
+   "vinetas": [
+    "Entre la llave del aparato y el quemador",
+    "A presión máxima de utilización",
+    "Válvulas de corte: sin fuga interior"
+   ],
+   "img_brief": "gas pipe pressure test gauge",
+   "notas": "N1: ¿Dónde se prueba que el aparato no tiene fugas?\nN2: Ojo al tramo: se comprueba la estanquidad del circuito de gas entre la llave del aparato y el quemador, a la presión máxima de utilización. Y además, que no existe fuga interior a través de las válvulas de corte, es decir, que cuando están cerradas no dejan pasar gas. Es la garantía de que el aparato retiene el gas tanto por fuera como por dentro. Esta prueba es la que caza las fugas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 3 · 3.2",
+   "titulo": "Pruebas de funcionamiento",
+   "vinetas": [
+    "Encendido: sin golpes de presión",
+    "Barrido de cámara y tiempos de seguridad",
+    "Marcha: control de llama, presión y tiro",
+    "Consumo y análisis de combustión"
+   ],
+   "img_brief": "boiler flame ignition sequence",
+   "notas": "N1: ¿Qué se comprueba con el aparato trabajando?\nN2: Dos bloques. El arranque: que prenda bien, con barrido eficaz de la cámara si hace falta, encendido e interencendido correctos, sin fenómenos anómalos en la estabilidad de las llamas ni golpes de presión, respetando las secuencias del programador y los tiempos máximos de seguridad. Y la marcha: que los dispositivos hagan su trabajo, control de llama, control de presión de gas y de aire, control de tiro, consumo calorífico y análisis de los productos de la combustión al consumo nominal. Estas pruebas cazan la mala combustión y el CO."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 3 · Cierre de pruebas",
+   "titulo": "Tiempos de seguridad y repaso",
+   "vinetas": [
+    "Válvula automática corta a tiempo",
+    "Ante fallo: no prende, se apaga, falla el tiro",
+    "Control visual: sin deformaciones",
+    "Marcados legibles"
+   ],
+   "img_brief": "automatic gas shutoff valve",
+   "notas": "N1: ¿Por qué importan tanto los tiempos máximos de seguridad?\nN2: Aparecen dos veces, en el encendido y en la marcha, porque son críticos: es el tiempo que el aparato puede tardar en cortar el gas si algo va mal, no prende, se apaga la llama o falla el tiro. Si tardara de más, se acumularía gas. Que una válvula automática cierre a tiempo ante un fallo detectado es de lo más importante que se prueba. Y al final, un control visual: que ni el elemento receptor ni el equipo de combustión se hayan deformado ni deteriorado, y que los marcados e instrucciones sigan legibles."
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Qué me llevo",
+   "mapa": [
+    "Placa = DNI indeleble (anexo 2)",
+    "2.3.15: anti-acumulación o ventilado",
+    "Estanquidad y funcionamiento: sin fugas ni CO"
+   ],
+   "notas": "N1: Lo que cierra la ITC-ICG cero ocho, ¿en tres trazos?\nN2: Primero, la placa es el DNI del aparato: visible, legible e indeleble, y de ella sacas fabricante e importador, marca y modelo, número de serie, categoría, gas y presión de reglaje, consumo en kilovatios sobre PCI y datos eléctricos; si falta o está borrada, te quedas sin datos para trabajar. Segundo, el punto dos, tres, quince es de oro: aparato de interior con dispositivo anti-acumulación, o solo local bien ventilado o exterior. Y tercero, las pruebas separan un aparato seguro de una avería: la de estanquidad caza las fugas, entre la llave y el quemador a presión máxima; y las de funcionamiento cazan la mala combustión y el CO, con la válvula automática cortando a tiempo."
+  }
+ ]
+}

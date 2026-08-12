@@ -1,0 +1,188 @@
+{
+ "pie": "Curso Gas B · Tema 03 · Envases de GLP uso propio",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 03 · Reglamento · ITC-ICG 06",
+   "videoxy": "Vídeo 2 de 2",
+   "titulo": "Envases de GLP para uso propio",
+   "subtitulo": "Las bombonas, con normativa: topes, distancias y casetas",
+   "notas": "N1: ¿Qué reglas hay que cumplir cuando montas una batería de bombonas que alimenta una vivienda o un negocio?\nN2: Esta es la instrucción cero seis, la de los envases de gas licuado del petróleo, butano y propano, para uso propio. Aquí aparecen los números que más caen en el examen: las capacidades máximas de almacenamiento, las distancias de seguridad a hogares y enchufes, las condiciones de armarios y casetas, y la prueba de estanquidad. La instrucción parte en dos según el tamaño del envase: hasta quince kilos, la bombona doméstica típica, y más de quince kilos, la instalación grande. Domina las dos tablas de distancias y tendrás medio vídeo ganado."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["300", "kg tope · envases ≤ 15 kg"],
+    ["1.000", "kg tope · envases > 15 kg"],
+    ["70", "kg · frontera dentro/fuera"]
+   ],
+   "notas": "N1: Tres cifras para orientarte antes de empezar.\nN2: Trescientos kilos es el tope de almacenamiento cuando trabajas con envases pequeños, de hasta quince kilos cada uno. Mil kilos es el tope cuando los envases pasan de quince kilos. Y setenta kilos es la frontera mágica que decide si los envases grandes pueden ir dentro del local o tienen que ir fuera, en caseta. Fíjate en el escalón: bombona pequeña, instalación pequeña; bombona grande, instalación grande. Y en las dos sumas, algo que cae siempre: los envases vacíos cuentan igual que los llenos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 1 · Objeto",
+   "titulo": "Bombonas con normativa",
+   "vinetas": [
+    "Diseño, construcción y explotación",
+    "Envases de GLP para uso propio",
+    "Carga unitaria > 3 kg",
+    "Alimentan la instalación receptora"
+   ],
+   "img_brief": "propane gas cylinders storage row",
+   "notas": "N1: ¿Qué envases entran en esta instrucción y cuáles no?\nN2: Establece los criterios técnicos y los requisitos de seguridad para el diseño, la construcción y la explotación de las instalaciones de almacenamiento para uso propio de gas licuado del petróleo en envases, siempre que la carga unitaria de cada envase sea superior a tres kilos, y que sirvan para alimentar a una instalación receptora. El umbral de entrada es esa carga unitaria superior a tres kilos. Por debajo, los cartuchos de camping y las bombonas de menos de tres kilos, esta instrucción ni los mira. Piensa: bombona de butano de doce kilos y medio o de propano de treinta y cinco kilos, dentro; cartuchito de dos kilos, fuera."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Dos grupos",
+   "titulo": "Todo depende del tamaño",
+   "vinetas": [
+    "Envases ≤ 15 kg → tope 300 kg",
+    "Envases > 15 kg → tope 1.000 kg",
+    "Suma llenos Y vacíos",
+    "El vacío también cuenta"
+   ],
+   "img_brief": "butane gas bottle domestic kitchen",
+   "notas": "N1: ¿Por qué se divide la instrucción en dos mundos?\nN2: Porque el tamaño del envase lo cambia todo. Si la capacidad unitaria no pasa de quince kilos, la capacidad total de almacenamiento no puede superar los trescientos kilos. Si el envase pasa de quince kilos, el tope sube a mil kilos. Y ojo a cómo se cuenta esa capacidad total: se suman todos los envases, llenos y vacíos. Un envase vacío también cuenta, porque puede tener restos de gas y porque se va a rellenar. Truco de examen: si te dan una batería de bombonas y te preguntan si cumple, suma las capacidades unitarias de todo lo que haya, no solo lo lleno."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2.1 · Envases ≤ 15 kg",
+   "titulo": "Bombona doméstica: dónde NO",
+   "vinetas": [
+    "Tope total: 300 kg",
+    "Nada de sótanos ni semisótanos",
+    "Ni cajas de escalera ni pasillos",
+    "Máximo 2 envases en batería"
+   ],
+   "img_brief": "gas bottle balcony exterior building",
+   "notas": "N1: ¿Dónde no se puede poner una bombona, y por qué?\nN2: La regla de oro del gas licuado del petróleo es que pesa más que el aire: si fuga, cae al suelo y se acumula en lo más bajo. Por eso se prohíbe instalar envases en viviendas o locales cuyo piso esté más bajo que el nivel del suelo, es decir sótanos y semisótanos, y también en cajas de escalera y en pasillos, salvo autorización expresa de la comunidad autónoma. Son trampas donde el gas se embolsa. Además, dentro de la vivienda no puede haber más de dos envases conectados en batería, para descarga o en reserva. Poner una bombona en un sótano porque cabía es fabricar una atmósfera explosiva que solo espera una chispa."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2.1 · Armario y regulador",
+   "titulo": "Ventilación abajo y regulador",
+   "vinetas": [
+    "Rejilla en la base del armario",
+    "Superficie libre > 1/100",
+    "Envase con válvula: siempre vertical",
+    "Regulador SIEMPRE entre bombona y aparato"
+   ],
+   "img_brief": "gas cylinder cabinet ventilation grille wall",
+   "notas": "N1: ¿Cómo tiene que ventilar el armario y por qué siempre hace falta regulador?\nN2: La rejilla del armario va abajo, en la base, precisamente porque el gas pesa y se va al fondo: la fuga tiene que poder escapar por abajo. La superficie libre mínima es uno entre cien de la pared o fondo del armario, y más o menos cuadrada, no una ranura larga y fina; y nunca la tapes con un envase. Los envases con válvula de seguridad, llenos o vacíos, se colocan siempre en posición vertical. Y entre la bombona y el aparato va siempre un regulador, salvo aparatos aprobados para presión directa, y entonces con tubo rígido. ¿Por qué? La bombona da presión alta y variable; el aparato necesita presión baja y estable. Conectar a pelo es peligrosísimo: llama descontrolada, mala combustión y monóxido de carbono."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Cuadro 1 · Distancias (≤ 15 kg)",
+   "titulo": "Las distancias de la bombona",
+   "vinetas": [
+    "Hogares y fuentes de calor: 1,5 m",
+    "Tomas de corriente: 0,5 m",
+    "Hornillos, interruptores, conductores: 0,3 m",
+    "Con protección: 1,5→0,5 y 0,3→0,10"
+   ],
+   "img_brief": "kitchen gas stove blue flame burner",
+   "notas": "N1: ¿A qué distancia hay que separar la bombona de un fuego o de un enchufe?\nN2: Memorízalo de más peligro, más distancia, a menos. Lo que da fuego de verdad, hogares y fuentes de calor, lo más lejos: un metro y medio. Las tomas de corriente, que pueden chispear al conectar, medio metro. Y lo más cerca permitido, treinta centímetros, para hornillos, interruptores y conductores eléctricos. Además hay dos trampillas de reducción: con una protección contra la radiación, sólida y prácticamente incombustible, el hogar baja de un metro y medio a medio metro, y el hornillo baja de treinta a diez centímetros. No es burocracia: es el margen para que un foco de calor o una chispa no prendan una fuga. Y recuerda: si los envases van fuera y los aparatos dentro, hace falta una llave general de corte accesible dentro de la vivienda."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2.2.1 · Envases > 15 kg",
+   "titulo": "La batería grande",
+   "vinetas": [
+    "Tope total: 1.000 kg",
+    "En baterías: servicio y reserva",
+    "Inversor (primera regulación)",
+    "Válvula antirretorno en el colector"
+   ],
+   "img_brief": "propane tank battery manifold industrial",
+   "notas": "N1: ¿Cómo cambia la instalación cuando los envases son grandes?\nN2: El tope de almacenamiento sube a mil kilos, y la instalación se monta normalmente en dos baterías: una en servicio, dando gas, y otra en reserva, esperando. El inversor es el aparato listo que, cuando se vacía la batería en servicio, cambia solo a la de reserva sin que te quedes sin gas, y de paso hace la primera etapa de regulación de presión. Si no hay envases de reserva, ese papel lo hace un simple regulador. Y en las conexiones al colector debe existir una válvula antirretorno, que impide que el gas se vaya para atrás hacia los envases vacíos. No mezcles los dos topes: bombona pequeña, trescientos kilos; bombona grande, mil kilos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2.2.2 · Ubicación",
+   "titulo": "Fuera y en caseta",
+   "vinetas": [
+    "Siempre en el exterior, en caseta",
+    "Interior solo si ≤ 70 kg",
+    "Local > 1.000 m³ y ≥ 150 m²",
+    "Ventilación 1/15 y dos extintores"
+   ],
+   "img_brief": "outdoor propane cylinder enclosure fenced",
+   "notas": "N1: ¿Pueden ir los envases grandes dentro del local?\nN2: Por defecto, no: van siempre en el exterior de las edificaciones, protegidos por una caseta. La única puerta para tenerlos dentro es que el contenido total sea de setenta kilos o menos, y además que el local sea grande y bien ventilado: volumen superior a mil metros cúbicos, superficie mínima de ciento cincuenta metros cuadrados, huecos de ventilación de uno entre quince de la superficie del local sirviendo cualquier abertura que llegue a ras de suelo, y dos extintores de eficacia veintiuno A ciento trece B. Tampoco se permiten en sótanos, ni en locales con ventilación forzada salvo protecciones especiales. Memoriza los setenta kilos como la frontera dentro o fuera para envases de más de quince kilos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2.2.3 · La caseta",
+   "titulo": "La caseta: dos rejillas",
+   "vinetas": [
+    "Material clase A2-s3,d0",
+    "Ventilación arriba y abajo (< 15 cm)",
+    "Amplitud mínima 1/10",
+    "Suelo inclinado hacia el exterior"
+   ],
+   "img_brief": "gas cylinder storage shed outdoor",
+   "notas": "N1: ¿Cómo tiene que ser la caseta que protege los envases grandes?\nN2: Construida con material prácticamente incombustible, y ventila arriba y abajo, con los huecos a menos de quince centímetros del suelo y de la parte superior. Arriba salen los vapores ligeros, y abajo escapa el gas licuado que se posa. La amplitud mínima de esa ventilación es uno entre diez de la superficie de la caseta, y aquí ojo, no lo confundas con el uno entre cien del armario del apartado anterior. El suelo va ligeramente inclinado hacia fuera, para que el gas pesado resbale al exterior en vez de acumularse dentro. Y si la caseta se pega a la fachada del edificio, hay que duplicar la superficie de ventilación."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Cuadro 2 · Distancias (> 15 kg)",
+   "titulo": "Más kilos, más metros",
+   "vinetas": [
+    "Hogares: 1,5 m · si > 70 kg: 3 m",
+    "La caseta recorta desagües y sótanos",
+    "Extintores 21A-113B si > 350 kg"
+   ],
+   "img_brief": "red fire extinguisher industrial wall",
+   "notas": "N1: ¿Cómo se leen las distancias del cuadro dos sin agobiarse?\nN2: La lógica es doble. Primero, cuanto más gas, más distancia: hasta setenta kilos, los hogares quedan a más de un metro y medio; por encima de setenta kilos, a más de tres metros. Segundo, la caseta protege, así que a veces la distancia baja: fíjate en alcantarillas y aberturas a sótanos, que sin caseta piden un metro y medio, pero con caseta basta medio metro, porque la caseta ya hace de barrera. En cambio, para hogares y motores, la caseta no rebaja nada. Y cuidado con dos números de extintores que se confunden: en el interior del local hacían falta dos extintores siempre; en la caseta, esos dos extintores entran cuando el contenido sobrepasa los trescientos cincuenta kilos. Mismo extintor, distinto disparador."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2.2.4 · Cambio de envases",
+   "titulo": "El momento más crítico",
+   "vinetas": [
+    "Nada de fuego encendido",
+    "No accionar interruptores",
+    "Motores parados",
+    "Salvo > 20 m dentro / > 10 m fuera"
+   ],
+   "img_brief": "worker changing propane gas cylinder",
+   "notas": "N1: ¿Cuál es el momento más peligroso de toda la instalación?\nN2: El cambio de bombona. Al desacoplar siempre hay un pequeño escape de gas, así que la regla es firme: nada de fuego encendido, ni tocar ningún interruptor eléctrico, ni motores en marcha. Esta precaución se relaja si hay mucha distancia: más de veinte metros si los envases están dentro de un local, o más de diez metros si están fuera. Dentro se pide más porque el gas no se dispersa igual. Y las dos precauciones eléctricas, interruptores y motores, ya no hacen falta si esos aparatos son antiexplosivos. Truco: cambiar bombona es apagarlo todo, salvo que esté muy lejos o sea material antichispa. Este gesto es el que evita el fogonazo en la cara de quien cambia el envase."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3 · Documentación",
+   "titulo": "Papeleo ligero pero obligatorio",
+   "vinetas": [
+    "Ni autorización ni comunicación",
+    "Prueba de estanquidad: 1,5 × presión",
+    "Durante 10 minutos",
+    "Certificado de instalación guardado"
+   ],
+   "img_brief": "gas pressure test manometer gauge",
+   "notas": "N1: ¿Qué papeleo hay que hacer para poner en marcha estos envases?\nN2: Aquí es ligero, pero obligatorio. La instalación no precisa autorización previa ni, a diferencia de la estación de servicio del vídeo anterior, ninguna comunicación a la Administración: basta con que titular y empresa instaladora guarden el certificado de instalación por si lo piden. Antes de la puesta en servicio, la empresa instaladora hace la prueba de estanquidad, y aquí van los tres números de examen: una vez y media la presión de operación, durante diez minutos, con aire, gas inerte o gas licuado del petróleo en fase gaseosa. Con resultado positivo, emite el certificado de instalación, y la puesta en servicio se hace conjuntamente con la instalación receptora. Y antes de abrir cualquier tubo para reparar, purgar y soplar: nunca metas herramienta en una canalización que puede tener gas dentro."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4 · Mantenimiento",
+   "titulo": "Revisión, no inspección",
+   "vinetas": [
+    "Revisión periódica (no inspección)",
+    "Coincide con la receptora (ITC-ICG 07)",
+    "La hace una empresa instaladora",
+    "Único envase < 15 kg a aparato móvil: exento"
+   ],
+   "img_brief": "technician checking home gas installation",
+   "notas": "N1: ¿Cómo se controla esta instalación con el tiempo, y por qué se llama revisión?\nN2: Fíjate en la palabra: aquí se habla de revisión periódica, no de inspección. Es coherente con la regla general del curso: los envases de gas licuado del petróleo no están conectados a una red de distribución, así que su control se llama revisión, no inspección. El titular encarga a una empresa instaladora esa revisión de los envases, y va de la mano de la revisión periódica de la instalación receptora a la que alimentan, según la instrucción cero siete, para no hacer dos visitas. Y se libra otra vez el clásico: un único envase de menos de quince kilos conectado por tubo flexible o acoplado directamente a un solo aparato de gas móvil, es decir la bombona con la estufa."
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Qué me llevo",
+   "mapa": [
+    "El GLP pesa: nada de sótanos, ventila abajo",
+    "300 · 1.000 · 70 kg, los topes clave",
+    "Cambio de bombona: apágalo todo"
+   ],
+   "notas": "N1: Si te quedas con tres ideas de este vídeo, que sean estas.\nN2: Primera, la física que lo explica todo: el propano y el butano pesan más que el aire, caen y se embolsan abajo; por eso nada de sótanos ni pasillos, y por eso la ventilación va abajo en el armario y arriba y abajo en la caseta, con el suelo inclinado hacia fuera. Segunda, los tres topes que caen fijo: trescientos kilos para envases de hasta quince, mil kilos para envases mayores, y setenta kilos como frontera para poder tenerlos dentro del local; y recuerda que los vacíos cuentan. Y tercera, el gesto que salva la cara: al cambiar la bombona, apágalo todo, ni fuego, ni interruptores, ni motores, salvo mucha distancia o material antiexplosivo. Esa costumbre es la que evita el fogonazo."
+  }
+ ]
+}
