@@ -21,6 +21,7 @@ from pptx.oxml.ns import qn
 NAVY=RGBColor(0x1E,0x27,0x61); NAVY2=RGBColor(0x2E,0x3A,0x80)
 CAD=RGBColor(0xCA,0xDC,0xFC); GRIS=RGBColor(0x64,0x74,0x8B)
 FRAME=RGBColor(0xF3,0xF6,0xFB); INK=RGBColor(0x1B,0x23,0x30); WHITE=RGBColor(0xFF,0xFF,0xFF)
+ORANGE=RGBColor(0xE8,0x80,0x1A); ORANGEL=RGBColor(0xF4,0xA2,0x4C)
 FONT="Montserrat"
 W,H=Inches(13.333),Inches(7.5)
 
@@ -63,9 +64,10 @@ def _fondo(slide,color):
 def portada(prs,s):
     sl=_blank(prs); _fondo(sl,NAVY)
     tb=_box(sl,Inches(0.9),Inches(0.8),Inches(11.5),Inches(0.6))
-    r=tb.text_frame.paragraphs[0].add_run(); r.text=s["videoxy"].upper(); _font(r,14,CAD,bold=True)
+    r=tb.text_frame.paragraphs[0].add_run(); r.text=s["videoxy"].upper(); _font(r,14,ORANGEL,bold=True)
     tb.text_frame.paragraphs[0].runs[0].font.name=FONT
-    tb2=_box(sl,Inches(0.9),Inches(2.4),Inches(11.5),Inches(2.2))
+    _rect(sl,Inches(0.95),Inches(2.25),Inches(1.6),Inches(0.09),ORANGE)  # acento naranja
+    tb2=_box(sl,Inches(0.9),Inches(2.5),Inches(11.5),Inches(2.2))
     p=tb2.text_frame.paragraphs[0]; r=p.add_run(); r.text=s["titulo"]; _font(r,40,WHITE,bold=True)
     if s.get("subtitulo"):
         p2=tb2.text_frame.add_paragraph(); r=p2.add_run(); r.text=s["subtitulo"]; _font(r,22,CAD)
@@ -76,7 +78,8 @@ def portada(prs,s):
 def cifras(prs,s,n,total,pie):
     sl=_blank(prs); _fondo(sl,WHITE); _contador(sl,n,total); _pie(sl,pie)
     tb=_box(sl,Inches(0.9),Inches(0.55),Inches(10),Inches(1.0))
-    r=tb.text_frame.paragraphs[0].add_run(); r.text=s["titulo"]; _font(r,27,NAVY,bold=True)
+    r=tb.text_frame.paragraphs[0].add_run(); r.text=s["titulo"]; _font(r,27,ORANGE,bold=True)
+    _rect(sl,Inches(0.95),Inches(1.35),Inches(1.6),Inches(0.08),NAVY)
     xs=[Inches(0.9),Inches(5.05),Inches(9.2)]
     for (num,txt),x in zip(s["tarjetas"],xs):
         card=_rect(sl,x,Inches(2.2),Inches(3.3),Inches(3.0),FRAME,line=RGBColor(0xD7,0xDE,0xEA))
@@ -90,17 +93,18 @@ def cifras(prs,s,n,total,pie):
 def contenido(prs,s,n,total,pie):
     sl=_blank(prs); _fondo(sl,WHITE); _contador(sl,n,total); _pie(sl,pie)
     if s.get("eyebrow"):
-        tb=_box(sl,Inches(0.9),Inches(0.5),Inches(9),Inches(0.4))
-        r=tb.text_frame.paragraphs[0].add_run(); r.text=s["eyebrow"].upper(); _font(r,12,GRIS,bold=True)
+        tb=_box(sl,Inches(0.9),Inches(0.5),Inches(11),Inches(0.4))
+        r=tb.text_frame.paragraphs[0].add_run(); r.text=s["eyebrow"].upper(); _font(r,13,ORANGE,bold=True)
     tb=_box(sl,Inches(0.9),Inches(0.95),Inches(11.5),Inches(1.0))
-    r=tb.text_frame.paragraphs[0].add_run(); r.text=s["titulo"]; _font(r,27,NAVY,bold=True)
+    r=tb.text_frame.paragraphs[0].add_run(); r.text=s["titulo"]; _font(r,28,NAVY,bold=True)
+    _rect(sl,Inches(0.95),Inches(1.78),Inches(2.2),Inches(0.08),ORANGE)  # subrayado naranja
     # texto izquierda 5.45"
-    tb=_box(sl,Inches(0.9),Inches(2.1),Inches(5.45),Inches(4.6))
+    tb=_box(sl,Inches(0.9),Inches(2.15),Inches(5.45),Inches(4.6))
     tf=tb.text_frame; tf.word_wrap=True; first=True
     for v in s["vinetas"]:
         p=tf.paragraphs[0] if first else tf.add_paragraph(); first=False
-        p.space_after=Pt(10)
-        rb=p.add_run(); rb.text="•  "; _font(rb,16,NAVY2,bold=True)
+        p.space_after=Pt(11)
+        rb=p.add_run(); rb.text="▸  "; _font(rb,16,ORANGE,bold=True)
         r=p.add_run(); r.text=v; _font(r,16,INK)
     # marco imagen derecha
     fx,fy,fw,fh=Inches(6.35),Inches(1.15),Inches(3.05*1.9),Inches(3.75*1.35)
@@ -127,30 +131,63 @@ def cierre(prs,s,n,total,pie):
     sl=_blank(prs); _fondo(sl,NAVY)
     # eyebrow gran final
     tb=_box(sl,Inches(0.9),Inches(0.7),Inches(11.5),Inches(0.5))
-    r=tb.text_frame.paragraphs[0].add_run(); r.text=s.get("eyebrow","LO QUE YA DOMINAS").upper(); _font(r,14,CAD,bold=True)
+    r=tb.text_frame.paragraphs[0].add_run(); r.text=s.get("eyebrow","LO QUE YA DOMINAS").upper(); _font(r,14,ORANGEL,bold=True)
+    _rect(sl,Inches(0.95),Inches(1.15),Inches(1.6),Inches(0.09),ORANGE)  # acento naranja
     # titulo grande
-    tb=_box(sl,Inches(0.9),Inches(1.25),Inches(11.5),Inches(1.2))
+    tb=_box(sl,Inches(0.9),Inches(1.35),Inches(11.5),Inches(1.2))
     r=tb.text_frame.paragraphs[0].add_run(); r.text=s["titulo"]; _font(r,34,WHITE,bold=True)
     # logros / mapa
-    tb=_box(sl,Inches(0.9),Inches(2.75),Inches(11.5),Inches(3.1)); tf=tb.text_frame; tf.word_wrap=True; first=True
+    tb=_box(sl,Inches(0.9),Inches(2.85),Inches(11.5),Inches(3.0)); tf=tb.text_frame; tf.word_wrap=True; first=True
     for m in s["mapa"]:
         p=tf.paragraphs[0] if first else tf.add_paragraph(); first=False; p.space_after=Pt(12)
-        rb=p.add_run(); rb.text="✓  "; _font(rb,20,CAD,bold=True)
+        rb=p.add_run(); rb.text="✓  "; _font(rb,20,ORANGEL,bold=True)
         r=p.add_run(); r.text=m; _font(r,19,WHITE)
-    # tagline motivadora
+    # tagline motivadora (barra naranja)
     if s.get("tagline"):
-        tl=_rect(sl,Inches(0.9),Inches(6.05),Inches(11.5),Inches(0.85),NAVY2)
-        t=_box(sl,Inches(1.15),Inches(6.13),Inches(11.0),Inches(0.7))
-        p=t.text_frame.paragraphs[0]; r=p.add_run(); r.text=s["tagline"]; _font(r,15,CAD,bold=True,italic=True)
+        tl=_rect(sl,Inches(0.9),Inches(6.05),Inches(11.5),Inches(0.9),ORANGE)
+        t=_box(sl,Inches(1.15),Inches(6.15),Inches(11.0),Inches(0.7))
+        p=t.text_frame.paragraphs[0]; r=p.add_run(); r.text=s["tagline"]; _font(r,15,NAVY,bold=True,italic=True)
     _notas(sl,s.get("notas","")); return sl
 
+def indice(prs,s,n,total,pie):
+    sl=_blank(prs); _fondo(sl,WHITE); _contador(sl,n,total); _pie(sl,pie)
+    tb=_box(sl,Inches(0.9),Inches(0.55),Inches(9),Inches(0.4))
+    r=tb.text_frame.paragraphs[0].add_run(); r.text="PARTES DE ESTE VÍDEO"; _font(r,13,ORANGE,bold=True)
+    tb=_box(sl,Inches(0.9),Inches(1.0),Inches(11.5),Inches(1.0))
+    r=tb.text_frame.paragraphs[0].add_run(); r.text=s["titulo"]; _font(r,27,NAVY,bold=True)
+    _rect(sl,Inches(0.95),Inches(1.83),Inches(2.2),Inches(0.08),ORANGE)
+    tb=_box(sl,Inches(0.9),Inches(2.3),Inches(11.5),Inches(4.4)); tf=tb.text_frame; tf.word_wrap=True; first=True
+    for i,it in enumerate(s["items"],1):
+        p=tf.paragraphs[0] if first else tf.add_paragraph(); first=False; p.space_after=Pt(9)
+        rb=p.add_run(); rb.text=f"{i:02d}   "; _font(rb,18,ORANGE,bold=True)
+        r=p.add_run(); r.text=it; _font(r,17,INK)
+    _notas(sl,s.get("notas","")); return sl
+
+def _auto_indice(slides):
+    partes=[]
+    for s in slides:
+        if s.get("tipo")=="contenido":
+            e=(s.get("eyebrow") or "").strip()
+            base=e.split("·")[0].strip() if "·" in e else e
+            if base and base not in partes: partes.append(base)
+    if len(partes)<2: return slides
+    if len(partes)>9: partes=partes[:9]
+    pos=1
+    for i,s in enumerate(slides):
+        if s.get("tipo")=="cifras": pos=i+1; break
+        if s.get("tipo")=="portada": pos=i+1
+    ind={"tipo":"indice","titulo":"En este vídeo","items":partes}
+    return slides[:pos]+[ind]+slides[pos:]
+
 def construir(slides, pie, salida):
+    slides=_auto_indice(slides)
     prs=Presentation(); prs.slide_width=W; prs.slide_height=H
     total=len(slides)
     for i,s in enumerate(slides,1):
         t=s["tipo"]
         if t=="portada": portada(prs,s)
         elif t=="cifras": cifras(prs,s,i,total,pie)
+        elif t=="indice": indice(prs,s,i,total,pie)
         elif t=="contenido": contenido(prs,s,i,total,pie)
         elif t=="cierre": cierre(prs,s,i,total,pie)
     prs.save(salida); return salida
