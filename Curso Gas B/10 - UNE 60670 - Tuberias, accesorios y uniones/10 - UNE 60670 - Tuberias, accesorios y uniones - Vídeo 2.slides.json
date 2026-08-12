@@ -1,0 +1,192 @@
+{
+ "pie": "Curso Gas B · Tema 10 · UNE 60670-3",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 10 · UNE 60670-3",
+   "videoxy": "Vídeo 2 de 3",
+   "titulo": "Elementos de la instalación",
+   "subtitulo": "Tallos, reguladores, contadores, válvulas y llaves",
+   "notas": "N1: En el vídeo anterior vimos tubos. ¿Qué queda por ver?\nN2: Queda casi todo lo que hace que ese tubo funcione. Piensa en la instalación de gas como en las tuberías de agua de tu casa: el tubo lleva el agua, sí, pero sin la llave de paso, el contador y el grifo no tienes nada útil. En el gas pasa igual. En este vídeo vemos todos los elementos que se intercalan en el tubo: los tallos que enganchan la calle con la casa, los reguladores que bajan la presión, los contadores que miden lo que gastas, las válvulas de seguridad que te protegen y las llaves de corte. Te aviso: aquí aparecen muchos números y muchas siglas de normas. No te agobies; te voy a dar una sola herramienta, la tabla de presiones, y con ella colocas casi todo en su sitio."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["5", "escalones de presión, en bar"],
+    ["0,80", "m máximos del flexible del contador"],
+    ["4", "tipos de contador de gas"]
+   ],
+   "notas": "N1: ¿Otra vez tres números para orientarme?\nN2: Exacto, son tus tres anclas. La primera es la escalera de presiones: hay cinco escalones, cinco - dos - cero coma cuatro - cero coma quince - cero coma cero cinco bar. Casi todos los elementos se eligen mirando en qué escalón trabajan, así que esta te la vas a saber de memoria enseguida. La segunda es un dato que cae con número exacto: el tubo flexible que conecta el contador no puede pasar de cero coma ochenta metros. Y la tercera: hay cuatro tipos de contador de gas. Con esas tres anclas ya navegas todo el vídeo. Ninguna es una fecha; son datos de oficio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Diseño · Tramos de presión",
+   "titulo": "La escalera de presiones",
+   "vinetas": [
+    "Cada tramo se nombra por su MOP",
+    "Cortes: 5 – 2 – 0,4 – 0,15 – 0,05 bar",
+    "Se nombra por su valor superior",
+    "Media Parte 3 clasifica por aquí"
+   ],
+   "img_brief": "gas pressure gauge manometer dial",
+   "notas": "N1: ¿Qué es eso de nombrar un tramo 'por su MOP'?\nN2: Vamos despacio, que esto es la base de todo el vídeo. MOP, ya lo sabes, es la presión máxima a la que trabaja un tramo. Pues la norma agrupa las instalaciones en cinco escalones según esa presión, y a cada escalón le pone nombre por su valor de arriba. Un ejemplo lo aclara: un tramo que va de cero coma cuatro a dos bar se llama 'MOP dos', porque dos es su techo. Los cinco cortes que tienes que grabar, de mayor a menor, son cinco, dos, cero coma cuatro, cero coma quince y cero coma cero cinco bar. Imagínatelo como una escalera de cinco peldaños. ¿Por qué es tan importante? Porque casi todo lo que viene después, los reguladores, las tomas de presión, las válvulas, se elige mirando en qué peldaño estás. Sabiendo la escalera, colocas cualquier pieza."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Elementos · Tallos",
+   "titulo": "El tallo: de la calle a la casa",
+   "vinetas": [
+    "Une el PE enterrado con el metal visto",
+    "Norma UNE 60405",
+    "PE-cobre, -acero, -inox o -multicapa",
+    "El PE, siempre protegido del sol"
+   ],
+   "img_brief": "gas service pipe transition fitting ground",
+   "notas": "N1: ¿Qué pinta un 'tallo' en la instalación?\nN2: El tallo es la pieza que casa dos mundos: el tubo de plástico que viene enterrado de la calle y el tubo metálico que sube a la vista hasta el armario del contador. Es un enganche de transición. Se fabrica combinando el polietileno con el metal de destino: lo tienes en pe-cobre, pe-acero, pe-inoxidable y, novedad de esta edición, pe-multicapa. Todos según la norma sesenta mil cuatrocientos cinco. Y aquí vuelve la lección del vídeo anterior: como el polietileno no soporta el sol, la parte de plástico del tallo tiene que ir siempre protegida, enterrada o dentro de su vaina de transición, nunca al aire. Un tallo con el plástico asomando al sol es la misma fuga por rayos ultravioleta de la que ya hablamos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Regulación · 2ª familia",
+   "titulo": "Regular el gas natural",
+   "vinetas": [
+    "Aplica al gas natural (2ª familia)",
+    "Estaciones: UNE 60620-3",
+    "Conjuntos, por su presión de entrada",
+    "MOPe 5, MOPe 0,4 o MOPe 0,15"
+   ],
+   "img_brief": "gas pressure regulator cabinet outdoor",
+   "notas": "N1: Estación, conjunto, regulador... ¿no es todo lo mismo?\nN2: Se parecen, pero conviene separarlos. Estamos en gas natural, lo que la norma llama segunda familia. La estación de regulación es la instalación grande que baja la presión de la red; va con la norma sesenta mil seiscientos veinte. El conjunto de regulación es la caja completa que te regula, y a veces también mide, el gas antes de entrar; se clasifica por la presión que le entra, su MOPe. Puede ser un conjunto de MOPe cinco, de cero coma cuatro o de cero coma quince, y cada uno tiene su norma de la serie sesenta mil cuatrocientos cuatro. Quédate con la idea general: el conjunto es la caja; dentro de esa caja está el regulador, que es la pieza concreta que baja la presión. Ahora vamos a esa pieza."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Regulación · 2ª familia",
+   "titulo": "Elegir el regulador por su escalón",
+   "vinetas": [
+    "Entrada 0,4 / salida 0,1 → UNE 60402-1",
+    "Entrada 0,15–0,4 / salida 0,15 → UNE 60402-2",
+    "Entrada 0,4–5 / salida ≤ 0,4 → UNE 60411",
+    "Se elige por lo que entra y lo que sale"
+   ],
+   "img_brief": "gas pressure regulator close up device",
+   "notas": "N1: ¿Cómo sé qué regulador toca? Son tres normas parecidas.\nN2: No memorices las normas sueltas; memoriza el escalón de presión, que es como de verdad se elige. Un regulador se define por dos datos: qué presión le entra y qué presión te da a la salida. Con eso, la chuleta es sencilla. Si entra cero coma cuatro y sale cero coma uno, es la sesenta mil cuatrocientos dos, parte uno. Si entra entre cero coma quince y cero coma cuatro y sale cero coma quince, es la misma sesenta mil cuatrocientos dos, pero parte dos. Y si entra fuerte, entre cero coma cuatro y cinco bar, y sale como mucho cero coma cuatro, es la sesenta mil cuatrocientos once. ¿Por qué importa acertar? Porque un regulador mal elegido o descalibrado le da al aparato una presión que no le toca, y eso es llama amarilla, hollín y mala combustión. Casi toda avería de gas empieza en una presión mal dada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Regulación · 3ª familia (GLP)",
+   "titulo": "Butano y propano: la frontera de 15 kg",
+   "vinetas": [
+    "Conjuntos MOPe 5 → UNE 60404-1",
+    "Reguladores de GLP → UNE-EN 16129",
+    "Por encima y por debajo de 15 kg",
+    "Adaptador de salida libre ≤ 15 kg → UNE 60408"
+   ],
+   "img_brief": "propane gas cylinder pressure regulator",
+   "notas": "N1: En butano y propano, ¿otra vez aparece lo de los 15 kilos?\nN2: Sí, y no es casualidad: el envase de quince kilos es la frontera de siempre en el GLP. Estamos en tercera familia, butano y propano. Los conjuntos de regulación que trabajan a cinco bar de entrada van por la norma sesenta mil cuatrocientos cuatro, parte uno. Y los reguladores, tanto los de instalaciones grandes, red o depósito o envases de más de quince kilos, como los que se acoplan a las bombonas de quince kilos o menos, van todos a la misma norma, la dieciséis mil ciento veintinueve, que es la que juntó todas las normas viejas de reguladores de GLP. Solo hay una pieza aparte: el adaptador de salida libre, ese que rosca directo en la bombona pequeña de hasta quince kilos, que va por la norma sesenta mil cuatrocientos ocho. Resumen: casi todo GLP, dieciséis mil ciento veintinueve; el adaptador de la botella, sesenta mil cuatrocientos ocho."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Seguridad · Válvulas",
+   "titulo": "Los dos guardianes de la presión",
+   "vinetas": [
+    "VIS de mínima: corta si la presión baja",
+    "VIS ≤ 4,8 m³/h → UNE 60403",
+    "Máxima: corta si la presión sube",
+    "Máxima: rearme manual y tarado precintado"
+   ],
+   "img_brief": "gas safety shut off valve close up",
+   "notas": "N1: ¿Para qué dos válvulas de seguridad distintas?\nN2: Porque vigilan peligros opuestos, y por eso les llamo los dos guardianes. La válvula de mínima corta el paso cuando la presión baja demasiado; y que la presión caiga de repente suele ser mala señal, indicio de una fuga aguas abajo o de que se acabó el gas. Las de caudal pequeño, hasta cuatro coma ocho metros cúbicos por hora, van por la norma sesenta mil cuatrocientos tres. La válvula de máxima hace lo contrario: corta cuando la presión sube de más, típicamente porque un regulador ha fallado. Y aquí dos detalles que caen en examen: la de máxima es siempre de rearme manual, es decir, no se rearma sola; obliga a que alguien vaya, mire por qué saltó y la reponga a mano, para que nadie ignore el problema. Y sus tornillos de tarado van precintados, para que nadie los toque. Truco de obra: si el cliente dice 'el gas se me corta solo', antes de culpar al aparato, mira si ha saltado un guardián; ahí puede estar la fuga."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Elementos · Contadores",
+   "titulo": "Cuatro tipos de contador",
+   "vinetas": [
+    "Membrana → UNE-EN 1359 y UNE 60510",
+    "Turbina → UNE-EN 12261",
+    "Pistones → UNE-EN 12480",
+    "Ultrasónico doméstico → UNE-EN 14236"
+   ],
+   "img_brief": "domestic gas meter diaphragm cabinet",
+   "notas": "N1: El contador de casa, ¿cuál de los cuatro es?\nN2: El de casa de toda la vida es el de membrana, también llamado de paredes deformables: mide el gas llenando y vaciando unas cámaras, como un fuelle. Fíjate en que es el único que lleva dos normas: la europea de producto, mil trescientos cincuenta y nueve, y la española de medidas y acabado, sesenta mil quinientos diez. Los otros dos clásicos son para grandes consumos, industria y similares: el de turbina, que mide por un molinillo que gira, y el de pistones. Y la novedad de esta edición es el contador ultrasónico doméstico, que mide el gas con ultrasonidos y no tiene piezas móviles; su norma es la catorce mil doscientos treinta y seis. Un apunte de obra: el contador suele ser propiedad de la distribuidora y va precintado; romper ese precinto sin permiso es un problema serio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Elementos · Contadores",
+   "titulo": "Soportes y centralización",
+   "vinetas": [
+    "Soporte interior → UNE 60495-1",
+    "Soporte a la intemperie → UNE 60495-2",
+    "Batería de contadores → UNE 60490",
+    "Prefabricada o montada: misma norma"
+   ],
+   "img_brief": "gas meter battery cabinet building",
+   "notas": "N1: ¿La batería de contadores del portal también tiene su norma?\nN2: La tiene, y hay un despiste típico que quiero que evites. Primero los soportes: la pieza que sujeta un contador. Si va dentro de vivienda o local, sigue la norma sesenta mil cuatrocientos noventa y cinco, parte uno; si va a la intemperie, la parte dos de esa misma norma. Y ahora la centralización, que es la batería de contadores del cuarto de contadores de un edificio, esos contadores puestos en fila. Aquí está la trampa: da igual que compres el módulo ya hecho de fábrica, prefabricado, o que lo montes tubo a tubo allí mismo. En los dos casos manda la misma norma, la sesenta mil cuatrocientos noventa. Mucha gente cree que solo aplica a los prefabricados, y no: aplica siempre."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Elementos · Llaves de corte",
+   "titulo": "Llaves: cerrar con seguridad",
+   "vinetas": [
+    "No enterrables → UNE-EN 331",
+    "DN ≤ 100: clase de temperatura −20 °C",
+    "Bloqueables y precintables en 'cerrado'",
+    "Enterrables: PE UNE-EN 1555-4 / metal UNE-EN 13774"
+   ],
+   "img_brief": "gas ball valve shut off yellow",
+   "notas": "N1: ¿Qué le pido a una llave de corte para fiarme de ella?\nN2: Que cierre siempre que haga falta, sobre todo el día de una avería. Empecemos por las llaves no enterrables, las normales, que van por la norma trescientos treinta y uno. Para diámetros de hasta cien, quédate con dos exigencias fijas. Una, clase de temperatura menos veinte grados: la llave tiene que poder cerrar aunque haga frío, sin agarrotarse. Dos, tiene que poder bloquearse y precintarse en posición de 'cerrado', para que tras cortar en una revisión o emergencia nadie la vuelva a abrir por error. Por encima de cien de diámetro ya no hay llave de bola pequeña normalizada; se ponen de bola grande o de mariposa. Y ojo a una diferencia que se pregunta: una cosa son las llaves no enterrables y otra las enterrables, que tienen su propia norma según sean de plástico o metálicas. No las mezcles: una llave que no cierra cuando hay una fuga no sirve absolutamente de nada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Conexiones · Aparatos y GLP",
+   "titulo": "Conectar aparatos y bombonas",
+   "vinetas": [
+    "Aparatos: rígida o flexible (UNE 60670-7)",
+    "Flexible de elastómero → UNE 53539",
+    "Con armadura → UNE-EN 16436",
+    "Metálico → UNE-EN 14800"
+   ],
+   "img_brief": "gas appliance flexible connection hose",
+   "notas": "N1: El aparato se conecta con un flexible, ¿pero cualquier flexible vale?\nN2: No, cada flexible tiene su tipo y su norma, y no valen los del agua ni los caseros. Primero, el aparato, la cocina o la caldera, se puede conectar de dos formas, rígida o flexible, según el tipo de aparato, y el detalle de cuál toca lo manda la parte siete. Para los envases de GLP, las bombonas, el tubo flexible que une la salida del envase con la instalación se considera parte de la propia instalación, así que también está regulado. Tienes tres familias: el flexible de goma, que la norma llama elastómero, va por la cincuenta y tres mil quinientos treinta y nueve; el flexible no metálico con armadura, más resistente, por las normas dieciséis mil cuatrocientos treinta y seis; y el flexible metálico, por la catorce mil ochocientos. Cada uno con su longitud máxima, que está en la parte siete. La idea: el flexible es parte de la instalación, no un accesorio suelto que pones a ojo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Conexiones · Contador",
+   "titulo": "El flexible del contador: 0,80 m",
+   "vinetas": [
+    "Inox corrugado con conexiones roscadas",
+    "Norma UNE 60713",
+    "Longitud máxima 0,80 m",
+    "No confundir con los flexibles de aparato"
+   ],
+   "img_brief": "corrugated stainless steel meter connector",
+   "notas": "N1: ¿Por qué tanto énfasis con los cero coma ochenta metros del contador?\nN2: Porque es un dato que cae con número exacto, de los que valen un punto entero en el examen. El flexible que conecta el contador es de acero inoxidable corrugado con conexiones roscadas, ese tubo metálico en forma de acordeón, y va por la norma sesenta mil setecientos trece. Se considera parte de la instalación receptora, y tiene un tope claro de longitud: no puede pasar de cero coma ochenta metros, ochenta centímetros. ¿Por qué un límite? Porque un flexible largo cuelga, se mueve, sufre y acaba fallando; cuanto más corto, más seguro. Y aquí el error que buscan: no lo confundas con los flexibles que conectan un aparato o una bombona de GLP, cuyas longitudes están en la parte siete y son otras. Para el contador, la cifra mágica es cero coma ochenta metros como mucho."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Elementos · Tomas de presión",
+   "titulo": "El pinchazo para medir",
+   "vinetas": [
+    "Depende de la MOP del tramo (UNE 60719)",
+    "≤ 150 mbar: débil calibre o Peterson",
+    "> 150 mbar: solo Peterson",
+    "150 mbar = 0,15 bar de la escalera"
+   ],
+   "img_brief": "gas pressure test point gauge measure",
+   "notas": "N1: ¿Qué es una toma de presión y por qué hay dos clases?\nN2: La toma de presión es el pinchazo por donde metes el manómetro para medir a qué presión va el gas. Sin ella no puedes comprobar presiones ni en la puesta en servicio ni en una revisión, así que es una pieza de trabajo diario. Su norma es la sesenta mil setecientos diecinueve, y el tipo depende de la presión del tramo, que enlaza con la escalera del principio. La regla es sencilla: hasta ciento cincuenta milibares vale la sencilla, de débil calibre, o una Peterson; por encima de ciento cincuenta milibares solo vale la Peterson, que es más robusta porque tiene que aguantar más presión. Fíjate en que ese corte, ciento cincuenta milibares, es justo el peldaño de cero coma quince bar de nuestra escalera: son la misma cifra en otras unidades. Todo encaja."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya conoces cada pieza del gas",
+   "mapa": [
+    "Escalera 5 – 2 – 0,4 – 0,15 – 0,05 bar",
+    "Reguladores por escalón; GLP en los 15 kg",
+    "Dos guardianes: mínima y máxima",
+    "Contador: flexible de 0,80 m como mucho"
+   ],
+   "tagline": "Con los elementos dominados, solo falta lo que los mantiene sin fugas: las uniones.",
+   "notas": "N1: Segundo vídeo cerrado. ¿Cómo lo ordeno todo en la cabeza?\nN2: Vamos a reconstruir el hilo, porque hoy ha caído mucha sigla. Todo colgaba de una sola herramienta: la escalera de presiones, cinco - dos - cero coma cuatro - cero coma quince - cero coma cero cinco bar. Con ella elegimos los reguladores, que se escogen por lo que entra y lo que sale, y las tomas de presión. En butano y propano vimos que la frontera vuelve a ser el envase de quince kilos, y que casi todo va a la dieciséis mil ciento veintinueve. Conocimos a los dos guardianes: la válvula de mínima, que corta si la presión baja, y la de máxima, siempre de rearme manual y precintada, que corta si sube. Vimos los cuatro contadores, con el ultrasónico como novedad, y las llaves de corte, que para hasta cien de diámetro piden clase menos veinte grados y poder precintarse en cerrado. Y clavamos dos cifras exactas: el flexible del contador, cero coma ochenta metros, y el corte de las tomas de presión en ciento cincuenta milibares.\nN1: ¿Y en el examen y en la obra?\nN2: En el examen te darán una presión, un caudal o un envase y tendrás que decir qué pieza y qué norma le toca; hoy has montado la chuleta mental para acertarlas. Y en la obra, todos estos elementos acaban reflejados en el boletín que firma la empresa instaladora, mientras la puesta en servicio y el precintado del contador los hace la distribuidora. Un elemento mal elegido reaparece como defecto en la inspección. Hoy ya eres más gasista que ayer: sabes elegir cada pieza. En el último vídeo cerramos la Parte 3 con lo que evita la fuga: las uniones, soldar, roscar y embridar. Te espero allí."
+  }
+ ]
+}

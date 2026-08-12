@@ -1,0 +1,212 @@
+{
+ "pie": "Curso Gas B · Tema 17 · Gas a la primera",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 17 · Guía práctica",
+   "videoxy": "Vídeo 1 de 3",
+   "titulo": "Gas a la primera",
+   "subtitulo": "Contadores y accesibilidad de dispositivos",
+   "notas": "N1: ¿Y esto es una norma que hay que cumplir a rajatabla?\nN2: Es una guía práctica de la distribuidora, el «cómo se hace» en obra, pero se apoya en el Reglamento de gas, en el RITE y en las normas UNE, así que en la práctica es tu manual de instalador. En este primer vídeo montamos el punto de medida: dónde y cómo van los contadores, centralizados o en la vivienda, y qué grado de accesibilidad exige cada llave. Aquí no hay «casi bien»: cada distancia, cada altura y cada grado cae en el examen y decide si te aprueban la puesta en servicio."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "2 m",
+     "altura máxima del totalizador centralizado"
+    ],
+    [
+     "1,7 m",
+     "altura máxima del contador en vivienda"
+    ],
+    [
+     "3",
+     "grados de accesibilidad de las llaves"
+    ]
+   ],
+   "notas": "N1: ¿Por qué estas tres cifras y no otras?\nN2: Porque resumen el vídeo. Dos metros es lo más alto que puede quedar el totalizador, la ventanita de lectura, en una centralización; un metro setenta, cuando el contador va dentro de la vivienda. Y tres son los grados de accesibilidad, que deciden quién puede llegar a cortar el gas en una emergencia. Si te quedas con estas tres, ya tienes el esqueleto del vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Contadores centralizados",
+   "titulo": "En obra nueva, contadores centralizados",
+   "vinetas": [
+    "Obligatorio en edificios nuevos",
+    "Zona comunitaria, accesibilidad grado 2",
+    "Nunca bajo el primer sótano",
+    "Recinto reservado solo para gas"
+   ],
+   "img_brief": "gas meter cabinet in building common area",
+   "notas": "N1: ¿Por qué no puedo bajar los contadores a un segundo sótano si me sobra sitio?\nN2: Esto se entiende con física de andar por casa. El gas natural pesa menos que el aire, así que si se escapa, sube, no baja. Si metes la batería de contadores en un pozo profundo, una fuga se queda ahí abajo estancada, sin salida hacia arriba, y eso es peligrosísimo. Por eso la norma es tajante: en edificio nuevo se centraliza sí o sí, en zona comunitaria, con acceso de grado dos, o sea tras una cerradura normalizada, y nunca por debajo del primer sótano. Regla para todo el tema: gas ligero, cuanto más alto mejor, jamás en un agujero. Y ese recinto es solo para gas: como te encuentren cajas o una bombona de otro uso, es anomalía en la inspección."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Recinto de contadores",
+   "titulo": "El totalizador, a la vista y a mano",
+   "vinetas": [
+    "Totalizador a menos de 2 m",
+    "Prefabricados UNE 60490: hasta 2,40 m",
+    "Con escalera o útil de lectura",
+    "Como el cuadro de la luz"
+   ],
+   "img_brief": "person reading gas meter dial",
+   "notas": "N1: ¿Qué es el totalizador y por qué importa tanto su altura?\nN2: El totalizador es la ventanita del contador donde se lee el consumo, los numeritos que marcan cuánto gas ha pasado. La altura importa por algo muy práctico: si lo pones demasiado alto, el que va a leer no llega, y el que va a mantener tampoco puede trabajar. Piénsalo como el cuadro de la luz de casa: tiene que estar a la vista y a mano, no encaramado en el techo. Por eso en centralizado la norma pide el totalizador por debajo de dos metros. Solo en módulos prefabricados, los de la norma UNE sesenta mil cuatrocientos noventa, se admite hasta dos metros con cuarenta, pero con una condición: que dejes una escalera o un útil para leer. Si lo dejas alto y sin acceso, llegan las lecturas estimadas y las reclamaciones de factura."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Recinto de contadores",
+   "titulo": "Tres detalles del recinto que caen siempre",
+   "vinetas": [
+    "Puerta que abre hacia fuera",
+    "Desde dentro, sin llave",
+    "Toma de corriente en locales técnicos",
+    "Rótulo «Contadores de gas»"
+   ],
+   "img_brief": "metal utility door opening outward with sign",
+   "notas": "N1: ¿Por qué tanto detalle con la puerta del recinto?\nN2: Es puro sentido común de seguridad, y por eso cae tanto. Imagina que estás dentro del recinto y de repente hueles a gas o hay un susto. Tienes que poder salir de un empujón, sin buscar una llave. Por eso la puerta abre hacia fuera y, si es un local, se abre siempre desde dentro sin llave. Además, que abra hacia fuera ayuda a que la fuerza de una posible explosión no la selle contra el marco. Junta esto con otros dos detalles: una toma de corriente en los locales técnicos, para poder trabajar con luz y herramienta, y el cartel de «Contadores de gas» en la parte de fuera de la puerta, para que cualquiera sepa qué hay ahí. Puerta, enchufe y cartel: los tres que más se preguntan."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Recinto de contadores",
+   "titulo": "Solo gas: cuidado con otras conducciones",
+   "vinetas": [
+    "Recinto reservado solo para gas",
+    "Evitar conducciones ajenas vistas",
+    "Si cruzan: estancas y sin juntas desmontables",
+    "Eléctrico visto: vaina continua de acero"
+   ],
+   "img_brief": "electrical conduit pipes on wall",
+   "notas": "N1: ¿Puede pasar por el recinto de contadores una tubería que no sea de gas?\nN2: La norma prefiere que no. El recinto es solo para gas, así que hay que evitar que una conducción ajena, de agua, de electricidad, de lo que sea, discurra vista por dentro. ¿Y si no queda más remedio que atraviese? Entonces esa conducción tiene que ir sin accesorios ni juntas desmontables por dentro del recinto, y los puntos por donde entra y sale deben quedar estancos; si es un tubo de plástico, además envainado. La idea es que nada ajeno pueda soltar algo dentro ni abrir un camino por donde el gas se cuele a otra parte. Y un detalle: las conducciones eléctricas vistas van dentro de una vaina continua de acero, y toda la instalación eléctrica del recinto cumple el reglamento de baja tensión. Cuanto más limpio y solo para gas, mejor."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ventilación del recinto",
+   "titulo": "Directa o indirecta: por dónde sale el aire",
+   "vinetas": [
+    "Directa: al exterior sin escalas",
+    "Indirecta: pasa por otro local",
+    "En sótano con gas ligero: solo directa"
+   ],
+   "img_brief": "air vent grille exterior wall",
+   "notas": "N1: ¿Qué diferencia hay entre ventilación directa e indirecta?\nN2: Muy fácil. Ventilación directa es cuando el aire del recinto sale al exterior de un tirón, sin escalas. Ventilación indirecta es cuando antes pasa por otro local que sí está ventilado. ¿Y por qué en un primer sótano con gas ligero se prohíbe la indirecta? Porque no quieres que el gas de una fuga se pasee por otra estancia de la casa antes de salir a la calle; podría acumularse por el camino. Prefieres que salga fuera directo, sin rodeos. Es la misma filosofía de todo el tema: al gas natural, que es más ligero que el aire, dale una salida limpia hacia arriba y hacia fuera, cuanto más corta mejor."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ventilación del recinto",
+   "titulo": "Ventilar el recinto es evitar una bolsa de gas",
+   "vinetas": [
+    "Armarios: 5–50 cm², sin indirecta",
+    "Locales y cuartos: 200/150 cm²",
+    "+50 % si el conducto es largo",
+    "+50 % y puerta estanca en sótano"
+   ],
+   "img_brief": "wall ventilation grille louver metal",
+   "notas": "N1: Hay una tabla enorme de secciones. ¿Me la tengo que aprender de memoria?\nN2: No te agobies con la tabla celda a celda; quédate con la lógica y la sacas sola. Ventilar el recinto sirve para que, si hay una microfuga, el gas se airee y no se acumule; si te quedas corto de rejilla, conviertes el recinto en una bolsa de gas. La idea: los armarios son pequeños y cerrados, así que piden secciones pequeñas, entre cinco y cincuenta centímetros cuadrados, y no admiten ventilación indirecta. Los locales y cuartos, más grandes, piden doscientos centímetros cuadrados arriba y abajo, o ciento cincuenta si hay muchos contadores. Y hay dos recargos del cincuenta por ciento: cuando el conducto es largo y cuando estás en un primer sótano, que además exige puerta estanca. Con eso respondes casi cualquier casilla."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Conjuntos de regulación",
+   "titulo": "Regulador: grado 2 y válvula de máxima",
+   "vinetas": [
+    "Regulación grado 2, dentro del recinto",
+    "Recinto estanco, ventila al exterior",
+    "Entrada ≥ 150 mbar → válvula de máxima",
+    "Regulador exterior: protegido de la lluvia"
+   ],
+   "img_brief": "gas pressure regulator on pipe",
+   "notas": "N1: ¿Qué es eso de la válvula de máxima de rearme manual?\nN2: Piensa en ella como un fusible de presión. Si la red te manda un golpe de presión más alto de lo previsto, esta válvula corta el gas de golpe; y ojo, no se vuelve a abrir sola, hay que rearmarla a mano, para que un técnico vaya, mire qué ha pasado y luego reponga. ¿Cuándo es obligatoria? Cuando la presión de entrada al regulador es de ciento cincuenta milibares o más. Por debajo no hace falta; por encima, sí o sí. El conjunto de regulación se puede montar dentro del recinto de contadores, pero con grado dos de accesibilidad y cuidando que el recinto sea estanco respecto al edificio, para que ante una fuga ventile directamente a la calle. Y si el regulador va fuera, siempre protegido de la lluvia, que el agua lo corroe y lo bloquea."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Contadores en vivienda",
+   "titulo": "Si no se centraliza, va en la vivienda",
+   "vinetas": [
+    "Solo en edificios ya construidos",
+    "Cerca de la entrada, ventilado",
+    "Totalizador a 1,7 m como máximo",
+    "Nunca bajo el fregadero"
+   ],
+   "img_brief": "gas meter inside kitchen apartment",
+   "notas": "N1: ¿Y por qué en vivienda la altura baja a un metro setenta?\nN2: Aquí hay un detalle de examen que confunde a mucha gente: hay dos alturas de totalizador. En centralizado el máximo son dos metros, dos con cuarenta en prefabricado con escalera. Pero cuando el contador va dentro de la vivienda, baja a un metro setenta. ¿La razón? Dentro de casa no hay una escalera de servicio; lo tiene que leer cómodamente el propio usuario, de pie, sin subirse a nada. Truco para recordarlo: centralizado dos metros, en vivienda uno setenta. Y otra regla de oro: nunca pongas el contador bajo la proyección del fregadero o de una pila, porque un goteo de agua encima del contador y sus conexiones te trae humedad, corrosión y falsas fugas. Agua y gas conviven mal. Colócalo cerca de la entrada, ventilado y a la vista."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Contador en vivienda",
+   "titulo": "40 al fuego, 20 a lo eléctrico",
+   "vinetas": [
+    "≥ 40 cm al quemador de cocina",
+    "≥ 20 cm a aparatos y mecanismos eléctricos",
+    "20 cm en todo el perímetro",
+    "Si no llegas: pantalla de protección"
+   ],
+   "img_brief": "kitchen gas stove burner blue flame",
+   "notas": "N1: Me lío con los 40 y los 20 centímetros. ¿Cómo los distingo?\nN2: Es normal liarse, así que vamos a fijarlos con lógica. Los cuarenta centímetros son la distancia al quemador de la cocina, o sea al fuego directo. Los veinte centímetros son la distancia a aparatos de gas y a mecanismos eléctricos, como el interruptor de la luz o una caldera. ¿Por qué a lo eléctrico? Porque un interruptor al accionarse hace una chispa, y una chispa junto a una conexión que rezuma gas es como empiezan los sustos. Y ojo a un matiz que cae: ese veinte es en todo el perímetro del aparato, no solo a los lados; nada de colgar el contador justo encima de la caldera. ¿Que no llegas a la distancia porque la cocina es pequeña? Pues montas una pantalla de protección entre medias y solucionado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Contador en vivienda",
+   "titulo": "Dónde no va nunca el contador",
+   "vinetas": [
+    "En el dormitorio, no",
+    "En el W.C., no",
+    "En el cuarto de baño, no",
+    "En el cuarto de ducha, no"
+   ],
+   "img_brief": "closed bathroom door interior",
+   "notas": "N1: ¿Qué tienen en común esos sitios prohibidos?\nN2: Todos son locales donde te encierras con la puerta cerrada y donde no hay ventilación garantizada. En un dormitorio duermes; en el baño o la ducha te metes con la puerta cerrada y a veces con vapor. Si en cualquiera de esos sitios hubiera una fuga, el gas se acumula sin que te enteres y acabas en una intoxicación. Por eso el contador no va nunca en dormitorio, water, cuarto de baño ni cuarto de ducha. Es la misma filosofía que ya llevamos: al gas hay que darle aire y sitios donde una fuga se note y se ventile, no rincones cerrados donde se quede escondido."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Accesibilidad · UNE 60670-2",
+   "titulo": "Los tres grados de accesibilidad",
+   "vinetas": [
+    "Grado 1: sin llave ni escalera",
+    "Grado 2: cerradura normalizada, sin escalera",
+    "Grado 3: escalera o zona privada"
+   ],
+   "img_brief": "technician using ladder to reach gas valve",
+   "notas": "N1: ¿Cómo memorizo los tres grados sin hacerme un lío?\nN2: Memorízalos por lo que te estorba para llegar a la llave, de menos a más. Grado uno: llegas andando, a mano, sin cerraduras y sin escaleras; es el más fácil, el de la llave que abre el propio usuario. Grado dos: ya hay una cerradura normalizada de por medio, pero sigues llegando sin escalera; es el típico armario cerrado con llave de compañía. Grado tres: el más difícil, necesitas una escalera o un medio mecánico, o tienes que pasar por una zona privada para llegar. Cuanto mayor es el número, más barreras. Con esta regla colocas cualquier llave de las tablas: primero piensa qué te estorba para alcanzarla, y el grado sale solo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Reglas de accesibilidad",
+   "titulo": "La llave de usuario se pone siempre",
+   "vinetas": [
+    "Llave de usuario en todos los casos",
+    "Grado 2 para la distribuidora",
+    "Desde zona común o límite de propiedad",
+    "Obturador: grado 3, no con telemedida"
+   ],
+   "img_brief": "gas shut off valve yellow handle",
+   "notas": "N1: ¿Por qué insisten tanto en que la llave de usuario sea accesible para la distribuidora?\nN2: Porque esa llave es la que permite dejar sin gas una vivienda concreta en una emergencia. La llave de usuario se pone siempre, para aislar cada instalación individual, y tiene que ser fácilmente accesible con grado dos para la empresa distribuidora, desde la zona común o desde el límite de la propiedad. Piénsalo: si la escondes dentro de la vivienda y no hay nadie, la compañía no puede cortar el suministro cuando hay peligro, y eso es una anomalía. Un detalle fino que cae: existe el obturador de cierre, un tapón de seguridad que la distribuidora puede exigir, con grado tres y solo para ella; pero si montas contadores de funciones añadidas, los de telemedida y telecorte, el obturador no se monta, porque el propio contador ya hace esa función a distancia."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "IRC frente a IRI",
+   "titulo": "Zona común manda grado; casa, grado 1",
+   "vinetas": [
+    "Distribuidora: zona común, grado 2 o 3",
+    "Usuario: dentro de casa, grado 1",
+    "Acometida: grado 1 o 2, zona pública",
+    "Todo queda en el boletín"
+   ],
+   "img_brief": "gas installation pipes and valves building",
+   "notas": "N1: Las tablas de la comunitaria y la individual tienen muchas filas. ¿Hay un patrón?\nN2: Sí, y en cuanto lo ves ya no necesitas empollar fila por fila. Fíjate: todo lo que la distribuidora necesita tocar, la acometida, la llave de edificio, la de montante, los contadores, la regulación y la llave de usuario, vive en zona comunitaria o pública y pide grado dos o tres. En cambio, todo lo que maneja el usuario dentro de su propia vivienda, la llave de vivienda, la del aparato, la del regulador, es grado uno, a mano y sin llave. Así que ante cualquier llave, primero decide dos cosas: quién la usa y dónde está. Con eso el grado casi se contesta solo. Y todo esto queda reflejado en el certificado de instalación, el boletín que firma la empresa instaladora y entrega a la distribuidora."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya colocas contadores y llaves como un profesional",
+   "mapa": [
+    "Centralizado en obra nueva: grado 2, nunca bajo el primer sótano",
+    "Alturas del totalizador: 2 m centralizado, 1,7 m en vivienda",
+    "40 al fuego, 20 a lo eléctrico; prohibido en dormitorio y baño",
+    "Grados 1-2-3: quién puede llegar a cortar el gas"
+   ],
+   "tagline": "Hoy ya eres más gasista que ayer. En el siguiente vídeo, el corazón del oficio: el tubo.",
+   "notas": "N1: Cerramos fuerte. Si me quedo con lo esencial de este vídeo, ¿qué es?\nN2: Reconstruyamos el hilo, porque todo tiene una misma lógica: al gas natural, que es más ligero que el aire, hay que darle salida hacia arriba y accesos claros. Por eso en obra nueva se centraliza en zona comunitaria con grado dos y nunca bajo el primer sótano, donde una fuga no ventilaría. Por eso el totalizador va a la vista y a mano: dos metros en centralizado, uno setenta en vivienda, para que se lea y se mantenga. Por eso el contador guarda cuarenta centímetros al fuego y veinte a lo eléctrico, y no pisa dormitorios ni baños. Y por eso existen los tres grados de accesibilidad: deciden quién puede llegar a cortar el gas en una emergencia; grado uno sin barreras, grado dos con cerradura, grado tres con escalera o zona privada. En el examen te lo preguntarán cruzado, dónde va una llave, qué grado y desde qué zona; y en la obra decide si te aprueban la puesta en servicio o te la tumban. Cada distancia y cada grado acaba escrito en el boletín que firmas. Hoy ya eres más gasista que ayer. En el siguiente vídeo entramos en el corazón del oficio, el tubo: cómo se traza, con qué materiales y cómo se prueba que no pierde ni una burbuja. Te espero allí."
+  }
+ ]
+}

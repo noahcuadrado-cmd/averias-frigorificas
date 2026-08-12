@@ -1,0 +1,238 @@
+{
+ "pie": "Curso Gas B · Tema 13 · UNE 60670-6",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 13 · UNE 60670-6",
+   "videoxy": "Vídeo 3 de 3",
+   "titulo": "Evacuación de humos: conductos y chimeneas",
+   "subtitulo": "Diámetros, puntuación y distancias de salida",
+   "notas": "N1: Profe, último vídeo del tema. ¿De qué va?\nN2: De sacar los humos de casa, que es donde se juega la seguridad de verdad. Los humos tienen que salir bien, o intoxican. En este vídeo cierras el tema con la evacuación: cómo son los conductos de los aparatos de tipo B y C, de tiro natural y de tiro forzado, los diámetros mínimos, el sistema de puntuación del conducto y, sobre todo, las distancias que hay que guardar cuando la salida da a una fachada o a un patio. Es un vídeo de tablas y de centímetros. Apúntalos, porque el examen pregunta el valor exacto, y en la obra esos centímetros son la diferencia entre una salida legal y una queja del vecino."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "11 mm",
+     "orificio de toma de muestras"
+    ],
+    [
+     "20 cm",
+     "tramo vertical antes del codo"
+    ],
+    [
+     "220 cm",
+     "altura sobre zona de personas"
+    ]
+   ],
+   "notas": "N1: ¿Qué tres números resumen este vídeo?\nN2: Tres cifras que caen mucho. Uno: todo conducto lleva un orificio accesible de once milímetros de diámetro para la toma de muestras; es por donde metes la sonda del analizador para medir los humos. Dos: en la parte de arriba del aparato tiene que haber un tramo vertical de al menos veinte centímetros antes del primer codo, para que los humos cojan carrerilla hacia arriba. Y tres: cuando la salida da a una zona por donde pasa gente, el eje del conducto va a dos metros veinte del suelo, por encima de la cabeza, para no ahumar a nadie. Con esas tres te sitúas en todo el vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Evacuación · quién",
+   "titulo": "Solo B y C evacúan por conducto",
+   "vinetas": [
+    "El tipo A no tiene conducto de humos",
+    "Salida por cubierta, fachada o patio",
+    "Todo el vídeo va de B y C"
+   ],
+   "img_brief": "flue pipes on building facade",
+   "notas": "N1: ¿Este vídeo vale para los tres tipos de aparato?\nN2: No, y conviene fijarlo desde el principio. El tipo A no tiene conducto de humos: los suelta al propio local, así que no evacúa por tubo. Por eso todo este vídeo va solo de los aparatos de tipo B y de tipo C, que sí llevan conducto de evacuación. Ese conducto puede desembocar en tres sitios: por la cubierta, es decir el tejado, por la fachada del edificio, o por un patio de ventilación, con las limitaciones que ponga la reglamentación. Ten esa foto en la cabeza antes de entrar en los detalles: B y C evacúan, y salen por tejado, fachada o patio. El A, fuera de esta película."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tiro natural · conexión",
+   "titulo": "Cortatiro y conexión a chimenea",
+   "vinetas": [
+    "Material incombustible A1 o A2-s1, d0",
+    "Liso, rígido y resistente a corrosión",
+    "Cortatiro, salvo la chimenea-hogar"
+   ],
+   "img_brief": "metal flue pipe connection boiler",
+   "notas": "N1: ¿Qué es el cortatiro y de qué tiene que ser el conducto?\nN2: Vamos por partes. El cortatiro es una pieza del propio aparato de tiro natural que estabiliza el tiro y protege la llama de las ráfagas que bajan por la chimenea; todos estos aparatos lo llevan, excepto las chimenea-hogar de gas, que no lo necesitan. En cuanto al conducto que lo une a la chimenea o al shunt, tiene que ser de material incombustible, lo que la norma llama clase A uno o A dos ese uno, d cero; en cristiano, que no arde. Además, liso por dentro para que los humos corran sin engancharse, rígido, resistente a la corrosión de los humos y capaz de aguantar la temperatura de trabajo sin estropearse. Nada de tubos de aluminio flexible de andar por casa: aquí manda el material homologado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tiro natural · conexión",
+   "titulo": "El orificio de 11 mm",
+   "vinetas": [
+    "Toma de muestras de los humos",
+    "Lo más cerca posible del aparato",
+    "Cierre que aguanta 200 °C"
+   ],
+   "img_brief": "combustion gas analyzer probe flue",
+   "notas": "N1: ¿Para qué sirve ese agujero de once milímetros del que hablabas?\nN2: Es la ventana para mirar cómo respira el aparato. Todo conducto lleva un orificio accesible de once milímetros de diámetro como mínimo, situado lo más cerca posible del aparato, para la toma de muestras. Por ahí metes la sonda del analizador de combustión y mides la composición de los humos, el monóxido y el dióxido de carbono, y el tiro del conducto. Se usa en la puesta en marcha y en cada revisión: sin ese orificio no puedes certificar que la combustión es buena. Y como por ahí salen humos calientes, su tapón tiene que aguantar doscientos grados sin alterarse, resistir la corrosión y ser fácilmente desmontable, para abrirlo y cerrarlo sin pelearte."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tiro natural · montaje",
+   "titulo": "Cómo se monta el conducto",
+   "vinetas": [
+    "Uniones estancas y rígidas",
+    "Diámetro sin reducciones",
+    "Tramo vertical ≥ 20 cm antes del codo"
+   ],
+   "img_brief": "vertical flue pipe elbow ceiling",
+   "notas": "N1: ¿Hay una forma correcta de montar el tubo o vale cualquiera?\nN2: Hay reglas, y son de puro sentido físico. Las uniones, del collarín con el conducto y entre tramos, tienen que asegurar estanquidad y rigidez; el collarín es la boca del aparato donde enchufas el tubo, y estanquidad quiere decir que no se escape ni una voluta de humo. El diámetro interior es el que diga el fabricante, sin estrechamientos ni reducciones: si estrechas el tubo, ahogas el tiro. El conducto debe ser lo más corto posible y siempre con pendiente positiva, es decir, subiendo en todos sus tramos, porque el humo caliente quiere ir hacia arriba. Y arriba del aparato, un tramo vertical de al menos veinte centímetros antes del primer codo, para que los humos cojan impulso antes de doblar. En cascada, cada ramal sube al menos veinte centímetros antes de unirse al común."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tiro natural · salida directa",
+   "titulo": "Diámetros mínimos (tabla 3)",
+   "vinetas": [
+    "De 90 a 175 mm según kW",
+    "Nunca por debajo de la tabla",
+    "Sin estrechamientos ni reducciones"
+   ],
+   "img_brief": "round metal flue pipe wall outlet",
+   "notas": "N1: ¿De qué grosor tiene que ser el tubo de salida directa?\nN2: Depende de la potencia del aparato, y lo da la tabla tres. La idea: a más kilovatios, más humos, y por tanto más diámetro. Para aparatos pequeños, de hasta once coma cinco kilovatios, noventa milímetros; y va subiendo por escalones, ciento diez, ciento veinticinco, hasta ciento setenta y cinco milímetros para los más potentes, por encima de cuarenta y cinco kilovatios. Lo importante para el examen y la obra: el diámetro nunca puede ser inferior al de la tabla y nunca con reducciones. Un instalador que mete un tubo más fino del que toca «para que quepa» está ahogando la salida de humos: el aparato revocará. El diámetro lo manda el fabricante, y nunca por debajo de esa tabla."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tiro natural · puntuación",
+   "titulo": "La puntuación del conducto (tabla 4)",
+   "vinetas": [
+    "Subir suma: +0,1 por cada cm",
+    "Codos y tramos horizontales restan",
+    "Hay que acabar en ≥ +1"
+   ],
+   "img_brief": "chimney flue diagram vertical rise",
+   "notas": "N1: ¿Qué es eso de la «puntuación» del conducto?\nN2: Es una forma ingeniosa de comprobar sobre el papel si el conducto va a tirar bien, antes de montarlo. Funciona como un juego de puntos. Ganar altura suma: cada centímetro que sube el conducto aporta cero coma uno puntos, porque la altura es lo que hace que los humos suban solos. Y cada codo o cada tramo horizontal resta, porque frenan los humos; un codo cerrado puede quitarte dos puntos, y la longitud recta también descuenta. El deflector del extremo resta un poco también. Al final, la suma tiene que dar al menos más uno. Idea corta: sube mucho y dobla poco. Un conducto vertical y corto aprueba de sobra; uno muy tumbado y lleno de codos suspende, y en obra eso es revoco y el aparato apagándose."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tiro natural · distancias",
+   "titulo": "Distancias del extremo",
+   "vinetas": [
+    "10 cm al muro que atraviesa",
+    "40 cm a aberturas, ventanas y aleros",
+    "220 cm al suelo exterior"
+   ],
+   "img_brief": "flue terminal on exterior wall",
+   "notas": "N1: ¿Y a qué distancia tiene que quedar la boca del tubo de las cosas de alrededor?\nN2: Aquí hay una regla mnemotécnica que te salva: al salir a fachada o patio, casi todas las distancias son cuarenta centímetros. Cuarenta a cualquier abertura permanente de ventilación, cuarenta a ventanas o puertas de otro local, cuarenta a paredes laterales externas, y cuarenta a cornisas y aleros. Solo cambian dos números: diez centímetros respecto al muro que el tubo atraviesa, y veinte centímetros a cualquier otro resalte de la fachada. Y una distancia grande: dos metros veinte respecto al suelo exterior, para que nadie meta la cara en los humos, salvo que salgan a tu propia zona privada. Todo esto se mide sin contar el deflector del extremo. Acercar la boca a una ventana es meterle los humos al vecino: mancha negra en la fachada y anomalía en la revisión."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ayuda a la evacuación",
+   "titulo": "De tiro natural a forzado",
+   "vinetas": [
+    "Añadir extractor = cambiar de aparato",
+    "Cumple las condiciones del tiro forzado",
+    "Se perdona la puntuación de la tabla"
+   ],
+   "img_brief": "flue fan extractor unit",
+   "notas": "N1: Si a un aparato de tiro natural le pongo un extractor, ¿es un simple accesorio?\nN2: No, y este punto sorprende a mucha gente. Cuando a un aparato de tipo B o C de tiro natural le añades un dispositivo que empuja los humos y lo pasas a tiro forzado, la norma dice que eso equivale a cambiar el tipo de aparato. O sea, no es colgar un accesorio: tienes que cumplir todas las condiciones de instalación de su nueva configuración, la de tiro forzado. A cambio, como ahora los humos van empujados y no dependen de la altura, te perdonan la puntuación de la tabla y los veinte centímetros de tramo vertical antes del codo: esa función la hace el propio dispositivo. Se puede instalar después, si detectas que un conducto evacúa mal. Pero recuerda la idea de fondo: poner un extractor es, a ojos de la norma, instalar otro aparato."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tiro forzado · conductos",
+   "titulo": "Tiro forzado: manda el fabricante",
+   "vinetas": [
+    "Materiales y longitud según fabricante",
+    "Uniones estancas y rígidas",
+    "Sin condensación: ligera pendiente descendente"
+   ],
+   "img_brief": "condensing boiler flue installation",
+   "notas": "N1: ¿Y los conductos de tiro forzado tienen sus propias tablas de diámetros?\nN2: No como los de tiro natural; aquí la regla es más simple de enunciar pero muy estricta: manda el fabricante. En los aparatos de tipo B y de tipo C de tiro forzado, los conductos, sus materiales, uniones, diámetro, configuración y longitud máxima, son los que indica el fabricante del aparato, porque él ha calculado con qué tubo funciona bien su ventilador. En el tipo C, tanto la entrada de aire como la salida de humos siguen sus dimensiones. Además, para todos: uniones estancas y rígidas, y un detalle importante, si el aparato no es de condensación, el conducto se monta con una ligera pendiente descendente hacia fuera, para que las gotas de condensado no vuelvan hacia dentro del aparato. Y sigue habiendo orificio de once milímetros para la toma de muestras."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tiro forzado · ventosa",
+   "titulo": "La ventosa: salida frontal y 10 cm",
+   "vinetas": [
+    "Salida frontal tipo cañón",
+    "Asoma máximo 10 cm de la fachada",
+    "Balcón techado: 30 cm de eje al techo"
+   ],
+   "img_brief": "balanced flue terminal exterior wall",
+   "notas": "N1: La caldera de ventosa saca los humos por la pared... ¿cómo tiene que quedar?\nN2: En los aparatos de tipo C de tiro forzado, las famosas calderas de ventosa, casi todo gira en torno a diez centímetros. El extremo del tubo se diseña para lanzar los humos de frente, en lo que se llama salida tipo cañón, y lo más lejos posible de la pared. El tubo puede asomar como máximo diez centímetros de la superficie de la fachada; si asoma más, la boca queda expuesta y devuelve humos hacia la pared. Y en balcones, terrazas o galerías techados aparece el número mágico: treinta centímetros de distancia del eje del tubo al techo. Por debajo de treinta, solo en obra existente y prolongando hasta el borde; por encima, el tubo no asoma más de diez centímetros. Y si luego cierran el balcón, hay que alargar los tubos para sacar los humos de verdad, o la caldera revoca en un cuarto cerrado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tiro forzado · distancias",
+   "titulo": "Distancia a ventanas y orificios",
+   "vinetas": [
+    "≥ 40 cm a orificios y ventanas",
+    "Salvo si la salida es por encima",
+    "Con deflector, nunca menos de 20 cm"
+   ],
+   "img_brief": "boiler flue near window wall",
+   "notas": "N1: ¿Y la ventosa tiene que guardar distancia a las ventanas?\nN2: Sí, y es de las cifras que más caen. La proyección del tubo de salida sobre el plano donde están los orificios de ventilación y la parte que se abre de las ventanas debe quedar a cuarenta centímetros o más de ellos. Hay una excepción cómoda: si la salida se hace por encima de esos huecos, no hace falta esa distancia, porque los humos suben y no vuelven a entrar. En edificación ya construida, cuando no puedas guardar los cuarenta centímetros, puedes usar deflectores desviadores laterales, esos accesorios que tuercen el chorro de humos, u otro método del fabricante que garantice que la salida se abre en abanico; pero ni así puedes bajar de veinte centímetros. Cuarenta es lo normal; veinte, el suelo absoluto con truco."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Distancias generales",
+   "titulo": "2,20 m sobre zona de personas",
+   "vinetas": [
+    "Eje a ≥ 2,20 m del suelo",
+    "Salvo salida a zona privada",
+    "Ventosa < 4,2 kW protegida: exenta"
+   ],
+   "img_brief": "flue outlet above pedestrian passage",
+   "notas": "N1: Si el tubo da a un sitio por donde pasa la gente, ¿hay que subirlo?\nN2: Sí. Cuando la salida de humos da directamente a una zona con tránsito o permanencia de personas, el eje del conducto tiene que estar a dos metros veinte o más del suelo por donde pasa o está la gente, medido en vertical. La razón es de cortesía y de salud: los humos salen por encima de la cabeza y nadie los respira de frente. Hay dos excepciones prácticas. Una: si los humos salen directamente a una zona privada de tu propiedad, donde no pasa gente ajena, no hace falta. Y dos: los radiadores murales de ventosa pequeños, de menos de cuatro coma dos kilovatios, se libran de esos dos veinte siempre que estén protegidos para que nadie toque el tubo caliente. Fuera de eso, dos veinte y a respetar la cabeza de la gente."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Distancias generales",
+   "titulo": "Distancias de fachada, con y sin deflector",
+   "vinetas": [
+    "Laterales: 30 cm / 1 m",
+    "Frontales: 2 m / 3 m",
+    "Entre dos salidas: 60 cm (30 con deflector)"
+   ],
+   "img_brief": "two flue terminals on facade",
+   "notas": "N1: Hay muchas distancias de fachada. ¿Me haces una chuleta?\nN2: Claro, y con el porqué. A las paredes laterales, treinta centímetros en general; pero un metro si en esa pared hay ventanas por encima del tubo, cerca, a tres metros o menos y casi a su misma altura, para que los humos no entren por la ventana del vecino de al lado. A las paredes frontales, dos metros en general, y tres metros si hay ventanas en esa pared frontal en las mismas condiciones. Y entre dos salidas de humos al mismo nivel, sesenta centímetros, para que los humos de una no reentren por la otra. La buena noticia: todas esas distancias se reducen si usas deflectores desviadores de flujo a cuarenta y cinco grados; las laterales y frontales a la mitad, y las dos salidas de sesenta a treinta. El deflector es el truco que tuerce los humos y te deja acercarte."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Requisitos adicionales",
+   "titulo": "La lista de «no mezclar»",
+   "vinetas": [
+    "Tiro natural con tiro forzado: no",
+    "Condensación con no condensación: no",
+    "Extractores y campanas: no",
+    "Gas con sólidos o líquidos: no"
+   ],
+   "img_brief": "multiple flue pipes shared chimney",
+   "notas": "N1: ¿Qué cosas no se pueden juntar en la misma chimenea?\nN2: Hay cuatro prohibiciones, todas de sentido común, y caen mucho. Una: no se mezclan aparatos de tiro natural y de tiro forzado en el mismo conducto vertical, porque el ventilador de uno revocaría los humos del otro hacia dentro. Dos: no se juntan aparatos de condensación y de no condensación, salvo que la chimenea sea especial, anticorrosión según la norma UNE ciento veintitrés mil uno, y se haga el cálculo de sección; es que el de condensación echa humos húmedos y ácidos que pudren un tubo normal. Tres: no se conecta a la chimenea del aparato ningún extractor ni campana de cocina, porque chuparían los humos. Y cuatro: no se mezcla el gas con humos de carbón o gasóleo; y si reaprovechas una chimenea vieja que llevó sólidos, antes la limpias y compruebas que tira. Cada una de estas mezclas es un caso real de revoco o de intoxicación."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Requisitos adicionales",
+   "titulo": "Detalles de conductos comunes",
+   "vinetas": [
+    "15 cm entre generatrices al unir",
+    "Paso por madera: 10 cm más de hueco",
+    "Regulación de tiro: nunca manual"
+   ],
+   "img_brief": "collective flue duct junction",
+   "notas": "N1: Cuando varios tubos individuales se unen a una chimenea común, ¿hay reglas?\nN2: Sí, tres detalles que conviene fichar. Primero, al unir varios conductos individuales a la chimenea o shunt, se guarda una separación mínima de quince centímetros entre las generatrices más próximas, o sea entre los bordes de los tubos, para que los humos de uno no se metan en el de al lado; y los empalmes al conducto común se hacen en ángulo agudo, a favor del flujo, como te incorporas a una autopista, no de frente. Segundo, si el conducto atraviesa una pared o techo de madera u otro material combustible, el agujero de paso debe ser diez centímetros más ancho que el tubo, y ese hueco se rellena con material aislante e incombustible, para que la madera no coja calor. Y tercero, si hay regulación de tiro, nunca puede ser a mano: tiene que ser automática motorizada, por contrapeso, o fijada de fábrica en la puesta en marcha. A mano, alguien la tocaría y desajustaría la evacuación."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Chimeneas",
+   "titulo": "Cada material, su norma",
+   "vinetas": [
+    "Metálica: UNE-EN 1856-1",
+    "No metálica: NTE-ISH-74",
+    "Plástico: UNE-EN 14471"
+   ],
+   "img_brief": "rooftop chimney cap terminal",
+   "notas": "N1: Y la chimenea en sí, ¿de qué tiene que ser?\nN2: Depende del material, y cada uno tiene su norma; te doy la chuleta. Si la chimenea es metálica, va por la UNE-EN mil ochocientos cincuenta y seis guion uno; si es no metálica, por la NTE-ISH setenta y cuatro; y si es de plástico, por la UNE-EN catorce mil cuatrocientos setenta y uno. Aparte del material, el cálculo de la chimenea, que tire bien y no se condense, va por la familia de la UNE ciento veintitrés mil uno y ciento veintitrés mil tres, y las UNE-EN trece mil trescientos ochenta y cuatro. Y una regla del sombrerete que cae: la terminación de una chimenea colectiva de tiro natural no puede taponar la salida de humos a la atmósfera; y si lleva un dispositivo de ayuda a la evacuación y se estropea, la chimenea tiene que seguir tirando sola, en tiro natural. Nunca puede quedar el edificio sin salida de humos porque falle un ventilador."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sacas los humos de casa con seguridad",
+   "mapa": [
+    "Solo B y C evacúan; conducto liso, estanco y con orificio de 11 mm",
+    "Tiro natural: diámetro por tabla y puntuación ≥ +1",
+    "Ventosa: todo del fabricante y el 40 cm a ventanas",
+    "La lista de «no mezclar» en una misma chimenea"
+   ],
+   "tagline": "Una evacuación bien resuelta es lo que firma tu boletín y cierra el tema. ¡Enhorabuena!",
+   "notas": "N1: Profe, cierra el tema entero. ¿Con qué me quedo?\nN2: Con una frase: los humos tienen que salir bien o intoxican. Vamos a reconstruirlo. Solo el tipo B y el C evacúan por conducto, porque el A suelta los humos al local; y todo conducto es liso, rígido, estanco, de material que no arde, con el orificio de once milímetros para medir la combustión y su tramo vertical de veinte centímetros antes del codo. En tiro natural, el diámetro lo da la tabla según los kilovatios y el conducto tiene que aprobar la puntuación, más uno o más: sube mucho y dobla poco. En la ventosa, tiro forzado, manda el fabricante, el tubo asoma diez centímetros y guarda cuarenta a las ventanas. Y las distancias de fachada, laterales, frontales y los dos veinte sobre la gente, con el deflector como comodín para acercarte.\nN1: ¿Y cómo se conecta esto con el examen y con el papeleo?\nN2: En el examen te preguntan el centímetro exacto y la lista de «no mezclar»: tiro natural con forzado, condensación con no condensación, nada de extractores en la chimenea del aparato y nada de gas con sólidos. En la obra, todo esto se comprueba y se firma: la instalación en el certificado de instalación, el boletín, y la combustión del aparato en el de puesta en marcha, medida justo por ese orificio de once milímetros. Luego se entrega a la distribuidora para la puesta en servicio y queda registrado ante Industria de tu Comunidad, con copia para el usuario. Una evacuación mal resuelta es la anomalía que te tumba la puesta en servicio o la revisión periódica. Y con esto cierras el tema trece completo: ya sabes clasificar el aparato, dimensionar el local y sacar los humos con seguridad. Enhorabuena: hoy eres, de verdad, mucho más gasista que ayer."
+  }
+ ]
+}

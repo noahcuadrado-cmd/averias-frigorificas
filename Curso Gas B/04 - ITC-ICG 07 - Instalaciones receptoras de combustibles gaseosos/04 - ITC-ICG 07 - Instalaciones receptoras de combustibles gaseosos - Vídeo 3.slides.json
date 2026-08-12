@@ -1,152 +1,193 @@
 {
- "pie": "Curso Gas B · Tema 04 · ITC-ICG 07 · Mantenimiento e inspecciones",
+ "pie": "Curso Gas B · Tema 04 · ITC-ICG 07 · Mantenimiento, inspecciones y revisiones",
  "slides": [
   {
    "tipo": "portada",
    "tema": "Tema 04 · Reglamento · ITC-ICG 07",
    "videoxy": "Vídeo 3 de 3",
-   "titulo": "Mantenimiento, inspecciones y revisiones",
-   "subtitulo": "Controles periódicos, anomalías, modificación y anexo",
-   "notas": "N1: La instalación no acaba el día que se enciende. ¿Qué queda por delante?\nN2: Queda mantenerla viva y segura durante años. En este último vídeo del tema vemos el mantenimiento y los controles periódicos, con la gran pareja del oficio, inspección frente a revisión; el procedimiento paso a paso cuando aparecen anomalías; qué cuenta como modificación de una instalación; y, para cerrar, el anexo con los modelos de impresos y la información mínima de cada documento. Ojo a las cifras, porque se preguntan mucho: cinco años, tres meses, cinco días, quince días hábiles y diez años."
+   "titulo": "Mantenimiento e inspecciones",
+   "subtitulo": "Inspección, revisión, modificación y modelos de impresos",
+   "notas": "N1: ¿Qué nos queda por ver para cerrar el tema?\nN2: Nos queda la vida de la instalación después de encenderla, que no es poco. Una instalación de gas no se acaba el día que arranca: hay que mantenerla viva y segura durante años. En este último vídeo vemos el mantenimiento y los controles periódicos, con la gran pareja inspección contra revisión; el procedimiento paso a paso cuando aparecen anomalías; qué cuenta como modificación de una instalación; y, para cerrar, el anexo con los modelos de impresos, del uno erre ge uno al cinco. Ojo a las cifras, que caen mucho: cinco años, tres meses, cinco días, quince días hábiles y diez años."
   },
   {
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["5 años", "periodicidad de la revisión"],
-    ["3 meses", "aviso previo del distribuidor"],
-    ["15 días", "corregir anomalía secundaria"]
+    [
+     "5",
+     "años entre inspecciones"
+    ],
+    [
+     "15",
+     "días hábiles: anomalía secundaria"
+    ],
+    [
+     "10",
+     "años que se guardan los datos"
+    ]
    ],
-   "notas": "N1: Tres cifras que te van a preguntar seguro.\nN2: La primera, cinco años: es la periodicidad tanto de la inspección como de la revisión. La segunda, tres meses: es la antelación con que el distribuidor te avisa de la obligación de inspección. Y la tercera, quince días hábiles: es el plazo para corregir una anomalía secundaria por falta de estanquidad. Guárdate también dos más que salen en el vídeo: cinco días de antelación para la visita del distribuidor, y diez años que se conservan los datos de las inspecciones. Con esa batería de plazos tienes medio vídeo resuelto."
+   "notas": "N1: ¿Por qué justo estos tres números?\nN2: Porque son plazos que caen fijo en el examen. Cinco años es cada cuánto toca el control periódico, tanto la inspección como la revisión. Quince días hábiles es el plazo que te dan para corregir una anomalía secundaria por falta de estanquidad, de las leves. Y diez años es el tiempo que el distribuidor guarda en su base de datos la fecha y el resultado de cada inspección. Hay más plazos en el vídeo, pero si empiezas por estos tres ya tienes el armazón montado."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 4 · Mantenimiento",
-   "titulo": "¿De quién es el mantenimiento?",
+   "titulo": "¿Quién mantiene la instalación?",
    "vinetas": [
-    "Responsable: el titular (o el usuario)",
-    "Permanentemente en servicio y seguro",
-    "Modificaciones: siempre un instalador",
-    "El instalador emite certificado"
+    "El titular es el responsable",
+    "En su defecto, los usuarios",
+    "Modificaciones: siempre un instalador"
    ],
-   "img_brief": "homeowner and technician gas boiler",
-   "notas": "N1: ¿Quién responde de que la instalación siga segura año tras año?\nN2: El titular, y en su defecto los usuarios. Son los responsables del mantenimiento, la conservación, la explotación y el buen uso, de forma que la instalación esté permanentemente en servicio con el nivel de seguridad adecuado, atendiendo las recomendaciones de seguridad del suministrador. El instalador y la compañía ayudan y recomiendan, pero el que responde es el propietario. Ahora bien, cualquier modificación la tiene que hacer un instalador, nunca el usuario por su cuenta, y ese instalador emite un certificado que se queda el usuario. En obra esto es la línea roja: el dueño mantiene y usa, pero tocar la instalación es cosa de profesional habilitado."
+   "img_brief": "homeowner checking gas boiler at home",
+   "notas": "N1: Una vez montada, ¿de quién es la responsabilidad de que siga bien?\nN2: Del dueño. Igual que en el articulado del reglamento, el responsable del mantenimiento, la conservación y el buen uso de la instalación es el titular; y si no hay titular claro, los usuarios. Ellos tienen que mantenerla permanentemente en servicio con el nivel de seguridad adecuado y atender las recomendaciones que les dé el suministrador. El instalador y la compañía ayudan y avisan, pero el que responde año tras año es el propietario. Ahora bien, ojo a una cosa: cualquier modificación de la instalación la tiene que hacer siempre un instalador, nunca el usuario por su cuenta, y ese instalador emite un certificado que se queda el usuario. Tocar el gas no es cosa de aficionados."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4 · La gran distinción",
+   "titulo": "Inspección o revisión: una pregunta",
+   "vinetas": [
+    "¿Está conectada a la red?",
+    "Sí → inspección (4.1)",
+    "No → revisión (4.2)",
+    "Las dos: cada 5 años"
+   ],
+   "img_brief": "gas meter connected to street distribution network",
+   "notas": "N1: Oigo inspección y revisión y me lío. ¿Cómo las distingo?\nN2: Con una sola pregunta, y este es el punto clave del tema: ¿la instalación está conectada a la red de distribución de una compañía? Si la respuesta es sí, gas natural de ciudad o gases del petróleo de red, entonces es una inspección, el apartado cuatro punto uno. Si la respuesta es no, por ejemplo un depósito propio en un chalé o unas bombonas, entonces es una revisión, el apartado cuatro punto dos. Las dos se hacen cada cinco años y comprueban casi lo mismo: estanquidad, conservación, combustión, ventilación, evacuación de humos. Las diferencias que caen las vemos luego, pero quédate con la pregunta madre: ¿hay red o no hay red? De ahí sale todo."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.1 · Inspección",
-   "titulo": "Inspección: alimentadas desde red",
+   "titulo": "Inspección: cada cinco años",
    "vinetas": [
-    "Cada 5 años, en su año natural",
-    "La hace instalador habilitado o distribuidor",
-    "Parte común también cada 5 años",
-    "Coste repercutido al usuario"
+    "Instalaciones alimentadas desde red",
+    "Dentro del año natural de vencimiento",
+    "La parte común, también cada 5 años"
    ],
-   "img_brief": "gas inspector checking meter",
-   "notas": "N1: Si la instalación cuelga de la red de la compañía, ¿cada cuánto se inspecciona?\nN2: Cada cinco años, y dentro del año natural en que vence ese periodo, contando desde la puesta en servicio o desde la última inspección. La hace una empresa instaladora de gas habilitada o el propio distribuidor, y el coste se le repercute al usuario; si la hace el distribuidor, no puede pasar de los costes regulados. La parte común del edificio también se inspecciona cada cinco años. Si te preguntan la periodicidad de la inspección periódica, cinco años, sin dudarlo. Y quien la haga tiene que ser instalador habilitado de gas en los términos de la ITC-ICG cero nueve."
+   "img_brief": "technician inspecting gas installation with checklist",
+   "notas": "N1: ¿Cada cuánto se inspecciona una instalación conectada a la red?\nN2: Cada cinco años, es una inspección quinquenal. Se cuenta desde la fecha de puesta en servicio o desde la última inspección, y hay que hacerla dentro del año natural en que vence ese plazo, no vale retrasarla sin más. La hacen las empresas instaladoras de gas habilitadas o los distribuidores, y le repercuten el coste al usuario; si la hace el distribuidor, no puede cobrar más que los costes regulados. Y un dato: la parte común del edificio, el montante compartido, también se inspecciona cada cinco años. Si te preguntan la periodicidad de la inspección periódica, la respuesta es cinco años, sin dudarlo."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.1 · Alcance",
-   "titulo": "El alcance depende de la potencia",
+   "titulo": "El aparato, ¿entra o no?",
    "vinetas": [
-    "≤ 70 kW: de la llave de usuario, aparatos incluidos",
-    "> 70 kW: de la llave de edificio, aparatos excluidos",
-    "> 5 bar: de la llave de acometida, excluidos"
+    "≤ 70 kW: llave de usuario, aparatos incluidos",
+    "> 70 kW: llave de edificio, excluidos",
+    "> 5 bar: llave de acometida, excluidos"
    ],
-   "img_brief": "gas shutoff valve pipe wall",
-   "notas": "N1: Aquí está el detalle que más se pregunta: ¿el aparato entra o no en la inspección?\nN2: Depende de la potencia. Hasta setenta kilovatios, la inspección va desde la llave de usuario hasta los aparatos, incluidos: el aparato sí se inspecciona. Por encima de setenta kilovatios, o en centralizadas de calefacción, va desde la llave de edificio hasta la conexión de los aparatos, excluidos: el aparato ya no entra. Y a más de cinco bar, desde la llave de acometida, aparatos también excluidos. La regla es fácil: cuanto más grande es la instalación, más atrás empieza la inspección, de usuario a edificio a acometida, y el aparato se queda fuera. En las pequeñas domésticas, el aparato sí se mira. En las de más de cinco bar, además, el mantenimiento de los aparatos es responsabilidad del titular y va en los planes de mantenimiento de la planta."
+   "img_brief": "gas shut off valve on wall",
+   "notas": "N1: ¿La inspección incluye el aparato o solo las tuberías?\nN2: Depende de la potencia, y este es el detalle que más se pregunta. En instalaciones de hasta setenta kilovatios, la inspección va desde la llave de usuario hasta los aparatos de gas, incluidos; es decir, el aparato sí entra. En instalaciones centralizadas de calefacción o de más de setenta kilovatios, va desde la llave de edificio hasta la conexión de los aparatos, pero excluidos; el aparato ya no entra. Y en instalaciones de más de cinco bar, desde la llave de acometida, aparatos también excluidos. La regla para no fallar: cuanto más grande es la instalación, más atrás empieza la inspección, de usuario a edificio a acometida, y el aparato se queda fuera. En las pequeñas domésticas, el aparato sí se mira."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.1 · Contenido",
-   "titulo": "Qué se comprueba",
+   "titulo": "Qué se mira en la inspección",
    "vinetas": [
     "Estanquidad y conservación",
-    "Combustión higiénica de aparatos",
+    "Combustión higiénica",
     "Ventilación y volumen del local",
     "Detección de gas y evacuación de humos"
    ],
-   "img_brief": "technician flue gas analyzer boiler",
-   "notas": "N1: Piensa en la inspección como un recorrido de seguridad. ¿Qué mira?\nN2: Comprueba la estanquidad, o sea si hay fugas; el buen estado de conservación; la combustión higiénica de los aparatos, que quemen limpio sin exceso de monóxido; los requisitos de ventilación y el volumen mínimo del local, que entre aire suficiente y el cuarto sea bastante grande; los sistemas de detección de gas cuando sustituyen a la ventilación rápida; y la correcta evacuación de los productos de la combustión. Los procedimientos válidos son los de la UNE sesenta mil seiscientos setenta, partes doce y trece, en baja presión, o la sesenta mil seiscientos veinte, parte seis, en alta. Es la misma lista que verás luego en la revisión, casi calcada."
+   "img_brief": "blue gas flame on burner",
+   "notas": "N1: ¿Y qué comprueban exactamente durante la inspección?\nN2: Piénsalo como un recorrido de seguridad, de arriba abajo. Primero la estanquidad: ¿hay alguna fuga? Luego la conservación: ¿está la instalación en buen estado, sin corrosión ni golpes? Después la combustión higiénica de los aparatos: ¿queman limpio, sin exceso de monóxido? Los requisitos de ventilación y el volumen mínimo del local: ¿entra aire suficiente y el cuarto es lo bastante grande? Los sistemas de detección de gas, cuando sustituyen a la ventilación rápida. Y por último la correcta evacuación de los productos de la combustión: ¿salen bien los humos? Los procedimientos son la UNE sesenta mil seiscientos setenta guion doce y guion trece en baja presión, o la sesenta mil seiscientos veinte guion seis en alta."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.1 · Criterios",
-   "titulo": "La excepción de tipos A y B",
+   "titulo": "La excepción peligrosa",
    "vinetas": [
-    "Regla: criterios de cuando se montó",
-    "Excepción 1: tipo A o B en dormitorio o baño",
-    "Excepción 2: sin detección y corte de gas",
-    "Esas dos: norma de hoy, hasta la próxima visita"
+    "Criterios: versión de cuando se montó",
+    "Salvo tipo A o B en dormitorio o baño",
+    "y falta de detección y corte de gas",
+    "Esos casos: norma de hoy"
    ],
-   "img_brief": "gas water heater bathroom wall",
-   "notas": "N1: ¿Con qué versión de la norma se juzga una instalación antigua?\nN2: Por regla general, con la versión que estaba vigente cuando se montó, o cuando se modificó o amplió. Pero hay dos cosas tan peligrosas que se aplican siempre con la norma vigente hoy: tener un aparato de tipo A o tipo B en un dormitorio, un baño o una ducha, y no tener sistema de detección y corte de gas. Para adaptarse te dan de plazo hasta la siguiente inspección periódica. La razón es de seguridad pura: un aparato que respira del cuarto donde duermes o te duchas es riesgo directo de intoxicación por monóxido, así que eso no se perdona por ser antiguo."
+   "img_brief": "gas water heater installed in bathroom",
+   "notas": "N1: ¿Con qué versión de la norma se juzga una instalación antigua?\nN2: En general, con los criterios de la versión de la norma que estaba vigente cuando se puso en servicio, o cuando se modificó o amplió. Es justo: no puedes exigirle a una instalación de hace años que cumpla algo que no existía cuando se montó. Pero hay dos cosas tan peligrosas que se aplican siempre con la norma vigente de hoy, sin perdón por antigüedad. Una: tener un aparato de tipo a o de tipo be instalado en un dormitorio, o en un baño o ducha. Dos: no tener sistema de detección y corte de gas. Para adaptarse te dan de plazo hasta la siguiente inspección. La razón es de vida o muerte: un aparato que respira del cuarto donde duermes o te duchas es riesgo directo de intoxicación por monóxido; por eso eso no se tolera aunque la instalación sea vieja."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.1.1 · Procedimiento",
-   "titulo": "Avisos y quién puede inspeccionar",
+   "titulo": "Aviso y quién inspecciona",
    "vinetas": [
-    "Distribuidor avisa con 3 meses",
-    "Distribuidor visita: aviso mínimo 5 días",
-    "Individuales: instalador A, B o C",
+    "El distribuidor avisa con 3 meses",
+    "Individuales: instaladores A, B o C",
     "Comunes: solo A o B"
    ],
-   "img_brief": "technician calendar phone appointment",
-   "notas": "N1: ¿Con cuánto tiempo te avisan, y quién puede hacer la inspección según tu categoría?\nN2: El distribuidor comunica la obligación de inspección con tres meses de antelación, y la puede hacer una instaladora habilitada o él mismo. Cuando la hace el propio distribuidor y visita, avisa con un mínimo de cinco días. Y ojo a las categorías: en instalaciones individuales pueden inspeccionar instaladores de categoría A, B o C; en instalaciones comunes, solo A o B, la C no llega a comunes. Como tú sacas la B, podrás inspeccionar tanto individuales como comunes. Ata la frase: comunes son A o B; la C se queda fuera de las comunes."
+   "img_brief": "gas installer showing professional ID card",
+   "notas": "N1: ¿Cómo arranca el proceso de la inspección y quién puede hacerla?\nN2: El distribuidor tiene que avisar al usuario, con tres meses de antelación, de que le toca la inspección obligatoria; y la puede hacer una empresa instaladora habilitada o el propio distribuidor. Ahora, quién está autorizado a inspeccionar depende del tipo de instalación. Para las instalaciones individuales valen los instaladores de categoría a, be o ce. Para las comunes, solo a o be; la ce no llega a las comunes. Fíjate en lo que esto significa para ti: como sacas la be, vas a poder inspeccionar tanto individuales como comunes. La ce se queda solo en individuales. Átalo así: en comunes, a o be; la ce, fuera de comunes."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.1.1 · Plazos",
+   "titulo": "Las cifras del procedimiento",
+   "vinetas": [
+    "3 meses: aviso de la obligación",
+    "5 días: antelación de la visita",
+    "15 días hábiles: anomalía secundaria",
+    "10 años: se guardan los datos"
+   ],
+   "img_brief": "calendar and clock on desk",
+   "notas": "N1: Hay muchos plazos, ¿cómo no me hago un lío?\nN2: Te los pongo todos juntos, en orden, y verás que se recuerdan como una frasecita. Tres meses: es la antelación con que el distribuidor avisa de la obligación de inspección. Cinco días: la antelación mínima con que el distribuidor comunica la fecha de la visita cuando la hace él. Quince días hábiles: el plazo para corregir una anomalía secundaria por falta de estanquidad. Diez años: lo que el distribuidor guarda en su base de datos la fecha y el resultado de las inspecciones, consultable por la comunidad autónoma. Y por encima de todo, cinco años, la periodicidad. Truco para memorizar: avisa con tres meses, se planta con cinco días, arreglas en quince días hábiles y guarda diez años."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.1.1 · Imparcialidad",
    "titulo": "El que inspecciona no repara",
    "vinetas": [
-    "Favorable → certificado de inspección",
-    "Copia al titular, a la distribuidora y a ti",
-    "Anomalías → informe con plazo",
-    "No la repara quien la inspeccionó"
+    "Detectas anomalías → informe",
+    "No las arregla quien inspecciona",
+    "Evita el conflicto de interés"
    ],
-   "img_brief": "inspector writing report clipboard",
-   "notas": "N1: Regla de oro que se pregunta mucho: ¿puede reparar la misma empresa que inspecciona?\nN2: No. Si el resultado es favorable, la instaladora emite el certificado de inspección, firmado por el instalador habilitado y con el sello de la empresa: una copia al titular, otra a la distribuidora y otra en su poder. Si detecta anomalías, remite a la distribuidora el informe de anomalías con el plazo máximo de corrección y entrega copia al titular. Y aquí está la clave de imparcialidad: la misma empresa o instalador que hizo la inspección no puede reparar las anomalías que ha detectado. Es como que quien te pone el examen no te dé también las clases para aprobarlo: se evita el conflicto de interés."
+   "img_brief": "two gas technicians discussing paperwork",
+   "notas": "N1: Si encuentro una anomalía en la inspección, ¿la arreglo yo mismo?\nN2: No, y esta es una regla de oro que se pregunta mucho: la misma empresa, o el mismo instalador, que hace la inspección no puede reparar las anomalías que ha detectado. Cuando aparecen anomalías, se remite a la distribuidora un informe de anomalías, con su plazo máximo de corrección, y se entrega copia al titular; pero la reparación la tiene que hacer otro. ¿Por qué? Para evitar el conflicto de interés. Es como que el profesor que te pone el examen no debería ser también quien te cobra las clases particulares para aprobarlo: se prestaría a inflar defectos para luego cobrarte el arreglo. Separando quien inspecciona de quien repara, el sistema es más honesto."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.1.1 · Anomalías",
    "titulo": "Principal corta, secundaria da plazo",
    "vinetas": [
-    "Principal → corte y precinto en el acto",
+    "Principal → corte y precinto",
     "Todas las fugas son principales",
-    "Secundaria de estanquidad → 15 días hábiles",
-    "Datos guardados 10 años"
+    "Secundaria → plazo de corrección",
+    "Volver a dar gas: certificado de subsanación"
    ],
-   "img_brief": "sealed gas valve warning tag",
-   "notas": "N1: Aparece una anomalía. ¿Qué pasa según sea principal o secundaria?\nN2: La anomalía principal es la grave: si no se puede corregir en el momento, se interrumpe el suministro y se precinta la parte afectada o el aparato. Y grábate esto: todas las fugas se consideran anomalía principal. La secundaria es menos grave; si es por falta de estanquidad, hay un plazo de quince días hábiles para corregirla. El responsable de corregir es el titular o usuario, con un instalador habilitado o un servicio técnico, que le entrega un justificante de corrección y manda copia al distribuidor. Cuando la instaladora resuelve las anomalías principales que causaron el precinto, hace el desprecintado y lo comunica con un certificado de subsanación. Y el distribuidor guarda los datos de la inspección durante diez años, consultables por la Comunidad Autónoma."
+   "img_brief": "sealed and tagged gas valve shut off",
+   "notas": "N1: ¿Qué diferencia hay entre una anomalía principal y una secundaria?\nN2: Es cuestión de gravedad. Una anomalía principal es grave: si no se puede corregir en el momento, se interrumpe el suministro y se precinta la parte de la instalación o el aparato afectado. Y grábate esto: todas las fugas se consideran anomalía principal, sin excepción. Una anomalía secundaria es menos grave: en lugar de cortar, se da un plazo para arreglarla, por ejemplo quince días hábiles si es una falta de estanquidad secundaria. Para volver a dar gas después de resolver una principal, la empresa instaladora emite un certificado de subsanación y hace el desprecintado. Asócialo: principal, precinto y corte; secundaria, plazo. Y la reina de las principales, siempre, la fuga."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.2 · Revisión",
-   "titulo": "Revisión: sin red de distribución",
+   "titulo": "Revisión: fuera de la red",
    "vinetas": [
-    "La encarga el titular a una instaladora",
-    "Cada 5 años, coincide con el depósito",
-    "Añade la protección catódica",
-    "GLP: toda fuga es principal"
+    "Instalaciones sin red (depósito o bombonas)",
+    "El titular la encarga a una instaladora",
+    "Cada 5 años; coincide con el depósito"
    ],
-   "img_brief": "propane tank outdoor house",
-   "notas": "N1: ¿Y si la instalación no cuelga de una red, sino de un depósito propio?\nN2: Entonces no es inspección, es revisión, y la encarga el titular o usuario a una empresa instaladora de gas de la ITC-ICG cero nueve. Es cada cinco años, con un alcance parecido al de la inspección, y se hace coincidir con la revisión del depósito o los envases que la alimentan. Comprueba casi lo mismo: estanquidad, conservación, combustión higiénica, ventilación y volumen del local, detección de gas y evacuación de humos; y añade una cosa propia: el estado de la protección catódica de las canalizaciones de acero enterradas. La protección catódica es el sistema que evita que la tubería de acero enterrada se oxide. Y en gases licuados del petróleo, todas las fugas son anomalía principal. Cuando es favorable, se emite el certificado de revisión periódica, modelo IRG cuatro para individuales o IRG cinco para comunes."
+   "img_brief": "LPG storage tank in garden of house",
+   "notas": "N1: Y la revisión, ¿en qué se diferencia en la práctica?\nN2: La revisión es para las instalaciones que no están conectadas a una red de distribución: las que van con un depósito propio de gases del petróleo o con bombonas. Aquí no hay distribuidor por detrás, así que es el titular, o en su defecto el usuario, quien tiene que encargar la revisión a una empresa instaladora de gas, según la ITC-ICG cero nueve. Se hace cada cinco años, igual que la inspección, y comprueba prácticamente lo mismo. Dos diferencias que caen en examen: la revisión se hace coincidir con la revisión del depósito o los envases que alimentan la instalación, para hacerlo todo de una vez, y añade una comprobación extra que vemos ahora, la protección catódica."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 4 · La clave del tema",
-   "titulo": "Inspección o revisión: una pregunta",
+   "eyebrow": "Apartado 4.2 · Revisión",
+   "titulo": "La protección catódica",
    "vinetas": [
-    "¿Conectada a la red de distribución?",
-    "Sí → inspección (4.1)",
-    "No → revisión (4.2)",
-    "Ambas cada 5 años"
+    "Solo aparece en la revisión",
+    "Evita que el acero enterrado se corroa",
+    "Señal: piensa depósito y acero enterrado"
    ],
-   "img_brief": "gas pipeline meter street",
-   "notas": "N1: Si solo te llevas una idea del vídeo, que sea esta. ¿Cómo distingues inspección de revisión?\nN2: Con una sola pregunta: ¿está conectada a la red de distribución de la compañía? Si la respuesta es sí, gas natural de ciudad o gases licuados de red, es inspección, apartado cuatro punto uno. Si la respuesta es no, un depósito propio en un chalé o unas bombonas, es revisión, apartado cuatro punto dos. Ambas son cada cinco años y comprueban prácticamente lo mismo. Las diferencias que caen: la revisión añade la protección catódica de la tubería de acero enterrada y se hace coincidir con la del depósito; y en la revisión se dice que todas las fugas de gases licuados son principales. Piensa: protección catódica igual a revisión igual a depósito propio."
+   "img_brief": "buried steel gas pipe with cathodic protection anode",
+   "notas": "N1: ¿Qué es la protección catódica y por qué solo sale en la revisión?\nN2: La protección catódica es un sistema que evita que una tubería de acero enterrada se oxide y se corroa. Dicho en fácil, se le aplica una pequeña corriente eléctrica que engaña al metal para que no se lo coma la corrosión del terreno. Se comprueba solo en la revisión porque las instalaciones sin red, las de depósito propio, suelen llevar tramos de acero enterrado hasta el depósito, y esos son los que corren riesgo de corroerse bajo tierra. Regla práctica: si en una pregunta ves protección catódica, piensa automáticamente en revisión y en tubería de acero enterrada. En la inspección de las de red no aparece este punto."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.2 · Certificados",
+   "titulo": "IRG-4 e IRG-5: revisión",
+   "vinetas": [
+    "IRG-4: revisión individual, sin red",
+    "IRG-5: revisión común, sin red",
+    "Validez: cinco años"
+   ],
+   "img_brief": "gas technician filling revision certificate form",
+   "notas": "N1: ¿Qué papel se firma cuando la revisión sale bien?\nN2: Cuando la visita es favorable, se entrega al usuario un certificado de revisión periódica, y hay dos modelos según el tramo. El uno erre ge guion cuatro es el de la revisión periódica de instalaciones individuales y aparatos no alimentados desde red. El uno erre ge guion cinco es el de la revisión de la instalación común, también sin red. Los dos certifican que no hay anomalías principales ni secundarias, y su validez es de cinco años, que es justo lo que tarda en tocar la siguiente. Fíjate en el matiz importante: estos dos, el cuatro y el cinco, son de revisión, o sea de instalaciones de depósito propio; no los confundas con la inspección de las de red, que no lleva número erre ge."
   },
   {
    "tipo": "contenido",
@@ -154,48 +195,61 @@
    "titulo": "La regla del metro",
    "vinetas": [
     "Cambio de material o trazado > 1 m",
-    "Ampliación de consumo o cambio de aparato",
-    "La instaladora comunica al suministrador",
-    "Enganche lo pide el suministrador; paga el usuario"
+    "Ampliación de consumo",
+    "Cambio de aparato por otro distinto"
    ],
-   "img_brief": "plumber replacing gas pipe section",
-   "notas": "N1: ¿Cuándo un cambio pasa a ser modificación oficial?\nN2: Cuando cambias material o trazado en una longitud superior a un metro, o amplías el consumo, o sustituyes un aparato por otro de características técnicas diferentes. Cambiar medio metro de tubo o poner una caldera idéntica no dispara la obligación; pasar de un metro de trazado nuevo, sí. Y la cadena de agentes: la empresa instaladora que hace la modificación la comunica al suministrador; este solicita el enganche al distribuidor, que realiza las pruebas previas; y los derechos de enganche los paga el usuario final. Encadénalo: instaladora comunica, suministrador pide enganche, distribuidor prueba, usuario paga."
+   "img_brief": "installer replacing section of copper gas pipe",
+   "notas": "N1: ¿Cuándo se considera oficialmente que he modificado una instalación?\nN2: Hay tres casos, y el primero lleva un número que conviene memorizar. Uno: cuando cambias el material o el trazado en una longitud superior a un metro. Cambiar medio metro de tubo no cuenta; pasar de un metro, sí. Dos: cualquier ampliación de consumo. Y tres: sustituir un aparato por otro de características técnicas diferentes; cambiar una caldera por otra idéntica no dispara nada, pero por una distinta sí. Cuando ocurre cualquiera de estos, hay modificación oficial, y eso obliga a comunicarlo al suministrador. Retén la frase: más de un metro de material o trazado, es modificación."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5 · Modificación",
+   "titulo": "La cadena de la modificación",
+   "vinetas": [
+    "Instaladora comunica al suministrador",
+    "Suministrador pide enganche al distribuidor",
+    "Distribuidor hace pruebas previas",
+    "El usuario final paga el enganche"
+   ],
+   "img_brief": "gas technician connecting meter with tools",
+   "notas": "N1: Y cuando hay modificación, ¿quién avisa a quién?\nN2: Es una cadena con cuatro eslabones, encádenala en orden. Primero, la empresa instaladora que ha hecho la modificación lo comunica al suministrador; el que modifica es quien avisa, no el usuario. Segundo, el suministrador solicita el enganche al distribuidor. Tercero, el distribuidor realiza las pruebas previas que marca el reglamento, para asegurarse de que la modificación quedó bien. Y cuarto, el coste de los derechos de enganche lo paga el usuario final. La frase para recordarlo: la instaladora comunica, el suministrador pide enganche, el distribuidor prueba y el usuario paga. Cada uno en su sitio."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Anexo · Impresos",
    "titulo": "Los cinco modelos IRG",
    "vinetas": [
-    "IRG-1: acometida interior",
-    "IRG-2: común / IRG-3: individual",
-    "IRG-4 y 5: revisión sin red",
-    "Inspección: solo información mínima"
+    "IRG-1, 2, 3: instalación (montaje)",
+    "IRG-4, 5: revisión (sin red)",
+    "Inspección de red: sin número IRG"
    ],
-   "img_brief": "stack of official forms desk",
-   "notas": "N1: Cinco impresos. No los memorices a lo bruto: míralos por parejas. ¿Qué lógica tienen?\nN2: Los IRG uno, dos y tres son los certificados de instalación, del montaje: acometida interior, común e individual. Los IRG cuatro y cinco son certificados de revisión periódica de instalaciones no alimentadas desde red, es decir de depósito propio: el cuatro para individuales y el cinco para comunes. Fíjate en que los cuatro y cinco son de revisión, no de inspección. Los documentos de inspección, los de instalaciones alimentadas desde red, no llevan número IRG: la norma solo fija su información mínima, el certificado de inspección y el informe de anomalías. Truco: si el impreso tiene número IRG cuatro o cinco, piensa revisión y depósito propio."
+   "img_brief": "set of official technical forms on table",
+   "notas": "N1: ¿Cómo me aprendo los cinco modelos sin volverme loco?\nN2: No los memorices a lo bruto; míralos por parejas con una lógica. Los tres primeros, del uno erre ge uno al tres, son certificados de instalación, del montaje: el uno es la acometida interior, el dos la instalación común y el tres la individual. Los dos últimos, el cuatro y el cinco, son certificados de revisión periódica de instalaciones no alimentadas desde red, es decir, de depósito propio: el cuatro para individuales y el cinco para comunes. Fíjate en un detalle que se pregunta: los certificados de inspección de las instalaciones de red no tienen número erre ge; de esos, el anexo solo fija la información mínima. O sea, con número erre ge están el montaje y la revisión sin red; la inspección de red va sin número."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Anexo · Información mínima",
-   "titulo": "Gas natural o GLP en el papel",
+   "titulo": "Gas natural o GLP: se identifican distinto",
    "vinetas": [
     "Gas natural → punto de suministro",
     "GLP → número de póliza",
-    "Puesta en servicio: datos del contador",
-    "Todos: situación final y firmas"
+    "Aparece en todos los impresos"
    ],
-   "img_brief": "gas contract paperwork signature",
-   "notas": "N1: Hay un par que se repite en todos los impresos. ¿Cuál?\nN2: Cómo se identifica la instalación: para gas natural se usa el código del punto de suministro, el famoso CUPS; para gases licuados del petróleo se usa el número de póliza. Por eso los impresos de revisión, que son de instalaciones no alimentadas desde red y por tanto de gases licuados, solo piden número de póliza. El certificado de pruebas previas y puesta en servicio es el único que pide datos del contador, número de serie y lectura inicial, porque es el momento en que el contador arranca a cero. Y todos los papeles acaban igual: fecha, situación en que queda la instalación, en servicio o precintada, firma del técnico con sello de la empresa y firma del cliente. Esa casilla de la situación es la clave: dice si el gas sigue o se ha cortado."
+   "img_brief": "gas bill document with supply point code",
+   "notas": "N1: ¿Por qué unos impresos piden un código y otros un número de póliza?\nN2: Porque el gas se identifica de forma distinta según el tipo. Para el gas natural, la instalación se identifica con el código del punto de suministro, ese código largo que en las facturas verás como cups. Para los gases del petróleo, el ge ele pe, se identifica con el número de póliza. Este par se repite en todos los impresos, así que si te lo aprendes, resuelves varias preguntas de golpe: gas natural igual a punto de suministro; ge ele pe igual a número de póliza. Y de ahí sale un detalle coherente: los impresos de revisión, los del ge ele pe de depósito, solo piden número de póliza, porque esas instalaciones no tienen punto de suministro de red. Ah, y el certificado de puesta en servicio es el único que pide datos del contador, número de serie y lectura inicial, porque es el momento en que el contador arranca a cero."
   },
   {
    "tipo": "cierre",
-   "titulo": "Qué me llevo",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya dominas la ITC-ICG 07 de principio a fin",
    "mapa": [
-    "¿Red? Sí, inspección; no, revisión. Las dos cada 5 años",
-    "Principal corta y precinta; secundaria da plazo",
-    "Modificación: más de 1 metro de material o trazado"
+    "Inspección con red, revisión sin red: cada 5 años",
+    "El aparato entra en la inspección hasta 70 kW",
+    "Principal corta; secundaria da plazo",
+    "IRG-1 a IRG-5 y la regla del metro"
    ],
-   "notas": "N1: Cerramos el tema con las tres ideas que no se te pueden escapar.\nN2: Primera, inspección o revisión se decide con una pregunta, si está conectada a la red: sí es inspección, no es revisión; ambas cada cinco años, y la revisión añade la protección catódica y se sincroniza con el depósito. Segunda, las anomalías: la principal corta el gas y precinta en el acto, y todas las fugas son principales; la secundaria da plazo, quince días hábiles si es de estanquidad; y regla de oro, el que inspecciona no repara. Y tercera, la modificación salta con más de un metro de material o trazado, o al ampliar consumo o cambiar de aparato; la instaladora comunica, el suministrador pide enganche, el distribuidor prueba y el usuario paga. Y no olvides las cifras del procedimiento: tres meses de aviso, cinco días de visita, quince días hábiles, diez años de archivo y cinco años de periodicidad."
+   "tagline": "Has cerrado el corazón del Gas B. De aquí sales sabiendo diseñar, legalizar y mantener una instalación.",
+   "notas": "N1: Último vídeo del tema. ¿Cómo lo cierro todo en la cabeza?\nN2: Vamos a reconstruir el hilo entero. Una instalación no se acaba al encenderla: el mantenimiento es del titular, y tú entras cuando hay que modificar o cuando toca el control periódico. Y ese control se decide con una sola pregunta: ¿hay red? Si la hay, inspección; si no, revisión. Las dos, cada cinco años. El alcance depende de la potencia, y el aparato entra en la inspección hasta setenta kilovatios y se queda fuera por encima. Los criterios son los de cuando se montó, salvo dos peligros, tipo a o be en dormitorio o baño y falta de detección, que van con la norma de hoy. Y cuando aparece una anomalía, la principal corta y precinta, la secundaria da plazo; todas las fugas son principales, y el que inspecciona nunca repara.\nN1: ¿Y cómo cae esto en el examen y en la obra?\nN2: En el examen caen las cifras, cinco años, tres meses, cinco días, quince días hábiles, diez años, y los pares que hemos atado: inspección con red y revisión sin red, del uno erre ge uno al cinco, gas natural con punto de suministro y ge ele pe con póliza, y la regla del metro para saber qué es modificación. En la obra, esto es lo que hace que una instalación siga siendo segura durante años en lugar de degradarse a ciegas hasta la fuga o el monóxido. Y fíjate dónde has llegado: con este tema ya sabes diseñar la instalación receptora, sacarle los papeles y ponerla en servicio, y mantenerla viva con sus inspecciones y revisiones. Has cerrado el corazón del Gas B, la ITC-ICG cero siete de principio a fin. Hoy no eres un poco más gasista que ayer: hoy ya piensas como un gasista. Enhorabuena, y a por el siguiente tema."
   }
  ]
 }

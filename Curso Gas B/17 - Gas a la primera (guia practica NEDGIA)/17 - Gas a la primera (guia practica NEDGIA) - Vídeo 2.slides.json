@@ -1,0 +1,214 @@
+{
+ "pie": "Curso Gas B · Tema 17 · Gas a la primera",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 17 · Guía práctica",
+   "videoxy": "Vídeo 2 de 3",
+   "titulo": "Gas a la primera",
+   "subtitulo": "Tuberías, materiales, vainas y pruebas de estanqueidad",
+   "notas": "N1: ¿Qué vamos a ver en este segundo vídeo?\nN2: El corazón del oficio: el tubo. Cómo se traza, con qué materiales se hace, cómo se protege dentro de vainas y conductos, y cómo se comprueba que no pierde ni una burbuja. Aquí están las distancias de separación, las normas de cada tubería, las reglas de soldadura, las uniones entre metales distintos y la prueba de estanqueidad con sus presiones y tiempos. Son los datos que más se preguntan y los que más se equivocan en la práctica, así que vamos despacio y con lógica."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "3 cm",
+     "separación mínima a otras conducciones"
+    ],
+    [
+     "0,05 bar",
+     "frontera entre soldadura blanda y fuerte"
+    ],
+    [
+     "5 bar",
+     "presión máxima del press-fitting"
+    ]
+   ],
+   "notas": "N1: ¿Qué esconden estas tres cifras?\nN2: Todo el vídeo, casi. Tres centímetros es lo que separas el tubo de gas de cualquier otra conducción. Cinco centésimas de bar es la frontera mágica: por debajo, soldadura blanda; por encima, fuerte. Y cinco bar es hasta donde vale el press-fitting, esa unión a presión que sustituye a la soldadura fuerte. Con estas tres ya tienes tres preguntas de examen resueltas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Trazado de tuberías",
+   "titulo": "El «3 cm para todo»",
+   "vinetas": [
+    "Tubería fijada a elementos sólidos",
+    "3 cm a agua, electricidad y vapor",
+    "3 cm a chimeneas y al suelo",
+    "Si no llegas: protege el tubo"
+   ],
+   "img_brief": "copper gas pipe on wall with clamps",
+   "notas": "N1: ¿Por qué hay que separar el tubo de gas tres centímetros de todo lo demás?\nN2: Vamos a por la chuleta y luego el porqué. La chuleta es fácil: tres centímetros de separación entre la tubería de gas y las conducciones de agua, de electricidad, de vapor, las chimeneas y el suelo, y da igual que vayan en paralelo o que se crucen. La única casilla que no aplica es el suelo en cruce, porque un tubo no cruza el suelo. ¿Y el porqué? Si pegas el tubo de gas a una eléctrica, tienes un cable calentándose al lado del gas; si lo pegas a una tubería de agua caliente o de vapor, tienes humedad y calor, que es corrosión asegurada. Corrosión y punto caliente terminan en fuga, y encima en un sitio donde no vas a mirar. Respetarlo es baratísimo al montar; repararlo luego es carísimo. Y si en un rincón no llegas, no lo dejes pegado: protege el tubo según la norma."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Trazado de tuberías",
+   "titulo": "Por dónde no pasa el tubo de gas",
+   "vinetas": [
+    "Huecos de ascensor y montacargas",
+    "Bajantes de basura y chimeneas",
+    "Transformadores y combustibles líquidos",
+    "Bocas de ventilación (salvo envainado)"
+   ],
+   "img_brief": "elevator shaft inside building",
+   "notas": "N1: La lista de sitios prohibidos es larga. ¿Hay una idea que los una a todos?\nN2: Sí, y si la pillas no necesitas memorizar la lista entera. La idea es esta: no metas gas donde ya hay un riesgo o un camino hecho para el fuego y el humo. Un hueco de ascensor comunica plantas de golpe; un bajante de basuras y una chimenea son conductos por los que sube todo; un cuarto de transformadores tiene arcos eléctricos; un local con combustibles líquidos ya es peligroso de por sí. En todos esos sitios, una fuga pequeña se convierte en un problema gordo que se propaga. Tampoco por los forjados que son suelo de vivienda. La única excepción práctica es la boca de ventilación: por ahí puedes aprovechar el hueco si el tubo va envainado y sigue quedando libre la superficie mínima que la norma pide para ventilar. Colar el tubo por uno de estos sitios porque venía de paso es rechazo directo en la puesta en servicio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Materiales y accesorios",
+   "titulo": "Soldadura: la frontera es la presión",
+   "vinetas": [
+    "Hasta 0,05 bar: soldadura blanda",
+    "Por encima de 0,05 bar: fuerte",
+    "Siempre fuerte en aparcamientos cerrados",
+    "Fuerte si cocina tipo A > 30 kW"
+   ],
+   "img_brief": "brazing copper pipe with torch flame",
+   "notas": "N1: ¿Cuándo uso soldadura blanda y cuándo fuerte?\nN2: Regla de bolsillo: la frontera es la presión. Hasta cinco centésimas de bar, que es baja presión, vale soldadura blanda. Por encima de esa cifra, soldadura fuerte. ¿Por qué? Porque la soldadura fuerte aguanta más temperatura y da más garantía mecánica; a más presión, más te juegas en cada unión. Y hay dos escenarios serios donde pides fuerte aunque sea baja presión: los aparcamientos cerrados, donde una fuga se acumula con coches y arranques, y las cocinas con aparatos de cocción tipo A cuya suma pase de treinta kilovatios, que mueven mucho gas. En esos dos sitios, fuerte siempre. Piénsalo así: cuando el escenario es más peligroso, subes el nivel de la unión, aunque la presión sea baja."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Materiales y normas",
+   "titulo": "Cada material, con su norma UNE",
+   "vinetas": [
+    "Cobre: UNE-EN 1057",
+    "Multicapa: UNE 53008",
+    "Corrugado inox ≤ 0,5 bar: UNE-EN 15266",
+    "Llaves Dn<50: UNE-EN 331"
+   ],
+   "img_brief": "different metal pipes copper and steel",
+   "notas": "N1: ¿Me tengo que aprender de memoria las quince normas de la tabla?\nN2: Tranquilo, nadie te pide recitar quince normas con su número exacto. Lo que sí tienes que reconocer son las de siempre, las que aparecen una y otra vez. El cobre va con la UNE E-N mil cincuenta y siete. El multicapa, con la UNE cincuenta y tres mil ocho. El corrugado inoxidable hasta medio bar, con la UNE E-N quince mil doscientos sesenta y seis. Las llaves pequeñas, de diámetro menor de cincuenta, con la UNE E-N trescientos treinta y uno. El centralizador de contadores, con la UNE sesenta mil cuatrocientos noventa. Y el polietileno, con la UNE E-N mil quinientos cincuenta y cinco. Fíjate en un detalle que cae: las citamos sin año. Así lo manda el Reglamento; el listado completo con los años concretos vive en una instrucción técnica aparte. Lo importante no es empollar, es saber que cada material tiene su norma y dónde buscarla."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tipos de tubería",
+   "titulo": "Cobre recocido, cobre duro y cómo curvar",
+   "vinetas": [
+    "Recocido: blando, en rollo, se dobla",
+    "Duro: barra rígida, soldadura o press-fitting",
+    "Curvar en frío, sin aplastar",
+    "Enterrado: espesor ≥ 1,5 mm"
+   ],
+   "img_brief": "coil roll of copper pipe",
+   "notas": "N1: ¿Qué diferencia hay entre cobre recocido y cobre duro?\nN2: Es una diferencia muy práctica que se nota en cuanto los coges. El cobre recocido viene blando y en rollo: lo doblas a mano, así que es ideal para tuberías vistas, empotradas o incluso enterradas, y en enterrado le pides milímetro y medio de espesor como mínimo. El cobre duro viene en barra rígida y no se dobla a mano; se une por soldadura o por press-fitting. ¿Y cómo se hacen los codos sin estropear el tubo? La regla de oro: se curva en frío, con una máquina o un muelle, pero sin aplastar el tubo. Si al doblar deformas el radio de curvatura y el tubo se ovala, le has reducido la sección por dentro y ya no vale, porque estrangulas el paso del gas. Doblar sí, aplastar no."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Uniones mecánicas",
+   "titulo": "Cada metal con su pareja",
+   "vinetas": [
+    "Press-fitting: interior y exterior hasta 5 bar",
+    "Sustituye a la soldadura fuerte",
+    "Inox con cobre: manguito CuNi",
+    "Inox de serie 2, mismo diámetro"
+   ],
+   "img_brief": "press fitting pipe connection tool",
+   "notas": "N1: Si uno un tubo de acero inoxidable con uno de cobre, ¿pasa algo?\nN2: Puede pasar, y por eso hay una regla. Cuando juntas dos metales distintos y hay algo de humedad, se genera corrosión galvánica: es como una pila diminuta que se va comiendo la unión con el tiempo hasta que gotea gas. Para evitarlo, la unión de inoxidable con cobre se hace con un manguito de cuproníquel, que hace de árbitro entre los dos metales. La regla es sencilla: iguales con su mismo metal, inox con inox y cobre con cobre; y distintos, inox con cobre, con manguito de cuproníquel. Además, para unir por press-fitting los tubos deben tener el mismo diámetro exterior, pared mínima de un milímetro, y el inoxidable tiene que ser de la serie dos, que es la homologada para gas. Y algo muy útil: el press-fitting vale dentro y fuera hasta cinco bar, y sustituye a la soldadura fuerte por capilaridad."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tubo multicapa",
+   "titulo": "Multicapa: colores que identifican el gas",
+   "vinetas": [
+    "Exterior: negro con 3 líneas amarillas",
+    "Interior: normalmente amarillo",
+    "Resistente a los rayos UV en exterior",
+    "Si se pinta: testigos de gas visibles"
+   ],
+   "img_brief": "yellow multilayer gas pipe",
+   "notas": "N1: ¿Cómo sé si un multicapa es apto para ir por fuera?\nN2: Por el color y por su resistencia. El multicapa de exterior tiene que aguantar los rayos ultravioleta del sol, porque si no, el plástico se degrada; lo normal es que sea negro con tres líneas amarillas a lo largo, que es la señal de que es gas, aunque también hay amarillo homologado para fuera. El de interior suele ser amarillo. Los dos se pueden pintar, por ejemplo para que peguen con la fachada, pero solo con pinturas acrílicas sin disolventes, porque los disolventes atacan el plástico; y si lo pintas, tienes que dejar marcas claras y permanentes de que ese tubo es de gas, los llamados testigos de gas, para que nadie lo confunda con otra instalación. Los accesorios, además, van marcados con una señal amarilla. Todo esto es para que, dentro de muchos años, quien abra la pared sepa a la primera que eso lleva gas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Limitadores",
+   "titulo": "Cocina de multicapa: caudal y temperatura",
+   "vinetas": [
+    "Limitador de caudal 1,6 m³/h",
+    "Limitador de temperatura 96 ºC",
+    "Uno por instalación individual, por fuera",
+    "Corrugado inox: ≤ 0,5 bar y roscado"
+   ],
+   "img_brief": "gas valve with flow limiter kitchen",
+   "notas": "N1: ¿Para qué sirve el limitador de temperatura de la cocina si va con multicapa?\nN2: Grábate estos dos números en pareja, porque van juntos en la llave de la cocina cuando la instalación es de multicapa: caudal de un metro cúbico con seis por hora y temperatura de noventa y seis grados. El de caudal evita que se dispare el consumo si hay una rotura. Y el de temperatura es una seguridad extra pensada para el plástico: si el multicapa se calienta demasiado, por ejemplo por un conato de incendio cerca, el limitador corta el gas antes de que el plástico llegue a fallar. Un tubo metálico aguanta el calor; el multicapa no tanto, y por eso lleva ese seguro. Añade dos datos: cada instalación individual lleva su limitador de caudal, siempre montado por fuera de la vivienda, y el corrugado inoxidable no puede pasar de medio bar y va con uniones roscadas. No lo mandes a más presión."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Vainas y conductos",
+   "titulo": "Vaina no es lo mismo que vaina",
+   "vinetas": [
+    "Proteger: golpes, garajes, vía pública",
+    "Vía pública: hasta 1,80 m de altura",
+    "Ventilar: falsos techos, altillos, huecos",
+    "Continuas y sin órganos de maniobra"
+   ],
+   "img_brief": "steel conduit protecting pipe in garage",
+   "notas": "N1: ¿Todas las vainas hacen lo mismo?\nN2: No, y esta es de las que más se confunden. Una vaina puede estar por dos motivos muy distintos. El primero es protección mecánica: que nadie le pegue un golpe al tubo. Por eso se protege en zonas de paso o estacionamiento de vehículos, en garajes, y en la vía pública hasta un metro con ochenta de altura, que es hasta donde llega la gente y los golpes. El segundo motivo es ventilación: que si hay una fuga, el gas no se quede escondido. Por eso se envaina y se ventila en falsos techos, altillos, huecos de la edificación y locales a los que no suministra ese gas. Fíjate que no es lo mismo blindar el tubo que airearlo. Y en ambos casos, dos requisitos: la vaina debe ser continua en todo su recorrido y no puede llevar dentro ningún órgano de maniobra, ninguna llave."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Vainas y conductos",
+   "titulo": "De obra 5 cm, de acero 1,5 mm",
+   "vinetas": [
+    "Conducto de obra: mínimo 5 cm",
+    "Conducto de acero: mínimo 1,5 mm",
+    "Ventilación: garantizar la estanqueidad",
+    "Metálica: sin tocar otras estructuras"
+   ],
+   "img_brief": "steel pipe sleeve through wall",
+   "notas": "N1: ¿Qué espesores hay que recordar de las vainas y conductos?\nN2: Dos espesores que caen fijo. Cuando el conducto es de obra, o sea de albañilería, el espesor mínimo son cinco centímetros. Cuando el conducto es de acero, el mínimo es un milímetro y medio. Y hay una condición extra en los casos delicados, que son los sótanos y la ventilación: ahí el material tiene que garantizar la estanqueidad, porque no quieres que el gas se escape del conducto al recinto que atraviesa. Un par de detalles finos: si la vaina es metálica, no puede estar en contacto ni con las estructuras metálicas del edificio ni con otras tuberías, para que no se genere corrosión por contacto, y tiene que ser compatible con el material del tubo. Y cuando su función es ventilar, la vaina tiene que respirar por sus dos extremos al exterior; si solo respira por uno, el otro va sellado al propio tubo, para que el gas solo pueda salir por la boca buena."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Prueba de estanqueidad",
+   "titulo": "El examen final del tubo",
+   "vinetas": [
+    "Toda instalación nueva se prueba",
+    "Antes de la puesta en servicio",
+    "UNE 60670 parte 8",
+    "Regulación y contadores no se prueban"
+   ],
+   "img_brief": "pressure gauge manometer on pipe",
+   "notas": "N1: ¿Por qué es tan importante la prueba de estanqueidad?\nN2: Porque es el examen final del tubo antes de meterle gas. Toda instalación nueva se somete a una prueba de estanqueidad con resultado satisfactorio, siguiendo la parte ocho de la norma UNE sesenta mil seiscientos setenta, y se hace antes de la puesta en servicio, no después. La idea es sencilla: metes presión en la instalación y compruebas que no pierde ni una burbuja durante un tiempo. Estanqueidad, precisamente, quiere decir eso: que no se escapa nada. Un detalle práctico: no se prueban ni los conjuntos de regulación ni los contadores, porque son aparatos que la presión de prueba podría dañar; se prueba el tubo. Y el resultado de esta prueba es justo lo que respalda el certificado de instalación que luego firmas y entregas a la distribuidora para que te den el gas. Sin prueba satisfactoria, no hay puesta en servicio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Presiones y tiempos",
+   "titulo": "Los tiempos base de la prueba",
+   "vinetas": [
+    "MOP 2–5 bar → 60 min",
+    "MOP 0,4–2 bar → 30 min",
+    "MOP 0,05–0,4 bar → 30 min",
+    "MOP ≤ 0,05 bar → 15 min"
+   ],
+   "img_brief": "digital pressure gauge display reading",
+   "notas": "N1: ¿De qué depende el tiempo que hay que mantener la prueba?\nN2: Depende de la presión de la instalación y de su tamaño. Quédate primero con la escalera de tiempos base, de más a menos presión: de dos a cinco bar, sesenta minutos; de cuatro décimas a dos bar, treinta minutos; de cinco centésimas a cuatro décimas, treinta minutos; y baja presión, hasta cinco centésimas, quince minutos. Sobre esa base hay recortes cuando el tramo es corto: una instalación individual de menos de veinte metros baja a treinta minutos en alta; menos de quince metros, quince minutos; menos de diez metros, diez minutos. Y al revés: cuando la instalación es grande, de mucho caudal, la prueba se dispara a seis horas o veinticuatro horas, y entonces hay que registrar la presión y la temperatura, porque el propio calor cambia la presión y hay que descontarlo. Más presión y más tamaño, más tiempo de prueba."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Prueba bien hecha",
+   "titulo": "Manómetro fino y aparatos desmontados",
+   "vinetas": [
+    "Aguja entre 35 % y 75 %",
+    "Baja presión: columna de agua en U",
+    "Desmonta electroválvulas y filtros",
+    "Recomprueba a la MOP con todo montado"
+   ],
+   "img_brief": "U tube water column manometer",
+   "notas": "N1: ¿Puedo usar cualquier manómetro para la prueba?\nN2: No, el manómetro se elige según la presión que vas a medir, no a ojo. Dos ideas prácticas. Primera: la aguja debe trabajar entre el treinta y cinco y el setenta y cinco por ciento de la escala; ni pegada al cero ni al tope, porque en los extremos el manómetro miente. Y a más presión, esfera más grande y clase más fina, que quiere decir más preciso. En baja presión de verdad, el rey sigue siendo la columna de agua en forma de U: es barata, fiable y no tiene trampa. Segunda idea, muy importante: si en el tramo hay aparatos delicados, como electroválvulas, cartuchos de filtro o manómetros finos, la presión de prueba, que es alta, los puede reventar. Así que se desmontan, se prueba el tubo desnudo, y luego se vuelven a montar y se comprueba la estanqueidad a la presión de trabajo, la MOP, no a la de prueba. El tubo se prueba fuerte; los aparatos delicados, a su presión. Y siempre, además, se mira cada soldadura: tiene que verse el material de aportación y las roscas bien apretadas."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya trazas, unes y pruebas el tubo con criterio",
+   "mapa": [
+    "3 cm a todo; nunca por ascensores, chimeneas o transformadores",
+    "Blanda ≤ 0,05 bar, fuerte por encima y en garajes",
+    "Press-fitting hasta 5 bar; inox-cobre con manguito CuNi",
+    "Prueba UNE 60670-8: sin ella no hay gas"
+   ],
+   "tagline": "El tubo ya no se te resiste. En el último vídeo: aire, humos y papeles.",
+   "notas": "N1: Ha sido denso. ¿Cómo lo ato todo para que no se me escape?\nN2: Vamos a reconstruirlo siguiendo el propio tubo, que es como mejor se entiende. Primero lo trazas: separado tres centímetros de agua, electricidad, vapor, chimeneas y suelo, y jamás por sitios donde una fuga se vuelve incendio, como ascensores, bajantes, chimeneas o cuartos de transformador. Luego lo montas con el material correcto: cada tubería con su norma, cobre recocido para doblar, duro para soldar o prensar, y curvando en frío sin aplastar. Lo unes bien: soldadura blanda hasta cinco centésimas de bar y fuerte por encima, o press-fitting hasta cinco bar, con manguito de cuproníquel cuando juntas inox y cobre para que no se corroan. Lo proteges o lo ventilas con vainas continuas, distinguiendo blindar de airear. Y por último lo examinas: la prueba de estanqueidad de la parte ocho de la norma, con sus tiempos según presión y tamaño, el manómetro trabajando en su zona buena, y los aparatos delicados desmontados. En el examen te preguntarán una distancia, una soldadura o un tiempo de prueba; en la obra, cada uno de estos pasos es lo que hace que tu instalación pase la puesta en servicio. Hoy dominas el corazón del oficio: el tubo ya no se te resiste. En el último vídeo cerramos la guía con lo que más vidas salva: darle aire al aparato, sacarle los humos y rellenar los papeles. Vamos allá."
+  }
+ ]
+}

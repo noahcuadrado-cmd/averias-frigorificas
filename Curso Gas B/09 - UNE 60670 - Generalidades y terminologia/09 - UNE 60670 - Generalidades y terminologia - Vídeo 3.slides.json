@@ -1,0 +1,257 @@
+{
+ "pie": "Curso Gas B · Tema 09 · UNE 60670-1 y -2",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 09 · UNE 60670-1 y -2",
+   "videoxy": "Vídeo 3 de 3",
+   "titulo": "Terminología (II)",
+   "subtitulo": "Presiones, combustión y seguridad",
+   "notas": "N1: Profe, ¿este último vídeo es más difícil que el anterior?\nN2: Es la mitad más técnica del diccionario, sí, pero también la más útil, porque aquí están los términos donde de verdad hay vidas en juego. Vamos a ver la explosividad, el árbol de llaves de la instalación, el poder calorífico y, sobre todo, la familia de presiones, ese lío de siglas, MOP, MIP, DP, STP, que tanto se pregunta y tanto se confunde. Te prometo que, contadas con orden y con ejemplos de obra, dejan de dar miedo. Domina estas definiciones al pie de la letra y tendrás cazadas las preguntas trampa del examen. Vamos del límite de explosividad a las zonas comunitarias."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["70 kW", "umbral de sala de máquinas"],
+    ["450 °C", "blanda o fuerte en soldadura"],
+    ["60 cm", "define el semisótano"]
+   ],
+   "notas": "N1: ¿Otra vez tres números clave?\nN2: Sí, y estos tres son de los que caen seguro. Setenta kilovatios: si la potencia útil conjunta de los equipos supera esa cifra, el local es sala de máquinas, con más exigencias de ventilación. Cuatrocientos cincuenta grados: es la frontera de la soldadura, por debajo es blanda y por encima es fuerte. Y sesenta centímetros: si el suelo de una planta queda más de sesenta centímetros por debajo del nivel exterior, es semisótano, y eso condiciona dónde puedes poner el gas. Tres números, tres decisiones de obra. Grábatelos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.61 y 3.62",
+   "titulo": "LIE y LSE: la franja del peligro",
+   "vinetas": [
+    "LIE: a partir de aquí ya explota",
+    "LSE: por encima deja de explotar",
+    "En % de gas en aire",
+    "Entre los dos límites, ¡boom!"
+   ],
+   "img_brief": "gas detector display showing percentage reading",
+   "notas": "N1: ¿Qué son el LIE y el LSE?\nN2: Marcan la franja en la que una mezcla de gas y aire puede explotar. Piénsalo como una ventana. El límite inferior de explosividad, el LIE, es la concentración a partir de la cual la mezcla ya es explosiva; por debajo hay poco gas, mezcla pobre, y no arranca. El límite superior, el LSE, es la concentración a partir de la cual deja de ser explosiva; por encima hay demasiado gas y poco aire, mezcla rica, y tampoco prende. Los dos se miden en tanto por ciento de volumen de gas en aire. Truco: entre los dos límites, boom; fuera de ellos, no. Y esto es justo lo que vigila un detector de gas, que salta mucho antes de llegar a esa franja para que nunca se alcance."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.63 a 3.69",
+   "titulo": "Locales y zonas",
+   "vinetas": [
+    "Aseo: solo higiene; baño: con bañera o ducha",
+    "Doméstico: vivienda; industrial: proceso",
+    "Loft: sin divisiones interiores",
+    "Local técnico: contadores centralizados"
+   ],
+   "img_brief": "open plan loft apartment interior",
+   "notas": "N1: ¿Por qué la norma distingue tantos tipos de local?\nN2: Porque de dónde está el gas depende lo que se puede o no se puede hacer allí. Vamos rápido. Local de aseo: solo para higiene personal, un lavabo. Local de ducha o baño: el que tiene al menos una bañera o un plato de ducha; ese matiz importa porque en él hay restricciones para colocar aparatos de gas. Local doméstico: vivienda de personas; colectivo, comercial o industrial: el que no es vivienda. Local o edificio industrial: una construcción techada y cerrada donde se produce o se almacena. Loft: uso doméstico pero sin paredes ni divisiones entre espacios, todo diáfano. Y local técnico: el destinado en exclusiva a albergar contadores o reguladores centralizados, que se leen y mantienen desde dentro. Cierro con un término suelto que veremos: las zonas comunitarias son las de paso, vestíbulos, escaleras, rellanos, sin permanencia de personas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.70 a 3.77",
+   "titulo": "El árbol de llaves",
+   "vinetas": [
+    "Acometida → edificio → montante colectivo",
+    "→ usuario → vivienda → contador/regulador",
+    "→ conexión de aparato",
+    "Cada llave corta de ahí para adentro"
+   ],
+   "img_brief": "gas shut off valve on pipe",
+   "notas": "N1: Hay un montón de llaves. ¿Cómo las ordeno?\nN2: Como un árbol, siguiendo el gas de la calle al aparato, y así no te pierdes. La primera es la llave de acometida, la de la compañía, accesible desde el exterior de la propiedad. Luego la llave de edificio, en el muro o cerramiento, accionable desde fuera. Después la de montante colectivo, que corta un ala o sector del edificio. Sigue la llave de usuario, la frontera entre lo común y lo individual. Dentro ya, la llave de vivienda o local privado, con la que cierras desde tu casa. Junto a los equipos, la llave de contador y la de regulador. Y la última, pegada a cada aparato, la llave de conexión de aparato. Regla de oro: cada llave corta de ahí para adentro. Por qué importa: en una fuga, saber cuál cerrar, y que sea accesible, es la diferencia entre parar el gas en segundos o tener que evacuar el edificio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.71 y 3.76",
+   "titulo": "Llaves que más se confunden",
+   "vinetas": [
+    "Usuario: límite común / individual",
+    "Conexión de aparato: la más próxima al aparato",
+    "No es la llave del propio aparato",
+    "Contador: a la entrada del contador"
+   ],
+   "img_brief": "gas cooker connection valve close up",
+   "notas": "N1: ¿Cuáles son las que más se cuelan en el examen?\nN2: Dos, y con truco. La llave de usuario es la que pertenece a la instalación común pero marca el límite con la individual; es la frontera, la que cierra el gas de una sola vivienda. Recuérdala como el mojón entre lo de la comunidad y lo tuyo. La segunda trampa es la llave de conexión de aparato: forma parte de la instalación individual y está lo más cerca posible del aparato para cortarle el gas. Y aquí está la trampa clásica: no se debe confundir con la llave o mando de corte que lleva incorporado el propio aparato; esa es del fabricante, va aparte. La de conexión de aparato es la tuya, de la instalación. Y una más sencilla: la llave de contador va inmediatamente a la entrada del contador."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.78 a 3.80",
+   "titulo": "Metro cúbico estándar y normal",
+   "vinetas": [
+    "m³(s) estándar: a 15 °C",
+    "m³(n) normal: a 0 °C",
+    "Ambos a 1,013 25 bar",
+    "Mantenimiento: mantener estado y función"
+   ],
+   "img_brief": "gas meter dial reading cubic meters",
+   "notas": "N1: Otra vez metros cúbicos con apellidos, ¿esto no lo vimos ya?\nN2: Vimos las condiciones; ahora la unidad de volumen que sale de ellas, y encaja perfecto. El metro cúbico estándar, que se escribe eme tres ese, es el gas contenido en un metro cúbico a quince grados; el metro cúbico normal, eme tres ene, el mismo volumen pero a cero grados. Los dos a la misma presión, mil trece con veinticinco milibares. Es exactamente el mismo par de antes: estándar va con la referencia, quince grados; normal va con las normales, cero grados. Por qué importa: un metro cúbico de gas frío tiene más moléculas que uno caliente, así que decir el apellido evita cobrar o dimensionar de más o de menos. Y aprovecho un término fácil de aquí: mantenimiento es el conjunto de actuaciones para garantizar el buen estado y funcionamiento de la instalación y los aparatos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.81 a 3.114",
+   "titulo": "Patios, pasamuros y ventilación",
+   "vinetas": [
+    "Pasamuros: vaina al cruzar un muro",
+    "Vaina: solo una tubería de gas",
+    "Patio de ventilación e inglés",
+    "Ventilación cruzada: dos aberturas opuestas"
+   ],
+   "img_brief": "pipe passing through wall sleeve",
+   "notas": "N1: ¿Qué es un pasamuros y por qué se protege el tubo al cruzar una pared?\nN2: Porque un tubo de gas que atraviesa un muro no debe ir en contacto directo con la obra: el roce y los movimientos lo dañarían. Por eso se mete en un pasamuros, una vaina o conducto que lo aloja y protege al cruzar el muro. Ojo al matiz: la vaina, por definición, solo puede contener una tubería de gas; una sola. Y los patios: el patio de ventilación es un hueco dentro del edificio, abierto al exterior por arriba, que sirve para ventilar los locales que dan a él; el patio inglés es ese espacio abierto entre el muro del edificio y un muro de contención del terreno, que lleva luz y aire al sótano. Cierro con un término nuevo de esta edición: la ventilación cruzada, que se consigue con dos aberturas al exterior en paredes opuestas o adyacentes de una misma estancia, para que el aire se renueve solo, de forma natural."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.86, 3.55",
+   "titulo": "Poder calorífico: Hs y Hi",
+   "vinetas": [
+    "Hs superior: el agua se condensa",
+    "Hi inferior: el agua queda en vapor",
+    "El fabricante suele dar el Hi",
+    "Condensación: aprovecha hacia el Hs"
+   ],
+   "img_brief": "condensing boiler with condensate drain pipe",
+   "notas": "N1: ¿Por qué hay dos poderes caloríficos, superior e inferior?\nN2: Todo depende de una cosa: qué haces con el vapor de agua que sale al quemar. Cuando el gas arde produce, entre otras cosas, vapor de agua. Si en el cálculo supones que ese vapor se condensa y sueltas el calor que llevaba dentro, tienes el poder calorífico superior, Hs. Si supones que ese vapor se va por la chimenea sin recuperarlo, tienes el inferior, Hi. La diferencia es ese calor del agua. Por eso las calderas de condensación rinden más: están hechas para condensar ese vapor y aprovechar hacia el Hs. Los fabricantes suelen dar el consumo referido al Hi. Ejemplo de avería: una caldera de condensación mal montada, sin salida de condensados o con el retorno demasiado caliente, no condensa y pierde justo esa ventaja."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.87 y 3.88",
+   "titulo": "Potencia útil P y Pn",
+   "vinetas": [
+    "Potencia útil P: calor al agua o aire",
+    "Se mide en kW",
+    "Nominal Pn: el máximo del fabricante",
+    "Útil ≠ consumo calorífico"
+   ],
+   "img_brief": "heating boiler control panel display",
+   "notas": "N1: ¿La potencia útil es lo mismo que el consumo del aparato?\nN2: No, y no conviene mezclarlos. El consumo calorífico, que vimos antes, es la energía que el aparato coge del gas. La potencia útil, P, es la energía que de verdad transmite al agua o al aire que calienta; es lo que sale aprovechable, en kilovatios. Entre una y otra está el rendimiento: nunca aprovechas el cien por cien. La potencia útil nominal, Pn, es el valor máximo de esa potencia útil que declara el fabricante. Regla: el consumo es lo que entra; la útil es lo que sale al fluido. Y esto no es un capricho: la potencia útil conjunta es la que luego decide, por ejemplo, si un local es sala de máquinas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.91 a 3.98",
+   "titulo": "La familia de presiones (I)",
+   "vinetas": [
+    "MOP: máxima continuada",
+    "MIP: máxima en incidente breve",
+    "TOP: máxima temporal",
+    "OP: la que hay ahora mismo"
+   ],
+   "img_brief": "gas pressure regulator with gauge",
+   "notas": "N1: Estas siglas de presiones me abruman. ¿Hay forma de ordenarlas?\nN2: Sí, y es el bloque estrella del examen, así que lo dejamos clavado con truco de letra inicial. La MOP es la presión máxima de operación: la más alta a la que la instalación puede estar sometida de forma continuada, en condiciones normales; piensa la eme de mantenida. La MIP es la máxima en caso de incidente: la que se admite durante un breve periodo, todavía limitada por las seguridades; la i de incidente. La TOP es la temporal de operación: la máxima a la que puede operar de forma temporal bajo control de la regulación; la te de temporal. Y la OP, a secas, es la presión de operación: la que hay en un momento dado, ahora mismo. Resumen: MOP mantenida, MIP incidente, TOP temporal, OP actual. Por qué importa: confundirlas es dimensionar mal y acabar reventando o ahogando la instalación."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.89 a 3.94",
+   "titulo": "La familia de presiones (II)",
+   "vinetas": [
+    "DP diseño: fija la resistencia mecánica",
+    "Garantía: mínima a la salida de acometida",
+    "STP: prueba de resistencia",
+    "CTP: conjunta resistencia y estanquidad"
+   ],
+   "img_brief": "pressure test gauge on gas pipe installation",
+   "notas": "N1: ¿Y las presiones de diseño y de prueba?\nN2: Estas son las de trabajo del proyectista y del que prueba. La presión de diseño, DP, es la máxima a la que técnicamente puede funcionar la instalación, y se usa para calcular la resistencia mecánica: con ella eliges tubos y accesorios que aguanten. La presión de garantía es distinta: es la mínima que la compañía te asegura al inicio de la instalación, justo a la salida de la llave de acometida; es el número con el que arrancas el cálculo, porque si te garantizan poco, tendrás que poner tubos más generosos para que llegue caudal. Y las de prueba, que usas para entregar la instalación: la STP es la presión de la prueba de resistencia mecánica; la CTP es la de la prueba conjunta de resistencia y estanquidad. Aviso de obra: probar a menos presión de la que toca deja pasar la fuga que no ves."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Nota de la norma",
+   "titulo": "Todas las presiones son relativas",
+   "vinetas": [
+    "Se miden sobre la atmosférica",
+    "No en valor absoluto",
+    "Aplica a toda la UNE 60670",
+    "El manómetro ya marca en relativo"
+   ],
+   "img_brief": "analog pressure manometer close up",
+   "notas": "N1: Cuando la norma dice una presión, ¿es presión total o qué?\nN2: Muy buena pregunta, y es un detalle que cae. Todas las presiones de la norma son relativas, también llamadas manométricas. Quiere decir que se miden por encima de la presión atmosférica, tomando la atmósfera como cero, no en valor absoluto. Es lo natural, porque el manómetro que enchufas a la instalación ya marca así: en reposo, con la instalación abierta al aire, marca cero, aunque la atmósfera esté empujando. Este matiz aparece como nota al pie en la presión de diseño, pero aplica a todas las presiones de la UNE sesenta mil seiscientos setenta. Grábate la frase: en el gas, salvo que se diga lo contrario, la presión es relativa."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.95 a 3.103",
+   "titulo": "Regulador, tarado y combustión",
+   "vinetas": [
+    "Regulador: baja la presión aguas abajo",
+    "Presión de tarado: a la que se ajusta",
+    "Productos de combustión: gases y vapor",
+    "Puerta estanca: ciega, con junta"
+   ],
+   "img_brief": "gas pressure regulator installed on wall",
+   "notas": "N1: ¿Qué hace exactamente un regulador y qué es su tarado?\nN2: El regulador de presión es la pieza que reduce la presión aguas abajo, es decir, después de él, y la mantiene dentro de unos límites aunque cambie el caudal; gracias a él, del alta que viene de la calle sale la baja que necesita el aparato. La presión de tarado es la predeterminada a la que se ajusta cada función de un dispositivo de regulación o de seguridad; tarar es afinar ese punto de disparo. No la confundas con la de garantía, que era la mínima de partida. Y aprovecho términos cercanos: los productos de la combustión son el conjunto de gases y vapor de agua que salen al quemar, los humos, que llevan monóxido si la combustión es mala; el quemador de encendido, o piloto, es un quemador pequeño cuya llama enciende el principal; y una puerta o registro estanco es la que, siendo ciega, cierra en todo su perímetro con una junta, para que no pase ni aire ni gas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.104, 3.112, 3.113",
+   "titulo": "Tiro, revoco y terminal",
+   "vinetas": [
+    "Tiro: depresión que saca los humos",
+    "Revoco: los humos vuelven al local",
+    "Terminal o deflector: protege del viento",
+    "Tiro bueno = humos fuera"
+   ],
+   "img_brief": "chimney terminal cowl on rooftop",
+   "notas": "N1: Tiro y revoco, ¿son cosas distintas o lo mismo visto al revés?\nN2: Son las dos caras del mismo conducto, una buena y una mala. El tiro es lo que debe pasar: una depresión, una succión suave que se genera entre los extremos del conducto y que empuja los humos hacia fuera; el aire caliente pesa menos y sube, y arrastra los humos. El revoco es el fallo: cuando el tiro no funciona, por un conducto obstruido, mal rematado o sin aire de aporte, parte de los humos se vuelven al local por el cortatiro. Y ahí es donde hay intoxicaciones por monóxido; puede ser puntual o continuado. El terminal, o deflector, es la pieza de arriba del todo, en el exterior, que protege el tiro del viento para que una racha no empuje los humos hacia dentro. Resumen: tiro bueno, humos fuera; revoco, humos dentro, peligro. En el control periódico esto es de lo primero que compruebas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.107 y 3.108",
+   "titulo": "Shunt y shunt invertido",
+   "vinetas": [
+    "Shunt: saca humos hacia arriba (tipo B)",
+    "Shunt invertido: mete aire desde la base",
+    "Ambos verticales, con conducto auxiliar",
+    "Invertido = al revés = trae aire"
+   ],
+   "img_brief": "vertical shunt flue duct in building",
+   "notas": "N1: Un shunt y un shunt invertido, ¿en qué se diferencian?\nN2: En el sentido: uno saca y el otro mete. El shunt es un conducto de evacuación vertical, compartido, diseñado para sacar los humos de aparatos tipo B de varias plantas; cada planta no se une directamente al conducto general, sino a un conducto auxiliar que sube una planta antes de desembocar en el principal, y este termina por encima del tejado. El shunt invertido tiene la misma forma, vertical ascendente con conducto auxiliar de una planta, pero hace lo contrario: en vez de sacar humos, mete aire; toma aire limpio del exterior por su base y lo reparte a los locales de cada planta. Truco para no fallar: invertido igual a al revés igual a trae aire. Uno evacúa, el otro aporta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.105 y 3.106",
+   "titulo": "Sala de máquinas y semisótano",
+   "vinetas": [
+    "Sala de máquinas: potencia conjunta > 70 kW",
+    "≤ 70 kW o equipos autónomos: no lo es",
+    "Semisótano: suelo > 60 cm bajo el exterior",
+    "Desaparece el primer sótano"
+   ],
+   "img_brief": "industrial boiler room with large boilers",
+   "notas": "N1: ¿Cuándo un cuarto de calderas es sala de máquinas?\nN2: El número mágico es setenta kilovatios. Si los equipos de producción de calor o frío que alberga el local suman una potencia útil nominal conjunta superior a setenta kilovatios, ese local es sala de máquinas, con exigencias reforzadas de ventilación y seguridad. Por debajo o igual a setenta kilovatios no lo es; tampoco lo son los equipos autónomos de cualquier potencia, ni los locales de solo cocción, iluminación o lavandería. O sea, no basta con que haya una caldera: manda la potencia conjunta. Y el semisótano: una planta es semisótano cuando su suelo queda, en todo su contorno, más de sesenta centímetros por debajo del nivel exterior o del patio de ventilación contiguo. El número clave son sesenta centímetros. Dato de examen: en esta edición desaparece el primer sótano; para el gas solo manejas semisótano."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.109 a 3.111",
+   "titulo": "Soldadura blanda o fuerte",
+   "vinetas": [
+    "Blanda: aporte funde 220 a < 450 °C",
+    "Fuerte: funde ≥ 450 °C",
+    "La frontera es 450 °C",
+    "Tallo: paso de enterrado a aéreo"
+   ],
+   "img_brief": "brazing copper gas pipe with torch",
+   "notas": "N1: ¿Qué diferencia hay entre soldadura blanda y fuerte?\nN2: Un solo número lo decide: cuatrocientos cincuenta grados, la temperatura a la que funde el material de aportación, el metal que rellena la unión. Si ese material funde por debajo de cuatrocientos cincuenta grados, y a partir de doscientos veinte, la soldadura es blanda. Si funde a cuatrocientos cincuenta grados o más, es fuerte. La fuerte aguanta más y se exige en los tramos más comprometidos. Por qué importa tanto: elegir mal la unión es, directamente, una fuga esperando. Y aprovecho un término cercano: el tallo es la pieza de transición que permite pasar de la parte enterrada a la parte aérea de la instalación, o al revés; ese cambio tierra-aire siempre se hace con una pieza pensada para ello."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.115 a 3.119",
+   "titulo": "Válvulas de seguridad",
+   "vinetas": [
+    "VAS sobrepresión: alivia soltando gas",
+    "VISmáx: corta si la presión sube",
+    "VISmín: corta si la presión baja",
+    "Automática: abre con energía, corta sin ella"
+   ],
+   "img_brief": "gas safety relief valve on pipeline",
+   "notas": "N1: Hay varias válvulas de seguridad, ¿hacen todas lo mismo?\nN2: No, cada una tiene su papel; no las mezcles. La válvula de alivio de seguridad, o de sobrepresión, la VAS, alivia: cuando la presión pasa de un valor, suelta al exterior una pequeña cantidad de gas para bajarla, y luego sigue trabajando; respira. Las VIS, en cambio, cortan. La VISmáx, de máxima presión, corta el suministro aguas abajo cuando la presión sube demasiado. La VISmín, de mínima, corta cuando la presión baja demasiado. Y la válvula automática de corte tiene la lógica a prueba de fallos que ya conoces: abre cuando recibe energía y se cierra sola en cuanto le falta, con rearme siempre manual. Regla: la de alivio respira; las VIS cierran, una por exceso y otra por defecto. En obra, cuando algo salta y corta el gas sin motivo aparente, sospecha del tarado de estas o del regulador antes de tocar el aparato."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya dominas el diccionario entero",
+   "mapa": [
+    "La familia de presiones: MOP, MIP, TOP, DP, STP, CTP",
+    "El árbol de llaves, de la calle al aparato",
+    "Tiro y revoco: dónde aparece el CO",
+    "70 kW, 450 °C y 60 cm decididos en obra"
+   ],
+   "tagline": "Tema 09 cerrado. Ya piensas y hablas como un gasista de categoría B.",
+   "notas": "N1: Último cierre. ¿Cómo ato toda la terminología técnica?\nN2: Vamos a recoger el hilo, porque es una lógica, no una lista. Primero, la familia de presiones: la DP fija la resistencia mecánica de tubos y accesorios; la STP y la CTP son las presiones a las que pruebas para entregar la instalación; y las etiquetas de operación, MOP continuada, MIP incidente, TOP temporal, OP actual; y todas, recuérdalo, relativas. Segundo, el árbol de llaves, de la acometida a la conexión de aparato, cada una cortando de ahí para adentro, que en una fuga te salva. Tercero, tiro y revoco: el tiro saca los humos, el revoco los devuelve al local, y ahí es donde aparece el monóxido; el terminal protege del viento. Y cuarto, tres números que decides en obra: setenta kilovatios para la sala de máquinas, cuatrocientos cincuenta grados entre soldadura blanda y fuerte, y sesenta centímetros del semisótano.\nN1: ¿Y cómo se pregunta y para qué me sirve de verdad?\nN2: En el examen, como definiciones exactas y preguntas trampa: te ponen dos presiones parecidas, o dos válvulas, o el matiz de un número, y quien domina la definición literal acierta. En obra, estos son los términos del certificado de pruebas y del parte de una inspección; y detrás de muchos hay una avería concreta, un revoco que mete monóxido, una soldadura mal elegida que gotea gas, un regulador mal tarado que corta. Con esto cerramos el tema nueve entero: has montado el mapa de la norma, has aprendido su idioma y ahora dominas la parte más técnica del diccionario. Ya no solo sabes gas: piensas y hablas como un gasista de categoría B. Enhorabuena, y a por el siguiente tema."
+  }
+ ]
+}

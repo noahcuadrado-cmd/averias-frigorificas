@@ -1,0 +1,192 @@
+{
+ "pie": "Curso Gas B · Tema 11 · UNE 60670-4 · Diseño y construcción",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 11 · UNE 60670-4",
+   "videoxy": "Vídeo 1 de 3",
+   "titulo": "Dimensionado de la instalación receptora",
+   "subtitulo": "Datos de partida, potencias, caudales y criterios de cálculo",
+   "notas": "N1: ¿Por dónde se empieza a diseñar una instalación de gas?\nN2: Pues por los números, antes de tocar un solo tubo. Mira, la Parte cuatro de la UNE sesenta mil seiscientos setenta es la norma de diseño y construcción, y este primer vídeo es toda la parte de cálculo: cuántos kilovatios pide la vivienda, cuánto pide el edificio entero, qué caudal de gas hay que mover y, con eso, qué grosor de tubo pones. Piénsalo como la calculadora del tema: si estas cuentas salen bien, la caldera dará toda su potencia y el agua caliente no se quedará corta; si salen mal, tienes averías para toda la vida de la instalación. Vamos a construirlo paso a paso."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["13", "partes que componen la UNE 60670"],
+    ["7", "datos de partida que da la distribuidora"],
+    ["20", "velocidad máxima del gas, en m/s"]
+   ],
+   "notas": "N1: ¿Qué tres cifras resumen el vídeo?\nN2: Tres números que van a ser tus anclas. Uno, la norma completa son trece partes, y la que estudiamos es la cuatro, la de diseño y construcción. Dos, antes de calcular nada necesitas siete datos de partida, y no te los inventas: te los da por escrito la compañía distribuidora. Y tres, el gas nunca puede correr por el tubo a más de veinte metros por segundo, porque si va más rápido silba, vibra y arrastra suciedad. Si retienes estos tres números, ya tienes el esqueleto del vídeo montado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Objeto de la norma",
+   "titulo": "¿Qué regula la UNE 60670?",
+   "vinetas": [
+    "Instalaciones receptoras hasta 5 bar",
+    "Criterios técnicos y de seguridad",
+    "Diseñar, construir, probar y poner en servicio"
+   ],
+   "img_brief": "gas boiler installation in apartment kitchen",
+   "notas": "N1: ¿Qué cubre exactamente esta norma?\nN2: Vamos por partes. Una instalación receptora es todo el recorrido del gas desde que entra en la propiedad hasta el aparato que lo quema: la caldera, el calentador, la cocina. La UNE sesenta mil seiscientos setenta es el libro de instrucciones de esas instalaciones cuando trabajan a presión baja, hasta cinco bar como máximo. Y no solo dice cómo montarlas: fija los criterios técnicos, los requisitos de seguridad y las garantías de buen servicio para todo el ciclo de vida, o sea diseñar, construir, ampliar, modificar, probar, poner en servicio y revisar de forma periódica. La palabra clave es MOP, que es la máxima presión a la que puede trabajar la instalación: si es igual o menor que cinco bar, esta es tu norma. Un ejemplo: la instalación de gas natural de un piso normal va a unos veinte milibares; eso es muchísimo menos de cinco bar, así que cae de lleno aquí dentro."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Estructura de la norma",
+   "titulo": "Trece partes, una por fase",
+   "vinetas": [
+    "Parte 3: tuberías, accesorios y uniones",
+    "Parte 4: diseño y construcción",
+    "Partes 8 y 9: pruebas y puesta en servicio"
+   ],
+   "img_brief": "technical standard document binder on desk",
+   "notas": "N1: ¿Y por qué está partida en tantos trozos?\nN2: Porque cada fase de la vida de una instalación tiene su propio cuaderno. La norma completa son trece partes. La uno y la dos son generalidades y vocabulario; la tres te dice con qué materiales trabajas, o sea tubos, accesorios y uniones; y la cuatro, que es la nuestra, te dice cómo diseñarla y montarla. Luego siguen las demás: la cinco de los cuartos de contadores, la seis de la ventilación de los locales con aparatos, la ocho de las pruebas de estanquidad, la nueve de la puesta en servicio, y así hasta la trece, que va del control periódico de los aparatos. ¿Para qué te sirve saber esto en el examen? Para colocar cada pregunta en su sitio: si te preguntan por la distancia de un tubo, es la Parte cuatro; si te preguntan por una prueba de estanquidad, es la Parte ocho. Sitúas la pregunta y aciertas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 4 · Diseño y construcción",
+   "titulo": "El cómo y el por dónde del tubo",
+   "vinetas": [
+    "Parte 3: con qué materiales",
+    "Parte 4: cómo montar y por dónde",
+    "Directrices de diseño y trazado"
+   ],
+   "img_brief": "copper gas pipe installed along wall",
+   "notas": "N1: Vale, ¿y qué hace la Parte cuatro que no hagan las demás?\nN2: La Parte cuatro responde a dos preguntas muy concretas de obra: cómo monto el tubo y por dónde lo llevo. Piénsalo con una analogía: la Parte tres es la ferretería, te dice qué tubos y qué accesorios existen; la Parte cuatro es el plano de la casa, te dice cómo colocarlos y por dónde pasarlos. Cuando en obra dudes, por ejemplo si puede ir un tubo por un sitio o qué distancia dejas con la luz, la respuesta está en la Parte cuatro. Este primer vídeo es solo la mitad de esa parte: la mitad de cálculo, echar números. El trazado, o sea el por dónde, lo vemos en el vídeo siguiente. Hoy nos quedamos con la calculadora."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Novedades de esta edición",
+   "titulo": "Lo que más se pregunta ahora",
+   "vinetas": [
+    "Individualizar instalaciones de más de 70 kW",
+    "Empotrada = en la pared, sin vaina",
+    "Reducir los 3 cm aislando el tubo"
+   ],
+   "img_brief": "gas meter cabinet on building facade",
+   "notas": "N1: ¿Merece la pena fijarse en las novedades?\nN2: Sí, porque los cambios de una edición a otra son justo lo que más se pregunta: el examinador va a lo nuevo. Te adelanto los que más caen. Uno: las instalaciones de más de setenta kilovatios hay que individualizarlas, es decir, sacarlas aparte del resto, y ahora la norma explica cómo. Dos: aclara que una tubería empotrada es la que va metida directamente en la pared sin vaina; si lleva vaina, ya no es empotrada, es envainada. Tres: si no puedes dejar los tres centímetros de separación con la luz o el agua, puedes acercar el tubo si lo aíslas con una coquilla. Y hay más, como que ahora se admite el press-fitting dentro de vainas, o que el regulador con válvula de alivio por dentro necesita ventilación permanente. No te agobies memorizándolas todas hoy; quédate con que existen y las iremos viendo en su sitio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.1 · Datos de partida",
+   "titulo": "Los siete datos que da la distribuidora",
+   "vinetas": [
+    "Familia, denominación y Hs del gas",
+    "Densidades, índice de Wobbe y presiones",
+    "DN de la llave de acometida"
+   ],
+   "img_brief": "technician reading gas supply document clipboard",
+   "notas": "N1: Antes de calcular, ¿qué necesito tener sobre la mesa?\nN2: Necesitas siete datos, y esto es importante: no te los inventas ni los mides tú, te los da por escrito la compañía distribuidora. Son la ficha técnica del suministro. ¿Cuáles son? La familia y el nombre del gas; el poder calorífico superior, que se llama Hache ese y es la energía que da cada metro cúbico de gas; las densidades del gas; el índice de Wobbe; la presión garantizada a la salida de la llave de acometida; el rango de presiones dentro de la instalación; y el diámetro de la llave de acometida. Sin estos datos no puedes calcular ni un diámetro, porque calcular es siempre relacionar lo que pide la instalación con lo que entrega el gas, y lo que entrega el gas está en esos datos. Un detalle que cae: si en tu zona está previsto cambiar de gas, por ejemplo pasar de propano a gas natural, la instalación tiene que valer para los dos, para no rehacerla el día del cambio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · Grado de gasificación",
+   "titulo": "Solo dos cifras: 30 y 70",
+   "vinetas": [
+    "Grado 1: hasta 30 kW",
+    "Grado 2: de 30 a 70 kW",
+    "Grado 3: más de 70 kW"
+   ],
+   "img_brief": "residential gas boiler mounted on wall",
+   "notas": "N1: ¿Qué es eso del grado de gasificación?\nN2: Es una etiqueta según la potencia que va a tener la instalación de una vivienda o local. Solo tienes que memorizar dos números: treinta y setenta kilovatios. Hasta treinta, grado uno; entre treinta y setenta, grado dos; por encima de setenta, grado tres. Nada más. La potencia, recuerda, es cuánto gas es capaz de quemar la instalación cuando está a tope. ¿Por qué importa el grado? Porque marca cómo tratas la instalación: cuanto más grande, más exigencias. Y guárdate bien el setenta, porque reaparece enseguida: las instalaciones de más de setenta kilovatios hay que individualizarlas, sacarlas aparte. El treinta y el setenta caen muchísimo, así que que no se te olviden."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · Potencia de la vivienda",
+   "titulo": "Los dos aparatos grandes, enteros",
+   "vinetas": [
+    "Los dos mayores cuentan enteros",
+    "El resto, dividido entre 2",
+    "Mínimo obligatorio: 30 kW"
+   ],
+   "img_brief": "kitchen with gas cooker and wall boiler",
+   "notas": "N1: ¿Cómo calculo la potencia de una vivienda?\nN2: Con un truco muy lógico. En una casa no todos los aparatos pesan igual, porque es rarísimo que enciendas todo a la vez. Así que la fórmula lo tiene en cuenta: los dos aparatos que más consumen, normalmente la caldera y la cocina, o la caldera y el calentador, cuentan enteros. El resto de aparatos, los secundarios, se dividen entre dos, porque casi nunca coinciden todos funcionando. Sumas eso y lo multiplicas por uno coma diez, que es un pequeño coeficiente corrector del gas. Y una regla de oro: pase lo que pase, nunca bajes de treinta kilovatios, que es el suelo obligatorio del grado uno. Aunque te salga menos, pones treinta. Ejemplo: una vivienda con caldera y cocina cuenta esos dos enteros; si además tiene un calentador auxiliar, ese va a la mitad."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · Local no doméstico",
+   "titulo": "En un local, se suma todo",
+   "vinetas": [
+    "Suma de todos los consumos",
+    "Multiplicado por 1,10",
+    "Simultaneidad solo si se justifica"
+   ],
+   "img_brief": "commercial kitchen gas range restaurant",
+   "notas": "N1: ¿Y en un bar o un local, se hace igual?\nN2: No, en un local no doméstico cambia la lógica. En una vivienda descontabas los aparatos pequeños porque no se usan a la vez, pero en un local, por ejemplo la cocina de un restaurante, sí puede estar todo funcionando en plena hora punta. Por eso aquí sumas los consumos de todos los aparatos, sin dividir ninguno entre dos, y lo multiplicas por ese uno coma diez. Es la potencia del local. Si quieres aplicar algún coeficiente de simultaneidad para rebajarlo, puedes, pero tienes que justificarlo debidamente por escrito, no vale rebajar a ojo. La idea de fondo: donde es probable el uso simultáneo, se cuenta todo; donde no lo es, se descuenta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.3 · Potencia común",
+   "titulo": "El edificio entero: la potencia Pc",
+   "vinetas": [
+    "Pc = Sn × ΣPiv + ΣPil",
+    "Más viviendas, menos simultaneidad",
+    "Con calefacción, el factor sube"
+   ],
+   "img_brief": "apartment building gas riser pipes",
+   "notas": "N1: ¿Y cómo calculo lo que pide el edificio entero?\nN2: Sumando lo de todas las viviendas y locales que cuelgan de la misma acometida, incluidos los pisos que todavía no tienen instalación pero podrían tenerla. A las viviendas les aplicas un factor de simultaneidad, que se llama ese ene, y a los locales los sumas aparte. La clave del factor es puro sentido común: cuanto más grande es el edificio, menos probable es que todos usen el gas a la vez, así que el factor baja. Para una sola vivienda vale uno, esa sola puede tenerlo todo encendido; para más de treinta viviendas se queda en quince centésimas. Y una regla que cae fijo: existen dos factores, uno sin calefacción y otro con calefacción, y el de con calefacción siempre es mayor, porque la calefacción tira mucho gas y hace más probable que coincidan usándolo. Menos viviendas o con calefacción, factor más alto; muchas viviendas y sin calefacción, factor más bajo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.3 · Más de 70 kW",
+   "titulo": "Lo grande va aparte",
+   "vinetas": [
+    "Individualizar: conectar aguas arriba",
+    "Una llave a cada lado para aislar",
+    "Restaurante, lavandería, caldera de bloque"
+   ],
+   "img_brief": "industrial gas shut off valve pipeline",
+   "notas": "N1: ¿Qué significa exactamente individualizar una instalación grande?\nN2: Significa sacarla aparte para que no dependa del resto del edificio. Imagina un restaurante, una lavandería o la caldera común de un bloque: todo eso puede pasar de setenta kilovatios. No puede colgar en serie del mismo conjunto de regulación que los vecinos, como si fuera un piso más, porque el día que tengas que repararlo dejarías sin gas a todo el edificio. Así que se individualiza: se conecta aguas arriba, o sea antes del conjunto de regulación de las viviendas, con su propia derivación. Y muy importante, en esa derivación se ponen dos llaves, una a cada lado, para poder aislar esa instalación grande sin tocar la de los vecinos. Hecho así, el día que reparas el restaurante, cierras sus dos llaves y los vecinos ni se enteran. Hay una excepción para locales solo comerciales, que pueden compartir el conjunto de regulación y separarse aguas abajo con llaves accesibles, pero la regla general es aguas arriba."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.4 · Caudales de diseño",
+   "titulo": "Caudal = potencia entre Hs",
+   "vinetas": [
+    "Individual: qsi = Pi / Hs",
+    "Común: qsc = Pc / Hs",
+    "Si el gas va por masa, en kg/h"
+   ],
+   "img_brief": "gas flow meter dial gauge",
+   "notas": "N1: Ya tengo la potencia. ¿Cómo paso a caudal?\nN2: Con una división muy sencilla, y fíjate en el patrón porque siempre es el mismo: el caudal es la potencia dividida entre el Hache ese. La potencia, en kilovatios, es lo que pide la instalación; el Hache ese, el poder calorífico superior, es lo que entrega cada metro cúbico de gas. Si divides lo que pides entre lo que da cada metro cúbico, te sale cuántos metros cúbicos por hora tienes que mover. Y ese caudal es justo lo que necesitas para elegir el grosor del tubo. Lo haces igual para una vivienda, para el edificio o para un aparato suelto: siempre potencia entre Hache ese. Un aviso: si el gas se vende por peso, como el butano o el propano en kilos, entonces el caudal te sale en kilos por hora en vez de en metros cúbicos por hora. Pero la operación es la misma."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.5 · Criterios de cálculo",
+   "titulo": "Dos topes que caen fijo",
+   "vinetas": [
+    "Velocidad máxima: 20 m/s",
+    "Presión mínima gas natural: 17 mbar",
+    "Butano 20; propano 42,5 o 25 mbar"
+   ],
+   "img_brief": "blue gas flame burner close up",
+   "notas": "N1: ¿Qué límites tengo que respetar al calcular?\nN2: Dos, y los dos entran en el examen casi seguro. El primero es la velocidad del gas dentro del tubo: no puede pasar de veinte metros por segundo. ¿Por qué? Porque si el gas corre demasiado rápido, silba, vibra y arrastra la suciedad del tubo hacia el aparato. El segundo son las presiones mínimas en la llave del aparato: el gas natural necesita al menos diecisiete milibares, el butano veinte, el propano cuarenta y dos coma cinco cuando va a cincuenta, y veinticinco cuando va a treinta y siete. ¿Por qué mínimas? Porque si al aparato le llega menos presión de la que marca la tabla, no funciona bien: la caldera modula a la baja o se apaga, el calentador no calienta. Y si le falta presión, casi siempre es porque el tubo se quedó corto de diámetro o el gas va demasiado rápido. Por eso estos dos topes mandan sobre todo el cálculo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Documentación",
+   "titulo": "Del cálculo al certificado",
+   "vinetas": [
+    "Cálculos en memoria o proyecto",
+    "Certificado de instalación (modelo IRG)",
+    "Firma la empresa instaladora habilitada"
+   ],
+   "img_brief": "installer signing installation certificate document",
+   "notas": "N1: Estos cálculos, ¿se quedan en mi libreta?\nN2: No. Todo lo que has calculado tiene que quedar reflejado en papel. Si la instalación es de las que lo exigen por potencia o por tipo, va en un proyecto firmado por un técnico competente; en las más sencillas, basta con una memoria. Y cuando la obra está terminada, todo se plasma en el certificado de instalación de gas, el famoso modelo I erre ge, que firma la empresa instaladora habilitada y se entrega a la distribuidora antes de dar gas. La regla de oro es esta: el papel tiene que cuadrar con lo montado. Si has dimensionado una cosa y has instalado otra, ese certificado no deberías firmarlo, porque estás certificando algo que no es verdad. Lo que se firma, se responde."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes echar los números del gas",
+   "mapa": [
+    "La distribuidora te da los 7 datos de partida",
+    "Grado de gasificación: recuerda 30 y 70 kW",
+    "Caudal = potencia / Hs, y con él eliges el tubo",
+    "Nunca más de 20 m/s ni por debajo de la presión mínima"
+   ],
+   "tagline": "Con esto la caldera da toda su potencia. En el siguiente vídeo, por dónde llevamos el tubo.",
+   "notas": "N1: Vale, ha sido denso. Si me quedo con lo esencial, ¿qué es?\nN2: Reconstruyamos el hilo, que verás que encaja. Empezaste sabiendo que la distribuidora te entrega siete datos: sin ellos no calculas nada, porque son lo que el gas entrega. Con esos datos sacaste potencias: en la vivienda, los dos aparatos grandes enteros y el resto a la mitad, nunca por debajo de treinta kilovatios; en el edificio, sumando todo y aplicando el factor de simultaneidad, que baja cuantas más viviendas hay. De la potencia pasaste al caudal con una sola división, potencia entre Hache ese, y con el caudal eliges el grosor del tubo. Y todo el cálculo respeta dos topes: veinte metros por segundo de velocidad y las presiones mínimas en el aparato.\nN1: ¿Y cómo se pregunta esto?\nN2: En el examen te clavan las cifras: el treinta y el setenta de los grados, el veinte de la velocidad, los diecisiete milibares del gas natural, y el más de setenta se individualiza. En la obra es aún más real: casi todas las averías de este aparato no rinde son en realidad una instalación mal dimensionada, un tubo que se quedó corto. Si dominas esto, no solo apruebas: diagnosticas. Hoy ya eres más gasista que ayer. Y ahora que sabes cuánto gas hay que mover, en el vídeo siguiente vemos por dónde puede ir ese tubo y por dónde no. Te espero allí."
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "pie": "Curso Gas B · Tema 06 · Instaladores y empresas instaladoras",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 06 · Reglamento · ITC-ICG 09",
+   "videoxy": "Vídeo 2 de 3",
+   "titulo": "La empresa instaladora de gas",
+   "subtitulo": "Declaración responsable, requisitos y obligaciones",
+   "notas": "N1: ¿En qué se diferencia este vídeo del anterior?\nN2: En que ahora montamos la otra mitad de la ITC nueve. En el vídeo uno hablamos de la persona, el instalador con su carné. Aquí hablamos de la empresa instaladora, que es quien de verdad factura, firma los certificados y responde si algo sale mal. Vas a aprender cómo se pone en marcha una empresa, con la famosa declaración responsable, qué requisitos tiene que cumplir, incluido el seguro con sus cifras exactas, y qué obligaciones arrastra. Y cerramos volviendo a los aparatos gordos del vídeo uno, para ver qué formación extra hace falta. Un aviso: este es el vídeo de los números y los plazos. Cae en el examen tal cual, con cantidades y plazos, así que apúntatelos según los vayamos diciendo."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "600.000 €",
+     "seguro de la categoría B por siniestro"
+    ],
+    [
+     "4",
+     "años de garantía por mala ejecución"
+    ],
+    [
+     "1 mes",
+     "para comunicar cambios o el cese"
+    ]
+   ],
+   "notas": "N1: ¿Por qué estos tres números?\nN2: Porque son los tres que más se preguntan de este vídeo, y conviene tenerlos desde el principio. El primero, seiscientos mil euros: es el seguro de responsabilidad civil que necesita una empresa de categoría be por cada siniestro; ahora veremos que la a y la ce tienen otras cifras. El segundo, cuatro años: es la garantía que da la empresa por su trabajo; si montas mal y en esos cuatro años aparece un problema por tu obra, respondes tú. Y el tercero, un mes: es el plazo que tienes para avisar a la Administración si cambia algo de tu empresa o si cierras. Quédate con la foto general; ahora los desarrollamos uno a uno."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3 · La empresa",
+   "titulo": "Qué es la empresa instaladora",
+   "vinetas": [
+    "Persona física o jurídica",
+    "Monta, repara, mantiene y controla",
+    "Hereda la categoría del instalador",
+    "Empresa B = instalador B"
+   ],
+   "img_brief": "gas installation company van with tools",
+   "notas": "N1: ¿La empresa puede hacer cosas distintas que el instalador?\nN2: No, y esto simplifica mucho el estudio. Una empresa instaladora es una persona física o jurídica, o sea, puede ser un autónomo o una sociedad, que se dedica a montar, reparar, mantener y hacer el control periódico de instalaciones de gas. La clave está aquí: la empresa hereda la categoría. Sus competencias son idénticas a las del instalador de la misma letra. Traducido: una empresa de categoría be puede hacer exactamente lo mismo que un instalador de categoría be, todo lo que vimos en el vídeo uno. No hay una lista aparte de operaciones para empresas. Entonces, ¿qué cambia entre persona y empresa? No lo que pueden hacer, sino los requisitos para existir: los papeles, el personal y el seguro. Eso es lo que vamos a ver ahora."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.1 · Alta",
+   "titulo": "La declaración responsable",
+   "vinetas": [
+    "Se presenta ante la comunidad autónoma",
+    "Antes de empezar la actividad",
+    "Declaras categoría y actividades",
+    "Declaras que cumples y respondes"
+   ],
+   "img_brief": "person signing official form document",
+   "notas": "N1: ¿Y cómo se da de alta una empresa de gas, con mucho papeleo?\nN2: Menos del que crees, y ahí está la gracia de la declaración responsable. Antes de empezar a trabajar, presentas ante el órgano competente de tu comunidad autónoma un documento en el que declaras varias cosas. Te las cuento como si rellenaras el formulario. Primero, para qué categoría vas a trabajar: la a, la be o la ce. Segundo, si además vas a hacer puesta en marcha, mantenimiento, reparación o adecuación de aparatos. Tercero, que cumples todos los requisitos que pide la ITC. Cuarto, que tienes la documentación que lo demuestra. Quinto, que te comprometes a mantener todo eso mientras trabajes. Y sexto, que te responsabilizas de que las instalaciones se ejecuten conforme al Reglamento. Fíjate en la idea de fondo: no entregas papeles, declaras bajo tu firma que cumples. La Administración se fía de tu palabra firmada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · Empresas de la UE",
+   "titulo": "Empresas de otro país de la UE",
+   "vinetas": [
+    "Régimen de libre prestación",
+    "Misma declaración responsable",
+    "Antes de iniciar la actividad",
+    "Acreditan el personal cualificado"
+   ],
+   "img_brief": "european union flags outside building",
+   "notas": "N1: ¿Y una empresa de fuera de España cómo entra?\nN2: Con casi el mismo papel, para que veas que no es tan distinto. Aquí hablamos de una empresa legalmente establecida en otro país de la Unión Europea que quiere venir a trabajar a España de forma puntual; a eso se le llama régimen de libre prestación. Esa empresa, antes de empezar, presenta ante la comunidad autónoma donde va a actuar una declaración responsable con el mismo contenido que la de una empresa española: categoría, actividades de aparatos, que cumple, que tiene la documentación, que la mantiene y que responde de la ejecución. La única pieza extra: como su personal se formó fuera, tiene que hacer constar que dispone de la documentación que acredita esa cualificación, según las normas europeas de reconocimiento. No te líes con los dos apartados: uno es para quien se establece en España, y el otro para quien viene de la Unión Europea. El papel, en esencia, es el mismo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.3 · Documentación",
+   "titulo": "Declaras, pero no entregas",
+   "vinetas": [
+    "Se puede hacer por medios electrónicos",
+    "No se exige adjuntar la documentación",
+    "Debe estar disponible al instante",
+    "La Administración puede pedirla"
+   ],
+   "img_brief": "gas technician showing paperwork to inspector",
+   "notas": "N1: Si no entrego los papeles, ¿nadie los comprueba?\nN2: Sí que los comprueban, pero después y cuando quieran. Ese es el espíritu de la declaración responsable. Primero, la comunidad autónoma tiene que dejarte presentarla por internet, por medios electrónicos; nada de colas obligatorias. Segundo, y esto es lo importante, no te pueden exigir que adjuntes la carpeta de documentación junto con la declaración. Tú firmas que cumples y con eso arrancas. Pero, y aquí viene el pero, esa documentación tiene que estar disponible para enseñarla de inmediato si la Administración te la pide en una inspección. Traducción de taller: ten siempre a mano, localizable, el seguro, los carnés y la prueba de tus medios. No vale decir cumplo pero no lo tengo aquí. Declaras, no entregas, pero lo tienes que tener listo para el momento en que llamen a la puerta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartados 3.4 y 3.5 · Habilitación",
+   "titulo": "Habilitada al instante y para siempre",
+   "vinetas": [
+    "La CA te asigna un número de identificación",
+    "Alta en el Registro Integrado Industrial",
+    "Habilita desde que la presentas",
+    "Por tiempo indefinido y en toda España"
+   ],
+   "img_brief": "official registry stamp on document",
+   "notas": "N1: ¿Tengo que esperar a que me aprueben la declaración?\nN2: No, y esto sorprende a mucha gente. En cuanto presentas la declaración responsable, quedas habilitado desde ese mismo momento; no hay que esperar a que nadie te la apruebe. Además, la comunidad autónoma te asigna de oficio, ella sola, un número de identificación, y manda tus datos al Registro Integrado Industrial, que es el gran fichero de empresas industriales. Y hay dos ventajas más que van juntas: la habilitación es por tiempo indefinido, no caduca ni la renuevas cada año, y vale en todo el territorio español, igual que el carné del instalador. Piénsalo: firmas, entregas, y desde ese segundo ya puedes trabajar en cualquier punto del país, para siempre, mientras sigas cumpliendo. Rápido y cómodo, pero recuerda que la comodidad viene con responsabilidad."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartados 3.6 y 3.7 · Control",
+   "titulo": "Te comprueban después; avisa en un mes",
+   "vinetas": [
+    "La Administración comprueba a posteriori",
+    "Mentir u omitir: fuera de la actividad",
+    "Cambios o cese: comunicar en 1 mes",
+    "La firma es de verdad"
+   ],
+   "img_brief": "inspector checking documents with clipboard",
+   "notas": "N1: ¿Y si en la declaración pongo algo que no es cierto?\nN2: Entonces tienes un problema serio, porque la firma es de verdad. Como no entregas papeles al principio, la Administración se reserva el derecho de comprobar después lo que declaraste. Y si detecta que no presentaste la declaración, o que mentiste, o que ocultaste un dato esencial, puede dictar una resolución, después de escucharte, que te deja sin poder seguir ejerciendo la actividad, con el régimen sancionador de la ley de industria por detrás. Por eso insisto: la declaración responsable es cómoda, pero es una firma con consecuencias. Y engancha con otra obligación: si cambia algo de tu empresa, el domicilio, la categoría, el seguro, o si cierras el negocio, tienes que comunicarlo en el plazo de un mes. Apunta ese mes, porque luego lo compararemos con otros plazos que se confunden."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.8 · Personal",
+   "titulo": "Un instalador en plantilla",
+   "vinetas": [
+    "Categoría igual o superior a la empresa",
+    "En plantilla y a jornada completa",
+    "Vale el socio o el autónomo con carné",
+    "O dos a media jornada que cubran el horario"
+   ],
+   "img_brief": "team of gas installers working together",
+   "notas": "N1: ¿Basta con conocer a alguien que tenga el carné?\nN2: No, y este es el requisito estrella del vídeo, así que grábalo. Una empresa necesita al menos un instalador de gas en plantilla, contratado a jornada completa, y de categoría igual o superior a la de la empresa. O sea, una empresa de categoría be necesita como mínimo un instalador be o a, dentro de la plantilla, no un colega que a veces le echa una mano. La lógica es de seguridad: durante el horario de la empresa siempre tiene que haber alguien habilitado y responsable. Ahora, hay formas válidas de cumplirlo sin contratar a nadie de fuera. Una: que el instalador sea uno de los socios de la sociedad, si trabaja a jornada completa. Dos: que la empresa seas tú mismo, autónomo dado de alta con tu carné. Y tres: en vez de uno a jornada completa, dos instaladores a media jornada que entre los dos cubran todo el horario. La idea es siempre la misma: alguien con carné al mando durante toda la actividad."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.8 · Seguro",
+   "titulo": "El seguro: 900, 600 y 300",
+   "vinetas": [
+    "Medios técnicos para trabajar seguro",
+    "A = 900.000 € por siniestro",
+    "B = 600.000 € por siniestro",
+    "C = 300.000 € por siniestro"
+   ],
+   "img_brief": "insurance policy document with signature",
+   "notas": "N1: ¿Y por qué la empresa necesita un seguro tan grande?\nN2: Porque el gas, cuando falla, no falla en pequeño. Antes de nada, la empresa tiene que disponer de los medios técnicos para trabajar con seguridad, las herramientas y los aparatos de medida. Y luego, la pieza más preguntada: un seguro de responsabilidad civil profesional que cubra los daños que puedas causar. Las cifras son números de examen puro, por siniestro: la categoría a, novecientos mil euros; la be, seiscientos mil euros; la ce, trescientos mil euros. Truco para no olvidarlos: van de mayor a menor según la letra, a más alcance más seguro, y bajan en saltos de trescientos mil. Novecientos, seiscientos, trescientos. ¿Por qué tanto? Porque si una instalación tuya provoca una fuga, una explosión o una intoxicación por monóxido de carbono, ese seguro es lo que responde por las víctimas y los daños. Tú, categoría be, seiscientos mil euros, y vigente en todo momento."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.9 · Prohibición",
+   "titulo": "Nada de vender boletines",
+   "vinetas": [
+    "No cedas certificados de obras ajenas",
+    "Si no la montas, no la firmas",
+    "De las infracciones más perseguidas"
+   ],
+   "img_brief": "gas installation certificate with stamp",
+   "notas": "N1: ¿Puedo firmar el boletín de una instalación que ha hecho otro?\nN2: No, jamás, y es una de las prohibiciones más claras de toda la ITC. La empresa instaladora no puede facilitar, ceder ni vender certificados de instalaciones que no ha hecho ella misma. El certificado, el boletín, es la firma de que tu empresa ha montado y probado esa instalación. Si tú no la montaste, tú no la certificas. ¿Por qué está tan perseguido? Porque vender boletines es como firmar un examen que no has hecho: alguien pone su nombre y su responsabilidad a un trabajo que no controla, y detrás de ese papel hay una instalación de gas que puede reventar. Es de las infracciones que más se sancionan en el sector. Regla de una línea: si no la has hecho tú, no la firmas tú."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.10 · Régimen de control",
+   "titulo": "Dos plazos que se confunden",
+   "vinetas": [
+    "15 días naturales para alegar",
+    "Suspensión cautelar: máximo 3 meses",
+    "No los confundas con el mes del cese"
+   ],
+   "img_brief": "calendar with marked deadline dates",
+   "notas": "N1: ¿Y si me abren un expediente, cuánto tiempo tengo para defenderme?\nN2: Tienes plazos concretos, y aquí es fácil liarse, así que vamos a ordenarlos. Cuando la Administración detecta un posible incumplimiento, abre un expediente y te da quince días naturales para alegar, es decir, para aportar tus pruebas y tus descargos, tu versión. Y si la infracción es grave, puede suspenderte cautelarmente la actividad mientras resuelve, por un periodo máximo de tres meses. Ahora la parte que cae en el examen: no confundas estos plazos con el del apartado anterior. Recuerda, el mes era para comunicar tú los cambios o el cese de tu empresa, algo voluntario. Estos dos, los quince días y los tres meses, son del régimen sancionador, cuando la cosa va mal. Tres plazos, tres situaciones: un mes para avisar, quince días para defenderte, tres meses de suspensión como tope."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.12 · Obligaciones",
+   "titulo": "Certificados, garantía y registros",
+   "vinetas": [
+    "Emitir los certificados reglamentarios",
+    "Garantía de 4 años por mala ejecución",
+    "Un registro para la comunidad autónoma",
+    "Otro registro para la distribuidora"
+   ],
+   "img_brief": "filing cabinet with document records",
+   "notas": "N1: De todas las obligaciones, ¿cuáles caen más?\nN2: Tres, y te las explico con su porqué. La primera, emitir los certificados reglamentarios: la empresa es quien firma y entrega el boletín de cada trabajo. La segunda, y la más preguntada, la garantía de cuatro años por mala ejecución: si montas mal y en esos cuatro años aparece un problema por tu trabajo, respondes tú y de las consecuencias que se deriven. Piénsalo como la garantía de tu obra, igual que un electrodoméstico trae la suya. La tercera, llevar dos registros, y ojo que aquí hay trampa porque son dos distintos con dos destinatarios distintos. Uno, el registro de certificados y de informes de anomalías, que está a disposición de la comunidad autónoma. Y dos, el registro de informes de anomalías de los controles periódicos, que está a disposición de las distribuidoras y comercializadores de gas licuado. Cada papel lo pide alguien distinto: no los mezcles."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.1 · Aparatos grandes",
+   "titulo": "Los aparatos gordos piden un plus",
+   "vinetas": [
+    "Conducidos > 24,4 kW y vitro cubierta",
+    "Cualquier categoría puede acreditarlo",
+    "Vía más habitual: acreditación del fabricante",
+    "O título, FP o entidad acreditada"
+   ],
+   "img_brief": "large commercial gas boiler room",
+   "notas": "N1: Volvemos a los aparatos gordos, ¿qué formación hace falta?\nN2: Un plus de acreditación, sí, y aquí lo concretamos. Recuerda los aparatos del vídeo uno: los conducidos de tipo be y ce de más de veinticuatro coma cuatro kilovatios, y las vitrocerámicas de fuegos cubiertos. Para arrancarlos, mantenerlos o repararlos, cualquier instalador, de la categoría que sea, tiene que acreditar una de estas vías. La más habitual en el taller, con diferencia, es la acreditación del fabricante: el curso que te da la marca de la caldera para poder tocar sus equipos. Por eso, cuando instalas una caldera nueva, la marca exige que la ponga en marcha un servicio acreditado por ella. Las otras vías: un título universitario, un título de formación profesional o certificado de profesionalidad, la cualificación reconocida de otro país de la Unión Europea, o una certificación de entidad acreditada. Todas tienen que cubrir los contenidos del anexo dos, del apartado uno al diecisiete, que veremos en el vídeo tres."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.2 · Cambio de gas",
+   "titulo": "Cambio de familia: solo A y B",
+   "vinetas": [
+    "Adecuar de una familia de gas a otra",
+    "Solo categorías A o B",
+    "La C queda fuera",
+    "Fabricante: reconocimiento explícito"
+   ],
+   "img_brief": "technician adjusting gas valve on appliance",
+   "notas": "N1: ¿Y para el cambio de familia de gas es lo mismo?\nN2: Casi, pero con dos diferencias que caen en el examen. La operación es adecuar un aparato por cambio de familia de gas, por ejemplo pasarlo de butano a gas natural. Primera diferencia: esto solo lo pueden acreditar las categorías a y be; la ce queda fuera, porque la ce trabaja con instalaciones que no cambian de familia de gas. Segunda diferencia: las vías son parecidas a las de antes, título, formación profesional, cualificación europea o certificación acreditada, pero se exige el anexo dos completo, no solo del uno al diecisiete, sino también el apartado dieciocho, que va justo de adaptar aparatos a otras familias de gas. Y un matiz de la vía del fabricante: su acreditación tiene que reconocer de forma explícita esa capacidad concreta de cambiar el gas; no vale una acreditación genérica. Chuleta: cuatro punto uno, arrancar los grandes, cualquier categoría, anexo del uno al diecisiete; cuatro punto dos, cambiar de gas, solo la a y la be, anexo completo."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes montar y sostener la empresa",
+   "mapa": [
+    "Declaración responsable: habilitada al instante y para siempre",
+    "Un instalador en plantilla, de categoría igual o superior",
+    "Seguro 900 / 600 / 300 y garantía de 4 años",
+    "Plazos: 1 mes, 15 días y 3 meses"
+   ],
+   "tagline": "Con la persona y la empresa dominadas, solo falta el temario oficial. Vamos a por los anexos.",
+   "notas": "N1: Recapitulamos. ¿Qué me llevo de este vídeo?\nN2: La empresa completa, montada pieza a pieza. Primera, se arranca con una declaración responsable ante tu comunidad autónoma: firmas que cumples, y quedas habilitado desde ese mismo momento, para siempre y en toda España. Cómodo, pero es una firma de verdad: si mientes u omites algo esencial, te quedas fuera. Segunda, para sostener la categoría necesitas al menos un instalador en plantilla, de categoría igual o superior, a jornada completa. Tercera, los números que caen sí o sí: el seguro por siniestro, novecientos mil la a, seiscientos mil la be, trescientos mil la ce, siempre vigente; y la garantía de cuatro años por mala ejecución. Y cuarta, los tres plazos que se confunden: un mes para avisar de cambios o cese, quince días para alegar en un expediente, y tres meses de suspensión como tope.\nN1: ¿Y cómo lo enfoco para el examen?\nN2: El examen adora estos números y estos plazos, y suele mezclarlos a propósito para ver si los distingues. Si tienes claro qué es cada cifra y de qué apartado sale, no caes en la trampa. Y en la obra, esto es lo que te mantiene legal: sin seguro vigente o sin instalador en plantilla, tu empresa no puede firmar un boletín, y sin boletín válido no hay gas. Fíjate lo que llevas ya: sabes quién es el instalador, qué puede tocar, y ahora cómo se monta y se sostiene la empresa. Hoy eres más gasista que ayer. Solo nos queda una pieza: el temario oficial, los anexos, que es lo que te van a preguntar en el examen de tu comunidad. Vamos con el último vídeo."
+  }
+ ]
+}

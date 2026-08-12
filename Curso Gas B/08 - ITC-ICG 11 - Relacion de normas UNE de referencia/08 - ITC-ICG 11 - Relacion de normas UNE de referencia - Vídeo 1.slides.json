@@ -1,0 +1,235 @@
+{
+ "pie": "Curso Gas B · Tema 08 · ITC-ICG 11 · Relación de normas UNE",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 08 · Reglamento · ITC-ICG 11",
+   "videoxy": "Vídeo 1 de 1",
+   "titulo": "Relación de normas UNE de referencia",
+   "subtitulo": "La ITC-ICG 11: tu índice oficial de normas del gas",
+   "notas": "N1: Antes de empezar, ¿esto qué es? ¿Otra lista de cosas que memorizar?\nN2: Tranquilo, es justo lo contrario. Piensa en el Reglamento del gas como un libro enorme. Cada capítulo, cada ITC, te va diciendo cúmplase esta norma, cúmplase esta otra. Pero, ¿dónde está el listado completo de todas esas normas, con su número y su nombre? En un solo sitio: la ITC-ICG once. Es el índice del libro. Este vídeo no te pide empollar títulos de memoria; te enseña a manejar el índice para que en obra encuentres en un vistazo qué norma toca en cada trabajo. Cuando termines, sabrás colocar cualquier norma en su cajón."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "13",
+     "partes que tiene la serie UNE 60670"
+    ],
+    [
+     "4",
+     "tipos de prefijo de norma que verás"
+    ],
+    [
+     "3",
+     "familias de gas que fija la UNE-EN 437"
+    ]
+   ],
+   "notas": "N1: ¿Y estos números por qué son los importantes?\nN2: Porque resumen a qué le tienes que prestar atención. Uno: la serie seis mil seiscientos setenta viene troceada en trece partes, y esa familia es el corazón de tu categoría, la de las instalaciones de casa y de comercio. Dos: verás cuatro tipos de prefijo, cuatro maneras de empezar el nombre de una norma, y cada prefijo te dice de dónde viene. Tres: hay una norma, la cuatrocientos treinta y siete, que define las tres familias de gas, y la vas a citar una y otra vez. Si te quedas con estos tres números, ya tienes el mapa del vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Objeto · Artículo 12",
+   "titulo": "¿Qué es la ITC-ICG 11?",
+   "vinetas": [
+    "El listado oficial de normas UNE",
+    "Remite el artículo 12 del Reglamento",
+    "No añade requisitos técnicos nuevos"
+   ],
+   "img_brief": "technical standards documents binder on desk",
+   "notas": "N1: Entonces, ¿la ICG once es una norma más de las que hay que cumplir?\nN2: No, y esta distinción es clave. La ICG once no te manda hacer nada nuevo. Su único trabajo es guardar, en un solo sitio, la lista de todas las normas UNE que el Reglamento y sus ITC te obligan a cumplir. El artículo doce del Reglamento es el que dice donde vive esa lista, y la lista es la ICG once. Míralo así: cuando cualquier ITC te suelta cúmplase la une tal, tú vas a la ICG once y ahí está esa norma, con su número y su título. Es la lista maestra. Por eso no te enseña a hacer una prueba ni a calcular una ventilación: solo te dice qué normas existen y de qué van."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Cómo entenderla",
+   "titulo": "Un índice, no un manual",
+   "vinetas": [
+    "Dice qué normas existen",
+    "No explica cómo se hace cada cosa",
+    "El contenido está en cada UNE"
+   ],
+   "img_brief": "person reading table of contents in book",
+   "notas": "N1: Vale, pero si necesito saber cómo se hace una prueba de estanquidad, ¿la busco en la ICG once?\nN2: Ahí está el error típico. No. En la ICG once no busques cómo se hace una prueba de estanquidad, ni qué ventilación lleva una caldera. Eso está en la norma concreta, por ejemplo la seis mil seiscientos setenta. Estanquidad, por cierto, quiere decir que no se escape ni una burbuja de gas. La ICG once es como el índice telefónico o como la contraportada de un libro con la lista de capítulos: te dice que el capítulo existe y en qué página está, pero para leer el capítulo tienes que abrir la norma. El índice te lleva; el contenido está en la norma."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Por qué existe",
+   "titulo": "Una ITC solo para la lista",
+   "vinetas": [
+    "Las normas se revisan a menudo",
+    "Se actualiza por Resolución",
+    "Sin tocar el Reglamento entero"
+   ],
+   "img_brief": "government official gazette documents",
+   "notas": "N1: ¿Y por qué montar una ITC entera solo para una lista? Parece un lío.\nN2: Es justo al revés, es lo práctico. Las normas cambian a menudo: sale una edición nueva, se retoca otra. Si esa lista estuviera metida dentro del Reglamento, cada vez que cambiara una une habría que reformar el Reglamento entero, y eso es un proceso lento y pesado. Al tener la lista en una ITC aparte, se actualiza con una simple Resolución de la Dirección General de Industria, sin tocar el mueble grande. Piénsalo como un cajón que puedes reordenar cuando quieras sin desmontar el armario. Por eso la lista siempre está al día."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 12 · La cita",
+   "titulo": "Las normas se citan sin año",
+   "vinetas": [
+    "Las ITC citan la UNE sin fecha",
+    "El año figura solo en la ICG 11",
+    "Regla: usa la edición vigente"
+   ],
+   "img_brief": "copper gas pipe wall installation",
+   "notas": "N1: Una cosa que me chirría: en el curso siempre veo une seis mil seiscientos setenta sin fecha. ¿Es un despiste?\nN2: No, es exactamente como manda el Reglamento, y cae en el examen. Fíjate en la lógica: si una ITC citara la norma con su año, en cuanto saliera una edición nueva la ITC quedaría anticuada. Para evitarlo, las ITC citan la norma sin año. El único sitio donde el año figura de forma oficial es la ICG once, junto al número y el título. ¿Y qué haces tú en obra? Usar siempre la edición vigente según el listado actualizado. Por eso en las tablas del curso tampoco ponemos año: reproducimos número y título, tal como se cita en el trabajo real."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Cuando cambia una norma",
+   "titulo": "El periodo de coexistencia",
+   "vinetas": [
+    "La nueva edición no mata a la antigua",
+    "Un tramo valen las dos",
+    "La Resolución fija las fechas"
+   ],
+   "img_brief": "calendar planning on office wall",
+   "notas": "N1: Y cuando sacan una edición nueva, ¿de un día para otro la vieja ya no vale?\nN2: No, no es un corte seco, y esto tranquiliza mucho. Cuando sale una edición nueva, hay un tramo en el que valen las dos a la vez: es el periodo de coexistencia. Durante ese tiempo, un trabajo hecho con la edición anterior sigue siendo válido, hasta una fecha en la que la vieja deja de aplicar. Quien fija esas fechas, desde cuándo vale la nueva y hasta cuándo la antigua, es la Resolución de actualización. La regla práctica para ti es sencilla: usa siempre la edición vigente. Así nunca te pillan con una norma caducada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Los prefijos",
+   "titulo": "De dónde viene cada norma",
+   "vinetas": [
+    "UNE: española (AENOR)",
+    "UNE-EN: europea adoptada",
+    "UNE-EN ISO: internacional",
+    "UNE-CEN/TR: informe técnico"
+   ],
+   "img_brief": "european union flags row",
+   "notas": "N1: Me lío con tanta sigla: une, une-en, une-en iso... ¿qué diferencia hay?\nN2: Hay un truco muy fácil: cuantas más siglas, más lejos viene la norma. Une, a secas, es de casa, española, la elabora AENOR. Une-en es europea, una norma europea adoptada como española. Une-en iso es internacional, del mundo entero, iso adoptada como europea y española. Y une-cen barra te erre es un informe técnico europeo, documentación de apoyo, no una especificación de obligado cumplimiento pleno como una norma. Fíjate que todas empiezan por une: al final todas son españolas. Lo que cambia es el origen, y el origen te dice el alcance. Si te preguntan si la seis mil seiscientos setenta es europea, no: la serie sesenta mil es nacional."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Serie 60xxx y 123xxx",
+   "titulo": "Normas UNE nacionales",
+   "vinetas": [
+    "60xxx: núcleo nacional del gas",
+    "Distribución: 60310 / 60311 / 60312",
+    "Receptoras y GLP: 60620, 60670, 60250",
+    "Chimeneas: 123001"
+   ],
+   "img_brief": "gas meter cabinet outdoor wall",
+   "notas": "N1: Dentro de las nacionales, ¿cómo me oriento entre tantos números?\nN2: Agrúpalas por lo que hacen, no las memorices sueltas. La serie sesenta mil es la de las normas nacionales del gas. Dentro, hay tres bloques que te conviene distinguir. Distribución, la red de la calle: seis mil trescientos diez, trescientos once y trescientos doce, según la presión. Instalaciones receptoras, lo que va dentro del edificio: seis mil seiscientos veinte para gas natural por encima de cinco bar, y seis mil seiscientos setenta hasta cinco bar. Y luego el GLP en depósito, la seis mil doscientos cincuenta. La ciento veintitrés mil uno es chimeneas. Con esos bloques ya no te pierdes."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tu categoría B",
+   "titulo": "La serie 60670, tu pan de cada día",
+   "vinetas": [
+    "Instalaciones receptoras hasta 5 bar",
+    "Lo doméstico y comercial",
+    "Troceada en 13 partes",
+    "60670-8: estanquidad · 60670-6: ventilación"
+   ],
+   "img_brief": "technician checking gas boiler in kitchen",
+   "notas": "N1: De todas estas, ¿cuál voy a usar de verdad en el día a día?\nN2: La familia seis mil seiscientos setenta, sin duda. Es la norma de las instalaciones receptoras hasta cinco bar, es decir, lo doméstico y lo comercial de siempre, el núcleo de tu categoría B. Y viene troceada en trece partes muy prácticas, cada una previene una avería concreta. La parte ocho son las pruebas de estanquidad: la que evita la fuga que si no aparece luego con olor y riesgo. La parte seis, la ventilación y evacuación de humos del local: la que evita la intoxicación por monóxido y que el aparato se apague por falta de aire. La parte siete, la conexión de aparatos. Y la parte nueve, las pruebas previas para dar gas por primera vez. Memoriza qué hace cada parte y tendrás medio examen ganado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "No las confundas",
+   "titulo": "MOP: la presión lo decide todo",
+   "vinetas": [
+    "MOP = máxima presión de operación",
+    "60670: hasta 5 bar (lo tuyo)",
+    "60620: más de 5 bar (industrial)",
+    "310/311/312: distribución, no receptora"
+   ],
+   "img_brief": "industrial gas pressure regulator station",
+   "notas": "N1: Veo seis mil seiscientos setenta y seis mil seiscientos veinte y me hago un lío. ¿Cómo las separo?\nN2: Por la presión, y aquí entra una sigla que verás mil veces: MOP, la máxima presión de operación, la presión más alta a la que la instalación trabaja de forma normal y continuada. Cuando leas MOP menor o igual a cinco bar, piensa instalación de vivienda y comercio. Ese umbral de cinco bar es la frontera: la seis mil seiscientos setenta es hasta cinco bar, lo tuyo; la seis mil seiscientos veinte es por encima de cinco bar, industrial. Un truco para no fallar: el número más alto, seiscientos setenta, es la presión más baja. Y ojo, la trescientos diez, once y doce ya no son receptoras, son distribución, la red de la calle. Meter una norma de distribución en el boletín de una vivienda es un error que salta a la primera revisión."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Europeas e internacionales",
+   "titulo": "Normas UNE-EN, ISO y CEN/TR",
+   "vinetas": [
+    "Distribución europea: 12007, 1594, 12327",
+    "Chimeneas: 1856-1, 13384",
+    "Fuego: 1363-1, 13501-1",
+    "Calidad: EN ISO 9001"
+   ],
+   "img_brief": "gas distribution pipeline construction site",
+   "notas": "N1: Y todas esas une-en, ¿de qué van en general?\nN2: Son las de origen europeo e internacional, y también se agrupan por temas. Para la distribución europea tienes la doce mil siete, la mil quinientos noventa y cuatro y la doce mil trescientos veintisiete, esta última de ensayos de presión y puesta en servicio de la red. Para chimeneas y humos, la mil ochocientos cincuenta y seis y la trece mil trescientos ochenta y cuatro, que es la de cálculo. Para comportamiento frente al fuego, la mil trescientos sesenta y tres y la trece mil quinientos uno. Y la iso nueve mil uno es la de gestión de la calidad. No hace falta que te las sepas de carrerilla: basta con que sepas a qué cajón temático pertenece cada una."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "La reina de las citas",
+   "titulo": "UNE-EN 437 y CEN/TR 1749",
+   "vinetas": [
+    "437: las 3 familias de gas",
+    "1.ª manufacturado · 2.ª natural · 3.ª GLP",
+    "1749: tipos de aparato A, B, C",
+    "Según cómo evacúan los humos"
+   ],
+   "img_brief": "blue gas flame on burner",
+   "notas": "N1: Has dicho que la cuatrocientos treinta y siete la cito mil veces. ¿Por qué es tan importante?\nN2: Porque define las tres familias de gas y las categorías de aparatos. Las tres familias son: primera, gases manufacturados y aire propanado; segunda, gas natural; tercera, los GLP, butano y propano. Cada vez que en el curso oigas tres familias, detrás está la cuatrocientos treinta y siete. Y tiene una compañera inseparable, la cen barra te erre mil setecientos cuarenta y nueve, que clasifica los aparatos por tipos: tipo A, tipo B y tipo C, según cómo evacúan los humos de la combustión. Esto no es teoría de adorno: equivocar el tipo de aparato, poner un tipo A donde hace falta un C estanco, es diseñar una intoxicación por monóxido desde el papel."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "GLP · lo que tocas con las manos",
+   "titulo": "Reguladores, inversores y mangueras",
+   "vinetas": [
+    "12864: reguladores",
+    "13786: inversores automáticos",
+    "16436: mangueras y tubos flexibles",
+    "Manguera agrietada = fuga típica"
+   ],
+   "img_brief": "gas cylinder with regulator and hose",
+   "notas": "N1: De todo el listado, ¿qué normas voy a tener en las manos de verdad con el GLP?\nN2: Tres muy concretas. La doce mil ochocientos sesenta y cuatro es la de los reguladores, esa pieza que baja la presión de la bombona a la de trabajo. La trece mil setecientos ochenta y seis, la de los inversores automáticos, que cambian solos de una bombona vacía a otra llena. Y la dieciséis mil cuatrocientos treinta y seis, la de las mangueras y tubos flexibles. Esta última es puro día a día: la manguera caducada o agrietada es de las fugas más típicas en las cocinas de butano, cámbiala en cada revisión. Y un regulador mal tarado da presión incorrecta, y con ella llama amarilla y mala combustión. Ves cómo el listado, que parecía un rollo de papel, se convierte en averías concretas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Que no te líen",
+   "titulo": "Modificaciones y enmiendas",
+   "vinetas": [
+    "/1M y /A1: parche a la norma base",
+    "+A1 y +A2: ya vienen incorporadas",
+    "No son normas nuevas",
+    "En el boletín citas la norma base"
+   ],
+   "img_brief": "hand writing corrections on document",
+   "notas": "N1: En la tabla veo la misma norma repetida con barra a uno, barra a dos... ¿son normas distintas?\nN2: No, y esto confunde a mucha gente. Esas marcas son la misma norma retocada. La barra uno eme o la barra a uno es un parche que corrige o amplía la norma base; salió después para arreglar o completar algo. Y la marca más a uno significa que la enmienda ya viene incorporada, consolidada, en la versión que se cita. Por eso ves varias entradas de la doce mil ochocientos sesenta y cuatro, con barra a uno, a dos y a tres: es la misma norma de reguladores con tres parches sucesivos. En obra tú citas la norma base; el parche va implícito en la edición vigente. No cuentes cada marca como si fuera una norma nueva."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "El método rápido",
+   "titulo": "Cómo localizar la norma en un vistazo",
+   "vinetas": [
+    "Calle (distribución): 310/311/312, 12007",
+    "Dentro hasta 5 bar: 60670",
+    "Chimeneas y humos: 123001, 13384",
+    "GLP: 12864, 13786, 16436"
+   ],
+   "img_brief": "installer sorting technical folders on site",
+   "notas": "N1: En el examen, cuando me den una tarea, ¿cómo encuentro rápido la norma?\nN2: Con unos cuantos cajones mentales. Pregúntate primero qué tipo de trabajo es. ¿Es tubería de la calle, distribución? Series trescientos diez, once y doce si son nacionales, o doce mil siete, mil quinientos noventa y cuatro y doce mil trescientos veintisiete si son europeas. ¿Es instalación dentro del edificio hasta cinco bar? La seis mil seiscientos setenta, casi seguro. ¿Chimeneas y humos? Ciento veintitrés mil uno, mil ochocientos cincuenta y seis y trece mil trescientos ochenta y cuatro. ¿Reguladores, inversores o mangueras de GLP? Doce mil ochocientos sesenta y cuatro, trece mil setecientos ochenta y seis y dieciséis mil cuatrocientos treinta y seis. Con esos cajones colocas casi cualquier norma del listado sin habértela aprendido de memoria."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Donde aterriza todo",
+   "titulo": "El boletín: aquí se juega la norma",
+   "vinetas": [
+    "Certificado de instalación (el boletín)",
+    "Lo firma el instalador habilitado",
+    "Va a la distribuidora para el alta",
+    "Norma mal citada = alta rechazada"
+   ],
+   "img_brief": "technician filling installation certificate paperwork",
+   "notas": "N1: Y todo esto de las normas, al final, ¿en qué papel se nota?\nN2: En el certificado de instalación de gas, lo que en obra llamamos el boletín, del tipo I erre ge según tu comunidad autónoma. Lo firma el instalador o la empresa instaladora habilitada de la categoría que corresponda, y se entrega a la empresa distribuidora para el alta y la puesta en servicio, con copia para el usuario y registro ante el órgano de industria de tu comunidad. Aquí es donde todo lo del vídeo cobra sentido: si en ese boletín pones la referencia equivocada, o citas una edición caducada, o metes una norma de distribución en una vivienda, la distribuidora te lo rechaza y te deja la instalación sin dar de alta hasta que lo corrijas. Y las revisiones periódicas, apoyadas en la sesenta y seis setenta parte doce y parte trece, generan su propio certificado. Manejar bien el índice de normas es, literalmente, que no te tumben el trabajo."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes moverte por el índice de normas del gas",
+   "mapa": [
+    "La ICG 11 es la lista maestra (artículo 12)",
+    "Se cita sin año: usa la edición vigente",
+    "La serie 60670 es el corazón de tu categoría",
+    "Colocas cualquier norma en su cajón"
+   ],
+   "tagline": "Con esto no memorizas normas: las localizas. Cierras el tema con el mapa completo en la cabeza.",
+   "notas": "N1: Cerramos. Si me quedo con lo esencial, ¿qué me llevo?\nN2: Reconstruyamos el hilo. Primero, qué es esto: la ICG once es tu lista maestra, el índice al que remite el artículo doce del Reglamento; no manda nada nuevo, solo guarda dónde está cada norma. Segundo, cómo se citan: sin año, porque las normas se revisan; el año vive solo en la ICG once y se actualiza por Resolución, así que tú siempre usas la edición vigente. Tercero, la joya: la serie seis mil seiscientos setenta, tus instalaciones hasta cinco bar, troceada en trece partes que puedes ligar a averías reales. Y cuarto, el método de los cajones para colocar cualquier norma por su tema y su presión.\nN1: ¿Y cómo me cae esto en el examen y en la obra?\nN2: En el examen te lo cruzan: te preguntan si la seis mil seiscientos setenta es nacional o europea, qué parte trata la ventilación, o qué diferencia hay entre distribución y receptora. Si tienes los cajones claros, respondes sin dudar. Y en la obra aterriza en el boletín: una norma bien citada es un alta sin problemas; una mal citada es la instalación parada. Fíjate en lo que has conseguido: has convertido una lista aparentemente aburrida en una herramienta para no fallar. Hoy ya eres más gasista que ayer, y con este tema cierras el bloque de normativa con el mapa entero en la cabeza. Enhorabuena."
+  }
+ ]
+}

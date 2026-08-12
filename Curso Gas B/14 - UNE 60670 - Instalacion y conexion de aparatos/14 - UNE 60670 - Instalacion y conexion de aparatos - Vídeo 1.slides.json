@@ -1,0 +1,169 @@
+{
+ "pie": "Curso Gas B · Tema 14 · UNE 60670-7",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 14 · UNE 60670-7",
+   "videoxy": "Vídeo 1 de 2",
+   "titulo": "Instalación y conexión de aparatos",
+   "subtitulo": "Generalidades y tipos de conexión",
+   "notas": "N1: Profe, ¿de qué va exactamente este tema?\nN2: Mira, hasta ahora hemos montado tuberías, contadores, ventilaciones... Este tema es el final del recorrido: el momento de colgar el aparato del gas. La norma nos dice tres cosas: dónde puede ir el aparato, a qué distancia del calor, y con qué tipo de tubo lo unimos a la instalación o a la bombona. En este primer vídeo montamos el mapa: qué regula la norma, las reglas de dónde va cada aparato y las dos tablas que deciden qué conexión vale. Piénsalo como el último metro de la instalación, el que más vas a pisar en obra."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["13", "partes de la norma UNE 60670"],
+    ["5 bar", "presión máxima de operación"],
+    ["40 cm", "distancia al foco de calor"]
+   ],
+   "notas": "N1: ¿Y estas cifras qué me dicen del vídeo?\nN2: Te ubican de un vistazo. La primera: toda la norma de instalaciones receptoras se parte en trece cuadernos, y nosotros vivimos en el número siete, el del último metro. La segunda: cinco bar es la presión máxima de la que hablamos, la presión más alta que puede llevar en marcha una instalación receptora; por encima de eso ya es otro mundo. Y la tercera, cuarenta centímetros, es la distancia estrella del vídeo: lo que tiene que separar un calentador colgado encima de una cocina del fuego de abajo. Si te quedas con estas tres, ya sabes de qué palo va todo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "UNE 60670 · Generalidades",
+   "titulo": "Una norma en trece partes",
+   "vinetas": [
+    "Diseñar, montar, probar y revisar",
+    "Instalaciones receptoras MOP ≤ 5 bar",
+    "Parte 7: instalar y conectar aparatos"
+   ],
+   "img_brief": "gas boiler installation on kitchen wall",
+   "notas": "N1: ¿Por qué trece partes? ¿No cabía en una?\nN2: Es que la norma cubre toda la vida de una instalación receptora: diseñarla, construirla, ampliarla, probarla, ponerla en servicio y revisarla año tras año. Para no hacer un mamotreto único, lo reparten en trece cuadernos. Si la instalación fuera un edificio, hay un cuaderno para los tubos, otro para el diseño, otro para la prueba de estanquidad... y nosotros estudiamos el cuaderno siete, el de instalar y conectar los aparatos. Un dato que sí conviene retener: todo esto vale para instalaciones cuya presión máxima de operación, que es la presión más alta que puede llevar en funcionamiento, sea igual o menor a cinco bar. Por encima de cinco bar ya no manda esta norma."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 7 · Objeto",
+   "titulo": "El último metro del gas",
+   "vinetas": [
+    "Instalar y conectar el aparato",
+    "De la llave de aparato hacia el aparato",
+    "El punto donde el gas se enchufa"
+   ],
+   "img_brief": "gas appliance connection valve pipe",
+   "notas": "N1: ¿Y qué tiene de especial la parte siete?\nN2: Que es el tramo final, el que une tu instalación con el aparato de verdad. Acuérdate del tema del reglamento: la instalación receptora termina en la llave de conexión de aparato, esa llavecita que cierra el paso justo antes de la caldera o la cocina. Pues bien, todo lo que viene después de esa llave, el tubo que va hasta el aparato, es lo que gobierna la parte siete. Por eso digo que es el último metro: el punto exacto donde el gas se enchufa al aparato. Y fíjate en la ventaja práctica: si cierras esa llave, el aparato queda aislado y puedes desmontarlo o cambiar el tubo sin ningún peligro."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Campo de aplicación",
+   "titulo": "Dos orígenes del gas",
+   "vinetas": [
+    "Instalación receptora (gas de ciudad)",
+    "Envase de GLP ≤ 15 kg (bombona)",
+    "Mismas reglas para ambos"
+   ],
+   "img_brief": "butane gas cylinder in kitchen",
+   "notas": "N1: Entonces, ¿esto solo vale para el gas natural de la calle?\nN2: No, y este detalle cae mucho. La parte siete manda en dos situaciones. Una, cuando el aparato cuelga de la instalación receptora, el gas de ciudad que llega por la tubería. Y dos, cuando cuelga de una bombona, un envase de gas licuado del petróleo, butano o propano, de contenido igual o menor a quince kilos. Por eso a lo largo del tema oirás una y otra vez «instalación receptora o envase de GLP»: son los dos sitios de donde puede salir el gas, y para los dos valen las mismas reglas de conexión. La bombona de la caravana y la caldera del piso comparten normativa en este punto."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ubicación de aparatos",
+   "titulo": "Tipo B y C: siempre fijos",
+   "vinetas": [
+    "Tipo B y tipo C: instalación fija",
+    "Son los que llevan conducto de humos",
+    "Lo móvil es cosa del tipo A"
+   ],
+   "img_brief": "wall mounted gas boiler fixed",
+   "notas": "N1: ¿Por qué obligan a que estén fijos?\nN2: Piensa en qué es cada tipo. Un aparato tipo B o tipo C es de los que tienen conducto para sacar los humos fuera, como una caldera o un calentador estanco. Un aparato así no puede andar suelto de un lado a otro: tiene que ir anclado, fijo, porque su conducto de evacuación va conectado a un sitio concreto. Lo que sí puede moverse es el tipo A, el que no tiene conducto de humos y respira del propio cuarto: un hornillo de camping, una estufa de butano. Y esto no es un capricho: enlaza directo con las tablas de conexión. Lo fijo admite tubo rígido; lo móvil, casi siempre, tubo flexible. Fíjate cómo una cosa lleva a la otra."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Distancia al calor",
+   "titulo": "40 cm sobre la cocina",
+   "vinetas": [
+    "Circuito abierto encima de cocción",
+    "40 cm horizontales al quemador",
+    "Con pantalla de protección, hasta 10 cm"
+   ],
+   "img_brief": "gas water heater above kitchen stove",
+   "notas": "N1: ¿De dónde sale eso de los cuarenta centímetros?\nN2: Imagínate un calentador de los de circuito abierto, esos que cogen el aire del cuarto, colgado justo encima de la encimera. Cuando enciendes los fuegos de abajo para cocinar, sube una columna de calor que le da de lleno al calentador y lo puede achicharrar. Para evitarlo, la norma exige que el extremo más cercano del calentador guarde cuarenta centímetros en horizontal respecto al quemador más próximo de la cocina. ¿Y si no tengo tanto sitio? Entonces pones una pantalla, una protección que corte ese calor, y con eso puedes bajar hasta diez centímetros. La regla para el examen es facilísima: cuarenta sin protección, diez con protección."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Distancia al calor",
+   "titulo": "El tipo C, 10 cm fijos",
+   "vinetas": [
+    "El tipo C es estanco",
+    "Coge aire y saca humos por su conducto",
+    "10 cm, lleve pantalla o no"
+   ],
+   "img_brief": "sealed gas boiler flue pipe",
+   "notas": "N1: ¿Y por qué el tipo C se libra con solo diez?\nN2: Porque el tipo C es el listo de la clase: es un aparato estanco. Estanco quiere decir que está sellado respecto a la habitación; coge el aire de fuera y expulsa los humos por su propio conducto, sin respirar del cuarto donde está. Como no depende del aire de la habitación y está mucho más protegido de ese golpe de calor de los fuegos, la norma se conforma con diez centímetros siempre, tenga pantalla o no la tenga. Resumen para que no se te olvide: circuito abierto, cuarenta o diez según la pantalla; tipo C, diez fijos y a otra cosa."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tipos de conexión",
+   "titulo": "Todo pasa por la llave",
+   "vinetas": [
+    "Conexión tras la llave de aparato",
+    "Tabla 1: aparatos de gas",
+    "Tabla 2: mecheros y sopletes",
+    "Si el aparato vibra, flexible"
+   ],
+   "img_brief": "flexible gas hose connection appliance",
+   "notas": "N1: Vale, ¿y cómo elijo el tubo que une la llave con el aparato?\nN2: Con dos tablas, y no hay más misterio. La conexión se hace siempre a partir de la llave de conexión de aparato, esa frontera de la que hablábamos. Para los aparatos normales, cocinas, calderas, calentadores, secadoras, usas la tabla uno. Para mecheros de laboratorio y sopletes, la tabla dos. Cada tabla te dice qué tipos de tubo valen. Y una regla de oro que está por encima de todo: cuando el aparato vibra al funcionar, una secadora, un equipo con motor, se recomienda tubo flexible. ¿Por qué? Porque un tubo rígido soldado a algo que tiembla acaba fatigándose y agrietándose, igual que un alambre que doblas muchas veces se acaba partiendo. El flexible absorbe ese temblor."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tabla 1 · Aparatos",
+   "titulo": "Cómo leerla sin marearte",
+   "vinetas": [
+    "Rígida → solo aparatos fijos",
+    "Con enchufe de seguridad → solo doméstico",
+    "Elastómeros → lo móvil y el GLP"
+   ],
+   "img_brief": "gas installation copper pipe wall",
+   "notas": "N1: La tabla tiene un montón de casillas, ¿me las aprendo todas?\nN2: Ni de broma, no memorices treinta casillas. Quédate con la lógica y colocas casi cualquier pregunta. Primera idea: la conexión rígida vale solo para aparatos fijos, dé igual que sea una casa o una industria; para algo móvil, rígida jamás. Segunda idea: los dos tubos que llevan enchufe de seguridad son solo de uso doméstico, de casa, pero sirven tanto para fijo como para móvil. Tercera idea: los tubos de elastómero, la goma, son el mundo de lo móvil y de las bombonas de GLP. Con esas tres frases resuelves la tabla uno sin empollarla."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Concepto clave",
+   "titulo": "El enchufe de seguridad",
+   "vinetas": [
+    "Conexión rápida que corta el gas sola",
+    "Al desenchufar, no hay fuga",
+    "Por eso: solo uso doméstico"
+   ],
+   "img_brief": "gas safety quick connector plug",
+   "notas": "N1: ¿Qué es exactamente ese enchufe de seguridad?\nN2: Es una conexión rápida, tipo enganche, que tiene un truco: al desenchufar el aparato, corta el gas ella sola, automáticamente. No tienes que ir a cerrar ninguna llave; tiras del enganche y el paso se cierra. ¿Ves por qué la norma la reserva para uso doméstico? Está pensada para que en casa puedas separar la cocina o el aparato para limpiar detrás, o para cambiarlo, sin que se escape ni una burbuja de gas. En industria y comercio no se admiten esas conexiones con enchufe; allí se montan de otra forma. Enchufe de seguridad es igual a casa y a comodidad segura."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tabla 2 · Mecheros y sopletes",
+   "titulo": "Aquí, rígida nunca",
+   "vinetas": [
+    "Mecheros y sopletes se mueven",
+    "Conexión rígida: siempre NO",
+    "Van con flexibles adecuados"
+   ],
+   "img_brief": "laboratory bunsen burner flame",
+   "notas": "N1: ¿Y la tabla dos en qué se diferencia?\nN2: La tabla dos es solo para mecheros de laboratorio, los tipo Bunsen, y para sopletes. Y aquí hay una diferencia gorda: la conexión rígida es siempre que no. Piénsalo, tiene toda la lógica: un mechero o un soplete los mueves con la mano para trabajar, no vas a soldarlos con un tubo rígido a la pared. Por eso van con tubos flexibles: con enchufe de seguridad, de elastómero, o metálico corrugado. Un detalle fino que a veces cae: el tubo de elastómero con armadura para sopletes sigue la norma de las mangueras de soldadura, la de soldeo y corte, porque un soplete al fin y al cabo es una herramienta de soldar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "El papeleo",
+   "titulo": "Lo que firmas queda escrito",
+   "vinetas": [
+    "Certificado de instalación (el boletín)",
+    "Tabla de aparatos, modelo IRG-3",
+    "Se entrega al usuario"
+   ],
+   "img_brief": "technician filling gas installation certificate",
+   "notas": "N1: Todo esto, ¿queda en algún papel?\nN2: Sí, y conviene que lo tengas claro. Dónde va el aparato y qué tipo de conexión le has puesto forma parte de lo que la empresa instaladora refleja y firma en el certificado de instalación, lo que en la calle llamamos el boletín, con su tabla de aparatos del modelo IRG tres, y también en el certificado de puesta en marcha del aparato. Ese papel se le entrega al usuario y queda a disposición de la empresa distribuidora y de la comunidad autónoma. Aquí está la parte seria: si conectas un aparato con un tubo que la tabla no permite para ese uso, estás firmando algo que no cumple la norma. Tu firma dice que está bien hecho."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes colgar cualquier aparato",
+   "mapa": [
+    "Parte 7: el último metro, tras la llave de aparato",
+    "40/10 cm al calor; el tipo C, 10 fijos",
+    "Dos tablas: aparatos, y mecheros y sopletes",
+    "Fijo → rígida; lo móvil y el GLP → flexible"
+   ],
+   "tagline": "Con esto ya no improvisas delante de un aparato. En el vídeo 2 montamos cada conexión al detalle.",
+   "notas": "N1: Profe, si tuviera que quedarme con lo esencial de hoy, ¿qué sería?\nN2: Reconstruyamos el hilo. Empezamos situando la parte siete dentro de la norma: es el último metro, todo lo que va de la llave de conexión de aparato hacia el aparato, y vale igual si el gas viene de la instalación receptora o de una bombona de hasta quince kilos. Luego, dónde poner el aparato: los tipo B y C van fijos, y un aparato de circuito abierto encima de la cocina necesita cuarenta centímetros al fuego, o diez con pantalla, mientras que el tipo C, por ser estanco, se queda en diez fijos. Y por último, con qué unirlo: dos tablas, la uno para aparatos y la dos para mecheros y sopletes, gobernadas por tres ideas, rígida solo fijos, enchufe de seguridad solo casa, y elastómeros para lo móvil y el GLP.\nN1: ¿Y cómo cae esto en el examen?\nN2: Te lo preguntan cruzado: te dan un aparato móvil doméstico y te piden si vale la rígida, o te sueltan la distancia al foco de calor a ver si dices cuarenta o diez. Y en la obra decide si tu boletín cumple o te lo tumba el inspector. Hoy ya eres más gasista que ayer: sabes dónde va cada aparato y por qué. En el vídeo dos bajamos al taller y montamos los siete tipos de conexión uno a uno, con sus longitudes y sus prohibiciones. Te espero allí."
+  }
+ ]
+}

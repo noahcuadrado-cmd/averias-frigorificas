@@ -7,160 +7,170 @@
    "videoxy": "Vídeo 2 de 4",
    "titulo": "Centros de envases de GLP (II)",
    "subtitulo": "4.ª y 5.ª categoría, documentación y transporte",
-   "notas": "N1: ¿Dónde ves tú, en tu día a día, las bombonas más de cerca?\nN2: En la gasolinera y en la tienda de barrio. Cerramos la ITC-ICG cero dos con los centros más habituales: la cuarta categoría, pequeños almacenes y anexos a gasolineras, y la quinta, la propia gasolinera y el comercio que vende butano. Después vienen los papeles, el mantenimiento y las reglas de transporte, incluidas las del camión de reparto y las de tu propio coche. Son las normas que más vas a pisar en la calle: presta atención a las cifras y a los carteles."
+   "notas": "N1: ¿Y las bombonas de la gasolinera y de la ferretería del barrio? Esas también tendrán sus reglas.\nN2: Claro, y son justo las que más vas a ver en la calle. En este segundo vídeo terminamos la ITC-ICG cero dos bajando a lo pequeño y a lo cotidiano. Vemos la cuarta categoría, esos pequeños almacenes anexos a gasolineras, y la quinta, que es la propia gasolinera y la tienda que vende bombonas. Después vienen los papeles, la documentación y la puesta en servicio, el mantenimiento periódico, y las reglas de transporte de envases, incluido lo que puedes llevar en tu propio coche. Presta atención a las cifras y a los carteles, porque son pregunta fácil si te suenan las frases exactas."
   },
   {
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
     ["500 kg", "tope de la 5.ª categoría"],
-    ["2 años", "entre inspecciones del centro"],
-    ["2", "bombonas máx. en tu coche"]
+    ["2 años", "inspección por organismo de control"],
+    ["2", "envases máx. en coche particular"]
    ],
-   "notas": "N1: Tres cifras que resumen el vídeo entero.\nN2: Primera, quinientos kilos es el tope de la quinta categoría, la gasolinera y la tienda. Segunda, cada dos años pasa la inspección del centro por un organismo de control, y sin ese papel favorable no te llenan las bombonas. Y tercera, la más preguntada: en tu coche particular puedes llevar como mucho dos envases de hasta quince kilos, ni uno más. Con estas tres en la cabeza, el resto encaja."
+   "notas": "N1: Dame tres cifras para arrancar.\nN2: Tres números que hoy caen seguro. El primero: quinientos kilos es el tope de la quinta categoría, la gasolinera y la tienda; por encima de ahí ya juegas en otra liga. El segundo: la inspección periódica del centro por un organismo de control es cada dos años, y sin ese papel no te llenan las bombonas. Y el tercero, muy preguntado: en tu coche particular solo puedes llevar dos envases de hasta quince kilos, ni uno más. Con estas tres ya tienes el mapa del vídeo."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.3 · 4.ª categoría",
    "titulo": "La versión mini y sencilla",
    "vinetas": [
-    "Vallado perimetral de 2 m",
+    "Vallado de 2 m en todo el perímetro",
     "3 m a locales habitados",
     "6 m si está en patio cerrado",
     "2 extintores 21A-113B"
    ],
-   "img_brief": "small gas cylinder yard fence",
-   "notas": "N1: ¿Qué se le pide a un centro de cuarta comparado con los grandes del vídeo uno?\nN2: Muy poquito, y esa es la idea: poca cantidad de gas, protección proporcional. Un vallado perimetral de dos metros, fijado al suelo y hecho de forma que no se puedan manipular las bombonas desde fuera, y nada de muro resistente al fuego. Distancia mínima a locales habitados, tres metros, o seis si el almacenamiento está en un patio cerrado por los cuatro lados. Y dos extintores de eficacia veintiuno a, ciento trece b, cada uno en sitio accesible. Ni bocas de incendio ni alarma permanente: eso era de las categorías grandes."
+   "img_brief": "small gas cylinder storage fenced yard",
+   "notas": "N1: ¿Qué se le pide a un centro de cuarta categoría?\nN2: Muy poco comparado con las categorías grandes del vídeo anterior, y eso es lo que tienes que notar. Aquí basta con un vallado de dos metros en todo el perímetro, fijado al suelo y hecho de forma que nadie pueda manipular las bombonas desde fuera; no hace falta el muro serio resistente al fuego. Las distancias también son cortas: tres metros a locales habitados, o seis metros si el almacenamiento está en un patio cerrado por los cuatro lados. Y de incendios, dos extintores de veintiuno a, ciento trece b. Nada de bocas de agua ni alarma permanente. La regla de fondo es proporcional: poca cantidad de gas, protección proporcional."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 3.3 · Anexo a gasolinera",
-   "titulo": "Las bombonas junto al surtidor",
+   "eyebrow": "Apartado 3.3 · Anexos a EE.SS.",
+   "titulo": "4.ª junto a una gasolinera",
    "vinetas": [
     "Fuera de la propia estación de servicio",
-    "10 m al área de suministro",
-    "Estación = recinto delimitado",
-    "Referencia: MI-IP04"
+    "A 10 m del área de suministro",
+    "Separa bombonas de los surtidores"
    ],
-   "img_brief": "petrol station fuel pumps forecourt",
-   "notas": "N1: ¿Y si el pequeño almacén de bombonas está pegado a una gasolinera?\nN2: Entonces debe ubicarse fuera de la propia estación de servicio y guardar una distancia mínima de diez metros respecto al área de las instalaciones de suministro a vehículos, la de los surtidores. La estación de servicio es todo ese recinto delimitado por una línea perimetral, con el pavimento, la zona de descarga del cisterna, los surtidores, los monolitos y las instalaciones. Esos diez metros son los que separan la jaula de bombonas de la zona donde se reposta. Es la distancia que más te van a preguntar de la cuarta."
+   "img_brief": "gas station fuel pumps forecourt",
+   "notas": "N1: ¿Y si ese pequeño almacén está pegado a una gasolinera?\nN2: Entonces se le añade una condición clave. El almacenamiento de cuarta categoría anexo a una estación de servicio tiene que ubicarse fuera de la propia estación, y a una distancia mínima de diez metros respecto al área donde se suministra a los vehículos, la zona de los surtidores. Piensa en el porqué: los surtidores son una fuente constante de posibles chispas y vapores de gasolina, así que las bombonas se apartan diez metros de ahí. Esos diez metros son la distancia que separa el gas envasado del repostaje. La estación de servicio, por cierto, es todo ese recinto delimitado: pavimento, isla, zona de descarga, surtidores, monolitos y demás instalaciones."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 3.4.1 · 5.ª categoría",
-   "titulo": "La gasolinera y sus jaulas",
+   "eyebrow": "Apartado 3.4.1 · 5.ª en EE.SS.",
+   "titulo": "La gasolinera: máximo 500 kg",
    "vinetas": [
     "Capacidad total máxima: 500 kg",
     "Tipos de envase separados 5 m",
-    "Vehículos y ≤ 15 kg: 2 alturas",
+    "Coche y ≤ 15 kg: 2 alturas",
     "Cartuchos ≤ 3 kg: 4 alturas (40 cm)"
    ],
-   "img_brief": "gas cylinder cage petrol station",
-   "notas": "N1: ¿Cómo se organiza la quinta en una gasolinera?\nN2: Aquí ya no hablamos de naves, sino de la jaula de bombonas de la estación de servicio. Dos números que caen: máximo quinientos kilos en total, y si conviven varios tipos de envase, cada almacenamiento es independiente y distan entre sí cinco metros como mínimo. Y ojo a las alturas de apilado por tipo: los envases para vehículos y los de hasta quince kilos, dos alturas; los cartuchos y envases de hasta tres kilos, los populares, hasta cuatro alturas con cuarenta centímetros entre ellas y tres filas por altura. Truco: la botella grande sube menos, el cartucho pequeño sube más."
+   "img_brief": "gas cylinder cage at petrol station",
+   "notas": "N1: ¿Cómo se organizan las bombonas en la propia gasolinera?\nN2: Aquí ya no hablamos de naves, sino de la jaula de bombonas de la estación de servicio. En una misma estación pueden convivir tres cosas: envases de GLP para coches con motor, cartuchos no rellenables o envases de hasta tres kilos, y bombonas de hasta quince kilos. Pero pase lo que pase, la capacidad total máxima es de quinientos kilos. Si hay varios tipos juntos, cada uno va en su almacenamiento independiente y separados cinco metros entre sí. Y fíjate en las alturas de apilado, que cambian por tipo: los envases de coche y los de hasta quince kilos, dos alturas; los cartuchos pequeños de hasta tres kilos, hasta cuatro alturas, con cuarenta centímetros entre ellas."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.4.1.1 · Reglas comunes",
-   "titulo": "Distancias y construcción",
+   "titulo": "Espacios abiertos y distancias",
    "vinetas": [
-    "En espacios abiertos, piso a nivel",
-    "Cubierta A2-s3,d0 sobre R 180",
+    "En espacios abiertos, no bajo tierra",
     "4 m a aireación, bocas y vías",
-    "2 m a bordillos, sumideros, surtidores"
+    "2 m a bordillos, sumideros, surtidores",
+    "2 extintores 21A-113B"
    ],
-   "img_brief": "outdoor gas storage cage station",
-   "notas": "N1: ¿Qué condiciones comunes cumplen las tres clases de envase de la quinta?\nN2: Se colocan en espacios abiertos, pudiendo estar bajo la propia cubierta de la estación de servicio, con el piso al nivel del terreno o por encima, sin cortar la circulación de vehículos. Si hay cubierta protectora, será de material incombustible, clase A dos, sobre estructura estable al fuego R ciento ochenta, y el pavimento no absorbente y que no produzca chispas. Y dos distancias de seguridad: cuatro metros a tubos de aireación, bocas de carga de los tanques y vías públicas; dos metros a bordillos, sumideros, surtidores y aberturas a ras de suelo. Como protección, dos extintores portátiles de veintiuno a, ciento trece b."
+   "img_brief": "outdoor gas cylinder storage cage",
+   "notas": "N1: ¿Qué reglas comparten todos esos envases de la gasolinera?\nN2: Van en espacios abiertos, pudiendo estar bajo la propia cubierta de la estación, y con el piso nunca por debajo del terreno; siempre buscando que el gas, si fuga, se ventile y no se embolse. Si hay cubierta, será de material que no arda, sobre estructura estable al fuego, y el pavimento no absorbe ni hace chispas al golpearlo. Las distancias de seguridad van en dos números fáciles de emparejar: cuatro metros a tubos de aireación, bocas de carga de los tanques y vías públicas; y dos metros a bordillos, sumideros, surtidores y aberturas a ras de suelo que comuniquen con locales de abajo. Y de incendios, dos extintores portátiles de veintiuno a, ciento trece b como mínimo."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.4.1.2 · Jaulas",
-   "titulo": "La jaula que respira",
+   "titulo": "La jaula respira arriba y abajo",
    "vinetas": [
-    "Material incombustible A2-s3,d0",
+    "Material que no arde (A2-s3,d0)",
     "Ventilación superior e inferior",
-    "Sin manipulación fuera de horario",
-    "El GLP fugado se va al suelo"
+    "Cerradas al público fuera de servicio"
    ],
-   "img_brief": "ventilation grille metal cage",
-   "notas": "N1: ¿Por qué una jaula de bombonas lleva rejilla arriba y abajo?\nN2: Porque tiene que respirar por los dos extremos. Si hay una fuga, el GLP, más pesado que el aire, se va al suelo y sale por la rejilla de abajo; y la de arriba deja circular el aire para que no se embolse. Sin esa ventilación doble, el gas se queda acumulado y una chispa lo enciende. Las jaulas se construyen con material incombustible, clase A dos, con superficie de ventilación superior e inferior, y fuera del horario de servicio no permiten que nadie ajeno manipule los envases desde fuera. Imagen para recordarlo: la jaula respira por arriba y por abajo."
+   "img_brief": "ventilated metal gas bottle cage",
+   "notas": "N1: ¿Por qué las jaulas tienen que ventilar por arriba y por abajo, y no solo por un lado?\nN2: Buena pregunta, y la respuesta es física. Si una botella fuga, el GLP pesa más que el aire y se va al suelo; la rejilla de abajo deja que ese gas pesado escape en vez de quedarse embolsado en la jaula. Y la rejilla de arriba deja circular el aire para que todo se ventile. Por eso las dos, arriba y abajo: la jaula respira por los dos extremos. Además, la jaula se hace de material que no arde y, fuera del horario de servicio, no permite que nadie de fuera manipule los envases. Imagen para recordarlo: una jaula bien hecha es como una chimenea al revés, saca el gas por abajo."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 3.4.2.1 · Tienda grande",
-   "titulo": "Comercio de 150 a 500 kg",
+   "eyebrow": "Apartado 3.4.2 · Comercios",
+   "titulo": "La tienda se parte en 150 kg",
    "vinetas": [
-    "Máximo 500 kg, en planta baja",
+    "Envases inferiores a 15 kg y cartuchos",
+    "Hasta 150 kg: tienda pequeña",
+    "De 150 a 500 kg: tienda grande",
+    "Escaparate: solo envases vacíos"
+   ],
+   "img_brief": "hardware store gas bottles shelf",
+   "notas": "N1: ¿Y la tienda de barrio que vende bombonas, cómo se regula?\nN2: El comercio se parte en dos según los kilos que almacene, y esa frontera son los ciento cincuenta kilos. Por debajo, hasta ciento cincuenta kilos, es la tienda pequeña, con reglas más suaves. Por encima, de ciento cincuenta a quinientos kilos, es la tienda grande, más exigente. En ambos casos vendemos envases de menos de quince kilos, envases populares y cartuchos no rellenables. Y una frase de oro que cae en las dos: en el escaparate solo se exhiben envases vacíos. La que se ve desde la calle, vacía. Vamos a ver cada nivel por separado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.4.2.1 · 150 a 500 kg",
+   "titulo": "Tienda grande, más exigente",
+   "vinetas": [
     "3 extintores 21A-113B",
-    "Rejilla al suelo de 400 cm²",
-    "4 m a escaleras · 8 m a arquetas"
+    "Rejilla a ras de suelo: 400 cm²",
+    "4 m a escaleras · 8 m a arquetas",
+    "Planta baja, nunca en sótano"
    ],
-   "img_brief": "hardware store gas cylinders shelf",
-   "notas": "N1: La tienda que vende bombonas, ¿qué exige si guarda entre ciento cincuenta y quinientos kilos?\nN2: Es la versión exigente del comercio. Máximo quinientos kilos, en planta baja y con el nivel no por debajo del terreno. Tres extintores de veintiuno a, ciento trece b cerca de la zona de venta. Una o más rejillas a ras de suelo con ventilación directa, de cuatrocientos centímetros cuadrados como mínimo, sin que un lado pase del doble del otro. Y dos distancias: cuatro metros a comunicaciones con escaleras o sótanos, y ocho metros a arquetas, tragaluces o bocas de alcantarilla que bajen de nivel. El establecimiento va separado por muros sin huecos de otros locales ajenos."
+   "img_brief": "floor ventilation grille indoor",
+   "notas": "N1: ¿Qué se le pide a la tienda grande, la de 150 a 500 kilos?\nN2: Más cosas, porque hay más gas. Tres extintores de veintiuno a, ciento trece b cerca de la zona de venta. Ventilación directa a ras de suelo mediante una o más rejillas de al menos cuatrocientos centímetros cuadrados, sin que un lado sea más del doble que el otro; esa rejilla baja es la que deja salir el gas pesado si fuga. Las zonas van en planta baja, nunca por debajo del terreno. Y dos distancias de seguridad: cuatro metros a comunicaciones con escaleras, sótanos u otros locales de nivel inferior, y ocho metros a arquetas, tragaluces o bocas de alcantarillado que comuniquen con espacios de abajo. Remátalo con muros sin huecos hacia otros locales y techo o cubierta de material que no arde."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 3.4.2.2 · Tienda pequeña",
-   "titulo": "Comercio hasta 150 kg",
+   "eyebrow": "Apartado 3.4.2.2 · Hasta 150 kg",
+   "titulo": "Tienda pequeña, más suave",
    "vinetas": [
-    "Ventilación necesaria y suficiente",
-    "Nunca en sótano ni semisótano",
     "2 extintores 13A-55B",
-    "Separada de llamas y focos de calor"
+    "Ventilación necesaria",
+    "Nunca en sótano ni semisótano",
+    "Escaparate: solo recipientes vacíos"
    ],
-   "img_brief": "small shop storage room shelves",
-   "notas": "N1: ¿Y la tienda pequeña, la de hasta ciento cincuenta kilos?\nN2: Reglas más suaves. Basta con que el área esté separada de llamas incontroladas y focos de calor, con la ventilación necesaria, y nunca, nunca en sótano ni semisótano, porque el gas pesado se acumula abajo y no ventila. Dos extintores de eficacia trece a, cincuenta y cinco b en lugar accesible. El truco de examen es partir el comercio por los ciento cincuenta kilos: por debajo, tres a, o mejor dicho dos extintores trece a, cincuenta y cinco b y prohibido el sótano; por encima, hasta quinientos, tres extintores veintiuno a, ciento trece b y rejilla de cuatrocientos."
+   "img_brief": "small shop counter gas cartridges",
+   "notas": "N1: ¿Y la tienda pequeña, hasta 150 kilos?\nN2: Aquí baja la exigencia porque baja el gas. Basta con dos extintores de trece a, cincuenta y cinco b en lugar accesible, separación de llamas y fuentes de calor, y la ventilación necesaria. Y hay una prohibición que cae fijo: nunca en sótano ni en semisótano. ¿Por qué? Por lo de siempre, el GLP pesa más que el aire y en un sótano se acumularía abajo sin poder ventilar. Los envases van ordenados o en jaulas, incluso en muebles expositores que cumplan las condiciones de ventilación. Y otra vez la frase de oro: en el escaparate, solo recipientes vacíos. Fíjate en el detalle que cruza el examen: la tienda pequeña lleva extintores trece a, cincuenta y cinco b, distintos de los veintiuno a, ciento trece b de la grande."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.4.2 · Carteles",
-   "titulo": "Los carteles y el escaparate",
+   "titulo": "Dos carteles distintos",
    "vinetas": [
-    "Entrada: prohibido fumar zonas señalizadas",
+    "Entrada: prohibido fumar en zonas señalizadas",
     "Junto a envases: prohibido fumar a 5 m",
-    "En el escaparate, solo envases vacíos",
-    "Demostraciones: personal competente"
+    "Muros sin huecos a otros locales"
    ],
    "img_brief": "no smoking warning sign shop",
-   "notas": "N1: ¿Qué frases exactas de los carteles caen en el examen?\nN2: Son dos carteles distintos y no hay que confundirlos. A la entrada del establecimiento, prohibido fumar en las zonas señalizadas, que es genérico. Y junto a los envases, prohibido fumar a menos de cinco metros de esta zona, bien visible. Retén el número del segundo: cinco metros. Otras dos de oro: en los escaparates solo se exhiben envases vacíos, la que se ve es la vacía; y las demostraciones de aparatos conectados a GLP las hace personal competente con medidas de seguridad. Los carteles son pregunta fácil si te suenan las frases exactas."
+   "notas": "N1: Has dicho que los carteles caen en examen, ¿cuáles son exactamente?\nN2: En la tienda grande hay dos carteles diferentes, y conviene no confundirlos. En la entrada del establecimiento va uno genérico: prohibido fumar en las zonas señalizadas. Y junto a la zona de los envases va otro más concreto: prohibido fumar a menos de cinco metros de esta zona. El número que tienes que retener es ese cinco, asociado al cartel que está pegado a las bombonas. Son pregunta fácil si te suenan las frases tal cual. Y súmale que el establecimiento va separado de otros locales ajenos por muros sin huecos, para que un problema no se propague de un negocio a otro."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 4 · Documentación",
-   "titulo": "¿Proyecto sí, proyecto no?",
+   "titulo": "Proyecto sí, proyecto no",
    "vinetas": [
     "Sin autorización administrativa previa",
     "Proyecto solo en 1.ª, 2.ª y 3.ª",
-    "4.ª y 5.ª se libran del proyecto",
+    "4.ª y 5.ª: sin proyecto",
     "Inspección: para TODO centro"
    ],
-   "img_brief": "engineer reviewing technical drawings",
-   "notas": "N1: ¿Qué papeles necesita un centro de envases para arrancar?\nN2: Regla clara. La construcción no precisa autorización administrativa previa: en Gas B lo normal es hacer y comunicar, no pedir permiso antes. Proyecto de técnico facultativo competente solo para los centros grandes, primera, segunda y tercera; las pequeñas, cuarta y quinta, se libran del proyecto. Pero ojo, la inspección por un organismo de control es para todo centro, grande o pequeño, una vez terminada la construcción. Esa es la clave que se pregunta: proyecto solo grandes, inspección para todos."
+   "img_brief": "engineer reviewing technical blueprint",
+   "notas": "N1: ¿Qué papeles hacen falta para poner en marcha un centro de envases?\nN2: Vamos por orden, porque aquí hay tres ideas que se cruzan. Primera: un centro de envases no necesita autorización administrativa previa; no pides permiso antes de construir. Segunda: hace falta proyecto de técnico facultativo competente solo en los centros grandes, primera, segunda y tercera; la cuarta y la quinta se libran del proyecto. Y tercera, la que más se olvida: la inspección por un organismo de control es para todo centro, grande o pequeño. Resume así la filosofía de Gas B: no se pide permiso, se hace, se inspecciona y se comunica después. Hacer y comunicar, no pedir permiso."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 4 · Puesta en servicio",
-   "titulo": "Se hace, se inspecciona y se comunica",
+   "titulo": "Se comunica a la Comunidad",
    "vinetas": [
     "Datos del titular y plano de detalle",
-    "Certificado de inspección del organismo",
-    "Se comunica a la Comunidad Autónoma",
-    "Comunicar faculta, no da conformidad"
+    "Certificado de inspección",
+    "La comunicación faculta el servicio",
+    "No es conformidad de la Administración"
    ],
-   "img_brief": "office desk stamped documents folder",
-   "notas": "N1: Tras inspeccionar, ¿cómo se pone en marcha el centro?\nN2: El titular presenta ante el órgano competente de la Comunidad Autónoma sus datos y la ubicación con plano descriptivo de detalle, el proyecto y el certificado de dirección de obra si los hubo, y el certificado de inspección del organismo de control. Con esa documentación presentada, los centros de segunda, tercera, cuarta y quinta ya pueden ponerse en servicio. Pero fíjate en el matiz: presentar los papeles te faculta para arrancar, no significa que la Administración dé su conformidad técnica. La responsabilidad sigue siendo del titular."
+   "img_brief": "official documents folder stamp",
+   "notas": "N1: Si no pido permiso antes, ¿cuándo aviso a la Administración?\nN2: Después de la inspección favorable. El titular presenta ante el órgano competente de la Comunidad Autónoma tres cosas: sus datos y la ubicación con un plano descriptivo de detalle, el proyecto y certificado de dirección de obra si los hubo, y el certificado de inspección del organismo de control. Con esa documentación presentada, los centros de segunda, tercera, cuarta y quinta ya pueden ponerse en servicio. Ojo al matiz que cae: esa presentación te faculta para arrancar, pero no significa que la Administración dé su conformidad técnica. Tú respondes de que está bien hecho; el papel solo deja constancia."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 5 · Mantenimiento",
-   "titulo": "El papel que abre el gas",
+   "titulo": "Cada 2 años y la llave del gas",
    "vinetas": [
+    "Titular responsable del mantenimiento",
     "Inspección cada 2 años",
-    "Organismo de control comprueba capacidad",
-    "Certificado favorable al titular y a la CA",
-    "Sin certificado, no hay suministro"
+    "No supera la capacidad comunicada",
+    "Sin certificado favorable: no hay gas"
    ],
-   "img_brief": "inspector checklist industrial site",
-   "notas": "N1: ¿Cómo se autovigila el sistema una vez el centro funciona?\nN2: Con dos ideas que van juntas. La inspección del centro es cada dos años por un organismo de control, que comprueba que no se sobrepasa la capacidad comunicada y que se siguen cumpliendo las medidas de seguridad. Emite el certificado de inspección, entrega copia al titular y remite otra a la Comunidad Autónoma. Y aquí está la llave: no se suministra GLP a ningún centro si el titular no acredita, con copia de ese certificado, que la inspección se hizo en plazo y con resultado favorable. El operador que trae el gas te pide el papel; si no lo tienes, no hay gas."
+   "img_brief": "inspector checking gas installation",
+   "notas": "N1: Una vez en marcha, ¿cómo se vigila el centro?\nN2: Con una inspección periódica cada dos años, hecha por un organismo de control. En esa visita comprueban dos cosas: que no se ha superado la capacidad total de almacenamiento que comunicaste, y que se siguen cumpliendo todas las medidas de seguridad. El organismo emite un certificado de inspección, entrega copia al titular y manda otra a la Comunidad Autónoma. Y aquí está el mecanismo genial con el que el sistema se autovigila: no se suministra GLP a ningún centro si el titular no acredita, con copia de ese certificado favorable, que la inspección se ha hecho en plazo. Sin papel, no hay gas. Ese certificado es, literalmente, la llave del suministro, y el titular es quien debe tenerlo al día."
   },
   {
    "tipo": "contenido",
@@ -169,51 +179,37 @@
    "vinetas": [
     "Máximo 2 envases de hasta 15 kg",
     "Siempre de pie y sujetos",
-    "Nunca en aparcamiento subterráneo",
+    "Prohibido aparcar en subterráneo",
     "Nuevos y sin gas: pueden ir tumbados"
    ],
-   "img_brief": "gas cylinder in car boot",
-   "notas": "N1: ¿Qué puedes y qué no puedes hacer al llevar bombonas en tu vehículo?\nN2: Dato preguntadísimo: en un vehículo particular puedes llevar como mucho dos envases móviles de hasta quince kilos, ni uno más. Van siempre en posición vertical, de pie, y sujetos para que no vuelquen ni se golpeen. Y jamás aparques un vehículo con bombonas en un garaje subterráneo, otra vez la lógica del gas pesado que se acumula abajo. La única excepción a lo de ir de pie son los envases nuevos o reparados y sin gas, que en el trayecto de fábrica o taller a la planta sí pueden ir tumbados."
+   "img_brief": "gas cylinders secured in van",
+   "notas": "N1: ¿Qué puedo llevar y cómo en mi propio coche?\nN2: Dato preguntadísimo: en un vehículo particular solo puedes llevar dos envases de hasta quince kilos, ni uno más. Y siempre de pie y bien sujetos, con lo necesario para que no vuelquen durante el trayecto, porque un envase que cae puede golpear la válvula y fugar. Hay una prohibición que no falla: jamás aparques un vehículo con bombonas en un garaje subterráneo, otra vez por la lógica del gas pesado que se acumula abajo sin ventilar. La única excepción a lo de ir de pie son los envases nuevos o reparados y sin gas, cuando van de la fábrica a la planta: esos, al estar vacíos de verdad, pueden ir tumbados."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 6 · Reparto domiciliario",
+   "eyebrow": "Apartado 6 · Reparto",
    "titulo": "El furgón del butanero",
    "vinetas": [
     "Caja con rejillas laterales y traseras",
-    "Cortafuegos si el sitio supera 500 kg",
-    "Sin personas ajenas al servicio",
-    "Extintores según el PMA (3.500 kg)"
+    "Cortafuegos al entrar donde hay > 500 kg",
+    "PMA ≤ 3.500 kg: dos 8A-34B",
+    "PMA > 3.500 kg: carga sube a 13A-55B"
    ],
-   "img_brief": "delivery truck gas cylinders loaded",
-   "notas": "N1: ¿Qué reglas extra tiene el camión de reparto?\nN2: Su caja lleva aberturas laterales y en la parte trasera, a ras del piso, para que si fuga una botella el gas salga solo. Cuando entra a descargar en un sitio que tenga más de quinientos kilos de GLP, monta el aparato cortafuegos en el tubo de escape para que la chispa del motor no prenda la atmósfera. No se llevan personas ajenas al servicio y los envases se tratan con sumo cuidado. Y los extintores dependen del tamaño: la frontera es un peso máximo autorizado de tres mil quinientos kilos. Por debajo, dos extintores ocho a, treinta y cuatro b; por encima, el de la carga sube a trece a, cincuenta y cinco b."
-  },
-  {
-   "tipo": "contenido",
-   "eyebrow": "Repaso relámpago",
-   "titulo": "Cinco anclas antes del cierre",
-   "vinetas": [
-    "4.ª: vallado 2 m · 3/6 m · 2 extintores",
-    "5.ª: 500 kg · separación 5 m",
-    "Tienda: 150 kg parte la exigencia",
-    "Proyecto solo grandes · inspección para todos",
-    "Coche: 2 envases · nunca al sótano"
-   ],
-   "img_brief": "gas cylinders shop storage",
-   "notas": "N1: Antes de cerrar, dame los cinco imprescindibles.\nN2: Uno, la cuarta es la mini: vallado de dos metros, tres o seis metros a viviendas y dos extintores. Dos, la quinta tope de quinientos kilos y cinco metros entre tipos de envase. Tres, la tienda se parte por los ciento cincuenta kilos: por debajo, dos extintores trece a, cincuenta y cinco b y prohibido el sótano; por encima, tres extintores veintiuno a, ciento trece b y rejilla de cuatrocientos. Cuatro, proyecto solo en centros grandes, pero inspección para todos. Y cinco, en tu coche dos bombonas y nunca al garaje subterráneo. Con esas cinco tienes el vídeo."
+   "img_brief": "delivery truck loaded gas cylinders",
+   "notas": "N1: ¿Y el camión que reparte las bombonas, qué reglas lleva?\nN2: Tres detalles y una tabla. Primero, la caja del furgón tiene aberturas laterales y en la parte trasera, a ras del piso, para que si una botella fuga, el gas salga por abajo en vez de acumularse dentro. Segundo, cuando el camión entra a descargar en un sitio con más de quinientos kilos de GLP, un centro o una nave, monta el cortafuegos en el tubo de escape para que la chispa del motor no prenda la atmósfera; ese umbral de quinientos kilos va asociado al cortafuegos. Y tercero, los extintores dependen del tamaño del camión, con la frontera en tres mil quinientos kilos de peso máximo: por debajo, dos extintores de ocho a, treinta y cuatro b, uno en cabina y otro en la carga; por encima, el de la carga sube a trece a, cincuenta y cinco b. Ah, y prohibido llevar personas ajenas al servicio."
   },
   {
    "tipo": "cierre",
    "eyebrow": "Lo que ya dominas",
-   "titulo": "Cierras la ITC-02 con la calle en el bolsillo",
+   "titulo": "Ya controlas la gasolinera, la tienda y el reparto",
    "mapa": [
-    "Distingues 4.ª y 5.ª y sus extintores de memoria",
-    "Sabes cuándo hay proyecto y que la inspección es para todos",
-    "Tienes claro el certificado que abre o corta el suministro",
-    "Transportas bombonas sin jugártela: 2 en el coche, nunca al sótano"
+    "Distingues 4.ª y 5.ª: vallado, distancias y extintores",
+    "Partes la tienda en 150 kg y colocas cada extintor",
+    "Sabes que se inspecciona y se comunica, no se pide permiso",
+    "Transportas envases de pie, sin sótano y sin pasarte de 2"
    ],
-   "tagline": "Dominada la nave de bombonas, subimos de nivel: en el siguiente vídeo, el depósito fijo del chalé.",
-   "notas": "N1: Gran final de la ITC cero dos. ¿Qué conquistas te llevas?\nN2: Cuatro. Una, distingues la cuarta de la quinta y sueltas sus extintores de carrerilla: dos veintiuno a, ciento trece b en la cuarta y en la gasolinera, tres en la tienda grande, dos trece a, cincuenta y cinco b en la pequeña. Dos, sabes que el proyecto es solo de los grandes pero la inspección es para todos, y que un centro no pide permiso previo: se hace y se comunica. Tres, tienes clarísimo que sin el certificado de inspección favorable no te llenan las bombonas. Y cuatro, transportas sin jugártela: dos envases en el coche y nunca al garaje subterráneo.\nN1: ¿Y dónde te lo juegas, en el examen o en la obra?\nN2: En los dos. En el examen te cruzan los carteles, los extintores y las distancias, y esperan que no confundas la tienda de ciento cincuenta con la de quinientos. En la obra, esas cifras son las que te salvan de una fuga embolsada en un sótano o de un cliente sin gas por un papel caducado. Hoy ya eres más gasista que ayer, y además cierras entera la instrucción de los envases. En el siguiente vídeo damos el salto al depósito fijo de GLP, el del chalé y la urbanización sin gas natural, con su norma UNE seis mil doscientos cincuenta. Te espero allí."
+   "tagline": "Con esto cierras la ITC-02 entera. Ahora damos el salto al depósito fijo del chalé.",
+   "notas": "N1: Cerramos la ITC cero dos. ¿Qué me llevo de todo esto?\nN2: Te llevas el terreno que más vas a pisar en la calle, y todo cuelga de la misma lógica de siempre: el gas pesa más que el aire. Por eso las jaulas ventilan arriba y abajo, por eso nunca hay bombonas en sótano ni coches con gas en garajes subterráneos, y por eso el camión lleva la caja con rejillas a ras de suelo. Encima de esa idea has colocado las cifras: quinientos kilos de tope en quinta, la tienda partida en ciento cincuenta, extintores veintiuno a ciento trece b en la grande y trece a cincuenta y cinco b en la pequeña, y en tu coche solo dos envases de hasta quince kilos.\nN1: ¿Y cómo se pregunta esto, y qué papeles me quedan claros?\nN2: En el examen te cruzan las cifras y los carteles: te dan unos kilos de tienda y esperan el extintor correcto, o te piden la frase exacta del cartel de los cinco metros. Y de papeleo te queda una regla limpia: proyecto solo en los centros grandes, inspección para todos, y puesta en servicio que se comunica a la Comunidad Autónoma, más la inspección cada dos años que es la llave del suministro. Con esto cierras la ITC cero dos entera. En el siguiente vídeo cambiamos de escenario y saltamos al depósito fijo de GLP, el del chalé y la urbanización sin gas natural. Nos vemos allí."
   }
  ]
 }

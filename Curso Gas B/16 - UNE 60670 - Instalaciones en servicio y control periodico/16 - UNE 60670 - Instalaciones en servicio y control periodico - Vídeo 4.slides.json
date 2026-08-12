@@ -1,0 +1,229 @@
+{
+ "pie": "Curso Gas B · Tema 16 · UNE 60670-11/12/13",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 16 · UNE 60670-11/12/13",
+   "videoxy": "Vídeo 4 de 4",
+   "titulo": "Control periódico de los aparatos",
+   "subtitulo": "UNE 60670-13 · La ITV del aparato y el CO, el enemigo invisible",
+   "notas": "N1: ¿Qué revisa esta parte que no viéramos antes?\nN2: Ahora le toca al aparato. La Parte doce revisaba las tuberías; la Parte trece revisa los aparatos de gas conectados a la instalación: cómo queman, si devuelven humos al local y si sus dispositivos de seguridad funcionan. Aquí el protagonista es el monóxido de carbono, el CO, un gas que no se ve, no huele y mata sin avisar. Vas a ver los valores de CO y de dióxido de carbono que separan lo seguro de lo peligroso, y dos anexos con el procedimiento exacto de medida. Es la parte más técnica del tema y de las que más vidas salva.\nN1: ¿Por qué dices que salva vidas?\nN2: Porque las intoxicaciones por monóxido en viviendas casi siempre vienen de un aparato que quema mal o que devuelve los humos al local. Un buen control periódico del aparato detecta ese problema antes de que haya una desgracia. Así que ponte cómodo, que este vídeo es puro oficio de gasista. Vamos allá."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["50 ppm", "CO-ambiente: por encima, grave"],
+    ["1000 ppm", "CO en el conducto: no higiénica"],
+    ["18 meses", "calibración del analizador"]
+   ],
+   "notas": "N1: ¿Qué significan estas cifras?\nN2: Son los tres números que gobiernan el vídeo. Cincuenta ppm es el límite del CO en el aire del local, el CO-ambiente: por encima de cincuenta partes por millón, la cosa es grave, principal. Mil ppm es el límite del CO medido dentro del conducto de humos del aparato, el CO de los productos de la combustión: si lo supera, la combustión es no higiénica, principal. Y dieciocho meses es cada cuánto, como máximo, hay que calibrar el analizador de combustión, tu aparato de medida. Ojo a no mezclar los dos primeros: cincuenta es del aire del local, mil es de dentro del conducto. Son medidas distintas en sitios distintos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · Apartado 1",
+   "titulo": "Control periódico no es mantenimiento",
+   "vinetas": [
+    "Revisa el aparato conectado, tal como está",
+    "Cómo quema, si evacúa, si es seguro",
+    "Mantenimiento: lo marca el fabricante",
+    "Esta norma no cubre el mantenimiento"
+   ],
+   "img_brief": "technician checking gas boiler combustion",
+   "notas": "N1: ¿No es lo mismo revisar el aparato que hacerle el mantenimiento?\nN2: No, y es una confusión clásica que debes tener clara. El mantenimiento del aparato, o sea desmontarlo, limpiar el quemador, cambiar piezas, lo marca el fabricante y esta norma no lo cubre. La Parte trece se ocupa del control periódico, que es una comprobación de que el aparato, tal como está instalado, quema bien y es seguro. No lo desmontas: compruebas que funciona correctamente en sus condiciones reales.\nN1: ¿Me lo puedes poner con una comparación?\nN2: Claro. El mantenimiento es «poner a punto» el aparato, como llevar el coche al taller a cambiar aceite y filtros. El control periódico es «pasar la ITV»: no arreglas nada, verificas que cumple y es seguro para seguir en uso. Uno es del fabricante; el otro, del control periódico que hace la empresa habilitada. Con esa imagen no los vuelves a confundir: taller para mantener, ITV para controlar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · Apartado 2",
+   "titulo": "Procedimiento y clasificación",
+   "vinetas": [
+    "Favorable: certificado; si no, informe",
+    "Principal: corta el gas a ese aparato",
+    "Secundaria: 6 meses",
+    "Aquí no hay excepción de 15 días"
+   ],
+   "img_brief": "gas appliance inspection certificate document",
+   "notas": "N1: ¿El procedimiento es igual que en las tuberías?\nN2: Muy parecido. Verificas que el aparato no tiene las anomalías del catálogo. Si el control sale favorable, emites el certificado; si detectas alguna anomalía, emites el informe de anomalías con el alcance, la situación en que queda la instalación y el plazo, y en ambos documentos incluyes recomendaciones de seguridad. Igual que en la Parte doce.\nN1: ¿Y la clasificación de anomalías cambia algo?\nN2: La lógica es la misma, pero aplicada al aparato. Anomalía principal: se subsana en el acto y, si no puedes, cortas el suministro de gas al aparato afectado; fíjate, solo a ese aparato, no a toda la casa. Anomalía secundaria: no obliga a cortar, el usuario la corrige en un máximo de seis meses. Y aquí hay un detalle importante: no existe la excepción de la fuga secundaria en quince días que veíamos en la Parte doce. ¿Por qué? Porque en la Parte trece hablamos de combustión, de cómo quema el aparato, no de estanquidad de tubería. Así que aquí solo hay dos plazos: ya, o seis meses."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · AP-1",
+   "titulo": "Revoco o CO-ambiente sobre 50 ppm",
+   "vinetas": [
+    "Revoco continuado en tipo B de tiro natural",
+    "CO-ambiente en el local > 50 ppm",
+    "Si se mide por CO₂: > 5000 ppm",
+    "Anomalía principal AP-1"
+   ],
+   "img_brief": "carbon monoxide alarm detector kitchen",
+   "notas": "N1: ¿Qué es exactamente un revoco?\nN2: Revoco es que los productos de la combustión, los humos, en lugar de subir por el conducto y salir fuera, se devuelven al local. Es peligrosísimo, porque mete monóxido de carbono dentro de la casa. Se comprueba solo en aparatos de tipo B de tiro natural, que son los que dependen del tiro del conducto para evacuar. Si hay un revoco continuado, es anomalía principal AP uno.\nN1: ¿Y lo de los cincuenta ppm?\nN2: Ese es el otro disparador de la AP uno. Se mide el CO-ambiente, es decir, el monóxido en el aire del local, y si supera cincuenta partes por millón, es principal. Si en vez de medir el CO decides comprobar el revoco a través del dióxido de carbono ambiente, entonces el listón es de cinco mil partes por millón: por encima, principal. Los dos indican lo mismo: los humos se están quedando en la casa. Quédate con los dos números clave de la AP uno: cincuenta de monóxido y cinco mil de dióxido de carbono en el ambiente. En el siguiente slide vemos cómo se mide bien."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · AP-1 · Medida",
+   "titulo": "Cómo se mide el CO-ambiente",
+   "vinetas": [
+    "Puertas y ventanas cerradas",
+    "Campana extractora apagada",
+    "Sonda a ≈ 1 m del aparato y 1,80 m de altura",
+    "Aparato al máximo; lectura a los 5 minutos"
+   ],
+   "img_brief": "combustion analyzer probe near gas heater",
+   "notas": "N1: ¿Por qué se mide con todo cerrado?\nN2: Porque queremos ver el caso más desfavorable, el peor escenario. Si midieras con las ventanas abiertas, el aire limpio diluiría el monóxido y te daría una lectura falsamente buena. Por eso la medida del CO-ambiente se hace con puertas y ventanas cerradas y con la campana extractora, si existe, apagada. Así compruebas qué pasa cuando la familia tiene la cocina cerrada en invierno, que es cuando de verdad hay riesgo.\nN1: ¿Y dónde pongo la sonda y cuánto espero?\nN2: La colocas aproximadamente a un metro del aparato y a un metro con ochenta de altura, que es más o menos la altura de la cara de una persona, porque es el aire que se respira. Pones el aparato en marcha en régimen estacionario y, en los tipo B y C, a la máxima potencia. Dejas pasar cinco minutos desde el arranque y entonces lees. Si el local tiene varios aparatos de tipo B, C o vitrocerámicas de fuegos cubiertos, los enciendes todos a la vez y compruebas de forma conjunta, y luego determinas cuál es el que produce el exceso. Las cifras a retener: un metro del aparato, uno con ochenta de altura, cinco minutos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · AP-2 y AP-3",
+   "titulo": "Combustión no higiénica y falta de AS",
+   "vinetas": [
+    "CO en el conducto (CO-PdC) > 1000 ppm",
+    "Combustión no higiénica: principal AP-2",
+    "Procedimiento del anexo A",
+    "Falta del dispositivo de atmósfera: AP-3"
+   ],
+   "img_brief": "flue gas analyzer measuring boiler exhaust",
+   "notas": "N1: ¿Qué es la combustión no higiénica?\nN2: Es cuando el aparato quema tan mal que produce demasiado monóxido. Para verlo, se hace una comprobación de la combustión de los quemadores con un analizador, midiendo el CO corregido no diluido en los productos de la combustión, lo que llamamos CO de los productos de la combustión o CO-PdC. Esa medida se hace dentro del conducto, siguiendo el procedimiento del anexo A, con puertas y ventanas cerradas. Se considera combustión no higiénica, anomalía principal AP dos, cuando ese CO en los productos de la combustión supera las mil partes por millón.\nN1: Cuidado, ¿este mil no es el mismo cincuenta de antes?\nN2: Muy buena pregunta, y no: son medidas distintas. El cincuenta era CO-ambiente, en el aire del local. El mil es CO dentro del conducto de humos del aparato. No los mezcles nunca. Y una anomalía más, la AP tres: la inexistencia del dispositivo de control de contaminación de la atmósfera, el llamado dispositivo AS, en los aparatos que reglamentariamente deben llevarlo. Ese dispositivo corta el aparato si el ambiente se contamina; si falta donde es obligatorio, es principal."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · AP-4",
+   "titulo": "La campana que roba el tiro",
+   "vinetas": [
+    "Tipo B tiro natural junto a campana potente",
+    "Sin enclavamiento ni detector de CO",
+    "Con campana a tope: revoco o CO > 50 ppm",
+    "Interferencia grave: principal AP-4"
+   ],
+   "img_brief": "kitchen extractor hood over gas cooktop",
+   "notas": "N1: ¿Cómo puede una campana ser peligrosa?\nN2: Es un caso muy real de cocina. Tienes un calentador o caldera de tipo B de tiro natural y, al lado, una campana extractora o un extractor potente. Cuando la campana tira fuerte, puede succionar hacia el local los humos del calentador en vez de dejarlos subir por su conducto. A eso se le llama interferencia. Si no hay un dispositivo que evite esa interacción, como un enclavamiento, que apague uno cuando funciona el otro, o un detector de CO, entonces hay que comprobarlo.\nN1: ¿Y cómo se comprueba?\nN2: Con las puertas y ventanas cerradas y la campana funcionando a su máxima potencia, que es cuando más roba. Si en esas condiciones aparece revoco continuado o el CO-ambiente supera cincuenta partes por millón, o el dióxido de carbono ambiente supera cinco mil, es interferencia grave, anomalía principal AP cuatro. Fíjate que los umbrales son exactamente los mismos que en la AP uno; lo que cambia es la causa, la campana. Un truco práctico: si ya existe el enclavamiento o el detector entre la campana y el aparato, ni siquiera hace falta medir esto. Primero miras si está el dispositivo; si está, listo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · AS-1 y AS-2",
+   "titulo": "Revoco e interferencia moderados",
+   "vinetas": [
+    "CO-ambiente entre 15 y 50 ppm: moderado",
+    "Por CO₂: entre 2500 y 5000 ppm",
+    "AS-1 revoco; AS-2 campana",
+    "AS-2: instrucciones escritas de no usar a la vez"
+   ],
+   "img_brief": "written safety instructions note kitchen appliance",
+   "notas": "N1: ¿Y si el revoco o la interferencia son pequeños?\nN2: Entonces bajamos a la franja moderada, que es secundaria. La AS uno es el revoco moderado: cuando el CO-ambiente está por encima de quince y hasta cincuenta partes por millón, o el dióxido de carbono ambiente entre dos mil quinientos y cinco mil. La AS dos es la interferencia moderada de la campana, con esos mismos valores intermedios. No obligan a cortar, pero hay que corregirlas en seis meses.\nN1: En la interferencia moderada, ¿el usuario puede seguir usándolo todo?\nN2: Ahí hay una medida muy concreta que debes dejar. En la AS dos, la interferencia moderada, dejas instrucciones por escrito de no utilizar simultáneamente el aparato y la campana extractora hasta que se corrija la anomalía. Es decir, mientras no lo arreglen, o usan el calentador, o usan la campana, pero no los dos a la vez, porque juntos es cuando la campana roba el tiro. Fíjate en la escalera que se va formando: hasta quince, bien; de quince a cincuenta, moderado y secundario; más de cincuenta, grave y principal. Vamos a ordenarla del todo en el siguiente slide."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · Resumen de umbrales",
+   "titulo": "Las dos escaleras del CO",
+   "vinetas": [
+    "CO-ambiente: 15 y 50 ppm",
+    "CO₂-ambiente: 2500 y 5000 ppm",
+    "CO en conducto: 500 y 1000 ppm",
+    "50 es del aire; 500 y 1000, del conducto"
+   ],
+   "img_brief": "digital gas analyzer display ppm reading",
+   "notas": "N1: Se me juntan los números. ¿Me los ordenas?\nN2: Vamos a poner orden, que son dos escaleras que no puedes mezclar. Primera, el CO-ambiente, el del aire del local: hasta quince partes por millón está bien; entre quince y cincuenta es moderado, secundario, la AS uno o la AS dos; y por encima de cincuenta es grave, principal, la AP uno o la AP cuatro. Si en vez de monóxido mides dióxido de carbono ambiente, la misma escalera con otras cifras: hasta dos mil quinientos bien, entre dos mil quinientos y cinco mil moderado, más de cinco mil grave.\nN1: ¿Y la del conducto?\nN2: Esa es la segunda escalera, el CO en los productos de la combustión, medido dentro del conducto: hasta quinientas partes por millón es correcto; entre quinientas y mil es combustión deficiente, secundaria, la AS seis; y por encima de mil es combustión no higiénica, principal, la AP dos. La chuleta que lo resume todo: cincuenta es la del aire del local; quinientas y mil son las del conducto. Si tienes esos tres números, cincuenta, quinientas y mil, colocas cualquier medida en su sitio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · AS-3, AS-4, AS-5, AS-6",
+   "titulo": "Seguridades, acceso y combustión deficiente",
+   "vinetas": [
+    "AS-3: seguridad de llama no funciona",
+    "AS-4: no se puede tomar muestra de humos",
+    "AS-5: sin acreditar mantenimiento (> 70 kW)",
+    "AS-6: CO en conducto entre 500 y 1000 ppm"
+   ],
+   "img_brief": "gas burner flame sensor thermocouple",
+   "notas": "N1: ¿Qué más anomalías secundarias hay?\nN2: Un grupo importante. La AS tres: que los dispositivos de seguridad por extinción o detección de llama no funcionen correctamente; esos dispositivos son los que cortan el gas si la llama se apaga, así que tienen que responder. La AS cuatro: la imposibilidad de comprobar los productos de la combustión en un aparato de tipo B o C, porque no hay una toma de muestras accesible en el conducto sin desmontar la carcasa; esto no se aplica a los radiadores murales de tipo C ni a las secadoras. La AS cinco: que no se acredite el mantenimiento obligatorio del aparato en las salas de máquinas de potencia instalada superior a setenta kilovatios.\nN1: ¿Y la AS-6?\nN2: La AS seis es la combustión deficiente: cuando el CO en los productos de la combustión, el del conducto, está por encima de quinientas y hasta mil partes por millón. Es el peldaño intermedio de la escalera del conducto: todavía no llega a las mil de la combustión no higiénica principal, pero ya no es correcta. Por eso es secundaria, seis meses. Fíjate cómo encaja con lo que acabamos de ordenar: quinientas y mil son las dos fronteras del CO dentro del conducto."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · AS-7 y AS-8",
+   "titulo": "Los quemadores de la cocina",
+   "vinetas": [
+    "AS-7: al pasar de máximo a mínimo, se apaga",
+    "Mínimo mal regulado deja salir gas",
+    "AS-8: el quemador no va (roto, bloqueado)"
+   ],
+   "img_brief": "gas stove burner blue flame cooktop",
+   "notas": "N1: ¿Cómo se prueban los fuegos de la cocina?\nN2: Con dos pruebas de taller muy clásicas que caen y que salvan vidas. La AS siete comprueba los mínimos: enciendes un fuego, lo pones al máximo y giras rápidamente el mando de golpe hasta el mínimo. Si la llama de alguno se apaga, el mínimo está mal regulado, y eso es la anomalía AS siete. ¿Por qué es peligroso? Porque una llama que se apaga sola deja salir gas sin quemar, y ese gas se acumula en la cocina.\nN1: ¿Y la AS-8 en qué se diferencia?\nN2: La AS ocho es más básica: el quemador directamente no funciona bien. No sale gas, está bloqueado, roto o desprendido, o el mando no responde. No es que se apague al mínimo como en la AS siete, es que el quemador o su mando están averiados. Las dos son secundarias, seis meses. La forma fácil de distinguirlas: AS siete, se apaga al bajar al mínimo; AS ocho, no va de ninguna manera. Son comprobaciones sencillas, sin aparatos, que cualquier gasista hace en dos minutos y que evitan sustos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · Anexo A",
+   "titulo": "Toma de muestras de la combustión",
+   "vinetas": [
+    "Régimen estacionario, máxima potencia",
+    "Orificio de diámetro mínimo 11 mm",
+    "Sonda perpendicular, en el eje del humo",
+    "Al acabar, obturar con estanquidad"
+   ],
+   "img_brief": "sampling hole drilled in flue pipe probe",
+   "notas": "N1: ¿Cómo se toma bien la muestra de los humos?\nN2: El anexo A es el procedimiento normativo, el «cómo hacerlo bien». Pones el aparato en régimen estacionario y a la máxima potencia alcanzable. La toma se hace en el punto preparado a tal efecto; si no existe, se practica un orificio de diámetro mínimo de once milímetros lo más cerca posible del aparato, con útiles adecuados. La sonda se introduce perpendicular al conducto, de manera que su extremo quede en el eje de la vena de los productos de la combustión, es decir, en el centro del chorro de humos, que es donde la medida es representativa.\nN1: ¿Y qué hago con el agujero después?\nN2: Muy importante: una vez hecha la medición, tienes que obturar el orificio con un taponamiento que garantice la estanquidad en el tiempo, resistente a la temperatura de los humos, y que se pueda montar y desmontar cuantas veces haga falta para las próximas revisiones. No vale taparlo de cualquier forma: si no queda estanco, ese mismo agujero que hiciste para medir se convierte en una fuga de humos al local. La cifra que cae del anexo A es el diámetro: once milímetros."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · Anexo A",
+   "titulo": "El O₂ te chiva si la medida es fiable",
+   "vinetas": [
+    "Se mide también el O₂ simultáneo",
+    "O₂ > 10 %: sonda mal o tiro invertido",
+    "Repetir; si hay inversión, medir más abajo",
+    "Condensación: seguir al fabricante"
+   ],
+   "img_brief": "technician reading oxygen level flue gas analyzer",
+   "notas": "N1: ¿Para qué sirve medir el oxígeno además del CO?\nN2: El oxígeno es tu chivato de calidad: te dice si la medida que estás tomando es fiable. Salvo en generadores de aire caliente, se mide también el valor simultáneo de O dos. Si ese oxígeno sale por encima del diez por ciento, medido en la parte superior del cortatiros en aparatos de tipo B, sospecha: seguramente la sonda está mal colocada o se ha producido una inversión de tiro, es decir, que entra aire de fuera y diluye los humos, dándote una lectura de CO más baja de la real.\nN1: ¿Y qué hago si me pasa eso?\nN2: No das por buena esa medida. Repites, recolocando la sonda; y si confirmas que hay inversión de tiro, colocas la sonda en la parte inferior del cortatiros, para captar los humos antes de que se mezclen con el aire ambiente. Una excepción: las calderas de condensación van por su cuenta, sus valores se ajustan a lo que indique el fabricante, así que ahí no aplica la regla del diez por ciento. En resumen: un oxígeno alto es una bandera roja que dice «no te fíes de esta lectura, algo va mal en la toma»."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · Anexo A · Equipos",
+   "titulo": "El analizador es tu testigo",
+   "vinetas": [
+    "Calibrar cada 18 meses como máximo",
+    "Laboratorio acreditado UNE-EN ISO/IEC 17025",
+    "Registro documental 5 años",
+    "Incertidumbre no mayor de ± 5 %"
+   ],
+   "img_brief": "combustion analyzer calibration laboratory certificate",
+   "notas": "N1: ¿Cada cuánto hay que revisar el analizador?\nN2: Aquí vuelven los dieciocho meses, igual que el detector de fugas de la Parte once. El analizador de combustión debe someterse a una comprobación periódica por el fabricante o por un laboratorio acreditado según la Norma UNE-EN ISO/IEC diecisiete mil veinticinco, en ningún caso en periodos superiores a dieciocho meses. De esa comprobación se deja evidencia mediante un certificado en el que figuran las botellas patrón utilizadas, esos gases de referencia con concentración conocida con los que se ajusta el aparato.\nN1: ¿Y cuánto guardo esos papeles?\nN2: La empresa responsable del personal que hace el control debe guardar registro documental de esas comprobaciones durante cinco años. Y hay un requisito más de precisión: la incertidumbre de la calibración no debe superar el más menos cinco por ciento. Junta las cuatro cifras del anexo A, que caen tal cual: dieciocho meses de calibración, cinco años de registro, más menos cinco por ciento de incertidumbre y once milímetros del orificio de toma. Un analizador descalibrado te da una medida falsa y firmas como bueno un aparato peligroso; por eso es, literalmente, tu testigo, y hay que cuidarlo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · Anexo B",
+   "titulo": "Aparatos de radiación tipo A (naves)",
+   "vinetas": [
+    "Sin conducto: se mide el CO del aire",
+    "Sonda a 1,80 m, al menos cada 25 m²",
+    "15 minutos calentando antes de medir",
+    "5 minutos en cada punto"
+   ],
+   "img_brief": "radiant heater suspended warehouse ceiling",
+   "notas": "N1: ¿Por qué hay un anexo aparte para estos aparatos?\nN2: Porque los aparatos suspendidos de calefacción por radiación de tipo A, típicos de naves y locales grandes, son distintos: no tienen conducto de evacuación. Calientan por radiación y sueltan los humos directamente al local. Como no hay conducto donde meter la sonda, no puedes medir el CO en un conducto; lo que se mide es el CO en el aire del propio local, y para eso está el anexo B.\nN1: ¿Y cómo se mide en un espacio tan grande?\nN2: Pones todos los aparatos del local en marcha, en régimen estacionario y a máxima potencia, y los dejas calentar quince minutos antes de empezar. Luego recorres el local con la sonda a un metro con ochenta de altura, que es la altura de las personas, tomando medidas en puntos representativos, al menos cada veinticinco metros cuadrados, porque el monóxido no se reparte igual por todo el espacio. En cada punto dejas la sonda al menos cinco minutos. Los equipos, igual que en el anexo A: calibración cada dieciocho meses, registro cinco años, incertidumbre más menos cinco por ciento. Cifras del anexo B: veinticinco metros cuadrados, uno con ochenta de altura, quince minutos de calentamiento y cinco minutos por punto."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 13 · El papeleo",
+   "titulo": "Documentar, avisar y el caso de salas",
+   "vinetas": [
+    "Favorable: certificado; con defectos: informe",
+    "Al usuario; principales a la distribuidora",
+    "AS-5: acreditar mantenimiento en salas > 70 kW"
+   ],
+   "img_brief": "gas installer paperwork report boiler room",
+   "notas": "N1: ¿El papeleo es el mismo de siempre?\nN2: Sí, el circuito no cambia. Resultado favorable, certificado. Con defectos, informe de anomalías con el alcance, la situación y el plazo, siempre con recomendaciones de seguridad, entregado al usuario. Y las anomalías principales se comunican a la empresa distribuidora. Es el mismo esquema de las partes once y doce, así que a estas alturas ya te sale solo.\nN1: ¿Hay algo específico del aparato que no deba olvidar?\nN2: No olvides la AS cinco, que es muy de estas instalaciones: en las salas de máquinas de más de setenta kilovatios hay que acreditar el mantenimiento obligatorio del aparato, ese que hace el fabricante. Si no hay justificante de ese mantenimiento, es anomalía secundaria. Fíjate cómo se cierra el círculo: el mantenimiento no lo cubre esta norma, pero el control periódico sí comprueba que se haya hecho donde es obligatorio. Sin ese papel, y sin el certificado o informe, la revisión del aparato no existe."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya plantas cara al enemigo invisible",
+   "mapa": [
+    "CO-ambiente: 15, 50; CO en conducto: 500, 1000",
+    "Revoco: el humo que se devuelve al local",
+    "El analizador: 18 meses, 5 años, ± 5 %",
+    "Control periódico no es mantenimiento"
+   ],
+   "tagline": "Has cerrado el Tema 16. Sabes tocar, inspeccionar y medir: ya eres un gasista con oficio.",
+   "notas": "N1: Último resumen del tema. ¿Qué me llevo de la Parte trece?\nN2: Reconstruyamos el hilo y cerremos a lo grande. La Parte trece revisa el aparato: cómo quema, si devuelve humos y si sus seguridades funcionan; no la confundas con el mantenimiento, que lo marca el fabricante. El protagonista es el monóxido de carbono, el enemigo invisible que mata sin avisar. Y todo gira en torno a dos escaleras que no puedes mezclar: el CO en el aire del local, el CO-ambiente, con fronteras en quince y cincuenta partes por millón; y el CO dentro del conducto, con fronteras en quinientas y mil. Revoco es el humo que se devuelve al local en un tipo B de tiro natural, principal si es continuado. La campana puede robar el tiro, la AP cuatro. Y las pruebas de taller de la cocina: el mínimo que se apaga, AS siete, y el quemador que no va, AS ocho. Todo se mide con el analizador, tu testigo, que se calibra cada dieciocho meses, se guarda registro cinco años, tiene incertidumbre de más menos cinco por ciento y usa un orificio de once milímetros; el oxígeno por encima del diez por ciento te avisa de que la toma va mal.\nN1: ¿Y cómo cae, y qué me llevo del tema entero?\nN2: En el examen te van a dar valores de CO y tendrás que decir correcto, deficiente o no higiénico, y colocar cada número en su escalera; caerán el revoco, la campana, los dieciocho meses y las cifras del anexo B. En la obra, esto es lo que detecta el calentador que está intoxicando a una familia antes de que sea tarde. Y ahora mira atrás: en cuatro vídeos has recorrido las tres últimas partes de la UNE 60670. Sabes tocar una instalación en servicio sin liarla, la Parte once; sabes inspeccionar las tuberías y ponerles nota, en vivienda y en el edificio, la Parte doce; y sabes revisar el aparato y medir su combustión, la Parte trece. Has cerrado el Tema dieciséis completo. Ya no solo apruebas: piensas como un gasista con oficio, de los que dejan las casas seguras. Enhorabuena, y a por el siguiente tema con esa confianza."
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "pie": "Curso Gas B · Tema 12 · UNE 60670-5",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 12 · UNE 60670-5",
+   "videoxy": "Vídeo 2 de 2",
+   "titulo": "Sistemas de medición en ERM",
+   "subtitulo": "Contadores, conversores, manómetros y anexos A y B",
+   "notas": "N1: Segundo vídeo. ¿Qué es una ERM y por qué complica la medición?\nN2: Cuando la instalación es pequeña, medir el gas es fácil: pones un contador y listo. Pero cuando la instalación es grande, medir se convierte en todo un sistema. A ese conjunto lo montamos en una estación de regulación con medida, la ERM. Ahí el contador ya no va solo: le acompañan un conversor de volumen, un manómetro, un termómetro y una unidad de telemedida, cada uno con sus clases, sus exactitudes y sus márgenes de trabajo. Y cerramos con los anexos A y B de la norma, que son los esquemas de cómo se monta todo según la potencia y el caudal. Aviso: este vídeo es muy de cifra, lleno de porcentajes, clases de exactitud y diámetros de esfera. Es justo el material del que salen las preguntas numéricas del examen."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "70 kW",
+     "frontera entre el anexo A y el anexo B"
+    ],
+    [
+     "± 0,5 %",
+     "error máximo del conversor, clase C"
+    ],
+    [
+     "35 días",
+     "de memoria con detalle horario"
+    ]
+   ],
+   "notas": "N1: ¿Qué tres números resumen este vídeo?\nN2: Estos tres te sirven de brújula. El primero: setenta kilovatios, que es la frontera de potencia. Hasta setenta kilovatios el esquema de medición lo marca el anexo A; por encima, entramos en el anexo B o en la legislación, según la familia de gas. El segundo: más menos medio por ciento, que es el error máximo que se le permite al conversor de volumen, lo que llamamos clase C, la más exigente. Y el tercero: treinta y cinco días, que es la memoria mínima que tienen que guardar tanto el conversor como la unidad de telemedida, con detalle hora a hora. Si te llevas estos tres, ya tienes las tres cifras estrella del vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Sistema de medición en ERM",
+   "titulo": "La sala de máquinas de medir",
+   "vinetas": [
+    "Cubre caudales máximos y mínimos",
+    "Va después de la etapa de regulación",
+    "Contador más sus acompañantes"
+   ],
+   "img_brief": "industrial gas regulation and metering station",
+   "notas": "N1: ¿Por qué en una instalación grande no basta un contador?\nN2: Porque una instalación grande tiene consumos que suben y bajan mucho, y el sistema de medición tiene que cubrir tanto el caudal máximo como el mínimo del conjunto. Por eso al contador le añadimos acompañantes: conversor, manómetro, termómetro y telemedida. Y hay un orden que no se discute: si hay una etapa de regulación, que es donde se ajusta la presión, el sistema de medición va siempre a continuación, después del regulador. La lógica es sencilla: primero domas la presión y la dejas estable, y solo después cuentas el gas, porque medir con la presión saltando de un lado a otro daría lecturas malas. Piensa en la ERM como la sala de máquinas de la medición."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Según la potencia",
+   "titulo": "Cada potencia, su anexo",
+   "vinetas": [
+    "Hasta 70 kW: anexo A",
+    "Más de 70 kW, 2ª familia: legislación",
+    "Más de 70 kW, 3ª familia: anexo B"
+   ],
+   "img_brief": "large industrial gas metering station",
+   "notas": "N1: ¿Cómo sé qué requisitos de medición me aplican?\nN2: Se decide por la potencia de diseño y por la familia de gas. Si la potencia es de hasta setenta kilovatios, te vas al anexo A, que es el esquema básico. Si pasa de setenta kilovatios y el gas es de la segunda familia, que es el gas natural, te remites a la legislación vigente. Y si pasa de setenta kilovatios pero el gas es de la tercera familia, que es el GLP, el butano y el propano, entonces aplicas el anexo B. La chuleta: setenta kilovatios es la puerta; por debajo, anexo A para todos; por encima, depende de la familia. Y recuerda del vídeo anterior que la segunda familia es el natural y la tercera es el GLP."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Excepciones y sustituciones",
+   "titulo": "Cuando manda otra norma",
+   "vinetas": [
+    "Conjuntos A-6, A-10: su propia norma",
+    "Tras regulador UNE 60402: toma Peterson",
+    "Red de MOP baja: toma de débil calibre"
+   ],
+   "img_brief": "gas pressure regulator valve close up",
+   "notas": "N1: ¿Siempre se aplica este capítulo o hay excepciones?\nN2: Hay excepciones que conviene tener fichadas. Cuando el conjunto de regulación y medida es de esos tipos normalizados que ves en pantalla, o cumple otra norma específica de conjuntos, entonces manda esa norma y no este capítulo. Y hay dos sustituciones prácticas muy útiles. Una: si el sistema de medición está justo después de un regulador que cumple su norma correspondiente, el manómetro y la válvula de contrastación se pueden sustituir por una toma de presión tipo Peterson, más sencilla. Y dos: si estás conectado directamente a una red de muy baja presión, veinticinco milésimas de bar o menos, también puedes sustituirlos por una toma de presión de débil calibre. La idea: a menor presión y con reguladores homologados, se permite simplificar el tren de medida."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "By-pass y medida secundaria",
+   "titulo": "Cómodo y peligroso a la vez",
+   "vinetas": [
+    "By-pass: deja pasar todo el gas",
+    "Precintable, bloqueable y con disco ciego",
+    "Medida secundaria por si falla la principal"
+   ],
+   "img_brief": "gas pipe bypass valves industrial",
+   "notas": "N1: ¿Qué es el by-pass y por qué dicen que es peligroso?\nN2: El by-pass es una tubería de rodeo. Sirve para que el gas siga pasando y el usuario no se quede sin servicio mientras cambias el contador o lo contrastas. Muy cómodo. El problema es que, mientras el gas va por el by-pass, va sin medir. Por eso la norma le pone tres candados: precintable, o sea sellado; bloqueable, para que no se abra por error; y con un disco ciego instalado, que es un tapón físico. Solo se usa en la maniobra puntual y luego se vuelve a dejar cerrado y precintado. Un by-pass olvidado abierto es gas sin contar, un fraude sin querer, y presión sin control aguas abajo. Aparte, la instalación puede llevar una medida secundaria, un sistema que sustituya al principal si este se avería o está en mantenimiento."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Contadores · tipos",
+   "titulo": "Cuatro maneras de contar",
+   "vinetas": [
+    "Paredes deformables (membrana)",
+    "Pistones rotativos (volumétricos)",
+    "Turbina y ultrasónicos"
+   ],
+   "img_brief": "industrial gas turbine meter",
+   "notas": "N1: ¿Todos los contadores miden igual?\nN2: No, hay varias tecnologías y conviene conocerlas. Los de paredes deformables, los de toda la vida en las casas, funcionan como un fuelle de membrana que se llena y se vacía. Los de pistones rotativos son volumétricos: encierran volúmenes de gas y los cuentan. Los de turbina miden por velocidad: el gas hace girar una hélice y de ahí sacan el caudal. Y luego están los ultrasónicos, que miden con sonido. Cada uno tiene su norma de fabricación, que ves en pantalla, y también valen otros tipos siempre que estén metrológicamente aceptados, es decir, reconocidos oficialmente como válidos para medir. La elección depende del régimen de consumo del usuario y del campo de medida que necesites."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Contadores · dimensionamiento",
+   "titulo": "Ni sobrado ni pillado",
+   "vinetas": [
+    "Grado 3: entre el 60 % y el 85 %",
+    "Grados 1 y 2: entre el 40 % y el 85 %",
+    "Siempre por encima del caudal Qt"
+   ],
+   "img_brief": "gas meter gauge dial reading",
+   "notas": "N1: ¿Qué más da que el contador sea un poco grande o un poco pequeño?\nN2: Da mucho, porque un contador mal dimensionado mide mal y se paga. Si lo pones demasiado grande para el consumo, a caudales bajos mide de menos y llegan reclamaciones de factura. Si lo pones demasiado pequeño, se ahoga: cae la presión y el aparato no arranca bien. Por eso la norma da márgenes de trabajo. En locales de grado de gasificación tres, el contador debe moverse entre el sesenta y el ochenta y cinco por ciento de su caudal máximo. En grados uno y dos, entre el cuarenta y el ochenta y cinco por ciento. Y siempre procurando que trabaje por encima del caudal de transición, el Qt, que es la frontera entre la zona baja y la zona alta de medida, donde el contador es más preciso. La regla: que el contador viva en su zona buena, no en los extremos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Contadores · emisores",
+   "titulo": "El doble emisor de impulsos",
+   "vinetas": [
+    "Todos con emisor de impulsos",
+    "Turbina y pistones: doble emisor",
+    "Para cazar fallos y fraude"
+   ],
+   "img_brief": "gas meter pulse emitter connection",
+   "notas": "N1: ¿Para qué sirve eso de los impulsos del contador?\nN2: Cada contador manda pulsos eléctricos proporcionales al gas que va pasando; son como latidos que la telemedida cuenta a distancia para saber el consumo. Todos los contadores tienen que llevar ese emisor de impulsos. Pero en los de turbina y en los de pistones se exige algo más: un doble emisor de impulsos, o sea, dos señales en lugar de una. ¿Por qué doble? Porque teniendo dos señales las puedes comparar entre sí, y si una no cuadra con la otra, saltan las alarmas de un fallo o de un posible fraude. En los de membrana, los de paredes deformables, basta con un solo emisor. Piensa en el doble emisor como dos testigos que se controlan el uno al otro."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Conversores de volumen",
+   "titulo": "Traducir el volumen",
+   "vinetas": [
+    "De volumen bruto a condiciones de referencia",
+    "Tipo PT: presión y temperatura",
+    "Tipo PTZ: además el factor Z"
+   ],
+   "img_brief": "electronic gas volume converter device",
+   "notas": "N1: ¿Por qué hay que convertir el volumen? ¿No basta con lo que mide?\nN2: No basta, porque el gas ocupa más o menos según su presión y su temperatura. El mismo gas, frío y comprimido, ocupa menos que caliente y suelto. El contador ve un volumen bruto, el de ese momento, y el conversor lo traduce al volumen en condiciones de referencia, unas condiciones estándar iguales para todos, para poder facturar con justicia. Hay dos tipos. El conversor tipo PT corrige por presión y por temperatura. El tipo PTZ hace lo mismo y además tiene en cuenta el factor de compresibilidad, la zeta, que afina todavía más cómo se comprime ese gas concreto. Solo para gas natural, para el ligero. Piensa en el conversor como el traductor que pasa lo que ve el contador a lo que de verdad has consumido."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Conversores · exigencias",
+   "titulo": "Clase C y 35 días",
+   "vinetas": [
+    "Clase C, error de ± 0,5 %",
+    "Pantalla con volúmenes y presión",
+    "Memoria de 35 días y salida serie"
+   ],
+   "img_brief": "electronic gas flow computer display panel",
+   "notas": "N1: ¿Qué le exige la norma a ese conversor?\nN2: Le exige precisión y memoria. Precisión: tiene que ser de clase C, que es la más fina, con un error máximo de más menos medio por ciento. Muy poco margen, porque de él depende la factura. Además lleva una pantalla de consulta donde, como mínimo, puedes ver el volumen bruto, el volumen convertido, la presión y la temperatura de medición y los factores de corrección. Y memoria: tiene que guardar los datos de al menos treinta y cinco días con discriminación horaria, es decir, hora a hora, y tener una salida serie para conectarse a los equipos remotos. Fíjate que ese treinta y cinco es el mismo número que verás en la telemedida: memoria de treinta y cinco días, un dato que se repite y que cae."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Manómetros",
+   "titulo": "Trabajar en el centro de la escala",
+   "vinetas": [
+    "Zona de trabajo: 35 % a 75 %",
+    "Válvula de 3 vías con toma de ¼\"",
+    "Para conectar un manómetro patrón"
+   ],
+   "img_brief": "pressure gauge manometer on gas pipe",
+   "notas": "N1: ¿Por qué importa dónde marque la aguja del manómetro?\nN2: Porque un manómetro se lee mejor y mide mejor cuando la aguja trabaja en la parte central de su escala, ni pegada al cero ni pegada al tope. Por eso se recomienda que la zona de trabajo esté entre el treinta y cinco y el setenta y cinco por ciento del fondo de escala. Si eliges un manómetro que siempre marca casi al final, o casi al principio, pierdes sensibilidad. Y un detalle que siempre lleva: una válvula de tres vías, de material metálico que no se oxide, con una toma de un cuarto de pulgada. ¿Para qué? Para poder enchufar ahí un manómetro patrón, uno de referencia, y comprobar que el tuyo no miente, sin tener que parar la instalación. Eso es contrastar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Manómetros · esfera y clase",
+   "titulo": "Cápsula o Bourdon: la frontera 0,6 bar",
+   "vinetas": [
+    "A más presión, esfera mayor y clase más fina",
+    "Cápsula hasta 0,6 bar",
+    "Bourdon de 0,6 bar en adelante"
+   ],
+   "img_brief": "large pressure gauge dial detail",
+   "notas": "N1: ¿Cómo elijo el manómetro según la presión que voy a medir?\nN2: Con una regla muy visual: a más presión, esfera más grande y clase más fina. Ojo con la clase, que es al revés de lo que parece: cuanto más bajo es el número, más preciso es. Así, la clase uno coma seis es menos fina que la uno, y la uno es menos fina que la cero coma seis. Para presiones bajas, esferas pequeñas y clase más holgada; para presiones altas, esferas grandes de ciento cincuenta o ciento sesenta milímetros y clase cero coma seis. Y hay una frontera que tienes que memorizar: seis décimas de bar. Por debajo de esa presión, el manómetro es de tipo cápsula; de esa presión en adelante, es de tubo Bourdon. Cada uno cumple su norma, que debe venir impresa en el aparato. La cifra bisagra: seis décimas de bar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Termómetros",
+   "titulo": "En una vaina con aceite",
+   "vinetas": [
+    "Escala de -10 °C a +60 °C",
+    "Exactitud de ± 0,5 °C",
+    "Vaina extraíble sin cortar el servicio"
+   ],
+   "img_brief": "thermometer in pipe thermowell",
+   "notas": "N1: ¿El termómetro toca el gas directamente?\nN2: No, y ese es el detalle bonito. El termómetro se mete dentro de una vaina, que es una funda de acero o de latón, y esa vaina sí está en contacto con el gas. La gracia es que puedes sacar el termómetro de la vaina sin cortar el suministro, para cambiarlo o revisarlo con la instalación en marcha. Y para que el calor pase bien del gas al termómetro, la vaina se rellena y se mantiene con aceite mineral fluido, que transmite mejor la temperatura que el aire. Los números que caen: escala orientativa de menos diez a más sesenta grados, y exactitud de al menos medio grado. Si la vaina se queda sin aceite, el termómetro va retrasado y falsea la temperatura, y con ella toda la conversión de volumen."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Unidades remotas de telemedida",
+   "titulo": "Leer el contador desde la oficina",
+   "vinetas": [
+    "Entrada serie para el conversor",
+    "Memoria de 35 días o más",
+    "Compatible con el sistema del distribuidor"
+   ],
+   "img_brief": "remote telemetry unit for gas metering",
+   "notas": "N1: ¿Qué es la telemedida y para qué la unidad remota?\nN2: Telemedida es leer el consumo a distancia, sin que nadie tenga que acercarse físicamente al contador. Quien hace ese trabajo es la unidad remota, la UR: recoge los datos del conversor y los envía a la compañía. Para funcionar tiene tres mínimos. Uno, una entrada serie para hablar con el conversor. Dos, una memoria de al menos treinta y cinco días, el mismo número que ya vimos en el conversor, para que si se cae la red de comunicaciones no se pierda el histórico de consumos. Y tres, ser compatible con los sistemas de gestión del distribuidor o del transportista, porque de nada sirve guardar datos si luego no los puedes entregar en un formato que la compañía entienda. La UR es el cartero que lleva la lectura a la oficina."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo A · hasta 70 kW",
+   "titulo": "Esquema sencillo para lo pequeño",
+   "vinetas": [
+    "Llave más contador más toma de presión",
+    "GN: toma de débil calibre; GLP: Peterson",
+    "Más de 10 m³/h: también llave a la salida"
+   ],
+   "img_brief": "small gas meter with shutoff valve",
+   "notas": "N1: En instalaciones de hasta setenta kilovatios, ¿cómo es el esquema?\nN2: Es el mínimo posible: una llave, el contador y una toma de presión. Tres piezas en línea. La diferencia entre familias está solo en la toma de presión. Para gas natural, de la segunda familia, se usa una toma de débil calibre. Para GLP, de la tercera familia, se usa una toma tipo Peterson. Y hay un detalle que cae siempre: normalmente basta una llave a la entrada, pero si el contador es de más de diez metros cúbicos por hora, es decir, un contador ya grande, entonces hay que poner también una llave a la salida, para poder aislarlo por los dos lados. Así de sencillo es el anexo A: pequeño esquema para pequeñas potencias."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo B · más de 70 kW",
+   "titulo": "Aquí manda la tabla",
+   "vinetas": [
+    "Figura según caudal y consumo anual",
+    "B.1 toma de presión; B.2 disco en ocho",
+    "Bajo 0,1 bar no se ponen conversores"
+   ],
+   "img_brief": "industrial gas metering skid pipework",
+   "notas": "N1: Y para lo grande de tercera familia, ¿cómo elijo el esquema?\nN2: Para potencias grandes de tercera familia, o sea GLP, el esquema no lo eliges tú a ojo: lo dice una tabla. Cruzas dos datos, el caudal máximo y el consumo anual, y la tabla te dice si te toca la figura B punto uno o la B punto dos. Los dos esquemas son casi iguales; la diferencia está en el último elemento: la B punto uno lleva una toma de presión de débil calibre, y la B punto dos lleva un disco en ocho, que es una pieza que permite dejar ciega la línea de by-pass cuando no se usa. Dos avisos importantes que caen: en estos esquemas la conversión se hace con un factor fijo, no con conversor electrónico; y por debajo de una décima de bar de presión no se instalan conversores de volumen."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Puesta en servicio y papeleo",
+   "titulo": "Proyecto, precinto y control legal",
+   "vinetas": [
+    "Más de 70 kW: proyecto y dirección de obra",
+    "El equipo de medida es del distribuidor",
+    "Precinto y control metrológico legal"
+   ],
+   "img_brief": "engineer inspecting industrial gas station",
+   "notas": "N1: En estas instalaciones grandes, ¿qué papeleo se mueve?\nN2: Más que en una vivienda normal. Una instalación individual de más de setenta kilovatios ya exige proyecto, y con proyecto hace falta también un certificado de dirección de obra firmado por técnico competente, además del certificado de instalación de siempre. Otra idea clave: el equipo de medida no es tuyo, es de la distribuidora, que es quien lo precinta en la puesta en servicio y quien lo somete al control metrológico legal, un control oficial que garantiza que mide bien. Y recuerda las dos sustituciones que vimos: la toma Peterson cuando vas después de un regulador homologado, y la toma de débil calibre cuando la red es de muy baja presión. Sin el visto bueno y el precinto del distribuidor, esa medición no entra en servicio."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya lees un tren de medida completo",
+   "mapa": [
+    "70 kW parte el mundo: anexo A o anexo B",
+    "Conversor clase C, ± 0,5 %, memoria de 35 días",
+    "Manómetro 35-75 %, frontera cápsula/Bourdon 0,6 bar",
+    "Anexo A sencillo; anexo B por tabla"
+   ],
+   "tagline": "Has cerrado el tema 12: del hueco del contador al tren de medida completo.",
+   "notas": "N1: Gran final del tema. ¿Cómo enlazo todo lo de este vídeo?\nN2: Reconstruyamos el hilo, porque encaja perfecto. Cuando la instalación crece, medir deja de ser un contador y pasa a ser un conjunto: contador, conversor, manómetro, termómetro y telemedida, y siempre después del regulador, porque primero se doma la presión y luego se cuenta. El tamaño lo marca la potencia, y ahí está la cifra reina, setenta kilovatios: por debajo, anexo A, un esquema mínimo de llave, contador y toma; por encima, anexo B por tabla o la legislación. Cada acompañante tiene su número: el conversor traduce el volumen bruto al real y es clase C con medio por ciento de error y treinta y cinco días de memoria; el manómetro trabaja en el centro de su escala, entre el treinta y cinco y el setenta y cinco por ciento, con la frontera cápsula o Bourdon en seis décimas de bar; y el termómetro va en su vaina con aceite, de menos diez a más sesenta grados.\nN1: ¿Y en el examen y en la obra, qué me llevo de todo el tema?\nN2: En el examen, este vídeo es de cifras: te preguntan el porcentaje de trabajo, la clase del conversor, los días de memoria o la frontera de los seis décimas de bar; contéstalos de memoria y sumas puntos fáciles. En la obra, sabes montar el tren de medida en el orden correcto, distinguir lo que es tuyo de lo que es el equipo precintado de la distribuidora, y no dejarte un by-pass abierto. Y engánchalo con el vídeo anterior: primero aprendiste a construir la casa del contador, el recinto, y ahora sabes qué va dentro cuando la instalación es grande. Con esto cierras el tema doce entero. Hoy, de verdad, eres bastante más gasista que ayer. Enhorabuena, y nos vemos en el siguiente tema."
+  }
+ ]
+}

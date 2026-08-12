@@ -1,0 +1,200 @@
+{
+ "pie": "Curso Gas B · Tema 06 · Instaladores y empresas instaladoras",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 06 · Reglamento · ITC-ICG 09",
+   "videoxy": "Vídeo 3 de 3",
+   "titulo": "Los anexos de la ITC-ICG 09",
+   "subtitulo": "El temario oficial de las categorías A, B y C",
+   "notas": "N1: ¿Y este último vídeo de qué va, de más teoría?\nN2: Va del temario oficial, sí, pero te lo voy a hacer útil, no un ladrillo. La ITC nueve termina con dos anexos. El anexo uno es la lista de conocimientos mínimos que te pueden exigir para cada categoría, y es justo la referencia del examen de tu comunidad autónoma, tu vía para sacar el carné. El anexo dos son los conocimientos más avanzados sobre aparatos, los que hacen falta para los casos gordos que vimos en los vídeos anteriores. Lo importante no es memorizar cada línea, sino entender la lógica: por qué la categoría a estudia más que la be, y la be más que la ce. Si pillas esa lógica, el temario deja de dar miedo y empieza a tener sentido. Vamos con ella."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "2",
+     "anexos que cierran la ITC-ICG 09"
+    ],
+    [
+     "18",
+     "apartados del temario del anexo 2"
+    ],
+    [
+     "3",
+     "categorías con su propio temario"
+    ]
+   ],
+   "notas": "N1: ¿Por qué estos tres números para empezar?\nN2: Porque son el mapa del vídeo. Dos anexos: el uno, conocimientos mínimos por categoría; el dos, conocimientos avanzados sobre aparatos. Tres categorías, la a, la be y la ce, cada una con su propio nivel de temario, de más a menos. Y dieciocho apartados, que es el índice del anexo dos, el de los aparatos. Ese número, dieciocho, lo vamos a usar al final para una regla muy concreta: quién tiene que estudiarse los dieciocho enteros y quién solo hasta el diecisiete. Quédate con la foto y avanzamos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Los dos anexos",
+   "titulo": "Para qué sirve cada anexo",
+   "vinetas": [
+    "Anexo 1: conocimientos mínimos por categoría",
+    "Es la referencia del examen",
+    "Anexo 2: conocimientos expertos de aparatos",
+    "Para los casos gordos"
+   ],
+   "img_brief": "open technical manual book pages",
+   "notas": "N1: ¿Los dos anexos sirven para lo mismo?\nN2: No, cada uno tiene su función, y conviene separarlos desde el principio. El anexo uno es el temario base: la lista de conocimientos mínimos, teóricos, prácticos y de reglamentación, que necesita cada categoría de instalador. ¿Para qué te sirve en la práctica? Es la referencia del examen de tu comunidad autónoma, esa vía ce para sacar el carné de la que hablamos en el vídeo uno. Si te presentas al examen, sale de aquí. El anexo dos es otra cosa: son los conocimientos avanzados sobre aparatos, los que exige el apartado cuatro para tocar los aparatos gordos, las calderas grandes, las vitros de fuegos cubiertos y el cambio de familia de gas. Resumen: anexo uno, el temario para ser instalador; anexo dos, el temario para tocar los aparatos difíciles."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "La lógica del temario",
+   "titulo": "Muñecas rusas: A incluye a B",
+   "vinetas": [
+    "A = temario de B + extras",
+    "B = A menos algunas cosas",
+    "C = B menos otras tantas",
+    "Más categoría, más temario"
+   ],
+   "img_brief": "russian nesting dolls set",
+   "notas": "N1: ¿Cada categoría estudia un temario totalmente distinto?\nN2: No, y aquí está el truco que te ahorra la mitad del esfuerzo. Los temarios están encajados como muñecas rusas, uno dentro de otro. En los conocimientos teórico-prácticos, la categoría a es la de la be más unos extras; por eso, cuando lees el temario de la a, solo aparecen los añadidos, y parece corto. En la reglamentación se cuenta al revés: la be es la de la a menos unas cuantas cosas, y la ce es la de la be menos otras tantas. Pero la conclusión es siempre la misma: cuanto más alta la categoría, más temario. La a estudia lo de la be y algo más; la ce es la que menos estudia. Si entiendes esta jerarquía, ya no te asusta ver que el listado de la a es breve, porque son solo los extras, ni que el de la ce sea el más pelado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 1 · Categoría A",
+   "titulo": "Lo que añade la categoría A",
+   "vinetas": [
+    "Polietileno y sus soldaduras",
+    "Corrosión y protección catódica",
+    "Depósitos fijos de GLP y zanjas",
+    "Todo lo enterrado y a granel"
+   ],
+   "img_brief": "underground gas pipeline installation trench",
+   "notas": "N1: ¿Qué estudia la A que no estudie la B?\nN2: Mira los añadidos de la a y verás un patrón muy claro que engancha con el vídeo uno: todo lo que suma la a suena a exterior, a enterrado y a gas licuado a granel. Te lo agrupo. Por un lado, el polietileno, ese tubo de plástico de las conducciones enterradas, con sus cortes y soldaduras. Por otro, la corrosión y la protección catódica, que es la técnica para que las tuberías metálicas enterradas no se oxiden, con las corrientes de fuga y galvánicas. Y por otro, los depósitos fijos de gas licuado, las zanjas, los vaporizadores, los compresores y las válvulas de trasvase. ¿Por qué justo esto? Porque la a es la única categoría que toca lo enterrado por el exterior y los depósitos fijos de gas licuado. La be ya se sabe lo de dentro de los edificios; la a añade lo de fuera y bajo tierra. El temario acompaña al alcance, siempre."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 1 · Reglamentación A",
+   "titulo": "La reglamentación de la A",
+   "vinetas": [
+    "Calidad y seguridad: AENOR y ENAC",
+    "La ley del sector de hidrocarburos",
+    "El Reglamento y todas sus ITC",
+    "Normas UNE 60670 y 60601"
+   ],
+   "img_brief": "shelf full of legal regulation books",
+   "notas": "N1: ¿Y la parte de leyes de la A es muy larga?\nN2: Es la más completa de las tres, porque la a llega a todo. No hace falta que te la sepas coma a coma, pero sí que ubiques los bloques. Primero, la reglamentación de la calidad y la seguridad industrial: qué son las entidades de normalización, como AENOR, y las de acreditación, como la ENAC, y qué es una norma UNE. Segundo, la ley del sector de hidrocarburos, que es la gran ley del gas, con sus capítulos de gas natural y gas licuado. Tercero, el propio Reglamento técnico de gas y todas sus instrucciones técnicas, las ITC, de la uno a la diez. Y cuarto, dos normas UNE clave: la de instalaciones receptoras hasta cinco bar y la de salas de máquinas. La idea que te tienes que llevar: la a se lo estudia todo porque puede tocarlo todo; en las siguientes categorías iremos quitando piezas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 1 · Categoría B",
+   "titulo": "El grueso del temario es la B",
+   "vinetas": [
+    "Matemáticas, física y química de base",
+    "Materiales, uniones y soldaduras",
+    "Quemadores, seguridad y encendido",
+    "Aparatos y cálculo de instalaciones"
+   ],
+   "img_brief": "student studying technical drawings at desk",
+   "notas": "N1: La B es la que me saco yo, ¿qué entra en su temario?\nN2: El grueso de todo, porque la be es la base sobre la que se construyen las demás. Te lo cuento por bloques, sin agobios. Primero, una base de matemáticas y física: operaciones, unidades del sistema internacional, presión, calor, caudal, nociones de electricidad. Segundo, química del gas: qué gases hay, las familias y, sobre todo, la combustión, cómo arde el gas y qué significa una llama azul o amarilla. Tercero, materiales y uniones: tuberías de cobre, acero y plomo, y los tipos de soldadura. Cuarto, el corazón práctico: quemadores, dispositivos de seguridad, sistemas de encendido y los aparatos, cocinas, calentadores y calderas. Y quinto, algo muy de examen: el cálculo de la instalación receptora, cómo se dimensiona una tubería según el caudal. Todo esto, más la parte de seguridad y emergencias, es lo que te convierte en instalador be."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 1 · Reglamentación B",
+   "titulo": "La B es la A menos tres piezas",
+   "vinetas": [
+    "Fuera: gas natural a gran escala",
+    "Fuera: ITC-ICG 01, 03 y 05",
+    "Distribución, depósitos fijos y estaciones"
+   ],
+   "img_brief": "gas distribution station equipment",
+   "notas": "N1: ¿Y en leyes, qué se ahorra la B respecto a la A?\nN2: Se ahorra justo lo que no va a tocar nunca, y es fácil de recordar. La reglamentación de la be es la misma que la de la a, pero quitando tres piezas. Una: el capítulo de la ley de hidrocarburos que habla de regasificación, transporte y almacenamiento de gas natural, o sea, la infraestructura gorda, las grandes redes. Y dos: tres instrucciones técnicas concretas, la cero uno, la cero tres y la cero cinco. La cero uno es la de distribución de gas por canalización; la cero tres, la de depósitos fijos de gas licuado; y la cero cinco, la de estaciones de servicio para vehículos a gas. ¿Ves la coherencia? La be no toca ni las grandes redes, ni los depósitos fijos, ni las gasolineras de gas, así que no necesita estudiárselo. Memoriza qué ITC se le caen a la be respecto a la a: la cero uno, la cero tres y la cero cinco."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 1 · Categoría C",
+   "titulo": "La C: el temario más recortado",
+   "vinetas": [
+    "Matemáticas y física reducidas",
+    "Sin adaptación a otras familias de gas",
+    "Sin depósitos móviles grandes",
+    "Solo lo de la vivienda"
+   ],
+   "img_brief": "simple home gas water heater",
+   "notas": "N1: ¿La C estudia mucho menos?\nN2: Sí, es el temario más recortado de los tres, y tiene todo el sentido. La ce solo toca instalaciones individuales de vivienda a cero coma cuatro bar, así que su temario se queda con lo justo para eso. ¿Qué se le cae respecto a la be? Las matemáticas y la física vienen recortadas, sin las partes más avanzadas, como las potencias, las raíces o el comportamiento de los gases. En química, se quita lo de los gases inertes. Y desaparecen dos bloques importantes: el de adaptación de aparatos a otras familias de gas, lógico porque la ce no puede cambiar de familia, y el de los depósitos móviles de gas licuado de más de quince kilos. En resumen, la ce estudia lo básico de la vivienda: tuberías sencillas, aparatos domésticos, ventilación y seguridad. Nada de lo grande ni lo enterrado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 1 · Reglamentación C",
+   "titulo": "La C es la B menos aún más",
+   "vinetas": [
+    "Fuera: más capítulos de hidrocarburos",
+    "Fuera: ITC-ICG 06 y 10",
+    "Fuera: UNE 60601 de salas de máquinas",
+    "La UNE 60601 la ven A y B"
+   ],
+   "img_brief": "industrial gas boiler machine room",
+   "notas": "N1: ¿Y la reglamentación de la C todavía es más corta?\nN2: La más corta de todas, sí, es la más pelada. Encadena la jerarquía: la ce es la reglamentación de la be, pero quitando todavía más cosas. Se le caen más capítulos de la ley de hidrocarburos, dos instrucciones técnicas, la cero seis, de envases de gas licuado para uso propio, y la diez, de caravanas y autocaravanas, y una norma importante: la de salas de máquinas. Fíjate en un dato que cae en el examen: la norma de salas de máquinas la estudian la a y la be, pero no la ce. ¿Por qué? Porque la ce solo toca viviendas individuales a baja presión; no va a ver en su vida una sala de máquinas, ni una caravana, ni un envase de uso propio. Otra vez la misma idea: el temario acompaña al alcance. Si te preguntan qué categorías estudian la norma de salas de máquinas, la respuesta es la a y la be; la ce no."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Normas de examen",
+   "titulo": "UNE 60670 y UNE 60601",
+   "vinetas": [
+    "UNE 60670: la estudian las tres",
+    "Receptoras hasta 5 bar y ventilación",
+    "UNE 60601: solo A y B",
+    "Salas de máquinas"
+   ],
+   "img_brief": "ventilation grille on kitchen wall",
+   "notas": "N1: ¿Qué dos normas UNE tengo que tener claras?\nN2: Dos, y son de las que más caen, así que las separamos bien. La primera es la norma de instalaciones receptoras hasta cinco bar. Esa la estudian las tres categorías, la a, la be y la ce, porque cubre lo básico del oficio: las tuberías y sus pruebas, los contadores y, muy importante, la ventilación de los locales. Y ojo con la ventilación, que no es relleno: es justo lo que evita el problema más grave del gas, la intoxicación por monóxido de carbono cuando falta aire para la combustión o los humos se evacúan mal. La segunda norma es la de salas de máquinas, y esa solo la ven la a y la be, no la ce. Chuleta rápida: la norma de receptoras hasta cinco bar, las tres; la de salas de máquinas, solo la a y la be. Si las tienes claras, resuelves varias preguntas de golpe."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 2 · Reparto",
+   "titulo": "18 apartados: 1 a 17 o completo",
+   "vinetas": [
+    "4.1 (aparatos grandes): apartados 1 a 17",
+    "4.2 (cambio de gas): anexo completo",
+    "El 18 es adaptación a otras familias",
+    "El 4.2 es solo para A y B"
+   ],
+   "img_brief": "gas appliance technical schematic diagram",
+   "notas": "N1: ¿Todo el que toca aparatos gordos estudia el anexo dos entero?\nN2: No, y aquí está la regla fina que cae en el examen. El anexo dos tiene dieciocho apartados. El reparto depende de qué operación quieras hacer. Si es el cuatro punto uno, arrancar, mantener o reparar los aparatos grandes y las vitros de fuegos cubiertos, necesitas los apartados del uno al diecisiete. Si es el cuatro punto dos, adecuar por cambio de familia de gas, necesitas el anexo completo, los dieciocho. ¿Qué tiene de especial el apartado dieciocho para marcar la diferencia? Es justo el de adaptación de aparatos a otras familias de gas: pasar un aparato de butano a gas natural, por ejemplo. Por eso solo lo pide el cuatro punto dos. Y recuerda del vídeo dos: ese cuatro punto dos solo lo pueden hacer la a y la be, nunca la ce. Chuleta de una línea: el dieciocho es el cambio de gas, y solo lo necesita el cuatro punto dos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo 2 · En la práctica",
+   "titulo": "El anexo 2 es un manual de averías",
+   "vinetas": [
+    "Análisis de humos y CO ambiente",
+    "Rendimiento e inquemados",
+    "Seguridad: cortatiro y termopar",
+    "Averías de calentadores y calderas"
+   ],
+   "img_brief": "technician measuring boiler flue gases with analyzer",
+   "notas": "N1: ¿El anexo dos es solo teoría de aparatos?\nN2: Es mucho más útil de lo que parece: es un manual de averías puesto en forma de temario. Mira lo que hay dentro. Análisis de los productos de la combustión y el monóxido de carbono ambiente, o sea, cómo medir si un aparato quema bien o está soltando gases peligrosos. El rendimiento y los inquemados, para saber cuánta energía se pierde. Los dispositivos de seguridad, como el cortatiro, el termopar o el antidesbordamiento de humos, que son las piezas que apagan el aparato cuando algo va mal. Y, lo más jugoso, las averías más frecuentes de calentadores y calderas: el vaso de expansión descargado, el presostato, la válvula de tres vías, el purgador. Esto es lo que separa a quien cambia una pieza a ciegas de quien diagnostica de verdad por qué una caldera se apaga, ennegrece la pared o no da agua caliente. Por eso el anexo dos, más que temario, es oficio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Trampa clásica",
+   "titulo": "Tipos de aparato ≠ categorías",
+   "vinetas": [
+    "Tipo A: no conducido (humos al local)",
+    "Tipo B: conducido, toma aire del local",
+    "Tipo C: estanco, circuito con el exterior",
+    "No son las categorías del instalador"
+   ],
+   "img_brief": "sealed balanced flue gas boiler on wall",
+   "notas": "N1: Espera, ¿los tipos de aparato A, B y C son mis categorías?\nN2: No, y esta es la trampa clásica del tema, así que fíjate bien. En el anexo dos aparecen los aparatos clasificados en tipo a, tipo be y tipo ce, pero esto no tiene nada que ver con las categorías del instalador. Aquí, las letras van por cómo evacúa el aparato los humos de la combustión. El tipo a es el no conducido: suelta los humos directamente al local donde está, como una cocina de gas. El tipo be es el conducido: coge el aire del local pero saca los humos fuera por un conducto, como muchos calentadores antiguos. Y el tipo ce es el estanco: coge el aire de fuera y expulsa los humos fuera, en un circuito cerrado que no toca el aire de la casa, como las calderas modernas de pared. Son dos clasificaciones distintas que, por mala suerte, usan las mismas letras. En obra importa mucho: un aparato tipo a en un local sin ventilación es un riesgo directo de monóxido de carbono. No confundas el tipo del aparato con la categoría de tu carné."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya dominas la ITC-ICG 09 entera",
+   "mapa": [
+    "Anexo 1 = temario del examen, por capas",
+    "A incluye a B; B incluye a C",
+    "UNE 60670 las tres; UNE 60601 solo A y B",
+    "Tipos de aparato A/B/C no son categorías"
+   ],
+   "tagline": "Cierras la ITC-ICG 09 de punta a punta. Ya piensas como un gasista.",
+   "notas": "N1: Último cierre. ¿Qué me llevo de los anexos y del tema entero?\nN2: Te llevas el temario ordenado y, sobre todo, entendido. Primero, el anexo uno es la referencia del examen de tu comunidad, y funciona por capas de muñeca rusa: la a incluye a la be, la be incluye a la ce; cuanta más categoría, más temario, siempre acompañando al alcance de cada carné. Segundo, dos normas UNE que resuelven preguntas: la de instalaciones receptoras hasta cinco bar la estudian las tres categorías, y la de salas de máquinas solo la a y la be. Tercero, el anexo dos es el manual de los aparatos y sus averías, con su regla de reparto: del uno al diecisiete para arrancar los grandes, y completo, con el dieciocho, para el cambio de gas, que es solo de la a y la be. Y cuarto, la trampa que no puedes fallar: los tipos de aparato a, be y ce van por cómo evacúan los humos, y no son las categorías del instalador.\nN1: ¿Y con esto ya está el tema?\nN2: Con esto cierras la ITC nueve de punta a punta. Piensa en el camino: empezaste sin saber qué era una categoría, luego aprendiste qué puede tocar cada instalador, después cómo se monta y se sostiene una empresa, y ahora dominas el temario oficial y la lógica que lo ordena. En el examen, este tema se pregunta muchísimo, y casi siempre con las mismas trampas, las que ya sabes ver: categorías por presión, cifras del seguro, plazos, y los tipos de aparato frente a las categorías. En la obra, es lo que decide qué trabajos son tuyos, qué papeles firmas y con qué respaldo. Has pasado de no saber nada a poder explicárselo a otro. Eso es ser gasista. Enhorabuena: has cerrado el tema seis."
+  }
+ ]
+}

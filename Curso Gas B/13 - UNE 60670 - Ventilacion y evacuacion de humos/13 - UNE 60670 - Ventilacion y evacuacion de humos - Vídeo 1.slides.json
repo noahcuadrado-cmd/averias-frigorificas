@@ -1,0 +1,226 @@
+{
+ "pie": "Curso Gas B · Tema 13 · UNE 60670-6",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 13 · UNE 60670-6",
+   "videoxy": "Vídeo 1 de 3",
+   "titulo": "Aparatos de gas: tipos A, B y C",
+   "subtitulo": "Clasificación y dónde se puede instalar cada uno",
+   "notas": "N1: Profe, empezamos tema nuevo. ¿Por dónde meto mano en una instalación de gas?\nN2: Por el aparato, siempre. Antes de mirar rejillas, volúmenes o chimeneas, tienes que saber qué tienes delante: una cocina, un calentador o una caldera de ventosa. Porque el tipo de aparato, que la norma llama A, B o C, manda sobre todo lo demás: cuánta ventilación pide el local y cómo salen los humos. En este primer vídeo vas a ver de dónde sale la norma, cómo se clasifican los aparatos y, lo más preguntado, dónde puedes y dónde no puedes poner cada tipo. Domina esto y el resto del tema encaja solo."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "3",
+     "tipos de aparato: A, B y C"
+    ],
+    [
+     "13",
+     "partes de la norma UNE 60670"
+    ],
+    [
+     "5 bar",
+     "presión máxima de operación (MOP)"
+    ]
+   ],
+   "notas": "N1: ¿Qué tres datos me llevo antes de entrar en materia?\nN2: Tres clavos donde colgar todo el tema. Uno: hay tres tipos de aparato, A, B y C, y de esa letra depende todo lo demás. Dos: la norma UNE seis mil seiscientos setenta tiene trece partes distintas, y la tuya, la de los locales y los humos, es la parte seis. Y tres: esta norma solo se ocupa de instalaciones con una presión máxima de operación igual o inferior a cinco bar, lo que llamamos baja y media presión. Con esos tres datos ya tienes el esqueleto del vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "La norma",
+   "titulo": "Qué es la UNE 60670-6",
+   "vinetas": [
+    "Criterios técnicos y de seguridad",
+    "Diseño, prueba y puesta en servicio",
+    "Presión máxima ≤ 5 bar (MOP)"
+   ],
+   "img_brief": "gas meter installation on wall",
+   "notas": "N1: ¿Y qué es exactamente la UNE 60670? ¿Una ley?\nN2: No es una ley, es una norma técnica, pero es la que usa el instalador todos los días. Piensa en ella como el manual de instrucciones del oficio: fija los criterios técnicos, los requisitos de seguridad y las garantías de buen servicio para diseñar, montar, ampliar, probar, poner en servicio y revisar las instalaciones receptoras de gas. La receptora es la parte de dentro, la que va del contador a tus aparatos. Y pone una frontera: solo cubre instalaciones con una presión máxima de operación, la MOP, igual o inferior a cinco bar. Ejemplo: la tubería que lleva el gas a tu caldera y la propia caldera entran aquí; la red de la calle a mucha presión, no."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Trece partes",
+   "titulo": "La Parte 6 es tu Tema 13",
+   "vinetas": [
+    "La norma tiene 13 partes",
+    "La 6: locales, ventilación y humos",
+    "No confundas parte con tema"
+   ],
+   "img_brief": "technical standard document folder",
+   "notas": "N1: Me lío: ¿la parte seis y el tema trece son lo mismo?\nN2: Es la trampa de nombres más típica, vamos a aclararla. La norma completa se divide en trece partes: la uno es generalidades, la dos terminología, la tres tuberías, y la parte seis, la tuya, trata los locales que contienen aparatos de gas, su ventilación y la evacuación de humos. Da la casualidad de que esa parte seis es el tema trece de tu curso. Son cosas distintas con números parecidos. Truco: cuando en el examen leas «UNE seis mil seiscientos setenta guion seis», tradúcelo por «la parte de los locales, la ventilación y los humos». Ese es su apellido, y no falla."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Novedades",
+   "titulo": "Lo nuevo que gusta en examen",
+   "vinetas": [
+    "Semisótano: gas ligero hasta 4 m",
+    "Cocción tipo A en loft, con condiciones",
+    "Tipo B revisado por completo",
+    "Ventilación cruzada industrial > 70 kW"
+   ],
+   "img_brief": "modern gas boiler wall mounted",
+   "notas": "N1: ¿Y por qué insistes en las novedades de la edición?\nN2: Porque lo que cambia en una revisión es justo lo que al examinador le apetece preguntar; está fresco. Fíjate en las que más caen: en un semisótano ahora se permite gas menos denso que el aire solo si su suelo está a menos de cuatro metros de la calle; se permite cocinar con aparatos de tipo A en un loft si se cumplen condiciones; se revisan enteras las condiciones del tipo B; las rejillas solo se exigen en locales domésticos, colectivos o comerciales; y aparece la ventilación cruzada para locales industriales cuando la suma de tipo A y B pasa de setenta kilovatios. No las memorices todas hoy; quédate con que son los puntos marcados en rojo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Objeto",
+   "titulo": "De qué se ocupa y de qué no",
+   "vinetas": [
+    "Locales con aparatos de gas",
+    "Ventilación y evacuación de humos",
+    "Fuera: salas de máquinas (UNE 60601)"
+   ],
+   "img_brief": "industrial boiler room machinery",
+   "notas": "N1: ¿Qué cubre exactamente esta parte seis?\nN2: Tres cosas, tenlas juntas: las características de los locales y sus orificios de ventilación, los sistemas de ventilación de esos locales, y los sistemas de evacuación de los humos de los aparatos. Todo eso, sea cual sea el tipo de aparato. Pero ojo a lo que deja fuera: las salas de máquinas y los equipos autónomos de generación de calor o frío o de cogeneración, que van por otra norma, la UNE seis mil seiscientos uno. Regla mental: poca potencia y local normal, juegas con esta parte seis; mucha potencia y sala de máquinas, te vas a la otra norma. Enseguida verás dónde está esa frontera: setenta kilovatios."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Clasificación · circuito abierto",
+   "titulo": "Tipo A y tipo B: respiran del local",
+   "vinetas": [
+    "Tipo A: humos al propio local",
+    "Tipo B: humos fuera por un tubo",
+    "Ambos cogen aire de la habitación"
+   ],
+   "img_brief": "old gas water heater bathroom",
+   "notas": "N1: ¿Qué diferencia hay entre un tipo A y un tipo B?\nN2: Los dos son de circuito abierto: cogen el aire de combustión de la propia habitación donde están, por eso «respiran del local». La diferencia está en los humos. El tipo A es de evacuación no conducida: no tiene tubo de humos, así que los suelta en el mismo local. Piensa en una cocina de gas o un calientaplatos. El tipo B sí tiene conducto: coge el aire del local pero echa los humos fuera por un tubo, como el clásico calentador antiguo del baño. Los dos roban aire de la habitación, y por eso los dos exigen ventilación para reponerlo. La diferencia práctica: el A te deja los humos dentro, el B los saca."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Clasificación · circuito estanco",
+   "titulo": "Tipo C: ni toca el aire del local",
+   "vinetas": [
+    "Circuito de combustión cerrado",
+    "Aire de fuera, humos fuera",
+    "El más seguro de los tres"
+   ],
+   "img_brief": "condensing boiler concentric flue",
+   "notas": "N1: ¿Y el tipo C por qué es distinto?\nN2: El tipo C es estanco, y esa palabra lo cambia todo. Estanco significa que su circuito de combustión, la entrada de aire y la salida de humos, está cerrado y aislado del local. No respira tu habitación: coge el aire directamente de fuera y devuelve los humos fuera, normalmente por el mismo tubo de doble pared que llamamos ventosa. Es la caldera moderna que ves en cualquier cocina. Al no tocar el aire del local ni soltar humos dentro, es con diferencia el más seguro, y por eso es el único que puedes meter casi en cualquier sitio. Chuleta: A se lo queda todo, B tira los humos, C ni te toca el aire."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tiro natural y forzado",
+   "titulo": "¿Los humos suben solos o empujados?",
+   "vinetas": [
+    "Tiro natural: suben por el calor",
+    "Tiro forzado: los empuja un ventilador",
+    "BS: dispositivo antirrevoco"
+   ],
+   "img_brief": "chimney flue on rooftop",
+   "notas": "N1: Me suena lo de «tiro natural» y «tiro forzado», pero ¿qué es?\nN2: Es cómo salen los humos por el conducto, y se distingue muy fácil. Tiro natural: los humos suben solos porque están calientes y el aire caliente pesa menos, igual que el humo de una chimenea de leña. Tiro forzado: hay un ventilador o extractor dentro del aparato que los empuja. Regla de examen: si el aparato lleva ventilador, es de tiro forzado; si suben por sí mismos, tiro natural. Y una sigla que cae: el BS es el tipo B de tiro natural que lleva dispositivo antirrevoco. Antirrevoco quiere decir que corta el aparato si los humos, en vez de salir, se vuelven hacia dentro. Un pequeño guardián que evita que el humo te entre en casa."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Instalación · nivel del local",
+   "titulo": "Semisótano: manda cómo pesa el gas",
+   "vinetas": [
+    "GLP: nunca en semisótano",
+    "Gas natural: solo hasta 4 m",
+    "Por debajo del semisótano: no"
+   ],
+   "img_brief": "basement gas pipe installation",
+   "notas": "N1: ¿Por qué el gas natural sí y el butano no en un semisótano?\nN2: Todo depende de si el gas sube o baja al escaparse. El gas natural es menos denso que el aire: si hay fuga, sube hacia el techo. El GLP, butano o propano, es más denso: baja y se acumula en las zonas bajas, como si fuera agua. Ahora piénsalo en un semisótano, que ya es una zona hundida. Con GLP sería una trampa: el gas se quedaría abajo formando una bolsa invisible esperando una chispa. Por eso, con GLP nunca metes aparatos en un semisótano. Con gas natural sí se permite, pero solo si el semisótano no está muy hundido: hasta cuatro metros de diferencia entre su suelo y la calle. Idea corta: gas pesado y zona baja, peligro; gas ligero y poco hundido, tolerable."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Instalación · potencia",
+   "titulo": "La frontera de los 70 kW",
+   "vinetas": [
+    "Suma de potencias > 70 kW",
+    "Obliga a sala de máquinas",
+    "Mandan UNE 60601 y RITE"
+   ],
+   "img_brief": "large commercial boiler installation",
+   "notas": "N1: ¿Qué pasa cuando junto varias calderas grandes en un cuarto?\nN2: Ahí aparece un número que tienes que grabarte: setenta kilovatios. Si sumas las potencias de las calderas de calefacción o agua caliente, más los equipos de absorción para frío, más la cogeneración, todo en el mismo local, y esa suma pasa de setenta kilovatios, ese cuarto deja de ser un local normal: pasa a ser una sala de máquinas. Y una sala de máquinas tiene requisitos propios que no manda esta parte seis, sino la UNE seis mil seiscientos uno y el RITE, el reglamento de instalaciones térmicas. Cambia hasta el papeleo: te pide proyecto y tramitación aparte. Por debajo de setenta, sigues en tu terreno. Y ojo, ese setenta reaparece en el vídeo dos, con la ventilación industrial."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tipo A · dónde",
+   "titulo": "Qué tipo A se puede instalar",
+   "vinetas": [
+    "Cocción de alimentos y bebidas",
+    "Calefacción directa en naves y talleres",
+    "Otros aparatos < 4,65 kW"
+   ],
+   "img_brief": "gas stove kitchen blue flame",
+   "notas": "N1: ¿Qué aparatos de tipo A puedo poner en un local normal?\nN2: La norma hace una lista, pero basta con que entiendas la lógica. Primero, todo lo de cocinar: cocinas, hornos, cafeteras, barbacoas. Segundo, aparatos de calefacción que usan el calor directamente, pero solo en sitios como almacenes, talleres o naves industriales, no en tu salón; ahí entran los generadores de aire caliente y los tubos radiantes. Y tercero, otros aparatos pequeños con quemador de gas y consumo por debajo de cuatro coma sesenta y cinco kilovatios, como un frigorífico de gas. La idea de fondo: como el tipo A suelta los humos dentro, la norma solo permite los usos donde tiene sentido y con potencia contenida. Guárdate ese cuatro coma sesenta y cinco, que tiene una excepción importante que vemos ahora."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tipo A · prohibiciones",
+   "titulo": "Dónde nunca va un tipo A",
+   "vinetas": [
+    "Nunca en dormitorio",
+    "Nunca en baño, ducha o aseo",
+    "ACS por acumulación: jamás"
+   ],
+   "img_brief": "empty bathroom interior",
+   "notas": "N1: ¿Hay sitios donde el tipo A esté prohibido sí o sí?\nN2: Sí, y esto es de hierro. Un aparato de tipo A no se instala nunca en un dormitorio ni en un baño, ducha o aseo. La razón es de vida o muerte: son sitios donde duermes o donde te encierras con el vapor de la ducha, y un aparato que suelta humos ahí te puede intoxicar sin que te enteres. Es la causa directa de muchas intoxicaciones por monóxido cada invierno. Y hay una excepción tramposa dentro del tipo A: aunque se permiten «otros aparatos» de poca potencia, el calentador o acumulador de agua caliente de tipo A no se pone jamás, ni siendo pequeño. ¿Por qué? Porque estaría soltando humos dentro de casa durante horas para calentar el depósito. Si te preguntan «¿un acumulador de ACS de tipo A si es de poca potencia?», la respuesta es no, nunca."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tipo A · fuegos y loft",
+   "titulo": "Seguridad de llama y el loft",
+   "vinetas": [
+    "Sin seguridad de llama: ventilación rápida",
+    "Con seguridad de llama: no hace falta",
+    "Loft: cocción ≤ 12 kW y ≥ 80 m³"
+   ],
+   "img_brief": "loft apartment open kitchen",
+   "notas": "N1: ¿Qué pinta la «seguridad de llama» en todo esto?\nN2: Es un detalle pequeño que decide mucho. La seguridad de llama es un dispositivo, un termopar o un detector, que corta el gas solo si la llama se apaga. Los fuegos antiguos no lo tenían: si se apagaba la llama, seguían soltando gas. Por eso, los aparatos de fuego abierto sin seguridad de llama exigen ventilación rápida, una abertura grande para desalojar de golpe. Los modernos, con seguridad en todos los fuegos, no la necesitan. Y para el loft, tres condiciones que van juntas: la cocina tiene que tener seguridad de llama, la suma de potencia de cocción no puede pasar de doce kilovatios, y el volumen del loft no puede bajar de ochenta metros cúbicos. Piensa: loft, solo cocinar, con seguridad y que sea amplio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tipo B · dónde",
+   "titulo": "Tipo B y su comodín, el B3x",
+   "vinetas": [
+    "Nunca en dormitorio ni baño",
+    "B3x: cocinas, lavaderos, garajes",
+    "Única excepción a la prohibición"
+   ],
+   "img_brief": "utility room gas water heater",
+   "notas": "N1: El tipo B también roba aire del local... ¿está igual de limitado que el A?\nN2: En lo básico, sí: tampoco se instala en dormitorio ni en baño, ducha o aseo, ni en un cuarto que comunique con ellos si la única forma de entrar es por ahí. Misma lógica: coge aire del local para tirar los humos, y no quieres eso donde alguien duerme o se ducha. Pero hay una variante más segura, el B3x, que es como «el tipo B con permiso especial». Al estar mejor resuelto, se le abren puertas: puede ir en cocinas, lavaderos o garajes, donde el B normal no entra. Y es la única excepción a la prohibición de comunicar con dormitorio o baño. Cuando veas «B3x», piensa: el tipo B que sí puede estar en más sitios."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tipo B · seguridad",
+   "titulo": "Campana y calentador: el revoco",
+   "vinetas": [
+    "La campana chupa los humos",
+    "Peligro de CO en casa",
+    "Corte automático en ≤ 2 min"
+   ],
+   "img_brief": "kitchen extractor hood",
+   "notas": "N1: ¿Qué tiene que ver la campana de la cocina con un calentador?\nN2: Es uno de los accidentes domésticos más típicos, merece entenderlo bien. Imagina un calentador antiguo de tipo B de tiro natural, de los que sacan los humos por su propio tiro suave. Ahora enciendes la campana extractora de la cocina, que tira con fuerza. Esa campana puede «chupar» los humos del calentador hacia dentro de casa en vez de dejarlos salir por su conducto. Resultado: monóxido de carbono en el salón. Por eso, en instalaciones existentes, al ponerlas en servicio hay que impedir de forma automática que el calentador y el extractor funcionen a la vez de forma peligrosa, y ese corte debe actuar en dos minutos o menos. Cuando en obra veas un calentador viejo cerca de una campana potente, salta la alarma: es un diagnóstico de avería clásico."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tipo C · dónde",
+   "titulo": "Tipo C: el todoterreno",
+   "vinetas": [
+    "Vale en cualquier local",
+    "Incluso dormitorio y baño",
+    "En húmedos: cumplir el REBT"
+   ],
+   "img_brief": "modern boiler in cupboard",
+   "notas": "N1: Y el tipo C, que dices que es el más seguro, ¿dónde puede ir?\nN2: Prácticamente en cualquier sitio, por eso lo llamo el todoterreno. Como es estanco, no toca el aire del local ni suelta humos dentro, así que se permite en zona exterior y en cualquier local, incluidos dormitorios y baños, ducha o aseo. Por eso las calderas modernas de ventosa son de tipo C: van donde no puede ir ningún otro. La única pega en un baño o dormitorio no es el gas, es la electricidad: al ser locales húmedos, la parte eléctrica tiene que cumplir el reglamento de baja tensión. Chuleta directa: si te preguntan qué aparato se puede poner en un dormitorio, la respuesta es tipo C."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya clasificas cualquier aparato de gas",
+   "mapa": [
+    "A se lo queda, B tira humos, C ni te toca el aire",
+    "A y B fuera de dormitorio y baño; C entra",
+    "Semisótano: GLP nunca, gas natural hasta 4 m",
+    "70 kW: la puerta a la sala de máquinas"
+   ],
+   "tagline": "Con el aparato bien clasificado, la ventilación y los humos caen solos. Vamos al vídeo 2.",
+   "notas": "N1: Profe, cierra el vídeo: ¿cómo lo enlazo todo?\nN2: Reconstruyamos el hilo. Empezamos por lo primero de cualquier obra: clasificar el aparato, porque de la letra cuelga todo. El tipo A se queda los humos en el local, el B los tira fuera por un tubo pero roba aire de la habitación, y el C es estanco, ni respira tu cuarto. De ahí sale la regla de dónde va cada uno: A y B jamás en dormitorio o baño, porque intoxican; el único que entra ahí es el C. Luego los datos que no se te pueden caer: en semisótano el GLP nunca y el gas natural solo hasta cuatro metros, porque el gas pesado se acumula abajo; y la frontera de setenta kilovatios que convierte un cuarto en sala de máquinas y te cambia hasta el papeleo.\nN1: ¿Y cómo cae esto en el examen y en la obra?\nN2: En el examen se pregunta cruzado: «tipo A en un baño», «acumulador de ACS de tipo A», «GLP en semisótano»; si tienes clara la lógica, no fallas. Y en la obra, esto decide si firmas el certificado o si detectas una anomalía que hay que corregir antes de dar gas. Hoy ya eres más gasista que ayer: sabes leer un aparato de un vistazo. En el vídeo dos damos el salto a los números: qué volumen mínimo pide el local y cuánta rejilla hay que poner. Te espero allí."
+  }
+ ]
+}

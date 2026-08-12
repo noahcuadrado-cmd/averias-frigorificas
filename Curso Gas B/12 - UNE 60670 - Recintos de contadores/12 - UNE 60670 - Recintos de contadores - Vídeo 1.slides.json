@@ -1,0 +1,297 @@
+{
+ "pie": "Curso Gas B · Tema 12 · UNE 60670-5",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 12 · UNE 60670-5",
+   "videoxy": "Vídeo 1 de 2",
+   "titulo": "Recintos y ubicación de los contadores",
+   "subtitulo": "Local técnico, armario, nicho y conducto técnico",
+   "notas": "N1: Vale, empezamos el tema 12. ¿De qué va exactamente la Parte 5?\nN2: Piensa en el contador como el taxímetro de tu casa: es el aparato que cuenta el gas que gastas. Pues bien, la Parte 5 de esta norma no habla tanto del contador en sí, que lo pone la compañía, sino de dónde lo metemos y de cómo tiene que ser ese hueco. A ese hueco lo llamamos recinto, y puede ser de cuatro formas: un local técnico, un armario, un nicho o un conducto técnico. En este primer vídeo vemos las generalidades, dónde se coloca según sea obra nueva o edificio ya hecho, cómo se centralizan los contadores de un bloque con su ventilación y sus medidas, y cómo se pone un contador solo. Fíjate mucho en los números, porque las alturas, las distancias y las superficies de ventilación son justo lo que más cae en el examen."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "4",
+     "tipos de recinto para el contador"
+    ],
+    [
+     "100 cm²",
+     "de tiro libre al pasar cada forjado"
+    ],
+    [
+     "40 cm",
+     "de separación del contador a los fuegos"
+    ]
+   ],
+   "notas": "N1: ¿Y estos tres números por qué son los importantes?\nN2: Son tres anclas para todo el vídeo. La primera: cuatro tipos de recinto, o sea, cuatro maneras de alojar el contador, que son local técnico, armario, nicho y conducto técnico. La segunda: cien centímetros cuadrados, que es el hueco mínimo de aire que hay que dejar libre cuando un conducto técnico atraviesa el suelo de cada planta, para que el aire tire y ventile. Y la tercera: cuarenta centímetros, que es la distancia mínima que tiene que haber entre el contador y los fuegos de una cocina, porque el calor directo estropea el aparato. Si te quedas con estos tres números, ya tienes el esqueleto del vídeo montado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Objeto de la Parte 5",
+   "titulo": "La caja, no el contador",
+   "vinetas": [
+    "Regula el recinto, no el aparato",
+    "4 recintos: local, armario, nicho, conducto",
+    "Es la Parte 5 de la UNE 60670"
+   ],
+   "img_brief": "gas meter cabinet on building wall",
+   "notas": "N1: Si el contador lo pone la compañía, ¿qué me toca controlar a mí?\nN2: Muy buena pregunta, porque aquí está la clave del tema. El contador, ese aparato que cuenta metros cúbicos, lo fabrica y lo instala la compañía distribuidora. A ti, como instalador, lo que te van a examinar y lo que montas es el habitáculo, es decir, la caja donde vive el contador. Por eso la Parte 5 va de medidas, de ventilación, de puertas y de carteles del recinto. Y ojo, la UNE 60670 completa es como un libro de trece capítulos que cubren las instalaciones de gas hasta cinco bar; este que estudiamos es el capítulo, la parte, número cinco. Ejemplo de obra: cuando cuelgas un armario de contador en una fachada, no estás tocando el contador, estás preparando su casa para que la compañía luego lo enchufe."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Generalidades",
+   "titulo": "Elegir tipo y capacidad",
+   "vinetas": [
+    "Según el gas y los consumos",
+    "Mínimo grado de gasificación 1",
+    "Consultar a la empresa distribuidora"
+   ],
+   "img_brief": "gas meter and regulator installation",
+   "notas": "N1: ¿Y cómo sé qué contador toca en cada sitio?\nN2: No lo eliges a ojo. Para acertar con el tipo de contador y su tamaño hay que mirar dos cosas: qué gas es, porque no pesa igual el gas natural que el butano, y cuánto se va a consumir, que es lo que llamamos los consumos previsibles. Y siempre partiendo de un mínimo, el grado de gasificación uno, que es como el nivel de equipamiento de gas más básico que se supone en una vivienda. Como esto afecta al suministro de la red, la norma te obliga a hablarlo con la empresa distribuidora antes. En la práctica: no montas nada por tu cuenta sin consultar, porque quien conoce la presión y el caudal de esa acometida es la compañía."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Generalidades · densidad",
+   "titulo": "¿Hasta qué nivel puede bajar?",
+   "vinetas": [
+    "Gas natural (ligero): no bajo semisótano",
+    "GLP (butano/propano): no bajo planta baja",
+    "Ligero sube, pesado se arrastra"
+   ],
+   "img_brief": "gas meter room in apartment building",
+   "notas": "N1: ¿Por qué unos gases pueden ir más abajo que otros?\nN2: Todo depende de si el gas flota o pesa. El gas natural es más ligero que el aire: si se escapa, sube hacia arriba, así que arriba es fácil de ventilar. Por eso no lo bajamos por debajo del semisótano. El GLP, que es el butano y el propano, es más pesado que el aire: si se escapa, se arrastra por el suelo y se acumula en el hueco más bajo que encuentre, formando una bolsa peligrosa. Por eso con GLP no bajamos por debajo del nivel de la planta baja. La chuleta que te llevas es sencilla: ligero puede llegar al semisótano; pesado, solo de planta baja hacia arriba. Ejemplo real: un contador de butano en un sótano es un fallo grave, porque una fuga se quedaría estancada abajo esperando una chispa."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Generalidades",
+   "titulo": "Solo para gas y a la vista",
+   "vinetas": [
+    "Recinto reservado solo a gas",
+    "Totalizador a menos de 2 m",
+    "Hasta 2,40 m en módulos, con escalera"
+   ],
+   "img_brief": "person reading gas meter dial",
+   "notas": "N1: ¿Puedo aprovechar el cuarto del contador para guardar cosas?\nN2: No. El recinto, sea local técnico, armario, nicho o conducto, está reservado en exclusiva para instalaciones de gas. Nada de trasteros ni de meter la caldera de la comunidad ahí. La razón es de seguridad: cuantas menos cosas ajenas, menos fuentes de riesgo y más fácil ventilar. Segundo detalle, el totalizador. El totalizador es la ruedecita de números que hay que leer, y se pone por debajo de dos metros para que el lector lo vea sin subirse a nada. Solo en los módulos prefabricados se permite subirlo hasta dos metros con cuarenta, pero con una condición: que dejes una escalera o algo parecido para poder leer. Sin escalera, ese dos con cuarenta no vale."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Nueva construcción · plurifamiliar",
+   "titulo": "Bloque de pisos: centralizado",
+   "vinetas": [
+    "Contadores centralizados en zona común",
+    "Accesibilidad de grado 2",
+    "Grado 3 excepcional: no bajo planta baja"
+   ],
+   "img_brief": "row of centralized gas meters cabinet",
+   "notas": "N1: En un edificio de pisos nuevo, ¿dónde van todos los contadores?\nN2: En obra nueva y en fincas de varios vecinos, los contadores se juntan todos en un mismo sitio: eso es centralizar. Y ese sitio va en zonas comunitarias del edificio, el portal, un cuarto común, no dentro de las casas. Además tiene que tener accesibilidad de grado dos, que significa que la compañía llega al contador con facilidad, sin depender de que el vecino le abra. Solo de forma excepcional y con el permiso de la distribuidora se admite el grado tres, que es peor acceso, y ahí con un tope: no bajar por debajo de la planta baja. Idea que te llevas: bloque de pisos igual a contadores centralizados y accesibles desde zona común."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Nueva construcción · unifamiliar",
+   "titulo": "Chalé o local: armario en fachada",
+   "vinetas": [
+    "Recinto tipo armario o nicho",
+    "Preferente en fachada o muro límite",
+    "Grado 2 desde el exterior"
+   ],
+   "img_brief": "gas meter box on house facade",
+   "notas": "N1: ¿Y si es un chalé o un local, donde solo hay un contador?\nN2: Ahí cambia la cosa. En una vivienda unifamiliar, o en un local de uso no doméstico, el contador va en un recinto tipo armario o nicho. Y preferentemente en la fachada o en el muro que marca el límite de la propiedad, con accesibilidad de grado dos desde el exterior. ¿Por qué en la fachada y hacia fuera? Para que el lector de la compañía llegue desde la calle sin tener que entrar en la casa. Ejemplo cotidiano: esos armarios metálicos que ves empotrados en la tapia o en la fachada de los chalés, con su puertecita y su cerradura, son justo esto."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Edificio ya construido",
+   "titulo": "El orden de preferencia",
+   "vinetas": [
+    "1º centralizado en zona común",
+    "2º interior, llaves accesibles (grado 2)",
+    "3º autorización expresa y obturador"
+   ],
+   "img_brief": "gas meter inside kitchen cupboard",
+   "notas": "N1: En un edificio viejo no siempre hay hueco común. ¿Entonces qué?\nN2: La norma te da un orden de mejor a peor, y hay que respetarlo. Lo primero, intentar centralizar en zona común, que es lo ideal. Si no se puede, entonces sí se admite meter el contador dentro de la vivienda, pero con una condición importante: la llave de usuario de esa instalación tiene que quedar accesible desde la zona comunitaria, con grado dos, para que la compañía pueda cortar el gas sin entrar en tu casa. Y si ni siquiera eso es posible, hace falta autorización expresa de la distribuidora, que además puede exigirte un obturador de cierre. Lo que nunca puedes hacer es meter el contador dentro porque es más cómodo: dentro de la vivienda es siempre la última opción."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Centralización · generalidades",
+   "titulo": "Total o parcial",
+   "vinetas": [
+    "Total: local técnico o armario",
+    "Parcial: también conducto en rellano",
+    "Accesible desde zona común"
+   ],
+   "img_brief": "gas meter cabinet with lock in building",
+   "notas": "N1: ¿Centralizar es siempre juntarlos todos en un solo cuarto?\nN2: No siempre. Puedes centralizar de forma total, metiendo todos los contadores en un local técnico o en un armario, o de forma parcial, repartiéndolos por plantas en armarios o en conductos técnicos que hay en cada rellano. Los recintos pueden venir prefabricados o hacerse con obra de fábrica, eso sí, enlucida por dentro para que quede una superficie lisa. Y sea cual sea, tiene que ser accesible desde las zonas comunes, y con los medios que exige la prevención de riesgos laborales para que el operario de la compañía pueda trabajar con seguridad. En resumen: total en un sitio, parcial repartido, pero siempre accesible desde lo común."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Centralización · puerta",
+   "titulo": "La puerta que no te encierra",
+   "vinetas": [
+    "Abre hacia afuera",
+    "Cerradura con llave normalizada",
+    "Local técnico: abre por dentro sin llave"
+   ],
+   "img_brief": "metal cabinet door with lock outward",
+   "notas": "N1: ¿Tiene truco cómo se abre la puerta del cuarto de contadores?\nN2: Tiene truco y muy preguntado. Primero, la puerta abre hacia afuera. ¿Por qué? Porque si dentro hay una fuga y algo la empuja, una puerta que abre hacia dentro te bloquearía; hacia afuera, no. Segundo, lleva cerradura con llave normalizada por la compañía, para que solo entre quien debe. Y tercero, un detalle clave del local técnico, que es el cuarto en el que una persona entra: se tiene que poder abrir desde dentro sin necesidad de llave. Imagina que estás dentro haciendo una lectura y hay un escape: tienes que poder salir de un empujón, sin buscar la llave. Eso es seguridad de las personas, no burocracia."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Centralización · identificación",
+   "titulo": "Cada llave, su placa",
+   "vinetas": [
+    "Placa junto a cada llave",
+    "Grabada, indeleble, con piso y puerta",
+    "Metálica o de plástico rígido"
+   ],
+   "img_brief": "identification plate on gas valve",
+   "notas": "N1: Con tantas llaves juntas, ¿cómo sé cuál es de cada vivienda?\nN2: Por la placa identificativa. Junto a cada llave de contador, o de usuario, hay que poner una placa grabada de forma indeleble, o sea, que no se borre con el tiempo, indicando a qué vivienda pertenece: piso y puerta. Y esa placa tiene que ser metálica o de plástico rígido, nada de una pegatina que se despegue. ¿Por qué tanto rigor? Porque si te equivocas de llave puedes cortarle el gas a quien no toca, o peor, abrir una que no debías. La instalación eléctrica que a veces hay dentro, como conversores o electroválvulas, se trata como un local con posible presencia de gas, así que se ajusta al reglamento de baja tensión. La avería típica sin placas claras es el operario cerrando la llave equivocada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Centralización · carteles",
+   "titulo": "Los carteles obligatorios",
+   "vinetas": [
+    "Interior: normas de maniobra",
+    "Obligatorio con más de 2 contadores",
+    "Exterior: «Contadores de gas»"
+   ],
+   "img_brief": "no smoking warning sign on gas cabinet",
+   "notas": "N1: ¿Los carteles son de verdad obligatorios o es por poner algo?\nN2: Son obligatorios y evitan sustos. Dentro del recinto, cuando hay más de dos contadores, tiene que haber un cartel legible con las normas de maniobra: prohibido fumar o encender fuego, asegúrate de que la llave es la que toca, y no abras una llave sin comprobar que las demás de esa instalación están cerradas. Todo eso es para que nadie abra o cierre a lo loco. Y fuera, en la puerta, otro cartel bien claro que dice Contadores de gas, para que cualquiera sepa lo que hay ahí detrás. Recuerda el umbral que preguntan: los carteles de maniobra del interior son obligatorios a partir de más de dos contadores."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Centralización · conducto técnico",
+   "titulo": "El patinillo vertical",
+   "vinetas": [
+    "Vertical y rectilíneo",
+    "100 cm² libres al pasar cada forjado",
+    "Más de 400 cm²: reja que aguante una persona"
+   ],
+   "img_brief": "vertical service shaft riser in building",
+   "notas": "N1: ¿Qué es eso del conducto técnico? No me lo imagino.\nN2: Imagínate un patinillo, un hueco vertical que sube recto por todo el edificio, y en cada rellano tiene una puertecita con el contador de esa planta a la vista. Eso es el conducto técnico. Como sube en vertical, se aprovecha para que el aire tire. Por eso, al atravesar el forjado, es decir el suelo, de cada planta, hay que dejar cien centímetros cuadrados de hueco libre como mínimo, para que ese tiro de aire funcione. Y ojo: si ese hueco es mayor de cuatrocientos centímetros cuadrados, hay que taparlo con una reja desmontable capaz de aguantar el peso de una persona, no vaya alguien a colarse por él. Además, la puerta de cada planta tiene que ser estanca respecto al rellano: sin ranuras y con junta, para que un escape no invada la escalera."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ventilación · aberturas",
+   "titulo": "Dos bocas: arriba y abajo",
+   "vinetas": [
+    "Inferior: borde superior a 50 cm del suelo",
+    "Con GLP, borde inferior a 15 cm",
+    "Superior: a menos de 30 cm del techo"
+   ],
+   "img_brief": "ventilation grille louver on gas cabinet",
+   "notas": "N1: ¿Por qué hacen falta dos rejillas, una arriba y otra abajo?\nN2: Para que el aire circule de verdad. Si solo pones una, el aire no se mueve; con dos, entra por una y sale por la otra, y así el recinto se renueva. Ahora las cotas, que caen mucho. La abertura de abajo: su borde de arriba tiene que quedar como mucho a cincuenta centímetros del suelo del recinto. Y una condición extra si el gas es pesado, o sea GLP: además su borde de abajo tiene que estar como mucho a quince centímetros del suelo, porque el butano se arrastra por el suelo y hay que recogerlo a ras. La abertura de arriba: su borde superior a menos de treinta centímetros del techo, y su borde inferior a menos de cincuenta centímetros del techo. Piensa siempre: pesado, se recoge abajo pegado al suelo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ventilación · directa e indirecta",
+   "titulo": "Directa mejor que indirecta",
+   "vinetas": [
+    "Directa: da al exterior o patio",
+    "Indirecta: solo si la tabla lo permite",
+    "Conducto de más de 3 m: +50 % de superficie"
+   ],
+   "img_brief": "exterior wall ventilation grille",
+   "notas": "N1: ¿Qué diferencia hay entre ventilación directa e indirecta?\nN2: La directa da directamente al exterior o a un patio de ventilación: es la buena, la que preferimos. La indirecta da a un local común, un portal o un vestíbulo, que a su vez sí sale al exterior; esta solo se admite en los casos en que la tabla de superficies lo permite con su cifra concreta. Y aquí van dos recargos que caen en el examen. Uno: si la ventilación se hace por un conducto de más de tres metros de largo, hay que aumentar la superficie un cincuenta por ciento, porque un conducto largo tira peor. Y con gas pesado, nunca uses la indirecta a través de espacios que comuniquen con niveles más bajos, porque el GLP se te iría hacia abajo. Las rejillas, siempre fijas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ventilación · semisótano y tabla 1",
+   "titulo": "Cifras que caen",
+   "vinetas": [
+    "Local técnico: 200 cm²",
+    "Armario: 5 cm² (más de 2: 50 cm²)",
+    "Semisótano: puerta estanca y +50 %"
+   ],
+   "img_brief": "gas meter cabinet ventilation louver detail",
+   "notas": "N1: ¿Hay que memorizar las superficies de la tabla?\nN2: Al menos las de referencia, sí. Quédate con estas: el local técnico, ese cuarto de contadores en el que entra una persona, ventila con doscientos centímetros cuadrados arriba y abajo. Un armario pequeño, de hasta dos contadores, con solo cinco centímetros cuadrados; pero si tiene más de dos contadores, sube a cincuenta si es exterior, o a doscientos si es interior. Y el conducto técnico, ciento cincuenta. Caso especial muy preguntado: si el recinto está en un semisótano, la puerta tiene que ser estanca, la superficie de ventilación se aumenta un cincuenta por ciento, y no se permite la ventilación indirecta. En semisótano, todo más exigente, porque estás bajo el nivel del suelo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Conducciones ajenas",
+   "titulo": "Invitados no deseados",
+   "vinetas": [
+    "Evitar tubos ajenos vistos",
+    "Sin juntas desmontables, entradas estancas",
+    "Cable eléctrico en vaina de acero"
+   ],
+   "img_brief": "pipes crossing utility service room",
+   "notas": "N1: Si el cuarto es solo para gas, ¿qué pinta ahí un tubo de agua?\nN2: A veces no queda más remedio que un tubo o un cable ajeno cruce el recinto, y la norma lo tolera a regañadientes, con condiciones. Ese tubo que atraviesa no puede llevar juntas desmontables, porque cada junta es un punto que puede fallar, y sus entradas y salidas del recinto tienen que ser estancas. Si es de plomo o de plástico, además va envainado, metido dentro de otro conducto. Y si es un cable de electricidad, tiene que ir en una vaina continua de acero. Y una regla de oro: esa conducción jamás puede tapar una rejilla de ventilación ni estorbar para manejar las llaves y los contadores. Menos puntos de fallo y ventilación siempre libre."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Un solo contador · armario o nicho",
+   "titulo": "Empotrado y bien sellado",
+   "vinetas": [
+    "Preferente en fachada o muro límite",
+    "Empotrado: rellenar con mortero",
+    "Metal, obra enlucida o plástico C-s3,d0"
+   ],
+   "img_brief": "single gas meter in wall niche",
+   "notas": "N1: Cuando empotro el armario del contador, ¿me preocupo de algo?\nN2: Sí, de sellarlo bien. El armario o nicho de un solo contador va preferentemente en la fachada o en el muro límite de la propiedad, y con espacio de sobra para el contador y sus accesorios y para poder leer y mantener. Ahora, si lo empotras en el muro, entre la caja y el hueco de la pared quedan intersticios, huecos, y hay que rellenarlos con mortero de cemento. ¿Por qué? Para que el gas no tenga por dónde colarse hacia el interior del muro o del edificio. En cuanto al material, tienes tres opciones: metálico, obra de fábrica enlucida por dentro, o plástico de una clase de reacción al fuego que en pantalla ves como ce ese tres de cero, que significa poco combustible, poco humo y sin goteo ardiendo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Contador en interior de vivienda",
+   "titulo": "Distancias de seguridad",
+   "vinetas": [
+    "Totalizador a 1,7 m como máximo",
+    "40 cm a los fuegos de la cocina",
+    "20 cm a enchufes y a calderas"
+   ],
+   "img_brief": "gas meter near kitchen stove",
+   "notas": "N1: Si el contador acaba en la cocina, ¿qué distancias respeto?\nN2: Estas son de las cifras que más caen, grábatelas. El totalizador, la ruedecita de lectura, a un metro con setenta como máximo, para leerlo de pie sin subirte a nada. Cuarenta centímetros de separación entre el contador y los fuegos de la cocina, porque el calor directo de la llama envejece y deforma el contador y sus juntas, y a la larga eso es una fuga. Veinte centímetros respecto a mecanismos eléctricos, es decir enchufes, interruptores y puntos de luz, y también respecto a calderas y calentadores, porque una chispa junto a una posible fuga es una explosión esperando. Y si el local tiene poca ventilación, se le exige una abertura permanente de cinco centímetros cuadrados: arriba para gas ligero, abajo para gas pesado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Contador en interior · prohibiciones",
+   "titulo": "Dónde nunca ponerlo",
+   "vinetas": [
+    "Nunca en dormitorios ni baños",
+    "Salvo local sin ellos y más de 75 m³",
+    "Nunca bajo el fregadero"
+   ],
+   "img_brief": "gas meter installation inside kitchen",
+   "notas": "N1: ¿Hay sitios donde esté directamente prohibido el contador?\nN2: Sí, y son de sentido común una vez lo piensas. Nunca en dormitorios ni en cuartos de baño o de ducha. En un dormitorio, porque duermes ahí y no te enterarías de una fuga; en el baño, por la humedad y por ser un espacio pequeño y cerrado. La única excepción es un local que no tenga esas dependencias separadas y que tenga un volumen grande, de más de setenta y cinco metros cúbicos, porque ahí hay aire de sobra. Tampoco se pone nunca debajo de la proyección vertical de un fregadero o pila de lavar, porque el agua que cae por encima corroe y avería el contador. Y si por lo que sea no puedes respetar las distancias, intercalas una pantalla de protección, que puede ser incluso el lateral de un mueble que lo tape."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Contador en el exterior",
+   "titulo": "A la intemperie, soporte reforzado",
+   "vinetas": [
+    "Intemperie o alféizar: soporte reforzado",
+    "Balcón o terraza techados: soporte normal",
+    "Totalizador a 1,7 m como máximo"
+   ],
+   "img_brief": "gas meter bracket on outdoor wall",
+   "notas": "N1: Y si el contador se queda a la intemperie, ¿cambia algo?\nN2: Cambia el soporte. Si el contador queda al aire libre, a la intemperie o en el alféizar de una ventana, aguanta sol, lluvia y frío, así que necesita un soporte reforzado, el que cumple la norma de soportes a la intemperie. Si en cambio está techado, en un balcón o una terraza cubiertos, ya no sufre tanto y basta con el soporte normal, el mismo que se usa en interiores y recintos. En pantalla ves los códigos exactos de esas dos normas de soportes. Y lo que no cambia es la altura de lectura: el totalizador, igual que dentro de casa, a un metro con setenta como máximo, para leerlo de pie sin escaleras."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "El papeleo",
+   "titulo": "Lo que firmas y adónde va",
+   "vinetas": [
+    "IRG-2: instalación común; IRG-3: individual",
+    "Firma el instalador habilitado, copia al titular",
+    "El distribuidor precinta el contador"
+   ],
+   "img_brief": "technician sealing a gas meter",
+   "notas": "N1: Cuando termino el montaje, ¿qué papeles se firman?\nN2: El montaje se refleja en el certificado de instalación de gas. Hay dos modelos que debes distinguir: el ce dos, para la instalación común, que es el montante que alimenta a todos los contadores del bloque; y el ce tres, para cada instalación individual, que lista los aparatos de esa vivienda y su potencia. Lo firma el instalador habilitado con el sello de su empresa, y se le entrega una copia al titular, mientras el distribuidor archiva su ejemplar a disposición de la administración de la comunidad autónoma. Y el broche final lo pone el distribuidor: cuando comprueba que el recinto cumple, precinta el equipo de medida. La idea que te llevas: sin recinto conforme, no hay precinto, y sin precinto no hay gas."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes construir la casa del contador",
+   "mapa": [
+    "Ligero al semisótano, pesado solo desde planta baja",
+    "Dos bocas de ventilación y sus cotas exactas",
+    "Puerta hacia afuera, placas y carteles",
+    "Distancias del contador dentro de la vivienda"
+   ],
+   "tagline": "Hoy ya eres más gasista que ayer. Vamos a por la medición en grande.",
+   "notas": "N1: Cerramos fuerte. Si tuviera que quedarme con lo esencial, ¿qué es?\nN2: Reconstruyamos el hilo. Todo el vídeo gira en torno a una idea: la Parte 5 no va del contador, va de su casa, del recinto. Primero, la densidad manda a qué altura puede bajar: el gas natural, ligero, sube y por eso no baja del semisótano; el GLP, pesado, se arrastra y por eso no baja de la planta baja, y por eso mismo su rejilla de abajo va pegada al suelo. Segundo, todo recinto respira por dos bocas, una arriba y otra abajo, con sus cotas: abajo a cincuenta centímetros del suelo, arriba a menos de treinta del techo, y recargo del cincuenta por ciento en semisótano o conducto largo. Tercero, la puerta abre hacia afuera y el local técnico se abre por dentro sin llave, para no quedar atrapado; y cada llave con su placa para no cortar a quien no toca.\nN1: ¿Y cómo se traduce esto en el examen y en la obra?\nN2: En el examen te lo preguntan cruzado: te dan un gas, un nivel y un recinto, y tienes que decir si vale y con qué ventilación. En la obra, decide si la compañía te da de alta o te tumba la puesta en servicio: sin recinto conforme, no precinta el contador y no hay gas. Piensa en la avería clásica, el olor a gas en el cuarto de contadores porque alguien tapó una rejilla con un tubo ajeno. Hoy ya sabes construir esa casa. En el siguiente vídeo damos el salto a lo grande: las estaciones de regulación con medida, donde medir el gas ya no es un contador y listo, sino todo un sistema. Te espero allí."
+  }
+ ]
+}

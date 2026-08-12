@@ -1,0 +1,192 @@
+{
+ "pie": "Curso Gas B · Tema 15 · UNE 60670-8 · Pruebas de estanquidad",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 15 · UNE 60670-8/9/10",
+   "videoxy": "Vídeo 1 de 3",
+   "titulo": "Pruebas de estanquidad para la entrega",
+   "subtitulo": "UNE 60670-8 · Con qué, a qué presión y cuánto tiempo",
+   "notas": "N1: ¿Y esto de la estanquidad para qué sirve exactamente?\nN2: Piensa en la tubería de gas recién montada como una rueda de bici que acabas de parchear. Antes de fiarte, la hinchas de aire y miras que no pierda. Pues aquí igual: antes de meter gas de verdad, la Parte ocho te obliga a demostrar que la instalación aguanta presión y no se escapa ni una burbuja. Es el examen físico de la tubería. Si no lo pasa, no hay gas, no hay boletín y no se sigue. En este vídeo vas a aprender con qué se prueba, a qué presión, cuánto tiempo, y cómo se comprueba el último tramo hasta el aparato.\nN1: ¿Y por qué le dan tanta importancia a este paso?\nN2: Porque es el que respalda tu firma. Cuando entregas la instalación estás diciendo que no pierde; si te saltas la prueba y luego huele a gas en la vivienda, respondes tú. Por eso lo hacemos bien y en orden."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["13", "partes que forman la UNE 60670"],
+    ["5 bar", "MOP máxima que regula la norma"],
+    ["110 mbar", "tope del último tramo al aparato"]
+   ],
+   "notas": "N1: ¿Por qué me enseñas primero estos tres números?\nN2: Porque son las tres estacas donde vas a atar todo lo demás. Trece partes: la UNE seiscientos setenta no es un solo libro, son trece cuadernillos, y el nuestro es el ocho. Cinco bar: es la presión máxima de operación por debajo de la cual manda esta norma; por encima ya es otra historia. Y ciento diez milibares: es el tope suave con el que se comprueba el último metro, el tramo que va de la llave del aparato al propio aparato, porque ahí no puedes meter presiones altas sin destrozarlo. Quédate con ellos, que los repetiremos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Marco · UNE 60670",
+   "titulo": "Qué regula esta norma",
+   "vinetas": [
+    "Diseñar, construir, probar y poner en servicio",
+    "Instalaciones receptoras hasta 5 bar",
+    "13 partes; la Parte 8 es esta",
+    "Cubre gas natural y GLP"
+   ],
+   "img_brief": "copper gas pipe installation on wall",
+   "notas": "N1: ¿Qué es eso de instalación receptora?\nN2: Vamos por partes, sin dar nada por sabido. La instalación receptora es toda la tubería y elementos que reciben el gas desde la llave de la calle hasta el propio aparato de tu casa. La UNE seiscientos setenta es la norma madre que dice cómo se diseña, se construye, se prueba, se pone en servicio y se revisa todo eso, siempre que el gas venga a una presión máxima de operación igual o menor de cinco bar. Y no es un solo documento: son trece partes, como trece capítulos de un mismo manual. Nosotros estamos en la parte ocho, la de la prueba de estanquidad para entregar la instalación.\nN1: ¿Y da igual si es gas ciudad o bombona?\nN2: La norma vale tanto para gas natural como para gases licuados del petróleo, el butano y el propano. Lo que cambia son detalles; el esqueleto de la prueba es el mismo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ubicar la Parte 8",
+   "titulo": "Dónde encaja en la obra",
+   "vinetas": [
+    "Primero se monta la tubería",
+    "Luego: prueba que no pierde",
+    "Después: pruebas previas y servicio",
+    "Al final: arrancar los aparatos"
+   ],
+   "img_brief": "plumber assembling gas pipe fittings",
+   "notas": "N1: ¿En qué momento de la obra hago esta prueba?\nN2: Imagina la instalación como una película con cuatro escenas. Escena uno: montas la tubería con sus materiales y sus uniones. Escena dos, la nuestra: pruebas que no pierde, la estanquidad de la parte ocho. Escena tres: haces las pruebas previas y pones la instalación en servicio, que es la parte nueve. Y escena cuatro: enciendes y ajustas los aparatos, la parte diez. La prueba de estanquidad es el portero: si no la pasas, la película se para ahí. Nada de gas hasta que salga bien.\nN1: ¿Y qué novedad trae esta edición de la Parte 8?\nN2: Que ahora también te obliga a comprobar el tramo de conexión de cada aparato, ese último metro entre la llave y el aparato. Antes se quedaba fuera; ahora entra. Lo veremos en detalle más adelante."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Objeto y campo",
+   "titulo": "Qué se prueba y qué se incluye",
+   "vinetas": [
+    "Pruebas para la entrega de la instalación",
+    "MOP igual o menor de 5 bar",
+    "Incluye tramos de conexión a aparatos",
+    "Hasta el mando interior del aparato"
+   ],
+   "img_brief": "gas appliance connection valve",
+   "notas": "N1: ¿Qué entra exactamente en la prueba?\nN2: Entra toda la instalación receptora que vas a entregar, siempre que trabaje a una presión máxima de operación igual o menor de cinco bar. Y la novedad importante: cuando hay aparatos conectados, también hay que probar los tramos de conexión de esos aparatos, hasta el mando interior de cada uno. O sea, no basta con que la tubería general no pierda; el trocito que llega hasta el propio aparato también cuenta.\nN1: ¿Y por qué antes ese trozo se quedaba fuera?\nN2: Porque históricamente se probaba la tubería fija y el aparato se comprobaba aparte. La experiencia dice que muchas fugas aparecen justo en esa conexión final, en el enlace flexible o rígido que va a la caldera. Por eso ahora la norma lo mete dentro. Menos huecos, más seguridad."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Generalidades",
+   "titulo": "Solo aire o gas inerte",
+   "vinetas": [
+    "Nunca el propio gas combustible",
+    "Nunca agua u otro líquido",
+    "Por tramos o instalación completa",
+    "El resultado se documenta"
+   ],
+   "img_brief": "nitrogen gas cylinder blue industrial",
+   "notas": "N1: ¿Con qué relleno la tubería para probarla?\nN2: Solo con aire o con un gas inerte, que casi siempre es nitrógeno. Y ahora el porqué, que es lo que se te tiene que quedar. Con el propio gas combustible no, jamás: estarías metiendo una atmósfera explosiva a presión alta en la tubería, una bomba. Y con agua u otro líquido tampoco: te quedaría humedad dentro, y esa humedad luego corroe el metal, forma tapones o se te hiela en el regulador cuando aprieta el frío. El aire o el nitrógeno entran secos, prueban, y salen sin dejar rastro.\nN1: ¿La pruebo entera de una vez?\nN2: Como te venga mejor: puedes probar por tramos o toda la instalación de golpe. Y ojo, el resultado hay que documentarlo por escrito según la ley; no vale con decir de palabra que salió bien. Ese papel es parte de lo que entregas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Generalidades",
+   "titulo": "El orden de las llaves",
+   "vinetas": [
+    "Cierra las llaves de los extremos",
+    "Abre las llaves intermedias",
+    "Con presión, maniobra las intermedias",
+    "Comprobar abiertas y cerradas"
+   ],
+   "img_brief": "hand turning gas valve pipe",
+   "notas": "N1: ¿Por qué hay que tocar las llaves en un orden concreto?\nN2: Piensa en el tramo que quieres probar como una caja. Para atrapar la presión dentro, cierras las llaves de los dos extremos, las que hacen de tapas de la caja. Y abres las intermedias, para que la presión llegue a todo el tubo por igual, sin quedarse ningún rincón sin probar. Hasta aquí, lógica pura.\nN1: ¿Y por qué luego muevo las intermedias con presión dentro?\nN2: Aquí está el truco fino. Una llave puede sellar de maravilla por fuera, pero perder por el eje justo cuando la giras. Si no la maniobras, esa fuga no la ves. Por eso, con presión dentro, abres y cierras las intermedias y compruebas que no pierden ni en una posición ni en la otra. La fuga que no pruebas es justo la que luego huele a gas en la vivienda. Un ejemplo de obra: una llave de esfera vieja que parece estanca, la giras, y empieza a soltar por el vástago. Esa la cazas así."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Generalidades",
+   "titulo": "La temperatura engaña",
+   "vinetas": [
+    "Al presurizar, el aire se calienta",
+    "Espera a que se estabilice",
+    "Haz la primera lectura",
+    "Ahí arranca el cronómetro"
+   ],
+   "img_brief": "pressure gauge manometer gas pipe",
+   "notas": "N1: ¿Por qué hay que esperar antes de contar el tiempo?\nN2: Por pura física, y esto salva de tirar instalaciones buenas. Cuando comprimes aire dentro del tramo, ese aire se calienta un poco, y al calentarse empuja más: la aguja del manómetro sube. Luego, mientras se enfría hasta la temperatura del ambiente, la aguja baja. Si tú empiezas a cronometrar nada más presurizar, vas a ver esa bajada y vas a pensar que hay una fuga, cuando en realidad es el aire enfriándose. No es una fuga, es temperatura.\nN1: ¿Entonces qué hago?\nN2: Esperas un tiempo prudencial a que la temperatura se estabilice, con calma. Cuando la aguja ya está quieta, haces la primera lectura, y desde ese momento, y no antes, arrancas el cronómetro del ensayo. La prueba se da por buena si desde esa primera lectura la presión no baja durante el tiempo que marca la tabla. Paciencia al principio y no rechazas tubos que están perfectos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tabla 1 · La chuleta",
+   "titulo": "Presión y tiempo según la MOP",
+   "vinetas": [
+    "Presiones: 7 · 3,5 · 1 · 0,1 bar",
+    "Tiempos (q pequeño): 60 · 30 · 30 · 15 min",
+    "Caudal medio: 6 h con registro",
+    "Caudal grande: 24 h con registro"
+   ],
+   "img_brief": "engineer reading pressure test manometer",
+   "notas": "N1: Esta tabla parece la más importante, ¿cómo la memorizo?\nN2: Es la joya del vídeo, sí, y tiene un patrón muy fácil: a más presión de trabajo, más presión de prueba y más tiempo. Fíjate primero en las presiones de prueba, de mayor a menor operación: siete, tres coma cinco, uno, y cero coma uno bar. Cuatro escalones. Ahora los tiempos para el caso normal, que es caudal pequeño, hasta ciento cincuenta metros cúbicos por hora: sesenta, treinta, treinta y quince minutos. Fíjate que los dos de en medio coinciden en treinta.\nN1: ¿Y si el caudal es grande?\nN2: Entonces el tiempo ya no depende de la presión, sino solo del caudal. Si el caudal está entre ciento cincuenta y seiscientos metros cúbicos por hora, seis horas. Si es de seiscientos para arriba, veinticuatro horas. Y en los dos casos, siempre con registro de presión y de temperatura, porque en pruebas tan largas la temperatura cambia sí o sí y hay que poder descontar su efecto. Resumen cantado: presiones siete, tres y medio, uno, cero uno; tiempos sesenta, treinta, treinta, quince; y para caudales gordos, seis o veinticuatro horas registrando."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tabla 1 · Rebajas",
+   "titulo": "Descuentos por tramo corto",
+   "vinetas": [
+    "Individual < 20 m: baja a 30 min",
+    "Tramo < 15 m (0,05–0,4 bar): 15 min",
+    "Baja presión < 10 m: 10 min",
+    "Regla: 20→30, 15→15, 10→10"
+   ],
+   "img_brief": "measuring tape on copper pipe",
+   "notas": "N1: ¿Puedo acortar el tiempo si el tramo es cortito?\nN2: Sí, la norma te deja rebajar, pero cada rango tiene su regla, y conviene no mezclarlas. En el rango de dos a cinco bar, si es una instalación individual de menos de veinte metros, bajas de sesenta a treinta minutos. En el rango de cero coma cero cinco a cero coma cuatro bar, si el tramo mide menos de quince metros, bajas a quince minutos. Y en la baja presión, la de menos de cero coma cero cinco bar, si mide menos de diez metros, bajas a diez minutos.\nN1: Son muchos números, ¿hay un truco?\nN2: Sí, mira el patrón y se te queda: veinte metros llevan a treinta minutos, quince metros a quince minutos, diez metros a diez minutos. Cuanto más baja es la presión, más corto es el metraje que te permiten y más corto el tiempo. Tiene su lógica: en presiones altas y tramos largos hay más volumen de aire y una fuga tarda más en notarse, así que necesitas más tiempo de observación."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tabla 1 · Equipo",
+   "titulo": "El manómetro correcto",
+   "vinetas": [
+    "Hasta 5 bar: rango 0–10 bar, Clase 1",
+    "Media presión: 0–6 o 0–1,6 bar",
+    "Baja presión: columna de agua en U",
+    "Válidos electrónicos equivalentes"
+   ],
+   "img_brief": "U-tube water column manometer gas",
+   "notas": "N1: ¿Vale cualquier manómetro para medir?\nN2: No, y el motivo es de puro sentido común: tienes que medir con precisión dentro del rango en el que trabajas. Para tramos de hasta cinco bar usas un manómetro de cero a diez bar, clase uno, de cien milímetros de esfera; el rango va justo por encima de la presión de prueba. Para media presión, uno de cero a seis o de cero a uno coma seis bar, según el escalón. Y para la baja presión doméstica, esos milibares tan pequeñitos del gas natural en la vivienda, se usa el clásico tubo en U con columna de agua, que es sensibilísimo: nota una caída minúscula que un reloj grande ni vería.\nN1: ¿Y si tengo un aparato digital?\nN2: Perfectamente válido, siempre que sea del mismo rango y características, un manómetro electrónico o un manotermógrafo equivalente. Lo que no vale es medir milibares con un reloj de diez bar: la aguja apenas se movería y darías por buena una fuga pequeña que no ves."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tabla 1 · Nota",
+   "titulo": "Elementos delicados, fuera",
+   "vinetas": [
+    "Filtros, electroválvulas, manómetros",
+    "La prueba supera su presión de trabajo",
+    "Se prueban tubos con ellos desmontados",
+    "Luego se comprueba todo a la MOP"
+   ],
+   "img_brief": "gas solenoid valve and filter",
+   "notas": "N1: ¿Por qué hay que quitar filtros y electroválvulas antes de probar?\nN2: Porque la presión de prueba es muy superior a la de trabajo. Fíjate: pruebas a siete bar una red que luego operará a cinco. Un cartucho de filtro, una electroválvula, un indicador visual de presión o un manómetro delicado no están hechos para aguantar esa sobrepresión; podrías reventarlos o, peor, descalibrarlos sin que se note. Y un manómetro descalibrado te va a mentir en todas las lecturas que haga a partir de ahí.\nN1: ¿Y cómo compruebo entonces que esos elementos no pierden?\nN2: En dos tiempos. Primero pruebas la tubería con esos elementos desmontados, para saber que el tubo aguanta la presión alta. Y cuando ya sabes que la tubería está bien, montas todos los dispositivos y compruebas su estanquidad, pero a la presión máxima de operación, la normal de trabajo, no a la de prueba. Así compruebas todo sin arriesgarte a estropear lo delicado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "El último metro",
+   "titulo": "Tramo de conexión al aparato",
+   "vinetas": [
+    "Llave de conexión abierta",
+    "Mandos del aparato cerrados",
+    "Aparato excluido de la comprobación",
+    "No más de 110 mbar; nunca por debajo de servicio"
+   ],
+   "img_brief": "gas boiler connection pipe valve",
+   "notas": "N1: ¿Este tramo se prueba igual que la tubería general?\nN2: No, y aquí está la novedad de esta edición. El tramo de conexión es el último metro: va desde la llave de conexión del aparato hasta el propio aparato. En ese trocito no puedes meter siete bar, porque destrozarías la conexión y el aparato. Así que se comprueba suave: a una presión que no pase de ciento diez milibares y que nunca baje de la presión de servicio. Con la llave de conexión del aparato abierta, los mandos del aparato cerrados, y el aparato excluido, o sea, dejándolo fuera de la comprobación.\nN1: ¿Por qué la llave abierta pero los mandos cerrados?\nN2: Piensa en lo que quieres probar: el tubo entre la llave y el aparato. Abres la llave para que la presión llene ese tubo, y cierras los mandos del aparato para que la presión no se meta dentro del aparato ni se escape por el quemador. Así aíslas justo el tramo que te interesa. Es el enlace donde más fugas aparecen en servicio, por eso ahora se comprueba sí o sí."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Regulación y contadores",
+   "titulo": "Comprobar, no probar",
+   "vinetas": [
+    "Se comprueban a presión de operación",
+    "Con detector o agua jabonosa",
+    "Nunca a la presión de prueba alta",
+    "Tubería = prueba; equipos = comprobación"
+   ],
+   "img_brief": "gas meter regulator cabinet",
+   "notas": "N1: Prueba y comprobación, ¿no es lo mismo?\nN2: No, y esta diferencia de palabras cae en el examen, así que afínala. La tubería se somete a una prueba de estanquidad, con presión elevada, la de la tabla. Pero el conjunto de regulación y los contadores no se prueban: solo se comprueban, y a su presión de operación, la normal de trabajo, usando un detector de gas, agua jabonosa o un método similar. Buscas burbujas en las uniones de entrada y de salida del regulador y del contador.\nN1: ¿Y por qué a ellos no se les mete la presión alta?\nN2: Porque son equipos calibrados y delicados, igual que los filtros y las electroválvulas de antes. Meterles la presión de prueba los estropearía o descalibraría. La regla mental que te vale para todo el vídeo: tubería, prueba a presión alta; regulador y contador, comprobación a presión de trabajo. Si te acuerdas de esa frase, tienes media pregunta ganada."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes demostrar que no pierde",
+   "mapa": [
+    "Solo aire o gas inerte, jamás el propio gas ni líquido",
+    "Cierra extremos, abre y maniobra las intermedias",
+    "Primera lectura tras estabilizar; si no baja, aprueba",
+    "Tubería se prueba; regulación y contadores se comprueban"
+   ],
+   "tagline": "Este es el examen físico de la tubería. Con él ganado, ya puedes dar el paso a meter gas.",
+   "notas": "N1: A ver, si me quedo con lo esencial de todo el vídeo, ¿qué es?\nN2: Reconstruyamos el hilo, porque cada pieza tiene su porqué. Uno: se prueba solo con aire o gas inerte, nunca con el propio gas, que sería explosivo, ni con líquido, que dejaría humedad y corrosión. Dos: el juego de llaves, cierras los extremos para atrapar la presión y abres y maniobras las intermedias, porque una llave puede sellar por fuera y perder por el eje al girarla. Tres: la temperatura engaña, así que esperas a que se estabilice, haces la primera lectura y desde ahí cuentas; la prueba es correcta si la presión no baja. Y cuatro: la tubería se prueba a presión alta, pero regulación y contadores solo se comprueban a presión de trabajo, porque son equipos delicados.\nN1: ¿Y esto cómo me lo van a preguntar?\nN2: En el examen, casi siempre por los números de la tabla y por las diferencias de palabras. Grábate las presiones, siete, tres y medio, uno, cero uno; los tiempos, sesenta, treinta, treinta, quince; y las palabras clave: prueba contra comprobación, aire o inerte, primera lectura. En la obra, esto es lo que evita que firmes un boletín sobre una instalación que huele a gas al segundo día. Hoy ya eres más gasista que ayer: sabes demostrar que una tubería no pierde antes de meterle gas. En el siguiente vídeo damos el salto lógico: ya que no pierde, vamos a meterle gas de verdad con las pruebas previas y la puesta en servicio de la Parte nueve. Te espero allí."
+  }
+ ]
+}

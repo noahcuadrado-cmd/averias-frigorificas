@@ -1,0 +1,204 @@
+{
+ "pie": "Curso Gas B · Tema 11 · UNE 60670-4 · Diseño y construcción",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 11 · UNE 60670-4",
+   "videoxy": "Vídeo 3 de 3",
+   "titulo": "Tomas de presión, regulación y llaves de corte",
+   "subtitulo": "Medir, regular y cortar el gas en la instalación",
+   "notas": "N1: ¿Qué cierra este último vídeo del tema?\nN2: Cierra la Parte cuatro con lo que de verdad gobierna la instalación: los tres elementos que controlan el gas. Uno, dónde se mide, que son las tomas de presión. Dos, cómo se baja la presión, que es la regulación, y cambia según sea gas natural o gas de bombona. Y tres, cómo se corta, que es toda la cadena de llaves: de acometida, de edificio, de montante, de usuario, de contador, de vivienda, de aparato y de regulador. Quién manda cada llave, dónde va y qué accesibilidad tiene se pregunta muchísimo, y es lo que más usarás en obra para diagnosticar una avería y para poder cerrar en una urgencia. Vamos con ello."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["8", "llaves distintas en la cadena de corte"],
+    ["5", "cm² de ventilación del armario de regulación"],
+    ["4,8", "m³/h: frontera del conjunto de regulación"]
+   ],
+   "notas": "N1: ¿Qué tres cifras me anclan el vídeo?\nN2: Tres números que vas a usar. Uno, la cadena de corte tiene ocho llaves distintas, cada una con su nombre y su sitio: acometida, edificio, montante, usuario, contador, vivienda, aparato y regulador. Dos, el cinco: cinco centímetros cuadrados es la ventilación mínima del armario de regulación y también la del regulador con válvula de alivio por dentro. Y tres, el cuatro coma ocho: por debajo de cuatro coma ocho metros cúbicos por hora, un regulador no se considera conjunto de regulación. Con estos tres números tienes las anclas del vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 5 · Tomas de presión",
+   "titulo": "Los pinchos para medir el gas",
+   "vinetas": [
+    "A la entrada y salida del regulador",
+    "En el contador y tras la llave de vivienda",
+    "Los conjuntos normalizados ya las traen"
+   ],
+   "img_brief": "pressure gauge manometer on gas installation",
+   "notas": "N1: ¿Qué es una toma de presión y para qué sirve?\nN2: Una toma de presión es el pincho donde el gasista enchufa el manómetro para ver a cuánta presión va el gas en ese punto exacto. Sin tomas trabajarías a ciegas, no sabrías si el gas llega bien o se pierde por el camino. Por eso la norma las coloca en los sitios donde interesa comparar: a la entrada y a la salida de los reguladores, para comprobar que el regulador hace su trabajo; en la entrada de la centralización de contadores; a la salida del contador; y en el tramo interior, justo después de la llave de entrada a la vivienda. El truco para acordarte es sencillo: quieres poder medir a cada lado de los elementos importantes, para ver cuánta presión entra y cuánta sale. Un detalle práctico: los conjuntos de regulación normalizados ya vienen con sus tomas de fábrica, así que ahí no tienes que añadir nada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.1 · Gas natural",
+   "titulo": "A más presión, más seguridades",
+   "vinetas": [
+    "Más de 150 mbar: regulador + máxima + mínima",
+    "De 50 a 150 mbar: regulador + mínima",
+    "Hasta 50 mbar: mínima si pasa de 25 mbar"
+   ],
+   "img_brief": "gas pressure regulator valve",
+   "notas": "N1: ¿Cómo se regula el gas natural?\nN2: Con un sistema que se vuelve más exigente cuanta más presión entra, y esto es puro sentido de la seguridad. La segunda familia es el gas natural. Fíjate en la escalera. En lo más alto, de más de ciento cincuenta milibares hasta cinco bar, pides lo máximo: regulador, más una seguridad por máxima presión, más una seguridad por mínima. En el tramo medio, de más de cincuenta hasta ciento cincuenta milibares, regulador más seguridad por mínima. Y en lo más bajo, hasta cincuenta milibares, pones regulador solo si hace falta bajar la presión, y la seguridad por mínima solo si la presión pasa de veinticinco milibares; por debajo, se consulta a la compañía. ¿Por qué cuanta más presión más aparatos de seguridad? Porque una presión alta que se descontrola hace más daño: puede reventar membranas y estropear aparatos. La seguridad por máxima corta si la presión sube demasiado; la de mínima protege si se cae. Cuanto más arriba, más red de seguridad."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.1.1 · Ubicación",
+   "titulo": "Conjuntos de alta: grado 2 y al exterior",
+   "vinetas": [
+    "Grado de accesibilidad 2",
+    "Armario o nicho con pared al exterior",
+    "Ventilación de al menos 5 cm²"
+   ],
+   "img_brief": "gas regulator cabinet on building exterior wall",
+   "notas": "N1: ¿Dónde se coloca un conjunto de regulación de presión alta?\nN2: Los conjuntos que trabajan entre cuatro décimas de bar y cinco bar tienen que ir en un sitio accesible desde zona común, lo que se llama grado de accesibilidad dos, y siempre con salida al exterior. En concreto, en armarios adosados o empotrados en paredes exteriores, en nichos que tengan al menos una pared que dé a la calle, en la centralización de contadores o en salas de máquinas. La razón de que dé al exterior es clara: si el conjunto tiene una fuga o su válvula de alivio suelta gas, que se vaya fuera y no se acumule dentro. Y una cifra que cae fijo: en los armarios y nichos hace falta una ventilación directa al exterior de al menos cinco centímetros cuadrados, y vale incluso la propia rendija entre la puerta y el armario si mide lo suficiente. Grábate el cinco: cinco centímetros cuadrados de ventilación."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.1.2 · Reguladores",
+   "titulo": "El 4,8 y la rejilla del VAS",
+   "vinetas": [
+    "Hasta 4,8 m³/h: no es conjunto de regulación",
+    "VAS por dentro: 5 cm² permanentes",
+    "Arriba si es ligero, abajo si es pesado"
+   ],
+   "img_brief": "small gas regulator on meter",
+   "notas": "N1: ¿Y los reguladores pequeños de una vivienda?\nN2: Aquí hay dos cosas que memorizar. La primera, una frontera: un regulador de hasta cuatro coma ocho metros cúbicos por hora de aire es un regulador de a pie, no se considera conjunto de regulación, y se pincha directo a la entrada del contador o en línea. Por encima de ese caudal, si el regulador no trae seguridad por mínima incorporada, se la tienes que poner tú. La segunda cosa es la ventilación del regulador con válvula de alivio, la uve a ese, cuando va instalado por dentro. Necesita una ventilación permanente con el exterior de cinco centímetros cuadrados, y aquí está el truco de examen: la rejilla se pone arriba si el gas es más ligero que el aire, como el gas natural que sube, y abajo si el gas es más pesado, como el butano o el propano que bajan. Es de lógica: la rejilla se coloca por donde tiende a irse el gas. Otra vez el cinco, y el cuatro coma ocho como frontera."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.2 · GLP",
+   "titulo": "El GLP baja en dos escalones",
+   "vinetas": [
+    "Entrada de la receptora: entre 0,1 y 2 bar",
+    "Inversor automático en baterías de envases",
+    "Válvulas antirretorno entre bombonas"
+   ],
+   "img_brief": "propane gas cylinder with regulator",
+   "notas": "N1: ¿Y el gas de bombona o de depósito, el GLP?\nN2: El GLP, que es la tercera familia, o sea butano y propano, sale del depósito o de la bombona a mucha presión, así que se baja en dos escalones. Primero una etapa que lo deja entre una décima y dos bar a la entrada de la instalación receptora; esa cifra, de cero coma uno a dos bar, es la clave que cae. Y luego una segunda etapa que lo baja hasta la presión que necesita el aparato. Esa primera reducción se hace con dos reguladores en serie o con uno que lleve seguridad de alta. Si el suministro viene de una batería de bombonas, hay un inversor automático que cambia solo del grupo de bombonas vacío al lleno, para que no te quedes sin gas. Y con dos bombonas trabajando a la vez se ponen válvulas antirretorno, para que el gas no se trasvase de una bombona a la otra. Un apunte: si varias viviendas cuelgan del mismo depósito, cada una lleva su propia seguridad por mínima."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 7 · Dispositivos de corte",
+   "titulo": "La cadena de llaves, en orden",
+   "vinetas": [
+    "Acometida → edificio → montante",
+    "Usuario → contador → vivienda",
+    "Y por último, la de cada aparato"
+   ],
+   "img_brief": "gas shut off valve with yellow handle",
+   "notas": "N1: ¿Cómo me aprendo todas las llaves sin liarme?\nN2: Visualizando el recorrido del gas y las llaves que se va encontrando por el camino, en orden. Entra por la llave de acometida, que es la de la calle y la pone la compañía. Luego, si la acometida es larga, la llave de edificio, a pie de fachada. Después, la de montante colectivo, si hay más de un montante. A continuación, la llave de usuario, que aísla tu vivienda del resto. Luego la llave de contador. Después la llave de vivienda, que es la tuya, dentro de casa. Y al final, la llave de conexión de cada aparato, una por cada caldera, calentador o cocina. Si te aprendes el recorrido de fuera hacia dentro, colocas cada llave en su sitio sin fallar, porque cada una va donde el gas la encuentra. Vamos a verlas una a una."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartados 7.1 y 7.2",
+   "titulo": "Acometida y edificio: 25 y 4",
+   "vinetas": [
+    "Acometida: siempre, la pone la distribuidora",
+    "Edificio: solo si la acometida es larga",
+    "25 m si va vista o 4 m si va enterrada"
+   ],
+   "img_brief": "gas service valve on street pavement",
+   "notas": "N1: ¿Cuándo hace falta llave de edificio?\nN2: Empecemos por la de acometida: esa se instala siempre, es la que da inicio a la instalación receptora, y dónde va lo decide la compañía distribuidora, accesible desde la vía pública para ella y para los bomberos o la policía. Ahora, la de edificio no siempre hace falta. Solo se pone cuando la acometida interior, el tramo entre la llave de acometida y la fachada, es larga: veinticinco metros si el tubo va visto, o solo cuatro metros si va enterrado. ¿Por qué tan poco si va enterrado? Porque una fuga enterrada es mucho más difícil de detectar y de cerrar, así que la norma quiere una llave más cerca. También se pone la de edificio cuando la acometida da a más de un edificio. Y si la acometida es corta, no hace falta: la propia llave de acometida ya hace ese papel de cierre general."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 7.3 · Montante colectivo",
+   "titulo": "La llave para poder crecer",
+   "vinetas": [
+    "Una si hay más de un montante",
+    "Adicional: cerrada, bloqueada y precintada",
+    "Toma Peterson en tramos aéreos"
+   ],
+   "img_brief": "vertical gas riser pipe in stairwell",
+   "notas": "N1: ¿Qué tiene de especial la llave de montante colectivo?\nN2: Se pone cuando hay más de un montante colectivo, para poder cortar cada uno por separado. Pero lo interesante es la llave de montante adicional, que es una previsión de futuro. Imagina un edificio que se monta pensando en que algún día se ampliará con más viviendas: se deja el montante preparado con una llave al final que se queda cerrada, bloqueada y precintada, y con un tapón ciego detrás. El día que se amplíe el edificio, se conecta ahí sin tener que cortar el gas a los vecinos que ya viven. Es dejar la puerta preparada para crecer sin molestar a nadie. Y hay otro elemento: en receptoras nuevas con algún tramo aéreo, se pone una toma Peterson, que es un punto de purga y medición accesible desde la vía pública. Resumen: la llave adicional es para ampliar sin cortes, y va bien cerrada y precintada hasta que llegue ese día."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartados 7.4 y 7.5.1",
+   "titulo": "Usuario y contador: aislar tu piso",
+   "vinetas": [
+    "Usuario: aísla cada vivienda, grado 2",
+    "Contador: siempre, junto a su entrada",
+    "El contador puede hacer de usuario"
+   ],
+   "img_brief": "gas meter with shut off valve",
+   "notas": "N1: ¿Para qué sirve la llave de usuario?\nN2: La llave de usuario sirve para aislar cada instalación individual del resto, o sea para poder cortar el gas de una vivienda concreta sin tocar las demás. Se instala en todos los casos y tiene que ser fácilmente accesible, con grado dos para la distribuidora, desde la zona común o el límite de la propiedad. La llave de contador también se pone siempre, y va en el mismo recinto que el contador, lo más cerca posible de su entrada, para poder cortarle el gas al aparato de medida. Y hay un detalle práctico muy típico: cuando los contadores están centralizados, todos juntos en un cuarto, la propia llave de contador puede asumir la función de llave de usuario, porque cumple lo mismo. Así te ahorras una llave. En resumen, la de usuario aísla tu piso y, en centralizaciones, la del contador puede hacer ese doble papel."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 7.5.2 · Llave de vivienda",
+   "titulo": "La llave de vivienda es la tuya",
+   "vinetas": [
+    "Siempre, con accesibilidad de grado 1",
+    "Fuera de la vivienda pero accesible dentro",
+    "Corta el gas de toda la casa"
+   ],
+   "img_brief": "gas valve inside home hallway",
+   "notas": "N1: ¿Y la llave de vivienda en qué se diferencia?\nN2: La llave de vivienda es la que tienes tú a mano para cortar el gas de toda tu casa, por ejemplo antes de irte de vacaciones o si hueles a gas. Por eso se instala siempre y con grado de accesibilidad uno, que significa que la puedes manejar tú directamente, sin pedir permiso a nadie. Se coloca normalmente en el exterior de la vivienda pero de forma que se pueda accionar desde dentro; también puede ir por dentro, y entonces se pone de manera que el tramo de tubo antes de ella, ya dentro de casa, sea lo más corto posible, para que quede el mínimo de tubería sin poder cortar. Un matiz que cae en examen: la llave de usuario solo puede hacer de llave de vivienda si es fácilmente accesible desde fuera, desde zona común, y con autorización expresa de la distribuidora. Si no, son llaves distintas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 7.5.3 · Llave de aparato",
+   "titulo": "Una llave por cada aparato",
+   "vinetas": [
+    "Junto al aparato, en el mismo recinto",
+    "Pendientes: cerradas, bloqueadas, precintadas",
+    "Cocina: limitador de exceso de flujo"
+   ],
+   "img_brief": "gas cooker connection valve in kitchen",
+   "notas": "N1: ¿Cada aparato lleva su propia llave?\nN2: Sí, cada aparato de gas, la caldera, el calentador, la cocina, lleva su llave de conexión, colocada lo más cerca posible del aparato y en el mismo recinto, con grado uno para el usuario. La idea es poder cortarle el gas a un aparato concreto sin dejar la casa entera sin gas. Hay reglas importantes. Si un aparato está pendiente de instalar o de arrancar, su llave se deja cerrada, bloqueada y precintada, y además taponada si el aparato todavía no está puesto, para que nadie abra gas a un tubo que no va a ningún sitio. Y una seguridad clave en las cocinas domésticas: es obligatorio un limitador de exceso de flujo. ¿Qué hace? Si se suelta el tubo de la cocina y el gas empieza a salir a chorro, el limitador lo corta de golpe. Si la llave no lo trae de serie, se pone uno externo sellado con pasta endurecible. Es la seguridad típica del se ha soltado el tubo de la vitrocerámica."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Grados de accesibilidad",
+   "titulo": "Quién llega a cada llave",
+   "vinetas": [
+    "Grado 1: a mano del usuario",
+    "Grado 2: desde zona común, la distribuidora",
+    "Grado 3: el menos accesible"
+   ],
+   "img_brief": "gas valve behind access panel",
+   "notas": "N1: Me pierdo con los grados de accesibilidad. ¿Cómo los distingo?\nN2: Es más fácil de lo que parece si piensas en quién tiene que poder llegar a la llave. El grado uno es a mano del usuario: la manejas tú directamente, como la llave de vivienda o la de cada aparato, que están dentro o justo al alcance. El grado dos es accesible desde la zona común o pública con cierta facilidad, y es el típico de la distribuidora o de los servicios de emergencia, como la llave de usuario. Y el grado tres es el menos accesible, hace falta más para llegar, por ejemplo con una escalera o herramientas. La regla para no fallar es: lo tuyo, lo de dentro de tu casa, grado uno; lo de la compañía, en zonas comunes, grado dos o tres. Piensa siempre quién necesita abrir esa llave y a qué distancia está de él."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 7.6 · Multifunción",
+   "titulo": "Una llave, varios sombreros",
+   "vinetas": [
+    "Multiuso si cumple todo lo exigido",
+    "Vivienda NUNCA hace de aparato",
+    "Regulador no hace de usuario (salvo GLP ≤ 15 kg)"
+   ],
+   "img_brief": "brass gas ball valve close up",
+   "notas": "N1: ¿Puede una misma llave hacer de varias?\nN2: Sí, para ahorrar material, una misma llave puede cumplir la función de varias, pero solo si reúne todos los requisitos que se exigen a cada una de ellas. Ahora bien, graba dos prohibiciones que caen fijo en el examen. La primera: la llave de vivienda nunca puede hacer de llave de aparato. ¿Por qué? Porque si fueran la misma, no podrías aislar un solo aparato sin dejar toda la casa sin gas, y se perdería el sentido de tener una llave por aparato. La segunda: la llave que viene incorporada en un regulador no puede hacer de llave de usuario, salvo una excepción muy concreta, la de las instalaciones con envase de gas licuado de hasta quince kilos, donde si el regulador lleva corte incorporado, ese sí puede hacer de llave de usuario. Fuera de esos dos límites, el multiuso está permitido. Dos noes que memorizar: vivienda no es aparato, y regulador no es usuario salvo bombona pequeña."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Documentación y puesta en servicio",
+   "titulo": "Del certificado al gas abierto",
+   "vinetas": [
+    "La instaladora firma el certificado (IRG)",
+    "Pruebas de estanquidad antes de dar gas",
+    "La distribuidora hace la puesta en servicio"
+   ],
+   "img_brief": "gas installation certificate with signature",
+   "notas": "N1: Una vez montado todo esto, ¿cómo se pone en marcha?\nN2: Con la instalación terminada, se sigue un circuito de papeles y comprobaciones que no te puedes saltar. Primero, la empresa instaladora habilitada hace las pruebas de estanquidad, para comprobar que no se escapa nada, y firma el certificado de instalación, el modelo I erre ge. Con ese certificado, la empresa distribuidora hace la puesta en servicio, que es dar gas de forma legal. Y la puesta en marcha de cada aparato la certifica quien lo arranca, sea el servicio técnico del fabricante o el instalador habilitado. Un detalle práctico: del certificado, la copia es para el usuario y el original para la distribuidora. Sin ese circuito completo, la instalación no puede recibir gas legalmente, aunque esté perfectamente montada. El papel y la prueba son los que abren la llave."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes medir, regular y cortar el gas",
+   "mapa": [
+    "Tomas de presión: medir a cada lado del elemento",
+    "Gas natural: a más MOP, más seguridades",
+    "GLP: dos etapas y 0,1 a 2 bar a la entrada",
+    "La cadena de llaves y sus grados de acceso"
+   ],
+   "tagline": "Con esto diagnosticas una avería y cierras en una urgencia. Has cerrado la Parte 4 entera.",
+   "notas": "N1: Último empujón. ¿Cómo lo ato todo y cierro el tema?\nN2: Reconstruyamos el hilo de los tres elementos que gobiernan el gas. Primero, dónde medir: las tomas de presión, colocadas a cada lado de los elementos importantes, para no trabajar a ciegas. Segundo, cómo regular: en gas natural, cuanta más presión de entrada, más seguridades, con el regulador más la máxima y la mínima; en GLP, dos etapas y la entrada de la receptora entre una décima y dos bar, con inversor y antirretorno en las bombonas. Y tercero, cómo cortar: la cadena de llaves de fuera hacia dentro, acometida, edificio, montante, usuario, contador, vivienda y aparato, cada una con su grado de accesibilidad, lo tuyo en grado uno y lo de la compañía en dos o tres.\nN1: ¿Y cómo se pregunta y para qué me sirve de verdad?\nN2: En el examen te clavan las cifras y las prohibiciones: los cinco centímetros cuadrados de ventilación, el cuatro coma ocho de frontera, los veinticinco metros y los cuatro metros de la llave de edificio, y los dos noes, vivienda no es aparato y regulador no es usuario. En la obra, esto es lo que más usarás: para diagnosticar por qué un aparato no rinde vas midiendo con las tomas de presión, y para cortar en una urgencia tienes que saber qué llave cerrar y dónde está. Con esto has cerrado la Parte cuatro entera: sabes dimensionar, sabes llevar el tubo y sabes medir, regular y cortar. Hoy eres mucho más gasista que al empezar el tema. Enhorabuena: ya piensas como un instalador."
+  }
+ ]
+}

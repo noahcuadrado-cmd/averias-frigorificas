@@ -1,0 +1,179 @@
+{
+ "pie": "Curso Gas B · Tema 10 · UNE 60670-3",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 10 · UNE 60670-3",
+   "videoxy": "Vídeo 3 de 3",
+   "titulo": "Tipos de uniones",
+   "subtitulo": "Soldadura, uniones mecánicas y la estanquidad",
+   "notas": "N1: Ya tengo los tubos y los elementos. ¿Qué falta para terminar la Parte 3?\nN2: Falta lo que de verdad decide si la instalación fuga o no: cómo se juntan las piezas. Hay un dicho en el oficio que resume este vídeo entero: donde no hay fuga, hay una buena unión. Puedes tener el mejor tubo del mundo, pero si la junta está mal hecha, el gas se escapa por ahí. En este último vídeo vemos las tres maneras de unir: por soldadura, tanto blanda como fuerte; las uniones mecánicas desmontables, las que se pueden volver a abrir; y las mecánicas no desmontables, las que quedan fijas. Presta especial atención a dos cosas, porque son las trampas del examen: a lo que está prohibido, y a las combinaciones de metales que obligan a meter una pieza intermedia. Vamos allá."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["3", "puntos de fusión clave, en °C"],
+    ["5", "bar: tope de las uniones mecánicas"],
+    ["0,05", "bar: frontera blanda / fuerte"]
+   ],
+   "notas": "N1: ¿Qué tres números me llevo de este vídeo?\nN2: Tres cifras que resumen casi todo. La primera: hay tres puntos de fusión que se preguntan, y los verás repetidos, doscientos veinte, cuatrocientos cincuenta y ochocientos cincuenta grados. La segunda: todas las uniones mecánicas, las que no son soldadas, tienen un tope común, cinco bar; por encima de esa presión no se admiten. Y la tercera, quizá la más importante: la frontera entre soldadura blanda y fuerte está en cero coma cero cinco bar. Con esas tres cifras ya tienes el esqueleto del vídeo. Ninguna es una fecha; son datos de oficio que caen tal cual."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Uniones · Regla general",
+   "titulo": "Una sola regla manda",
+   "vinetas": [
+    "Toda unión debe asegurar la estanquidad",
+    "Aunque cambie el gas o la presión",
+    "Aunque el ambiente sea agresivo",
+    "Lo demás son formas de cumplirla"
+   ],
+   "img_brief": "gas leak test soapy water pipe joint",
+   "notas": "N1: Antes de los tipos de unión, ¿hay una idea que las gobierne a todas?\nN2: Sí, y si te la quedas, entiendes el capítulo entero. La regla es una sola: toda unión debe asegurar la estanquidad. Estanquidad, en cristiano, quiere decir que no se escape ni una burbuja de gas por la junta. Y tiene que aguantarlo pase lo que pase: aunque cambie el tipo o la presión del gas que circula, y aunque el ambiente de alrededor sea agresivo, húmedo o salino. Fíjate en que todo lo que viene después, soldar, roscar, embridar, no son más que maneras distintas de cumplir esta única regla. Por eso el juez final de tu trabajo es la prueba de estanquidad, la comprobación de fugas que se hace antes de dar gas: si una unión está chapucera, ahí se cae. Trabaja siempre pensando en esa prueba."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Soldadura · Generalidades",
+   "titulo": "Soldar bien empieza antes de soldar",
+   "vinetas": [
+    "El proceso depende de los materiales",
+    "Limpieza previa de las superficies",
+    "Decapante adecuado a cada soldadura",
+    "Eliminar los residuos del fundente"
+   ],
+   "img_brief": "brazing copper pipe torch flame closeup",
+   "notas": "N1: ¿Soldar no es solo calentar y aplicar el metal?\nN2: Ojalá fuera tan simple; la mayoría de las soldaduras que fugan fallan por lo de antes, no por el calor. La norma dice que el proceso depende de los materiales que unes y de si son iguales o distintos, y luego insiste mucho en la preparación. Primero, limpieza: las superficies tienen que estar limpias, sin grasa ni óxido, porque la soldadura no agarra sobre suciedad. Segundo, el decapante, esa pasta que ayuda a que el metal de aportación fluya y moje bien; tiene que ser el adecuado a cada tipo de soldadura. Y tercero, muy importante, eliminar después los restos del fundente, porque si los dejas, con el tiempo corroen la junta desde fuera y te crean la fuga que tanto cuidado pusiste en evitar. La lección: una buena soldadura se gana en la limpieza previa y en la limpieza posterior."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Soldadura · Blanda o fuerte",
+   "titulo": "La frontera está en 0,05 bar",
+   "vinetas": [
+    "> 0,05 bar → soldadura fuerte, siempre",
+    "≤ 0,05 bar → se admite la blanda",
+    "Solo doméstico o cocina tipo A ≤ 30 kW",
+    "Aparcamiento cerrado: fuerte aunque baje"
+   ],
+   "img_brief": "brazing gas pipe joint blue flame",
+   "notas": "N1: ¿Cuándo puedo soldar blando y cuándo me obligan a fuerte?\nN2: Grábate esta frontera como norma de oro, porque es de las más preguntadas. Por encima de cero coma cero cinco bar, siempre soldadura fuerte, sin excepción. La blanda solo se permite hasta cero coma cero cinco bar, y además solo en usos domésticos o en cocinas de tipo A cuya potencia sumada no pase de treinta kilovatios. ¿Y por qué esta diferencia? Porque la soldadura fuerte, que se hace a mucha más temperatura, aguanta el calor de un incendio muchísimo mejor; la blanda se funde antes. Por eso, y aquí el matiz que buscan: si el tubo cruza un aparcamiento cerrado, es soldadura fuerte obligatoria aunque la presión sea baja, porque un garaje es zona de riesgo de incendio. Piénsalo así: soldar blando donde tocaba fuerte es dejar preparada una fuga para el día del fuego."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Soldadura · Polietileno",
+   "titulo": "Polietileno con polietileno",
+   "vinetas": [
+    "Preferentemente por electrofusión",
+    "A tope si DN ≥ 110",
+    "Accesorios compatibles con el tubo",
+    "Se funde el material consigo mismo"
+   ],
+   "img_brief": "polyethylene pipe electrofusion welding",
+   "notas": "N1: El plástico no se suelda con soplete, ¿no? ¿cómo se une?\nN2: Bien visto, el polietileno no se suelda con llama; se funde consigo mismo. La forma preferida es la electrofusión: el accesorio lleva por dentro una resistencia eléctrica que, al pasarle corriente, calienta y funde el plástico del tubo y el de la pieza hasta que se hacen uno solo. Es limpio y muy fiable. Para diámetros grandes, a partir de la DN ciento diez, se admite también la soldadura a tope, que enfrenta los dos extremos calientes y los presiona. En los dos casos, el accesorio tiene que ser compatible con el tubo. La idea: en el plástico no hay metal de aportación como en el cobre; lo que se une es el propio material fundido consigo mismo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Soldadura · Acero",
+   "titulo": "Acero con acero",
+   "vinetas": [
+    "Soldadura a tope por arco eléctrico",
+    "Oxiacetilénica solo si DN ≤ 50",
+    "Sin mandril interno al curvar",
+    "Accesorios soldados o roscados"
+   ],
+   "img_brief": "arc welding steel pipe joint sparks",
+   "notas": "N1: ¿Y el acero se suelda de cualquier forma?\nN2: No, tiene sus dos técnicas según el diámetro. La general es la soldadura a tope por arco eléctrico: enfrentas los dos tubos y los unes con el arco, esa soldadura de electrodo que da una junta muy resistente. Para diámetros pequeños, hasta la DN cincuenta, se admite también la soldadura oxiacetilénica, la del soplete de oxígeno y acetileno. Por encima de ese diámetro, arco. Recuerda del primer vídeo que al curvar acero tampoco se usa mandril interno, para no estrangularlo, y que sus accesorios pueden ir soldados o roscados, cada uno con su norma. La idea sencilla: acero, a tope por arco; y solo si es fino, hasta cincuenta, puedes tirar de soplete."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Soldadura · Cobre e inox",
+   "titulo": "Capilaridad: cobre e inoxidable",
+   "vinetas": [
+    "Unión por soldadura capilar",
+    "Fuerte 450 °C · blanda 220 °C",
+    "Prohibido el estaño-plomo",
+    "No abocardar (salvo baterías de contadores)"
+   ],
+   "img_brief": "capillary solder copper fitting joint",
+   "notas": "N1: ¿Qué es la soldadura capilar y qué está prohibido en ella?\nN2: La soldadura por capilaridad es la del cobre de toda la vida: metes el tubo dentro del accesorio, calientas, y el metal de aportación fundido se cuela por sí solo en la holgura, por capilaridad, como cuando una servilleta absorbe el agua. Vale para cobre y para acero inoxidable. Dos puntos de fusión que caen en examen: cuatrocientos cincuenta grados para la capilar fuerte y doscientos veinte para la blanda. Y una prohibición clara: no se usa aleación de estaño-plomo como aportación, porque el plomo es tóxico y deja la unión fuera de norma. Un detalle más, muy preguntado: no se debe abocardar el tubo, es decir, ensanchar su boca, para soldar por capilaridad; solo se permite como excepción en las baterías de contadores o colectores de llaves, y siempre que el tubo no pierda espesor al hacerlo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Uniones · Metales distintos",
+   "titulo": "La regla del traductor",
+   "vinetas": [
+    "Cobre y acero: nunca unión directa",
+    "Cobre e inox: nunca unión directa",
+    "Se intercala un accesorio de aleación de cobre",
+    "Cobre-acero: a tope por bordón, 850 °C"
+   ],
+   "img_brief": "brass transition fitting copper steel pipe",
+   "notas": "N1: ¿Por qué no puedo unir directamente cobre y acero?\nN2: Porque dos metales distintos en contacto, con la humedad, montan una pila: es lo que se llama par galvánico. Uno de los dos se va corroyendo y la junta acaba fugando con el tiempo. Para evitarlo, la norma usa lo que yo llamo la regla del traductor: entre cobre y acero, y también entre cobre e inoxidable, nunca los unas a pelo; metes en medio un accesorio de aleación de cobre que hace de intermediario, de traductor entre los dos metales. Y para la unión de ese accesorio con el acero, apunta el tercer punto de fusión del tema: ochocientos cincuenta grados, por soldadura fuerte a tope por bordón. Ya tienes los tres números juntos: doscientos veinte, cuatrocientos cincuenta y ochocientos cincuenta grados. Si en el examen ves 'unión directa de cobre y acero', es falsa: siempre va el traductor por medio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Uniones · Plomo",
+   "titulo": "El plomo: solo para lo viejo",
+   "vinetas": [
+    "Nada de plomo en obra nueva",
+    "Solo ampliar o modificar lo ya en servicio",
+    "Solo hasta 0,05 bar y uso doméstico",
+    "Con acero o inox: manguito de aleación de cobre"
+   ],
+   "img_brief": "old lead pipe gas installation wall",
+   "notas": "N1: ¿El plomo todavía se usa en gas?\nN2: Nuevo, nunca; el plomo solo aparece cuando amplías o modificas una instalación antigua que ya lo tiene puesto. Por eso sus uniones llevan tres candados que van siempre juntos: solo en instalaciones ya en servicio, solo hasta cero coma cero cinco bar de presión, y solo en uso doméstico. Fuera de ahí, prohibido. Dentro de esos límites, con el cobre sí se puede soldar el plomo, con aportación de estaño-plomo de fusión por encima de doscientos grados. Pero con el acero o el inoxidable, jamás directo: hay que intercalar siempre un manguito de aleación de cobre, otra vez el traductor. Resumen para el examen: plomo igual a instalación vieja, presión baja y uso de casa; y con acero o inox, manguito de por medio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Uniones mecánicas · Desmontables",
+   "titulo": "Desmontables: se vuelven a abrir",
+   "vinetas": [
+    "Junta plana, bridas y metal-metal",
+    "Junta plana: elementos pequeños",
+    "Bridas: diámetros mayores",
+    "Metal-metal solo en conjuntos de regulación"
+   ],
+   "img_brief": "flanged gas pipe connection bolts",
+   "notas": "N1: ¿Qué gano con una unión que se puede desmontar?\nN2: Ganas poder abrirla el día que haya que cambiar la pieza sin cortar el tubo. Por eso las uniones desmontables se ponen justo donde algún día tocará desmontar: un contador, un regulador, una válvula. Son tres. La unión por junta plana, para elementos pequeños: dos caras que aprietan una junta, normalmente de goma, que hace la estanquidad. La unión por bridas, para diámetros mayores: dos platos atornillados con una junta en medio. Y la unión metal-metal, del tipo esfera-cono o de anillos cortantes, que se reserva solo a las conexiones de los conjuntos de regulación. Un dato que las abarca a todas: las uniones mecánicas se pueden usar hasta cinco bar de presión, no más. Desmontable quiere decir eso, que se afloja y se vuelve a montar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Uniones mecánicas · No desmontables",
+   "titulo": "No desmontables: quedan fijas",
+   "vinetas": [
+    "Roscadas (UNE 19500 / UNE-EN 10242)",
+    "Press-fitting radial y axial",
+    "Multicapa y corrugado flexible",
+    "Junta tórica UNE-EN 549; hasta 5 bar"
+   ],
+   "img_brief": "press fitting tool crimping gas pipe",
+   "notas": "N1: ¿Y las que no se desmontan? ¿el press-fitting qué es?\nN2: Las no desmontables quedan fijas: una vez hechas, para deshacerlas hay que cortar. La más clásica es la roscada, tubo de acero con rosca, que va por la norma diecinueve mil quinientos con sus accesorios. Pero la reina de la obra rápida hoy es el press-fitting: metes el tubo en el accesorio y lo aprietas con una máquina prensadora que deforma el metal y sella; puede ser radial o axial según cómo apriete. Dentro del accesorio hay una junta tórica, una goma en forma de anillo, que es la que hace la estanquidad, y va por la norma quinientos cuarenta y nueve. También son no desmontables las uniones de multicapa y las del corrugado flexible. Un aviso de obra: si te olvidas de prensar un accesorio o maltratas la junta tórica, tienes la fuga esperando a salir en la prueba, o peor, después. Y de nuevo, todas hasta cinco bar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Transición PE-metal · Otras",
+   "titulo": "Enlaces PE-metal y otras uniones",
+   "vinetas": [
+    "Desmontable → UNE 60405-1 y -3",
+    "Fijo → UNE 60405-1 y -2",
+    "No confundas desmontable con fijo",
+    "Otras aceptadas: UNE-EN 1775"
+   ],
+   "img_brief": "polyethylene to metal transition fitting",
+   "notas": "N1: Los enlaces que pasan de plástico a metal, ¿tienen truco?\nN2: Tienen un detalle que les gusta cruzar en el examen, y es fácil si lo separas bien. Los enlaces de transición pe-metal, los que casan el plástico con el metal, se dividen en dos según se puedan abrir o no. Si el enlace es desmontable, va por las normas sesenta mil cuatrocientos cinco, parte uno y parte tres. Si es fijo, no desmontable, va por la sesenta mil cuatrocientos cinco, parte uno y parte dos. La parte uno es común; lo que cambia es la otra: la tres para desmontable, la dos para fijo. No las confundas, es justo lo que preguntan. Y para cerrar el capítulo, la norma deja una puerta abierta: se admiten también otras uniones que acepte la norma mil setecientos setenta y cinco. Con esto ya tienes todas las formas de unir tubos de la Parte tres."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes por qué no fuga una instalación",
+   "mapa": [
+    "Estanquidad: la única regla que manda",
+    "Frontera blanda / fuerte en 0,05 bar",
+    "Fusión: 220 – 450 – 850 °C",
+    "Metales distintos: siempre el traductor"
+   ],
+   "tagline": "Has cerrado la Parte 3 entera: ya lees una instalación material a material y unión a unión.",
+   "notas": "N1: Último vídeo y fin del tema. ¿Cómo lo cierro todo en la cabeza?\nN2: Reconstruyamos el hilo, porque hoy has puesto la última pieza del tema. Todo colgaba de una sola regla: cualquier unión debe asegurar la estanquidad, no escaparse ni una burbuja, pase lo que pase. A partir de ahí vimos las tres familias. La soldadura, con su frontera de oro en cero coma cero cinco bar: por encima, siempre fuerte, y fuerte también en aparcamiento cerrado, porque aguanta mejor el fuego. Los tres puntos de fusión que se preguntan, doscientos veinte, cuatrocientos cincuenta y ochocientos cincuenta grados, y el estaño-plomo desterrado por tóxico. La regla del traductor: entre metales distintos, siempre un accesorio de aleación de cobre por medio, para que no se corroan formando pila. El plomo, solo para parchear lo viejo. Y las uniones mecánicas, desmontables y no desmontables, todas hasta cinco bar, con el press-fitting y su junta tórica como estrella de la obra rápida.\nN1: ¿Y cómo se traduce esto en el examen y en la obra?\nN2: En el examen, este es el capítulo que más se pregunta: te darán una presión, dos metales o una técnica y tendrás que decir qué se admite y qué está prohibido; con lo de hoy, esas preguntas son tuyas. Y en la obra, todo esto lo juzga la prueba de estanquidad antes de dar gas: una unión que gotea es lo que convierte un boletín, el certificado que firma la empresa instaladora, en un problema con tu firma detrás. Con este vídeo cierras la Parte tres entera de la sesenta mil seiscientos setenta: sabes con qué se construye, con qué elementos y con qué uniones. Hoy no eres un poco más gasista: has terminado un tema completo y puedes explicárselo a otro de principio a fin. Enhorabuena, y nos vemos en el siguiente tema."
+  }
+ ]
+}

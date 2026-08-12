@@ -1,0 +1,235 @@
+{
+ "pie": "Curso Gas B · Tema 16 · UNE 60670-11/12/13",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 16 · UNE 60670-11/12/13",
+   "videoxy": "Vídeo 3 de 4",
+   "titulo": "Control periódico: grandes y comunes",
+   "subtitulo": "UNE 60670-12 · Individuales > 70 kW e instalaciones comunes",
+   "notas": "N1: ¿Qué cambia respecto al vídeo anterior?\nN2: Subimos de nivel. Seguimos en la Parte doce, pero ahora en las instalaciones grandes y de edificio. Por un lado, las instalaciones individuales de potencia útil nominal superior a setenta kilovatios, que suelen llevar estación de regulación y medida. Por otro, las instalaciones receptoras comunes, que son los montantes y los recintos de contadores de todo el edificio. Aquí aparece lo más numérico del tema: los criterios de caudal de fuga en litros por hora que deciden si una instalación es apta, apta pendiente de corrección o no apta.\nN1: ¿Y eso de los litros por hora es importante?\nN2: Es la parte que más cae en el examen y la que más criterio te da en obra. En las viviendas pequeñas cualquier fuga era no apta y punto. Aquí, en cambio, medimos el caudal de la fuga y ese número decide el destino de la instalación. Domina esa escalera de litros por hora y tendrás ganado medio tema. Vamos con ello."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["5 l/h", "por encima: no apta (principal)"],
+    ["1 l/h", "por debajo: apta"],
+    ["12 kg", "extintor del recinto de la ERM"]
+   ],
+   "notas": "N1: ¿Qué me anticipan estos tres números?\nN2: La médula del vídeo. Cinco litros por hora es el techo: una fuga que supera cinco litros por hora deja la instalación no apta, anomalía principal. Un litro por hora es el suelo: por debajo de un litro por hora, la instalación es apta. Y entre esos dos valores, entre uno y cinco, queda la franja intermedia, apta pendiente de corrección, que es secundaria. El doce es de otra cosa: es la capacidad en kilos del extintor de polvo seco que debe haber junto al recinto de la estación de regulación y medida. Tres números que caen tal cual."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · Apartado 1",
+   "titulo": "Grandes y comunes: qué son",
+   "vinetas": [
+    "Individual > 70 kW: con ERM",
+    "Común: montantes y recinto de contadores",
+    "Códigos IPb/ISb y CP/CS"
+   ],
+   "img_brief": "gas pressure regulation station industrial cabinet",
+   "notas": "N1: ¿Qué diferencia hay entre estas instalaciones y las del vídeo anterior?\nN2: Una diferencia de tamaño y de tipo. Las individuales de más de setenta kilovatios ya son instalaciones industriales o terciarias, con más potencia, y suelen incorporar una estación de regulación y medida, la ERM, que es un conjunto que regula la presión y mide el consumo. Las instalaciones comunes son las de todo el edificio: los montantes por los que sube el gas y el recinto donde se centralizan los contadores. Es decir, la parte compartida por varios usuarios.\nN1: ¿Y esos códigos nuevos?\nN2: Igual que las pequeñas eran IPa e ISa, ahora las individuales grandes llevan IPb para las principales e ISb para las secundarias; la b las distingue de las pequeñas. Y las comunes llevan CP para las principales y CS para las secundarias, la c de común. No te obsesiones con las siglas: lo importante es el criterio, sobre todo la escalera de litros por hora que es la misma para las grandes y para las comunes. Vamos a por ella."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · IPb-1",
+   "titulo": "La escalera de los litros/hora",
+   "vinetas": [
+    "Gas menos denso, interior no peligroso",
+    "< 1 l/h: apta",
+    "1 a 5 l/h: pendiente (secundaria ISb-1)",
+    "> 5 l/h: no apta (principal IPb-1)"
+   ],
+   "img_brief": "gas flow meter measurement device technician",
+   "notas": "N1: ¿Cómo decido si una fuga es grave según el caudal?\nN2: Esta es la escalera que tienes que memorizar sí o sí, porque cae fijo. Hablamos de gas menos denso que el aire, o sea gas natural, en un espacio interior no peligroso, y midiendo el caudal de la fuga a la presión de operación. Si el caudal es menor de un litro por hora, la instalación es apta: puede seguir con normalidad. Si está entre uno y cinco litros por hora, queda en aptitud de uso pendiente de corrección, que es anomalía secundaria ISb uno. Y si supera los cinco litros por hora, es no apta para uso, anomalía principal IPb uno.\nN1: ¿Y esto de dónde sale la lógica?\nN2: De cuánto gas está escapando. Una fuga por debajo de un litro por hora es tan pequeña que se tolera; entre uno y cinco hay que corregirla pero no es una emergencia; y por encima de cinco ya es demasiado gas suelto para dejarlo. Piénsalo como un grifo que gotea: unas gotas se aguantan, un chorro no. Memoriza los dos números, uno y cinco, y los tres cajones: apta, pendiente, no apta. En el siguiente slide vienen las trampas de esta escalera."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · IPb-1",
+   "titulo": "Las trampas de la escalera",
+   "vinetas": [
+    "Si no mides: siempre no apta",
+    "Sala de máquinas sin detección: > 1 l/h no apta",
+    "Peligroso o fuga no localizada: no apta"
+   ],
+   "img_brief": "boiler room machinery gas installation",
+   "notas": "N1: ¿Y si no puedo medir el caudal de la fuga?\nN2: Aquí está la primera trampa, muy de examen. Si no mides el caudal, la instalación se considera siempre no apta para uso, anomalía principal. La lógica es de sentido común: si no sabes cuánto escapa, no puedes garantizar que sea poco, así que por seguridad la das por no apta. Medir es lo que te permite salvar una instalación con fuga pequeña; sin medición, no hay salvación posible.\nN1: ¿Y lo de la sala de máquinas?\nN2: Segunda trampa. En una sala de máquinas, si no dispone de un sistema de detección y corte de gas conforme con su norma, el listón baja: basta con que el caudal supere un litro por hora, no cinco, para que sea no apta. ¿Por qué más estricto? Porque una sala de máquinas es un recinto con mucha potencia y sin ese sistema no hay quien avise ni corte a tiempo. Y tercera situación: si la fuga está en un emplazamiento peligroso, una atmósfera que puede explotar, o si no consigues localizarla, no hay medición que valga: no apta, principal. No puedes dejar con gas algo cuyo fallo ni siquiera sabes dónde está."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · IPb-1 · Gas denso",
+   "titulo": "El GLP no perdona",
+   "vinetas": [
+    "Gas más denso que el aire (GLP)",
+    "Cualquier fuga: no apta, sin medir",
+    "Se acumula a ras de suelo y explota abajo"
+   ],
+   "img_brief": "propane gas cylinders storage installation",
+   "notas": "N1: ¿Con el GLP también se mide el caudal?\nN2: No, y esta es una diferencia enorme. Con gases más densos que el aire, como el GLP, el butano o el propano, se considera siempre anomalía principal sin medir el caudal de fuga. Cualquier fuga, por pequeña que sea, deja la instalación no apta. No hay escalera de litros por hora que valga con estos gases.\nN1: ¿Por qué son tan peligrosos?\nN2: Por su peso. El gas natural es más ligero que el aire, así que si escapa tiende a subir y a disiparse. El GLP, en cambio, es más pesado que el aire: cuando escapa, se va al suelo y se acumula ahí abajo, formando una bolsa invisible a ras de tierra que espera una chispa para explotar. Por eso no se le da margen: pesa, se acumula abajo y explota abajo, justo donde no lo ves venir. Truco para no olvidarlo: el propano no perdona. La regla de que el gas natural sube y el GLP baja te va a explicar muchísimas cosas en este vídeo, así que grábatela."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · IPb-1 · Casos",
+   "titulo": "Exterior, enterrado y ATEX",
+   "vinetas": [
+    "Tramo aéreo exterior sin riesgo: secundaria",
+    "Tramo enterrado: se aplica UNE 60311",
+    "Emplazamiento peligroso: RD 400/1996 (ATEX)"
+   ],
+   "img_brief": "outdoor gas pipe on building exterior wall",
+   "notas": "N1: ¿Y si la fuga está en un tubo por fuera del edificio?\nN2: Ahí la norma es más flexible, porque al aire libre el gas se disipa. Si la fuga está en un tramo aéreo situado en el exterior del edificio y no comporta riesgo potencial, se considera anomalía secundaria; en el resto de los casos, principal. Y si el tramo es enterrado, no se resuelve con esta norma, sino que se aplica lo que dice la Norma UNE sesenta mil trescientos once, que es la específica de tuberías enterradas.\nN1: ¿Qué es un emplazamiento peligroso?\nN2: Es una zona clasificada como atmósfera potencialmente explosiva, donde puede haber una mezcla inflamable de forma habitual. Esa clasificación la marca el Real Decreto cuatrocientos del año noventa y seis, que traspone la directiva europea ATEX de protección en atmósferas explosivas. Lo que tienes que retener es la consecuencia: si la fuga cae en un emplazamiento peligroso, no hay medición que la salve, es no apta y principal. Un fallo de gas en una zona que de por sí ya es explosiva no admite tolerancia."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · ISb",
+   "titulo": "Con la ERM aparecen anomalías nuevas",
+   "vinetas": [
+    "Estación de regulación y medida",
+    "Toma de tierra y juntas dieléctricas",
+    "Ventilación y ubicación del recinto",
+    "Todas son secundarias"
+   ],
+   "img_brief": "gas regulation metering station equipment room",
+   "notas": "N1: ¿Por qué en las grandes hay anomalías que no vi en la vivienda?\nN2: Porque a partir de setenta kilovatios la instalación es industrial o terciaria y suele tener estación de regulación y medida, la ERM. Y ese equipo trae consigo requisitos que en una vivienda no existen. Aparecen anomalías como la falta de toma de tierra y de juntas dieléctricas, la ventilación y la ubicación del recinto donde está la ERM, el extintor, la instalación eléctrica del recinto y la señalización. Son cosas propias de una instalación más seria y con su propio cuartito.\nN1: ¿Y son graves?\nN2: Aquí viene lo tranquilizador: todas estas anomalías nuevas de la ERM son secundarias, código ISb. Es decir, no obligan a cortar el gas; se corrigen en seis meses. Lo grave, lo principal, sigue siendo la fuga, que ya vimos con la escalera de litros por hora. Vamos a recorrer estas secundarias una a una, porque cada una tiene su detalle y alguna esconde un número de examen."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · ISb-5",
+   "titulo": "Toma de tierra y juntas dieléctricas",
+   "vinetas": [
+    "La ERM debe estar conectada a tierra",
+    "Juntas aislantes contra corrientes",
+    "Evitan chispas por la tubería"
+   ],
+   "img_brief": "electrical grounding connection metal gas pipe",
+   "notas": "N1: ¿Qué pinta la electricidad en una estación de gas?\nN2: Más de lo que parece. La ISb cinco dice que es anomalía que la estación de regulación y medida no esté conectada a tierra mediante una toma al efecto, o que no disponga de juntas dieléctricas, también llamadas aislantes. Las juntas dieléctricas son piezas que cortan el paso de la corriente eléctrica por la tubería, para que no entren en la estación corrientes que puedan venir por el tramo de acometida interior o por las líneas de distribución.\nN1: ¿Y por qué importa tanto que no pase corriente por el tubo?\nN2: Porque una corriente circulando por la tubería metálica puede generar una chispa, y una chispa donde hay gas es un accidente. La toma de tierra desvía esas corrientes de forma segura al terreno, y las juntas dieléctricas impiden que se propaguen por el tubo. Juntas las dos protecciones aseguran que la estación no se convierta en un camino para la electricidad. Es una anomalía secundaria, pero muy típica de estas instalaciones grandes."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · ISb-6, ISb-7, ISb-9, ISb-10",
+   "titulo": "El recinto de la ERM",
+   "vinetas": [
+    "Ventilación insuficiente o incorrecta",
+    "Ubicación y distancias de seguridad",
+    "Instalación eléctrica que no cumple",
+    "Falta de señalización con letreros"
+   ],
+   "img_brief": "warning signs gas installation safety labels",
+   "notas": "N1: ¿Qué se vigila en el cuarto donde está la ERM?\nN2: Varias cosas, todas secundarias. La ISb seis: que la ventilación del recinto sea insuficiente o incorrecta, porque ese cuarto tiene que renovar aire para no acumular gas si hubiera una pequeña fuga. La ISb siete: que la ubicación del recinto o las distancias mínimas de seguridad sean incorrectas, incluida la posición de las descargas de gas a la atmósfera. La ISb nueve: que la instalación eléctrica del recinto no cumpla la normativa, porque comparte espacio con el gas y debe ser especialmente segura. Y la ISb diez: que falte la señalización con los letreros correspondientes.\nN1: ¿Por qué tanta insistencia en la señalización?\nN2: Porque en un recinto de gas la información salva vidas: hay que avisar de qué hay dentro, prohibir fuegos, indicar los cortes. Un recinto sin señalizar es una trampa para quien no lo conoce, sobre todo en una emergencia. Todas estas se corrigen en seis meses, pero son parte del control periódico de una instalación grande y hay que anotarlas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · ISb-8",
+   "titulo": "El extintor de 12 kg",
+   "vinetas": [
+    "Polvo seco, capacidad igual a 12 kg",
+    "Accesible y en el exterior del recinto",
+    "En perfectas condiciones y revisado",
+    "Falta, deterioro o caducado: anomalía"
+   ],
+   "img_brief": "dry powder fire extinguisher red wall mounted",
+   "notas": "N1: ¿Este es el dato del extintor que decías que cae tal cual?\nN2: Ese mismo, la ISb ocho. Junto al límite del recinto de la estación de regulación y medida, y en el exterior del recinto, debe existir un extintor de polvo seco, accesible, de capacidad igual a doce kilos, y en perfectas condiciones de utilización. Si falta, está deteriorado o tiene la revisión caducada, es anomalía secundaria.\nN1: ¿Por qué en el exterior y no dentro?\nN2: Porque si el fuego o la emergencia está dentro del recinto, no vas a entrar a por el extintor a través de las llamas o del gas; lo quieres a mano, fuera, para atacar desde una posición segura. Y accesible, sin nada que lo tape. Quédate con la cifra clavada: doce kilos, polvo seco, exterior, revisado en fecha. En el examen te pueden cambiar el número para que piques; es doce, ni diez ni seis. Es un dato con truco, así que no lo sueltes."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · ISb-4",
+   "titulo": "La llave general que no se alcanza",
+   "vinetas": [
+    "La llave general de usuario debe existir",
+    "Y poder manipularse sin acrobacias",
+    "Nada de escaleras ni trampillas",
+    "Sin obstáculos que impidan el acceso"
+   ],
+   "img_brief": "gas main shut off valve behind obstacles",
+   "notas": "N1: ¿Una llave que existe pero es difícil de alcanzar es anomalía?\nN2: Sí, y es puro sentido común de obra. La ISb cuatro dice que la llave general de usuario, la de inicio de la instalación receptora, debe existir y permitir su adecuada manipulación. No deben existir obstáculos que impidan llegar a ella, ni hay que recurrir a soluciones extrañas como escaleras móviles o trampillas para accionarla.\nN1: ¿Y por qué se le da tanta importancia?\nN2: Porque una llave de corte es un elemento de emergencia. Imagina que hay una fuga y necesitas cerrar el gas ya: si para llegar a la llave tienes que traer una escalera, abrir una trampilla o mover muebles, esos segundos que pierdes pueden ser el desastre. Una llave que no puedes accionar rápido en una emergencia es como no tenerla. Por eso, aunque físicamente esté, si no es accesible de verdad, es anomalía secundaria. La seguridad tiene que estar al alcance de la mano."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · CP-1 y CS-1",
+   "titulo": "Comunes: misma escalera, otras siglas",
+   "vinetas": [
+    "< 1 l/h apta; 1–5 pendiente; > 5 no apta",
+    "Principal CP-1, secundaria CS-1",
+    "Sin medir o gas denso: no apta",
+    "En común no hay matiz de sala de máquinas"
+   ],
+   "img_brief": "building gas riser pipes common installation",
+   "notas": "N1: ¿La fuga en la instalación común se valora distinto?\nN2: Casi igual, y eso te lo pone fácil. La fuga en instalación común usa exactamente los mismos números que la individual de más de setenta kilovatios: por debajo de un litro por hora, apta; entre uno y cinco, pendiente de corrección, que aquí es secundaria CS uno; y por encima de cinco, no apta, principal CP uno. Si no mides, siempre no apta; y con gas más denso que el aire, no apta sin medir. Lo único que cambia son las siglas: en común, CP y CS; en individual grande, IPb e ISb.\nN1: Entonces, ¿hay alguna diferencia de fondo?\nN2: Solo una que merece la pena recordar: en la instalación común no aparece el matiz especial de la sala de máquinas, ese de que baste con superar un litro por hora para ser no apta. Ese detalle solo estaba en las individuales grandes. En lo demás, la escalera es idéntica. Así que, si dominas los litros por hora, dominas las dos a la vez. Ahora vemos las secundarias propias de las comunes."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · CS-2 y CS-3",
+   "titulo": "Ventilación de armarios y contadores",
+   "vinetas": [
+    "Armario de regulación interior sin ventilar",
+    "Debe ventilar directamente al exterior",
+    "Recinto de contadores mal ventilado"
+   ],
+   "img_brief": "gas meter cabinet ventilation louvers building",
+   "notas": "N1: ¿Qué se vigila de la ventilación en las comunes?\nN2: Dos anomalías secundarias. La CS dos: un conjunto de regulación situado en un local interior del edificio y metido en un armario que no ventile directamente al exterior. Es decir, si ese armario de regulación está en un local interior, tiene que tener ventilación directa a la calle; si no la tiene y una pequeña fuga se queda dentro, se acumula. La CS tres: que la ventilación del recinto donde se centralizan los contadores sea insuficiente o incorrecta, según los requisitos de la Parte cinco de la norma.\nN1: ¿Siempre acaba todo en ventilar bien?\nN2: En gran parte del tema, sí, y por una razón: el peor enemigo del gas en un espacio cerrado es que se acumule. La ventilación es lo que impide que una fuga mínima se convierta en una bolsa explosiva. Por eso, armarios y recintos donde hay gas tienen que renovar aire, y hacia el exterior. Las dos son secundarias, pero fíjate cómo la idea de ventilación se repite en la vivienda, en la ERM y ahora en las comunes."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · CS-6, CS-7, CS-8",
+   "titulo": "El recinto de contadores es solo para gas",
+   "vinetas": [
+    "Nada de instalación eléctrica en mal estado",
+    "Nada de instalaciones ajenas ni trastero",
+    "Con su puerta en condiciones (o que exista)"
+   ],
+   "img_brief": "gas meter room cabinet building basement",
+   "notas": "N1: ¿Qué no puede haber en el recinto de contadores?\nN2: Tres anomalías secundarias vigilan que ese recinto esté limpio de intrusos. La CS seis: evidente mal estado de conservación de la instalación eléctrica del recinto de contadores. La CS siete: existencia de instalaciones ajenas al recinto, o su incorrecta ejecución; esto es cuando el cuarto de contadores de gas se usa también de trastero o pasan por él cables o tuberías de otras cosas. Y la CS ocho: puerta o cerradura incorrecta en el armario de regulación o en el recinto de contadores, incluida la anomalía de que directamente no exista puerta.\nN1: ¿Por qué tanto celo con lo que hay en ese cuarto?\nN2: Porque un recinto de gas no es un almacén. Si dentro hay gas y a la vez cables en mal estado, un trastero con cartones o instalaciones ajenas, estás juntando una posible fuente de chispa con una posible fuga, y encima con material que arde. La puerta, además, controla quién entra y contiene una eventual fuga. La regla es clara: el recinto de contadores es solo para el gas, ordenado, con su puerta y sin intrusos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · CS-9",
+   "titulo": "Grietas: arriba o abajo según el gas",
+   "vinetas": [
+    "Gas natural (ligero): mira al techo",
+    "Sobre la rejilla de ventilación superior",
+    "GLP (pesado): mira al suelo",
+    "Bajo la rejilla de ventilación inferior"
+   ],
+   "img_brief": "cracked wall interior meter room inspection",
+   "notas": "N1: ¿Por qué las grietas se miran en un sitio u otro?\nN2: La CS nueve tiene un detalle finísimo y muy preguntable. Se trata de grietas apreciables a la vista en las paredes interiores del recinto de contadores, reguladores o colectores de llaves, que puedan canalizar una posible fuga de gas hacia la estructura del edificio. Y aquí está el truco: dónde miras esas grietas depende del gas. Con gas natural, que es más ligero que el aire y sube, las grietas peligrosas están arriba: en la zona del techo del recinto y en la que queda por encima de la rejilla de ventilación superior. Con GLP, que es más pesado y baja, buscas abajo: en el suelo del recinto y en la zona que queda por debajo de la rejilla de ventilación inferior.\nN1: ¿Cómo lo memorizo sin confundirme?\nN2: Con la regla de oro de todo el vídeo: natural, mira al techo; GLP, mira al suelo. Es la misma lógica del gas natural sube y el GLP baja que vimos con las fugas. Si una fuga de gas natural se cuela por una grieta del techo, viaja por la estructura hacia arriba; si es GLP, se cuela por el suelo y baja. Por eso buscas la grieta justo donde ese gas se acumularía. Este matiz cae en el examen tal cual, así que tenlo clavado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · CS-4, CS-5, CS-10",
+   "titulo": "Conservación e identificación",
+   "vinetas": [
+    "Corrosión, soportes o llaves en mal estado",
+    "Tuberías en cavidades y falsos techos",
+    "Contadores y llaves sin identificar"
+   ],
+   "img_brief": "gas meters labeled identification tags building",
+   "notas": "N1: ¿Qué otras secundarias hay en las comunes?\nN2: Tres que cierran el catálogo. La CS cuatro: estado general de conservación defectuoso o materiales y técnicas de unión inadecuados, por ejemplo corrosión manifiesta, soportes o uniones en mal estado, o la llave general que falta o no es accesible; es la hermana de la ISa dos que vimos en vivienda. La CS cinco: incumplimiento, apreciable por las partes visibles, al discurrir las tuberías por cavidades de altillos, falsos techos, cámaras y sótanos. Y la CS diez: falta de identificación de los contadores, en las centralizaciones de contadores, o de las llaves de usuario, en las centralizaciones de llaves.\nN1: ¿Por qué es tan importante identificar los contadores?\nN2: Porque en un edificio con muchos contadores o muchas llaves, cada uno tiene que estar etiquetado con su vivienda. Imagina una emergencia: hay que cortar el gas del tercero izquierda y no sabes qué contador es. Acabas cortando a ciegas, probando, perdiendo un tiempo precioso o cortando a quien no toca. Por eso la falta de identificación es anomalía secundaria: una etiqueta clara puede ser la diferencia en una urgencia."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · El papeleo",
+   "titulo": "Documentar y avisar, igual que siempre",
+   "vinetas": [
+    "Favorable: certificado",
+    "Con defectos: informe de anomalías",
+    "Al titular; principales a la distribuidora"
+   ],
+   "img_brief": "inspection report clipboard gas installation",
+   "notas": "N1: ¿El papeleo es igual que en la vivienda?\nN2: Exactamente el mismo, y por eso conviene que se te quede como un reflejo. Resultado favorable, certificado. Con defectos, informe de anomalías indicando el alcance, la situación en que queda la instalación y el plazo, siempre con recomendaciones de seguridad. El documento se entrega al titular. Y las anomalías principales o la instalación no apta se comunican a la empresa distribuidora, que además es quien maneja la acometida y el cese del suministro.\nN1: ¿No cambia nada por ser una instalación grande?\nN2: El procedimiento del papeleo no cambia: es idéntico en vivienda, en instalación grande y en común. Lo que cambia es el catálogo de anomalías y, sobre todo, que aquí la fuga se mide en litros por hora. Pero el circuito del documento es siempre el mismo: tú inspeccionas y firmas, el titular recibe y corrige, la distribuidora se entera de lo grave. Sin ese papel, la revisión no existe. Guárdatelo, porque es lo que cierra cada control periódico."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya decides con números en la mano",
+   "mapa": [
+    "La escalera: < 1 apta, 1–5 pendiente, > 5 no apta",
+    "Sin medir o GLP: no apta directa",
+    "La ERM trae secundarias y el extintor de 12 kg",
+    "Grietas: natural al techo, GLP al suelo"
+   ],
+   "tagline": "Ya pones nota a un edificio entero. Solo falta el protagonista invisible: el aparato y su CO.",
+   "notas": "N1: Gran resumen. ¿Qué me llevo de las grandes y las comunes?\nN2: Reconstruyamos el hilo. La Parte doce aplicada a lo grande: individuales de más de setenta kilovatios, con estación de regulación y medida, y las comunes del edificio. Y lo que de verdad decide entre seguir con gas o quedar fuera de servicio es un número, el caudal de fuga en litros por hora. La escalera, clavada: menos de un litro por hora, apta; entre uno y cinco, pendiente de corrección, secundaria; más de cinco, no apta, principal. Las trampas: si no mides, siempre no apta; en sala de máquinas sin detección y corte, el listón baja a más de un litro; y con gas más denso que el aire, el GLP, cualquier fuga es no apta sin medir, porque pesa, se acumula abajo y explota abajo. Luego, con la ERM aparecen secundarias nuevas: toma de tierra y juntas dieléctricas, ventilación y ubicación del recinto, instalación eléctrica, señalización y el extintor de polvo seco de doce kilos, en el exterior y revisado. Y en las comunes, misma escalera con siglas CP y CS, el recinto solo para gas, y ese detalle de oro: grietas del gas natural arriba, del GLP abajo.\nN1: ¿Y cómo cae en el examen?\nN2: Te van a poner un caudal concreto y una situación, y tendrás que decir apta, pendiente o no apta; te tenderán la trampa del que no mide o del GLP; te preguntarán el extintor de doce kilos y el detalle de las grietas según el gas. En obra, esto es lo que decide si precintas un montante de un edificio entero o lo dejas con gas. Hoy ya decides con números en la mano, como un gasista con criterio. Y solo nos queda el gran final del tema: la Parte trece, el control periódico del aparato, donde manda el monóxido de carbono, el enemigo invisible. Ahí se cierra el círculo. Te espero en el último vídeo."
+  }
+ ]
+}

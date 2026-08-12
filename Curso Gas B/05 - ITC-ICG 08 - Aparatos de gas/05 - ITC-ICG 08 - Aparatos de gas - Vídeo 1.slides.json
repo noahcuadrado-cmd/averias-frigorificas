@@ -7,7 +7,7 @@
    "videoxy": "Vídeo 1 de 4",
    "titulo": "Aparatos de gas (ITC-ICG 08)",
    "subtitulo": "Objeto, comercialización, conformidad y marcado",
-   "notas": "N1: El gas lo quema el aparato. ¿Y quién manda sobre el aparato?\nN2: Esta instrucción, la ITC-ICG cero ocho. Regula qué aparatos pueden venderse, cómo se demuestra que son seguros, qué papeles y advertencias los acompañan y cómo se marcan. En este primer vídeo vemos las cuatro primeras piezas, la parte más de fábrica: objeto, comercialización, conformidad y marcado. Es lo que la norma exige antes de que el aparato llegue a tus manos."
+   "notas": "N1: El gas lo quema el aparato. ¿Y quién manda sobre el aparato?\nN2: Manda esta instrucción, la ITC-ICG cero ocho. Hasta ahora hemos hablado mucho del tubo, de la instalación; ahora nos vamos al final del recorrido, a la caldera o al calentador que quema el gas. Esta norma regula cuatro cosas: qué aparatos pueden venderse, cómo se demuestra que son seguros, qué papeles y advertencias los acompañan, y cómo se marcan. En este primer vídeo vemos la parte más de fábrica: objeto, comercialización, conformidad y marcado. Es decir, todo lo que la norma exige antes de que el aparato llegue a tus manos."
   },
   {
    "tipo": "cifras",
@@ -17,7 +17,7 @@
     ["2", "manuales que acompañan al aparato"],
     ["3", "patas de condiciones normales"]
    ],
-   "notas": "N1: ¿Qué números conviene tener en la cabeza al empezar?\nN2: Cuatro apartados: objeto, comercialización, conformidad y marcado. Dos manuales distintos que van con todo aparato, el técnico y el de uso. Y tres patas para estar en condiciones normales de funcionamiento. Si retienes estos tres números, el vídeo entra solo."
+   "notas": "N1: ¿Qué números conviene tener en la cabeza antes de empezar?\nN2: Tres. Cuatro apartados, que son objeto, comercialización, conformidad y marcado, el esqueleto del vídeo. Dos manuales distintos que van con todo aparato: el técnico, para ti, y el de uso, para el cliente. Y tres patas, las tres condiciones que se tienen que dar a la vez para que un aparato esté en condiciones normales de funcionamiento. Si retienes estos tres números, el vídeo entra solo."
   },
   {
    "tipo": "contenido",
@@ -30,19 +30,19 @@
     "Excluye aparatos con directiva CE propia"
    ],
    "img_brief": "gas boiler installation wall",
-   "notas": "N1: ¿De qué va exactamente esta instrucción?\nN2: Va del aparato en sí: calderas, calentadores, quemadores, no de la tubería. Fija los criterios técnicos y documentales, los requisitos esenciales de seguridad y los medios de certificación. Y deja fuera los aparatos que ya tienen su propia directiva europea, los que llevan marcado CE por su directiva, porque esos van por otro camino. Ejemplo: una caldera doméstica con CE por su directiva ya está cubierta; un aparato sin directiva específica cae aquí."
+   "notas": "N1: ¿De qué va exactamente esta instrucción?\nN2: Empecemos por lo más básico: hasta ahora, cada ITC regulaba una parte de la instalación, la tubería, la acometida, el contador. Esta va del aparato en sí, la caldera, el calentador, el quemador. Fija tres cosas: los criterios técnicos y documentales, los requisitos esenciales de seguridad y los medios de certificación. Y aquí está la clave: deja fuera de la parte de seguridad los aparatos que ya tienen su propia directiva europea, los que llevan marcado CE por esa directiva, porque esos ya van certificados por otro camino. Ejemplo: una caldera doméstica con CE por su directiva ya está cubierta; un aparato sin directiva específica cae aquí."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 1 · Alcance",
    "titulo": "Dos puertas y la puesta en marcha",
    "vinetas": [
-    "Seguridad y certificación: solo sin directiva propia",
-    "Documentación y puesta en marcha: a TODOS",
+    "Seguridad: solo sin directiva propia",
+    "Documentación y arranque: a TODOS",
     "Se arranca en su ubicación definitiva"
    ],
    "img_brief": "technician commissioning gas boiler",
-   "notas": "N1: ¿A qué aparatos se les aplica cada parte de la ITC?\nN2: Fíjate en la doble puerta. La parte de seguridad y certificación solo se aplica a los aparatos que no están cubiertos por una directiva europea propia. Pero la parte de documentación y puesta en marcha se aplica a todos los aparatos a gas, tengan CE o no. Y la puesta en marcha es verificar que el aparato funciona según los parámetros del fabricante en su ubicación e instalación definitivas: no en el taller ni en la tienda, sino montado y conectado en su sitio. Un calentador que va fino en el mostrador puede darte llama amarilla, hollín y CO en un baño mal ventilado."
+   "notas": "N1: ¿A qué aparatos se les aplica cada parte de la norma?\nN2: Aquí hay que fijarse, porque tiene truco. La ITC tiene dos puertas. La parte de seguridad y certificación solo se aplica a los aparatos que no están cubiertos por una directiva europea propia. Pero la parte de documentación y puesta en marcha se aplica a todos los aparatos a gas, tengan CE o no. Regla mental: seguridad de fábrica, solo a los que no tienen directiva propia; arrancar el aparato en casa del cliente, a todos. Y una palabra importante: la puesta en marcha es verificar que el aparato funciona según los parámetros del fabricante en su ubicación e instalación definitivas. Es decir, no en el taller ni en la tienda, sino ya montado y conectado en su sitio, porque el tiro, la ventilación y la presión reales mandan. Un calentador que va fino en el mostrador puede darte llama amarilla, hollín y monóxido de carbono en un baño mal ventilado."
   },
   {
    "tipo": "contenido",
@@ -54,7 +54,7 @@
     "Con riesgo: la Administración lo retira"
    ],
    "img_brief": "gas appliances store shelf",
-   "notas": "N1: ¿Cuándo se permite vender y arrancar un aparato?\nN2: Solo si, en condiciones normales de funcionamiento, no pone en peligro la seguridad de personas, animales ni bienes. Si un aparato cumple esta ITC, nadie puede prohibir, limitar ni obstaculizar su venta. Pero si se comprueba que entraña riesgos, la Administración competente adopta medidas para retirarlo del mercado o restringir su comercialización. Ejemplo: un modelo con un defecto de fábrica que provoca fugas puede ser retirado por la comunidad autónoma."
+   "notas": "N1: ¿Cuándo se permite vender y arrancar un aparato?\nN2: La idea es de sentido común y luego la norma la afina. Solo se permite comercializar y poner en marcha aparatos que, en condiciones normales de funcionamiento, no pongan en peligro la seguridad de personas, animales ni bienes. La otra cara: si un aparato cumple esta ITC, nadie puede prohibir, limitar ni obstaculizar su venta; sería competencia desleal. Pero si se comprueba que un aparato entraña riesgos, la Administración competente, que es la comunidad autónoma, adopta medidas para retirarlo del mercado o restringir su comercialización. Ejemplo: un modelo con un defecto de fábrica que provoca fugas puede ser retirado de las tiendas por la comunidad autónoma."
   },
   {
    "tipo": "contenido",
@@ -66,7 +66,7 @@
     "Usado para su fin"
    ],
    "img_brief": "blue gas flame burner",
-   "notas": "N1: Esta fórmula se repite por toda la ITC. ¿Cuáles son sus tres patas?\nN2: Estar en condiciones normales exige cumplir las tres a la vez: bien instalado y con mantenimiento periódico según el fabricante; usado con el gas dentro del Índice de Wobbe y la presión de suministro previstos; y empleado para sus fines. El Índice de Wobbe mide la energía que entrega el gas por el quemador; si el gas de la red se sale del rango, el aparato deja de estar en condiciones normales. No hace falta saber calcularlo: basta con saber que define qué gases valen. Ejemplo: enganchar un aparato de butano a una red de natural sin adecuarlo da llamas amarillas e inquemados."
+   "notas": "N1: Esa fórmula, condiciones normales de funcionamiento, se repite por toda la ITC. ¿Qué significa?\nN2: Grábate que son tres patas, y tienen que darse las tres a la vez. Una: que esté bien instalado y con mantenimiento periódico, según las instrucciones del fabricante. Dos: que se use con el gas correcto, dentro del Índice de Wobbe y la presión de suministro previstos. Y tres: que se use para lo que es, sus fines previstos. El Índice de Wobbe, para que nos entendamos, es un número que mide la energía que entrega un gas por el quemador; no necesitas calcularlo, solo saber que define qué gases valen para ese aparato. Si el gas de la red se sale de ese rango, el aparato deja de estar en condiciones normales. Ejemplo: enganchar un aparato preparado para butano a una red de gas natural sin adecuarlo te da llamas amarillas e inquemados."
   },
   {
    "tipo": "contenido",
@@ -79,7 +79,7 @@
     "Todo, como mínimo, en español"
    ],
    "img_brief": "boiler instruction manual booklet",
-   "notas": "N1: ¿Qué papeles tienen que acompañar al aparato en la venta?\nN2: Son dos manuales distintos que conviene no confundir: el técnico, para ti el instalador, con cómo instalar, regular y mantener; y el de uso y mantenimiento, para el cliente, con cómo encenderlo y usarlo sin peligro. Más las advertencias en el propio aparato y en su embalaje. Y todo, como mínimo, en español. Si en un examen te dicen que basta con que venga en inglés, es falso."
+   "notas": "N1: ¿Qué papeles tienen que acompañar al aparato cuando se vende?\nN2: Piénsalo así: un aparato no se vende solo, se vende con su documentación. Y son dos manuales distintos que conviene no confundir. El manual de información técnica, que es para ti, el instalador: cómo instalar, regular y mantener. Y el manual de instrucciones de uso y mantenimiento, que es para el cliente: cómo encenderlo y usarlo sin peligro. Más las advertencias, que van en el propio aparato y en su embalaje. Y todo, como mínimo, en español. Truco de examen: si te ofrecen la opción de que basta con que venga en inglés, es falsa."
   },
   {
    "tipo": "contenido",
@@ -93,7 +93,7 @@
     "Datos eléctricos y bornes"
    ],
    "img_brief": "gas boiler wiring diagram",
-   "notas": "N1: De todo el listado del manual técnico, ¿qué datos no pueden faltar?\nN2: Las estrellas son tipo de gas, presión de suministro, consumo nominal, aire de combustión, evacuación de humos y datos eléctricos con el esquema de bornes. Son los datos que necesitas sí o sí para montar y regular. El resto, como el caudal másico en gramos por segundo para el cálculo de chimeneas o las combinaciones de quemadores de aire forzado, son detalles que la norma añade para casos concretos. Ejemplo: sin la presión de suministro no sabes a qué regular la caldera."
+   "notas": "N1: El manual técnico trae una lista larguísima. ¿Qué datos no pueden faltar?\nN2: Es verdad que la lista es larga, pero no todo pesa igual. Quédate con las estrellas: tipo de gas, presión de suministro, consumo nominal, aire de combustión, evacuación de los gases y datos eléctricos con el esquema de bornes. ¿Por qué esos? Porque son los datos que necesitas sí o sí para montar y regular el aparato. El resto, como el caudal másico en gramos por segundo para el cálculo de chimeneas, o las combinaciones de quemadores de aire forzado, son detalles que la norma añade para casos concretos. Ejemplo: sin la presión de suministro no sabes a qué presión regular la caldera, y sin el aire de combustión no sabes qué ventilación exige el local."
   },
   {
    "tipo": "contenido",
@@ -106,7 +106,7 @@
     "Aviso contra falsas maniobras"
    ],
    "img_brief": "person lighting gas stove",
-   "notas": "N1: ¿Y el manual que se queda el usuario, qué le cuenta?\nN2: Está escrito a prueba de sustos: encender bien, usar los elementos regulables, no tocar lo que no toca (eso son las falsas maniobras) y llamar a un experto cualificado para el mantenimiento serio. Cuando entregas un aparato, este manual va con él: forma parte de dejar la instalación en regla. Si el cliente lo pierde, es fácil que acabe haciendo maniobras raras que provocan una avería."
+   "notas": "N1: ¿Y el manual que se queda el usuario, qué le cuenta?\nN2: Está escrito a prueba de sustos, pensando en una persona que no es técnica. Le explica las restricciones de uso, cómo encender y usar los elementos regulables, la limpieza y el mantenimiento básico, y le avisa de que un experto cualificado debe revisarlo periódicamente. Y hay una expresión de examen: la advertencia contra falsas maniobras, que es no tocar lo que no se debe tocar. Cuando entregas un aparato, este manual va con él: forma parte de dejar la instalación en regla. Si el cliente lo pierde, es fácil que acabe haciendo maniobras raras que provocan una avería."
   },
   {
    "tipo": "contenido",
@@ -118,7 +118,7 @@
     "En la caja: restricciones de uso"
    ],
    "img_brief": "gas appliance rating label",
-   "notas": "N1: ¿Dónde va cada advertencia y qué dice?\nN2: Ojo a dónde va cada cosa. Las advertencias del aparato siguen las reglas del anexo dos, la placa de características. Las del embalaje llevan como mínimo tipo de gas, presión de suministro y las restricciones de uso, en particular no instalar el aparato en locales sin ventilación suficiente o al aire libre según proceda. Truco: en la caja te fijas en qué gas, a qué presión y dónde no lo puedo poner."
+   "notas": "N1: Hay advertencias en el aparato y en la caja. ¿Dónde va cada cosa?\nN2: Ojo a no mezclarlas, porque el examen juega con eso. Las advertencias que van en el aparato siguen las reglas del anexo dos, que es la placa de características; lo veremos entero en el cuarto vídeo. Las advertencias que van en el embalaje, en la caja, llevan como mínimo tres cosas: tipo de gas, presión de suministro y las restricciones de uso, en particular la de no instalar el aparato en locales sin ventilación suficiente o al aire libre, según proceda. Truco para recordarlo: en la caja te fijas en qué gas, a qué presión y dónde no lo puedo poner."
   },
   {
    "tipo": "contenido",
@@ -130,7 +130,7 @@
     "Cada equipo, con sus instrucciones"
    ],
    "img_brief": "gas valve component",
-   "notas": "N1: La norma habla de aparatos y de equipos. ¿Qué diferencia hay?\nN2: El aparato es el conjunto terminado, la caldera. El equipo es una pieza que se integra en él: un quemador, una válvula, un programador. La norma exige que cada equipo, por separado, venga también con sus instrucciones de instalación, regulación, empleo y mantenimiento, y funcione bien montado según manda su fabricante. Así, la seguridad del aparato final no se rompe por una pieza mal documentada."
+   "notas": "N1: La norma habla de aparatos y también de equipos. ¿Qué diferencia hay?\nN2: Es una distinción sencilla pero que conviene tener clara. El aparato es el conjunto terminado, la caldera completa. El equipo es una pieza que se integra dentro de él: un quemador, una válvula, un programador. Pues bien, la norma exige que cada equipo, por separado, también venga con sus instrucciones de instalación, regulación, empleo y mantenimiento, y que funcione bien montado según manda su fabricante. ¿Por qué? Porque la seguridad del aparato final no se puede romper por una pieza mal documentada o mal montada. La cadena es tan fuerte como su eslabón más débil."
   },
   {
    "tipo": "contenido",
@@ -142,7 +142,7 @@
     "Camino: a + b, o bien c"
    ],
    "img_brief": "quality control inspection factory",
-   "notas": "N1: ¿Cómo demuestra un aparato que es de fiar?\nN2: El orden manda. Primero se busca la norma UNE, UNE-EN o EN que le aplique; solo si no existe se recurre a las prescripciones del anexo tres. Y se certifica por dos caminos, no por tres sueltos: el de la serie, examen de tipo más verificación de la producción, que es la a más la b; o el de la pieza única, la verificación por unidad, que es la c. Fórmula para memorizar: a más b, o bien c. Los detalles de cada uno están en el anexo uno, que verás en el vídeo tres."
+   "notas": "N1: ¿Cómo demuestra un aparato que es de fiar?\nN2: Vamos por partes. Primero, qué tiene que cumplir: el orden manda. Se busca la norma española UNE, la UNE-EN o la europea EN que le aplique; y solo si no existe ninguna, se recurre a las prescripciones de seguridad del anexo tres. Es la misma lógica de todo el Reglamento: la norma técnica primero, y las reglas propias de la ITC como red de seguridad. Segundo, cómo se certifica: hay dos caminos, no tres sueltos. El camino de la serie, que es examen de tipo, la a, más verificación de la producción, la b. O el camino de la pieza única, la verificación por unidad, la c. La fórmula que tienes que memorizar es a más b, o bien c. Los detalles de cada procedimiento están en el anexo uno, y los desmenuzamos en el vídeo tres."
   },
   {
    "tipo": "contenido",
@@ -153,17 +153,20 @@
     "Instrucciones → normas o anexo 3"
    ],
    "img_brief": "gas meter cabinet nameplate",
-   "notas": "N1: ¿Qué obliga la ITC en cuanto a marcado?\nN2: Dos obligaciones cortas. Una placa de características en lugar visible, cuyo contenido está en el anexo dos. E instrucciones, cuyo contenido está en las normas que apliquen o, si no hay, como mínimo en el anexo tres. Es una sección puente: te dice que hay que marcar e instruir y te manda a los anexos para el qué y el cómo. La placa es el DNI del aparato: de ella sacas el gas, la presión de reglaje y la potencia que necesitarás para rellenar el certificado de puesta en marcha."
+   "notas": "N1: Y para cerrar el vídeo, ¿qué obliga la ITC en cuanto a marcado?\nN2: Solo dos obligaciones, cortas pero importantes. Una: una placa de características en lugar visible, cuyo contenido detallado está en el anexo dos. Dos: instrucciones, cuyo contenido está en las normas que apliquen o, si no hay, como mínimo en el anexo tres. Fíjate en que es una sección puente: te dice que hay que marcar e instruir, y te manda a los anexos para el qué y el cómo. Asocia siempre placa con anexo dos, e instrucciones con normas o anexo tres. Y recuerda para qué sirve la placa: es el DNI del aparato; de ella sacas el gas, la presión de reglaje y la potencia que necesitarás para rellenar el certificado de puesta en marcha."
   },
   {
    "tipo": "cierre",
-   "titulo": "Qué me llevo",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya controlas el aparato antes de tocarlo",
    "mapa": [
-    "ITC-ICG 08 = norma del aparato",
-    "Dos manuales y placa, en español",
-    "Conformidad: a + b, o bien c"
+    "La ITC-ICG 08 es la norma del aparato, no del tubo",
+    "Exiges dos manuales y placa, en español",
+    "Reconoces las tres patas del funcionamiento",
+    "Certificas con la fórmula: a + b, o bien c"
    ],
-   "notas": "N1: Si te quedas con tres cosas de este vídeo, ¿cuáles serían?\nN2: Primero, esta ITC es la norma del aparato, no del tubo: regula su seguridad y certificación solo para los que no tienen directiva europea propia, y la documentación y puesta en marcha de todos los aparatos a gas. Segundo, antes de tocar nada exige los dos manuales y la placa, en español, y arranca el aparato en su ubicación definitiva, porque el tiro, la ventilación y la presión reales mandan. Y tercero, no montes ni pongas en marcha un aparato sin certificar: sin eso no podrás emitir el certificado de puesta en marcha ni responder si hay un siniestro."
+   "tagline": "Hoy ya eres más gasista que ayer. En el siguiente vídeo bajamos al piso: a conectar y arrancar el aparato.",
+   "notas": "N1: Cerramos fuerte. Si me quedo con lo esencial de este primer vídeo, ¿qué es?\nN2: Reconstruyamos el hilo, que así se te queda. Empezamos situando la norma: la ITC-ICG cero ocho es la del aparato en sí, no la de la tubería; y tiene dos puertas, seguridad solo para los que no tienen directiva europea propia, pero documentación y puesta en marcha para todos. De ahí salió lo segundo: antes de tocar nada exiges los dos manuales, el técnico y el de uso, y la placa, todo en español, porque sin esos papeles no puedes ni regular ni dejar la instalación en regla. Lo tercero, las condiciones normales: bien instalado, con el gas correcto en Wobbe y presión, y usado para su fin; si falla una pata, la combustión se descontrola. Y lo cuarto, la conformidad: normas UNE o EN, y si no hay, el anexo tres; certificada con a más b, o bien c.\nN1: ¿Y cómo se traduce esto en el examen y en la obra?\nN2: En el examen te lo preguntan cruzado: te ponen un aparato en inglés, o te dicen que basta un solo manual, o mezclan la placa con el embalaje, a ver si caes. En la obra la regla es tajante: no montes ni pongas en marcha un aparato sin certificar, porque no podrás emitir el certificado de puesta en marcha ni responder si hay un siniestro. Hoy ya eres más gasista que ayer: sabes qué exige la norma antes de que el aparato llegue a tus manos. En el siguiente vídeo dejamos la fábrica y bajamos al piso: los tipos A, B y C, quién conecta y arranca, y el papel que cierra el trabajo. Te espero allí."
   }
  ]
 }

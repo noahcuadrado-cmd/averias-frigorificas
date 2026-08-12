@@ -1,0 +1,199 @@
+{
+ "pie": "Curso Gas B · Tema 06 · Instaladores y empresas instaladoras",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 06 · Reglamento · ITC-ICG 09",
+   "videoxy": "Vídeo 1 de 3",
+   "titulo": "El instalador de gas y las categorías A, B y C",
+   "subtitulo": "Quién es, qué puede tocar y cómo se acredita",
+   "notas": "N1: Vale, ¿y de qué va exactamente este vídeo?\nN2: De la foto de tu carné. Aquí aprendes quién es un instalador de gas, cómo se saca la acreditación y, sobre todo, qué puede tocar cada categoría: la a, la be y la ce. Piensa que es el bloque que decide, cada mañana, si un trabajo es tuyo o no lo es. Antes de dar un presupuesto miras tu categoría, igual que un conductor mira si su carné le deja llevar un camión o solo un coche. Al acabar sabrás decir, de memoria, hasta qué presión llega cada categoría y qué aparatos puede arrancar. Es el bloque más preguntado del tema, así que vamos con calma y sin dejarnos nada."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "3",
+     "categorías de instalador: A, B y C"
+    ],
+    [
+     "6",
+     "vías para acreditarte como instalador"
+    ],
+    [
+     "24,4 kW",
+     "umbral que separa aparatos pequeños de grandes"
+    ]
+   ],
+   "notas": "N1: ¿Por qué justo estos tres números?\nN2: Porque son las tres piezas que más se preguntan y conviene tenerlas desde el principio. Primero, tres categorías de instalador: la a, la be y la ce, de más amplia a más limitada. Segundo, seis vías o puertas distintas para acreditarte como instalador; mucha gente cree que solo se es instalador aprobando el examen, y no es así. Y tercero, veinticuatro coma cuatro kilovatios, un número que tienes que llevar tatuado: es la frontera de potencia que separa los aparatos pequeños, que cualquiera puede tocar, de los grandes, que piden formación extra. Quédate con la foto general; ahora los desarrollamos uno a uno."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 1 · Objeto",
+   "titulo": "¿Qué regula la ITC-ICG 09?",
+   "vinetas": [
+    "Requisitos de los instaladores de gas",
+    "Requisitos de las empresas instaladoras",
+    "Agentes de puesta en marcha",
+    "Desarrolla el artículo 8 del Reglamento"
+   ],
+   "img_brief": "gas technician installing boiler in kitchen",
+   "notas": "N1: ¿Y quién manda sobre el instalador, esta ITC o el Reglamento?\nN2: Buena pregunta, porque es fácil liarse. El Reglamento de gas es el tronco, la norma general; de ese tronco salen ramas, que son las ITC, las instrucciones técnicas, y cada rama desarrolla un trocito. Esta, la nueve, es la rama que habla de las personas y las empresas: quién puede montar gas y con qué papeles. El Reglamento, en su artículo ocho, dice que hacen falta tres figuras, y la ITC nueve coge ese artículo y lo explica con detalle. ¿Cuáles son esas tres figuras? El instalador, que es la persona con carné; la empresa instaladora, que es la razón social que factura y responde; y el agente de puesta en marcha, que es quien arranca los aparatos. Grábate que aquí se regulan sobre todo las dos primeras; el arranque fino de aparatos vive en otra ITC, la ocho."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Instalador",
+   "titulo": "El instalador es una persona",
+   "vinetas": [
+    "Persona física con conocimientos",
+    "Realiza y supervisa según su categoría",
+    "Trabaja en una empresa habilitada",
+    "El carné, por sí solo, no basta"
+   ],
+   "img_brief": "gas installer holding certificate document",
+   "notas": "N1: ¿Y no puedo trabajar por mi cuenta solo con el carné?\nN2: No, y este es uno de los fallos que más caen. El carné dice que sabes hacer el trabajo, pero por sí solo no te deja facturar ni firmar nada. El instalador es siempre una persona física, o sea, una persona de carne y hueso, con sus conocimientos y su categoría. Y esa persona tiene que trabajar amparada en una empresa instaladora habilitada. Piénsalo como un médico: puede saber muchísimo, pero necesita estar dado de alta en un hospital o en su propia consulta para poder ejercer. Con el gas, igual. ¿Y si quiero ser mi propio jefe? Perfecto: te das de alta como autónomo y esa es tu empresa, algo que vemos en el vídeo dos. Pero el carné suelto, en el cajón, no vale para trabajar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Acreditación",
+   "titulo": "Seis puertas para ser instalador",
+   "vinetas": [
+    "Título universitario o de FP",
+    "Examen ante la comunidad autónoma",
+    "Experiencia laboral reconocida",
+    "Cualificación de la UE o entidad acreditada"
+   ],
+   "img_brief": "student taking a written exam classroom",
+   "notas": "N1: ¿Entonces solo se es instalador aprobando el examen?\nN2: No, y mucha gente se lo cree. El examen de la comunidad autónoma es solo una de las seis puertas de entrada, la que llamamos la letra ce. Hay seis caminos válidos, y cualquiera de ellos sirve. Te los cuento de lo más común a lo menos: uno, tener un título universitario que cubra estas materias; dos, un título de formación profesional o un certificado de profesionalidad; tres, aprobar el examen teórico-práctico ante tu comunidad, que es por donde entra casi todo el mundo; cuatro, que te reconozcan la experiencia laboral que ya tienes; cinco, traer la cualificación de otro país de la Unión Europea; y seis, un certificado de una entidad acreditada, por ejemplo por la ENAC. Lo importante para el examen: da igual la puerta, todas sirven para cualquier categoría; lo que manda son los conocimientos que acreditas. Y ojo, aunque tú entres por el examen, te pueden preguntar por las seis."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ley de servicios",
+   "titulo": "Tu carné vale en toda España",
+   "vinetas": [
+    "Instalador = persona; empresa = razón social",
+    "Una habilitación sirve para todo el país",
+    "Sin requisitos extra por cambiar de comunidad"
+   ],
+   "img_brief": "map of Spain regions",
+   "notas": "N1: Si me habilita Andalucía, ¿puedo trabajar en Galicia?\nN2: Sí, y sin volver a examinarte. Aquí entra una ley importante, la de libre acceso a las actividades de servicios. Dice que si una comunidad autónoma te habilita, esa habilitación vale en todo el territorio español. O sea, te examinas una vez, en tu comunidad, y luego puedes montar gas en cualquier punto del país. Nadie te puede pedir un papel extra ni cobrarte otra tasa por cruzar de una comunidad a otra. Es como el carné de conducir: te lo sacas en tu provincia y conduces por toda España. Y aprovecho para clavar una distinción que cae mucho: el instalador es una persona, con nombre y apellidos; la empresa es una razón social, la que emite las facturas y responde legalmente. No los mezcles, porque el examen juega justo con esa confusión."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2.1.1 · Instalaciones",
+   "titulo": "Qué puedes hacer en la instalación",
+   "vinetas": [
+    "Montaje, reparación y mantenimiento",
+    "Verificación y firma de certificados",
+    "Puesta en servicio sin contrato de suministro",
+    "Inspección y revisiones reglamentarias"
+   ],
+   "img_brief": "copper gas pipe installation on wall",
+   "notas": "N1: ¿Y qué es eso de la puesta en servicio?\nN2: Vamos por partes, porque aquí hay varias operaciones. Primero, lo obvio: montar, ampliar, revisar, mantener y reparar las instalaciones receptoras, que son las tuberías y aparatos desde la llave de la casa o el edificio hasta el punto de consumo. Segundo, verificar: hacer las pruebas reglamentarias y, si todo está bien, firmar el certificado, el famoso boletín. Tercero, la puesta en servicio, que es el acto de dejar la instalación lista y con gas cuando no hace falta un contrato de suministro con la distribuidora, por ejemplo en una instalación de botellas. Y cuarto, inspeccionar y revisar cuando la norma lo pide. Un ejemplo del día a día: montas la instalación de gas de un piso, la pruebas, firmas el boletín, y con ese papel la distribuidora ya puede dar de alta el suministro. Sin ese certificado válido, no hay gas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "La excepción que cae",
+   "titulo": "La soldadura de polietileno no es tuya",
+   "vinetas": [
+    "El instalador coloca casi todo",
+    "Soldar polietileno queda fuera",
+    "Lo firma el soldador de PE para gas"
+   ],
+   "img_brief": "yellow polyethylene gas pipe underground trench",
+   "notas": "N1: ¿Por qué justo la soldadura del plástico no la puedo hacer yo?\nN2: Porque es una excepción concreta y muy vigilada, y por eso cae en el examen. El instalador puede montar y reparar casi todo, incluidas las partes enterradas por fuera del edificio. Pero hay una operación que se le escapa: soldar la tubería de polietileno, ese tubo de plástico, normalmente amarillo, que se usa para las conducciones enterradas. Esa soldadura la tiene que hacer una figura específica: el soldador de tuberías de polietileno para gas, que tiene su propia acreditación. ¿Por qué tanto cuidado? Porque una unión de plástico mal soldada bajo tierra es una fuga que no ves ni hueles hasta que da un susto. Traducción de obra: tú abres la zanja y colocas el tubo, pero la soldadura del polietileno la firma quien está acreditado para ella. Colocar, sí; soldar el plástico, no."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2.1.2 · Aparatos",
+   "titulo": "Aparatos: casi todo, con tres frenos",
+   "vinetas": [
+    "Conexión, montaje y puesta en marcha",
+    "Mantenimiento y reparación",
+    "Freno: conducidos > 24,4 kW",
+    "Freno: vitro cubierta y cambio de gas"
+   ],
+   "img_brief": "technician servicing gas boiler burner",
+   "notas": "N1: ¿Y hay aparatos que no puedo tocar con el carné normal?\nN2: Tocar sí, pero tres tipos de trabajo piden un plus de formación, y estos tres son la frontera de todo el tema. Primero apunta lo general: puedes conectar y montar aparatos, y hacer su puesta en marcha, su mantenimiento y su reparación. Ahora los tres frenos, que se repiten sin parar. Uno: los aparatos conducidos, de tipo be y ce, de más de veinticuatro coma cuatro kilovatios de potencia útil, o sea, las calderas y calentadores grandes. Dos: las vitrocerámicas de gas de fuegos cubiertos. Y tres: la adecuación de un aparato por cambio de familia de gas, por ejemplo pasarlo de butano a gas natural. Para estos tres no basta el carné: hace falta la formación adicional del apartado cuatro, que vemos en el vídeo dos. Piénsalo así: son operaciones de nivel experto sobre el aparato, y por eso piden un plus. El número que tienes que llevar tatuado es veinticuatro coma cuatro kilovatios."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2.2 · Categoría A",
+   "titulo": "Categoría A: sin límites",
+   "vinetas": [
+    "Todas las operaciones del apartado 2.1",
+    "Sin tope de presión",
+    "Incluye lo enterrado por el exterior",
+    "Depósitos fijos y estaciones de servicio"
+   ],
+   "img_brief": "large LPG storage tank outdoor",
+   "notas": "N1: ¿La A es la más completa?\nN2: Sí, la a es la todoterreno, la categoría más amplia. Puede hacer todas las operaciones del apartado dos punto uno, tanto en instalaciones como en aparatos, sin límite de presión. ¿Qué la distingue de las otras dos? Dos cosas que las demás no pueden tocar. La primera, todo lo enterrado por el exterior del edificio: las acometidas interiores enterradas y los tramos que van bajo tierra por fuera. La segunda, las instalaciones a granel de gas licuado del petróleo: los depósitos fijos, los envases de uso propio y hasta las estaciones de servicio para vehículos a gas. Regla para memorizar: la a es todo. Si en un examen ves un depósito fijo enterrado en un chalé, o una presión muy alta, la respuesta es a, porque nadie más llega ahí. Eso sí, incluso la a tiene su límite: la soldadura del polietileno sigue siendo del soldador de plástico, no suya."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2.2 · Categoría B",
+   "titulo": "Categoría B: la reina del día a día",
+   "vinetas": [
+    "Instalaciones receptoras hasta 5 bar",
+    "Doméstico, colectivo, comercial e industrial",
+    "Comunes e individuales, cualquier potencia",
+    "Fuera: enterrado exterior y más de 5 bar"
+   ],
+   "img_brief": "gas meter cabinet apartment building",
+   "notas": "N1: ¿Qué me cubre exactamente la B, que es la que me saco yo?\nN2: Te cubre el noventa por ciento del trabajo real, y por eso la llamamos la reina. La categoría be puede hacer instalaciones receptoras hasta cinco bar de presión máxima de operación. Y dentro de ese límite, casi todo: pisos, comunidades de vecinos, comercios y pequeña industria. Da igual la potencia de diseño, da igual la familia de gas, sea natural, butano o propano, y da igual que la instalación sea común, la del edificio, o individual, la de cada vivienda. También hace instalaciones de botellas de gas licuado y las de caravanas. ¿Qué le queda fuera? Dos cosas, y son justo las de la a: lo enterrado por el exterior del edificio y todo lo que pase de cinco bar. Ejemplo de examen: te preguntan qué categoría necesitas para una comunidad de vecinos a un bar y medio. Respuesta, la be, porque es un uso colectivo por debajo de cinco bar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2.2 · Categoría C",
+   "titulo": "Categoría C: solo la vivienda",
+   "vinetas": [
+    "Instalaciones hasta 0,4 bar",
+    "Solo uso doméstico, dentro de viviendas",
+    "Solo individuales y sin proyecto",
+    "Nada de comunidades ni comercios"
+   ],
+   "img_brief": "small gas boiler in apartment kitchen",
+   "notas": "N1: ¿Y la C para qué sirve, si es tan pequeña?\nN2: La ce es la categoría más limitada, y su lema es el gas de una casa y poco más. Solo puede tocar instalaciones individuales, de uso doméstico, dentro de viviendas, hasta cero coma cuatro bar, y que no necesiten proyecto ni cambio de familia de gas. Nada de comunidades, nada de comercios, nada de industria. Fíjate en la diferencia con la be: la be llega a cinco bar y a todo tipo de uso; la ce se queda en cero coma cuatro bar y solo en la vivienda. Ahora, un matiz importante para no equivocarte: en los aparatos, la ce puede hacer casi lo mismo que la be, incluso arrancar y reparar los aparatos grandes si saca la formación adicional. La gran diferencia entre be y ce no está en el aparato, está en la instalación. La ce es pequeña en tuberías, no tanto en aparatos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Chuleta mental",
+   "titulo": "A, B y C ordenadas por presión",
+   "vinetas": [
+    "A = sin tope (todo)",
+    "B = 5 bar (de doméstico a industrial)",
+    "C = 0,4 bar (solo vivienda)",
+    "Enterrado exterior: solo A"
+   ],
+   "img_brief": "pressure gauge manometer gas",
+   "notas": "N1: ¿Hay una forma rápida de no confundir las tres?\nN2: Sí, y es la chuleta que te salva en el examen. Asocia cada letra a un número y a un alcance. La a no tiene tope de presión y es todoterreno: entra en todo, incluido lo enterrado por fuera, los depósitos fijos y las estaciones de servicio. La be llega hasta cinco bar y cubre lo doméstico, lo colectivo, lo comercial y lo industrial. La ce se queda en cero coma cuatro bar y solo en viviendas. Si memorizas a igual todo, be igual cinco bar, ce igual cero coma cuatro bar, ya tienes media pregunta ganada. Y para las preguntas con trampa, quédate con una frase: lo enterrado por el exterior y los depósitos fijos son solo de la a. Así, si ves un depósito de gas licuado enterrado en un chalé, no dudas: categoría a."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Detalle fino",
+   "titulo": "Cambio de gas: A y B sí, C no",
+   "vinetas": [
+    "Adecuar = pasar de una familia a otra",
+    "Butano o propano a gas natural",
+    "La C no puede hacerlo nunca",
+    "A y B, con la formación adicional"
+   ],
+   "img_brief": "gas appliance nozzle injector replacement",
+   "notas": "N1: ¿Qué es adecuar un aparato por cambio de familia?\nN2: Es adaptar un aparato para que funcione con un tipo de gas distinto del que traía. Las familias de gas son básicamente el gas natural por un lado y los gases licuados del petróleo, butano y propano, por otro. Cada uno quema distinto, así que cuando cambias de familia hay que tocar el aparato: cambiar los inyectores, reajustarlo. Eso es adecuar por cambio de familia de gas. ¿Y quién puede hacerlo? Aquí está el detalle fino que distingue a la ce de las otras dos: la a y la be sí pueden, siempre con la formación adicional del apartado cuatro; la ce no puede, nunca. Tiene lógica: la ce trabaja solo con instalaciones que no requieren cambio de familia de gas, así que esa operación le está vetada por definición. Regla corta: cambio de gas, la a y la be sí, la ce no."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes qué puede tocar cada carné",
+   "mapa": [
+    "Tres figuras: instalador, empresa y agente",
+    "Seis vías para acreditarte; el carné vale en toda España",
+    "A = todo · B = 5 bar · C = 0,4 bar",
+    "Umbral clave en aparatos: 24,4 kW"
+   ],
+   "tagline": "Con esto colocas cualquier pregunta de categorías en su sitio. Vamos a por la empresa.",
+   "notas": "N1: Cerramos. Si me tengo que quedar con lo esencial, ¿qué es?\nN2: Con cuatro piezas, y con el porqué de cada una. Primera, la ITC nueve regula tres figuras del artículo ocho: el instalador, que es la persona; la empresa, que factura y responde; y el agente que arranca aparatos. No las mezcles, porque el examen juega con eso. Segunda, al instalador se llega por seis puertas, no solo por el examen, y una vez habilitado trabajas en toda España sin papeles extra. Tercera, y la más preguntada, la chuleta de presiones: la a es todo y sin tope, la be llega a cinco bar cubriendo de lo doméstico a lo industrial, y la ce se queda en cero coma cuatro bar y solo en viviendas. Y cuarta, el número mágico de los aparatos: veinticuatro coma cuatro kilovatios, la frontera que marca cuándo hace falta formación extra.\nN1: ¿Y esto cómo me cae en el examen y en la obra?\nN2: En el examen te lo preguntan cruzado: te dan una instalación, una presión y un uso, y tú tienes que decir la categoría. En la obra decide si un trabajo es tuyo o no, y si firmas un boletín fuera de tu categoría, ese boletín no vale y la distribuidora no da el gas: te quedas con la obra hecha y sin poder abrir la llave. Fíjate lo lejos que has llegado: hace un rato no sabías qué era una categoría y ahora las distingues por presión y por alcance. Hoy ya eres más gasista que ayer. En el siguiente vídeo montamos la otra mitad: la empresa instaladora, cómo se da de alta con la declaración responsable y qué seguro necesita. Te espero allí."
+  }
+ ]
+}

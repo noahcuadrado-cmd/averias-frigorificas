@@ -1,0 +1,251 @@
+{
+ "pie": "Curso Gas B · Tema 16 · UNE 60670-11/12/13",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 16 · UNE 60670-11/12/13",
+   "videoxy": "Vídeo 1 de 4",
+   "titulo": "Operaciones en instalaciones en servicio",
+   "subtitulo": "UNE 60670-11 · Tocar una instalación que ya tiene gas",
+   "notas": "N1: ¿Qué significa exactamente que una instalación está «en servicio»?\nN2: Muy sencillo: es una instalación que ya tiene gas dentro y está funcionando, dando servicio a una casa o a un comercio. Hasta ahora, en otros temas, hemos hablado de montar y estrenar instalaciones nuevas. Aquí cambiamos de mundo: entramos en la que ya vive con gas. Y eso obliga a otras reglas, porque cualquier error se paga caro. Esta parte once de la UNE 60670 te dice quién puede hacer cada operación, qué medidas de seguridad son obligatorias y cómo comprobar que no dejas ninguna fuga. Es tu manual para trabajar en la calle sin liarla.\nN1: ¿Y por qué le dedicamos un vídeo entero?\nN2: Porque de aquí salen muchísimas preguntas de examen y, sobre todo, muchas decisiones de tu día a día. Piénsalo: abrir un gas sobre una unión mal hecha o cerrar una llave que no te corresponde puede acabar en tragedia. Vamos paso a paso, que al final lo vas a tener clarísimo."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["13", "partes de la UNE 60670"],
+    ["5 bar", "presión máxima de operación (MOP)"],
+    ["1 m", "frontera entre reparar y modificar"]
+   ],
+   "notas": "N1: ¿Qué me tengo que quedar de estos tres números?\nN2: Son los tres pilares del vídeo. Uno: la norma UNE 60670 tiene trece partes, y este tema solo toca las tres últimas, la once, la doce y la trece, que hablan de instalaciones que ya funcionan. Dos: esta norma juega en el terreno de cinco bar o menos; es la baja y media presión de las instalaciones domésticas y comerciales, justo lo tuyo como gasista de categoría B. Y tres: un metro es la frontera mágica que separa una simple reparación de una modificación con todas las de la ley. Grábate estos tres y ya tienes el mapa del vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Contexto normativo",
+   "titulo": "La UNE 60670 y sus 13 partes",
+   "vinetas": [
+    "Diseñar, construir, probar y controlar",
+    "Partes 1 a 10: construir y estrenar",
+    "Partes 11, 12 y 13: mantener y revisar",
+    "Este tema cubre solo las tres últimas"
+   ],
+   "img_brief": "gas installation technical manual on table",
+   "notas": "N1: ¿Trece partes no son demasiadas para una sola norma?\nN2: Parece mucho, pero tiene toda la lógica. Imagina la norma como un libro gordo con trece capítulos, todos bajo el mismo título: cómo hacer bien las instalaciones receptoras de gas hasta cinco bar. Cada capítulo se ocupa de una fase distinta: las tuberías, el diseño, los contadores, la ventilación, las pruebas de entrega... Las diez primeras partes van de construir y estrenar una instalación nueva. Las tres últimas, la once, la doce y la trece, van de lo contrario: de mantener y revisar lo que ya está funcionando.\nN1: Entonces, ¿este tema solo mira esas tres últimas?\nN2: Exacto. Quédate con esta regla que no falla: de la uno a la diez, construir y estrenar; la once, la doce y la trece, mantener y revisar. Todo lo que veas en este tema cae en ese segundo grupo, el de las instalaciones que ya tienen gas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 1",
+   "titulo": "Qué regula la Parte 11",
+   "vinetas": [
+    "Operaciones en instalaciones en servicio",
+    "MOP igual o menor de 5 bar",
+    "Directrices generales de actuación"
+   ],
+   "img_brief": "technician working on gas pipe in service",
+   "notas": "N1: ¿Qué es eso de MOP menor o igual a cinco bar?\nN2: MOP son las siglas de presión máxima de operación; en llano, la presión más alta a la que trabaja normalmente esa instalación. La Parte once solo se ocupa de instalaciones que van a cinco bar o menos. ¿Por qué ese límite? Porque cinco bar es la frontera del mundo del gasista de categoría B: la baja y la media presión, la de las casas y los comercios de toda la vida. Si una instalación va por encima de cinco bar, ya es harina de otro costal y la regulan otras normas.\nN1: ¿Y qué me da exactamente esta parte?\nN2: Te da las directrices generales de actuación: el «cómo se hacen las cosas» cuando tocas una instalación que ya tiene gas. No entra en cada tornillo, sino en las reglas de oro: quién puede hacer qué, cómo protegerte y cómo comprobar que queda sin fugas. Es el marco donde encajan todas las operaciones que veremos ahora."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Tabla 1",
+   "titulo": "Quién puede hacer cada operación",
+   "vinetas": [
+    "Distribuidora: acometida, contador, cese",
+    "Instaladora: modifica, repara, anula puntos",
+    "SAT: solo toca los aparatos"
+   ],
+   "img_brief": "gas distribution worker and installer meeting",
+   "notas": "N1: ¿No puede cada uno hacer todo si sabe hacerlo?\nN2: Pues no, y esto es clave. La tabla uno reparte el trabajo entre tres figuras, porque no todo el mundo manda sobre todo. La empresa distribuidora es la dueña de la red que llega a la calle: solo ella toca la llave de acometida, coloca o retira el contador y da de baja el suministro. La empresa instaladora, que eres tú, se ocupa de la instalación de dentro: modificas, reparas, corriges defectos y anulas puntos de consumo. Y el SAT, el servicio de asistencia técnica, solo entra en los aparatos: interrumpir o restablecer el gas a una caldera o a un calentador, nunca a las tuberías.\nN1: ¿Y cómo lo recuerdo sin liarme?\nN2: Con una frase: la distribuidora manda en lo de fuera y en el contador, tú mandas en la tubería de dentro, y el SAT solo en el aparato. Fíjate en las tres cosas que tú no puedes hacer solo: retirar o poner el contador y cesar el suministro. Y una que solo haces tú: anular puntos de consumo. En el examen te lo van a cruzar, así que ten claro el reparto."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Nota 1 de la Tabla 1",
+   "titulo": "La llave de acometida es sagrada",
+   "vinetas": [
+    "Separa la red de la calle de tu instalación",
+    "Solo la abre o cierra la distribuidora",
+    "O quien ella autorice, nunca por tu cuenta"
+   ],
+   "img_brief": "gas service valve on building facade",
+   "notas": "N1: ¿Por qué no puedo cerrar yo la llave de acometida si hace falta?\nN2: Porque esa llave no es tuya, es de la red. La llave de acometida es la que separa la tubería de la calle, que es de la distribuidora, de tu instalación, la del edificio. Piénsalo como la llave de paso general del agua de todo el bloque: no la maneja cada vecino cuando le apetece, la controla quien es dueño de la red. Con el gas es igual: solo la distribuidora, o alguien a quien ella autorice expresamente, puede abrir o cerrar la acometida.\nN1: ¿Y si tengo una urgencia?\nN2: Avisas a la distribuidora, que es la que tiene que actuar ahí. Tú puedes cerrar las llaves de dentro de tu instalación, pero la acometida no se toca por libre. Grábate la palabra: sagrada. Un instalador que va a la calle a cerrar la acometida por su cuenta se está metiendo en un jardín serio, legal y de seguridad."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Tabla 1",
+   "titulo": "Deja siempre evidencia documental",
+   "vinetas": [
+    "Toda operación de la Tabla 1 se documenta",
+    "Parte de trabajo, albarán o certificado",
+    "Lo que no está escrito, no se ha hecho"
+   ],
+   "img_brief": "installer filling work order form clipboard",
+   "notas": "N1: ¿De verdad hay que escribir hasta lo más pequeño?\nN2: Sí, y no es burocracia por fastidiar. La norma insiste en que de toda operación de esa tabla quede evidencia documental: un parte de trabajo, un albarán, un certificado... algo que diga qué tocaste y cuándo. La razón es puro sentido común de obra: si mañana esa instalación da un problema y no hay un papel que demuestre lo que hiciste, el marrón es tuyo, aunque lo hicieras perfecto.\nN1: ¿Y si lo hice bien pero no lo apunté?\nN2: Para efectos prácticos, es como si no lo hubieras hecho. Hay una frase que resume esto en el taller: lo que no está escrito, no se ha hecho. El papel te protege a ti tanto como al usuario. Acostúmbrate desde el primer día: acabas el trabajo, rellenas el documento, y así tienes las espaldas cubiertas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 3.1",
+   "titulo": "Medidas generales de seguridad",
+   "vinetas": [
+    "No fumar durante los trabajos",
+    "Nada de fuegos ni focos calientes",
+    "No tocar llaves precintadas",
+    "Al parar: asegurar ausencia de gas"
+   ],
+   "img_brief": "no smoking sign gas work area",
+   "notas": "N1: Estas medidas parecen de cajón, ¿no?\nN2: Parecen obvias, pero se olvidan más de lo que crees y por eso la norma las pone negro sobre blanco. No fumar mientras trabajas: una colilla y una fuga es una explosión. No trabajar donde haya fuegos encendidos, hogares o focos calientes: cualquier chispa o llama es un detonante esperando. No manipular las llaves que estén precintadas hasta reparar la avería: si están precintadas, es que alguien las cerró por seguridad, y saltártelo puede ser fatal.\nN1: ¿Y si tengo que parar el trabajo a medias?\nN2: Ahí está la última, que es finísima. Si interrumpes un trabajo, tienes que asegurarte de que no queda gas escapando y de que nadie va a manipular lo que dejaste a medias. Se bloquea la llave de corte si se puede, se ponen tapones... En obra pasa mucho: te vas a comer y dejas una unión abierta. Pues no: la aseguras antes de moverte. La seguridad no se toma un descanso."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 3.1",
+   "titulo": "Antes de tocar tubería, corta el gas",
+   "vinetas": [
+    "No modificar ni ampliar sin cerrar el gas",
+    "Excepción: operar en carga con técnica adecuada",
+    "Al vaciar gas, evitar mezcla inflamable"
+   ],
+   "img_brief": "hand closing gas shut off valve",
+   "notas": "N1: ¿Nunca puedo trabajar con la instalación con gas dentro?\nN2: La regla general es clarísima: antes de tocar tubería, corta el gas. Nada de modificaciones ni ampliaciones con la instalación en carga. Solo hay una excepción, y es que uses técnicas específicas para operar en carga, es decir, trabajar con la instalación con gas dentro. Pero eso exige medios y formación adecuados. Si no dominas esa técnica, la respuesta siempre es la misma: cierra primero.\nN1: ¿Y por qué tanto cuidado al vaciar el gas de un tubo?\nN2: Porque el gas solo arde o explota mezclado con aire en una proporción concreta, ni muy pobre ni muy rico. A esa franja se le llaman los límites de inflamabilidad, es decir, la zona en la que la mezcla es explosiva. Cuando vacías gas de una tubería, hay un momento en que esa mezcla pasa por la zona peligrosa. Por eso se ventila y se hace de forma controlada: para que dentro del local nunca llegue a formarse esa mezcla que salta por los aires. Vaciar sin ventilar es fabricar una bomba sin querer."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 3.2",
+   "titulo": "Olor a gas: el error mortal",
+   "vinetas": [
+    "No accionar ningún interruptor",
+    "Ni apagar luces ni generar chispas",
+    "Ventilar y cerrar la llave de paso",
+    "Detector UNE-EN 61779; linterna de seguridad"
+   ],
+   "img_brief": "opening window ventilation gas leak",
+   "notas": "N1: Si huelo a gas, lo primero es apagar todo, ¿no?\nN2: Aquí está el error que mata, y cae en el examen. Mucha gente, al oler a gas, corre al interruptor a apagar la luz. Es un fallo gravísimo. Un simple chispazo del interruptor puede detonar la mezcla de aire y gas. La norma lo dice sin rodeos: no acciones ningún interruptor, ni para apagar ni para encender. Lo que haces es abrir ventanas para ventilar y cerrar la llave de paso del gas. Nada de chispas, nada de llamas.\nN1: ¿Y si necesito luz para ver lo que hago?\nN2: Si tienes que entrar en un recinto cerrado donde puede haber gas, primero verificas el ambiente con un detector homologado, conforme con las normas UNE-EN sesenta y un mil setecientos setenta y nueve. Y si necesitas iluminación, usas una linterna de seguridad, también llamada antideflagrante, que está diseñada para no producir chispas. Nunca la luz del techo, nunca la del móvil. Recuerda: ante olor a gas, manos fuera de los interruptores, ventila y cierra."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 4.1",
+   "titulo": "Interrupción y restablecimiento",
+   "vinetas": [
+    "Aviso escrito y en lugar visible",
+    "A más de un usuario: avisar a distribuidora",
+    "Restablecer: comprobar estanquidad primero"
+   ],
+   "img_brief": "written notice posted building entrance",
+   "notas": "N1: Si voy a cortar el gas para un trabajo programado, ¿basta con avisar de palabra?\nN2: No: el aviso tiene que ser escrito y estar en un sitio visible, para que todos los usuarios afectados se enteren. Piensa en un montante de un edificio: cortas para hacer una obra y los vecinos se quedan sin gas. Un cartel en el portal, claro y por escrito, evita el susto y las reclamaciones. Y si el corte afecta a más de un usuario, además tienes que comunicarlo antes a la distribuidora, porque estás tocando algo que da servicio a varios.\nN1: ¿Y para volver a dar el gas?\nN2: Aquí viene la regla de oro que se repite en toda esta parte: antes de restablecer el suministro, comprueba que la instalación queda en aptitud de uso haciendo una comprobación de estanquidad a la presión de operación. En cristiano: no reabras nunca el gas sin comprobar antes que no hay ninguna fuga. Dar gas sin comprobar es meter la pata de la forma más peligrosa que existe."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartados 4.2 y 4.3",
+   "titulo": "Modificación o reparación: el metro",
+   "vinetas": [
+    "Tramo ≤ 1 m: reparación (comprobar tramo)",
+    "Tramo > 1 m: modificación",
+    "Ampliar consumo o aparato distinto: modificación",
+    "Modificación: prueba UNE 60670-8 completa"
+   ],
+   "img_brief": "measuring copper gas pipe with tape",
+   "notas": "N1: ¿Qué más da que sea reparación o modificación si al final toco la tubería?\nN2: Da mucho, porque cambia lo que tienes que comprobar antes de dar gas, y la frontera es justo un metro. Si actúas sobre un tramo de un metro o menos, aunque cambies el material o el trazado, es una reparación: basta con comprobar la estanquidad del tramo reparado, a la presión de operación. Si el tramo es de más de un metro con cambio de material o trazado, o si amplías consumo, o si cambias un aparato por otro de características distintas, entonces es una modificación.\nN1: ¿Y la modificación qué exige de más?\nN2: Una prueba de estanquidad completa de la instalación, según la Norma UNE 60670-8, no solo mirar el trocito que tocaste. Chuleta para el examen y para la obra: poco tubo, es reparación y compruebas el tramo; mucho tubo, más consumo o aparato distinto, es modificación y toca prueba completa. Ese metro lo cambia todo, no lo olvides."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 4.4",
+   "titulo": "Cambio de combustible",
+   "vinetas": [
+    "Dejarla apta para el control periódico",
+    "Con el nuevo gas (UNE 60670-12 y -13)",
+    "Manómetro de esfera clase 1,6",
+    "Aguja entre el 35 % y el 75 % de escala"
+   ],
+   "img_brief": "pressure gauge manometer gas installation",
+   "notas": "N1: ¿Qué es un cambio de combustible en una instalación?\nN2: Es pasar de un gas a otro. El caso típico es cambiar de butano o propano a gas natural, o al revés. Y no basta con enchufar el gas nuevo y ya. Tienes que dejar la instalación en condiciones de superar el control periódico con ese gas nuevo, el que definen las partes doce y trece que veremos en los siguientes vídeos. Es decir, la dejas como para que pase la revisión con el combustible que va a llevar de ahora en adelante.\nN1: ¿Y ese detalle del manómetro por qué es tan concreto?\nN2: Porque para comprobar la estanquidad hay que medir bien, y un manómetro mide mejor en la zona central de su escala. La norma pide un manómetro de esfera de clase uno coma seis, con la aguja trabajando entre el treinta y cinco y el setenta y cinco por ciento del fondo de escala. Ni al principio ni al final, donde el aparato mide peor. También vale un manómetro digital o uno de columna de agua. Quédate con la imagen: la aguja en el centro del reloj, ahí es donde te fías de la lectura."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 4.5",
+   "titulo": "Cambio de contador: puente antichispas",
+   "vinetas": [
+    "Cambio solo por personal autorizado",
+    "Puente antichispas antes de cortar",
+    "Se retira al montar el contador nuevo",
+    "Precintar el equipo de medida"
+   ],
+   "img_brief": "gas meter replacement technician hands",
+   "notas": "N1: ¿Para qué sirve un puente antichispas al cambiar el contador?\nN2: Vamos por partes. Cuando cortas la tubería para quitar el contador, puedes interrumpir una continuidad eléctrica que había de un lado a otro de la instalación. Si por esos tubos circulaba una pequeña corriente, justo en el momento de separar podría saltar una chispa, y saltaría precisamente donde hay gas. El puente antichispas es un cable que une eléctricamente la entrada y la salida antes de cortar, para que la corriente pase por el puente y no por el punto de corte. Se pone antes de tocar nada y se quita cuando ya está el contador nuevo montado.\nN1: ¿Algo más que recordar del cambio de contador?\nN2: Tres cosas. Una, el cambio solo lo hace personal autorizado por la distribuidora, no vas tú por libre. Dos, una vez montado el contador nuevo, hay que comprobar la estanquidad de sus uniones. Y tres, el equipo de medida se precinta al final. Regla para el examen: contador viejo, puente antes de tocarlo; contador nuevo, comprobar y precintar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 4.6",
+   "titulo": "Anulación de puntos de consumo",
+   "vinetas": [
+    "Cerrar, bloquear, precintar y taponar la llave",
+    "Si se quita la llave: tapón soldado",
+    "Comprobar la estanquidad del cierre",
+    "Esta operación solo la hace la instaladora"
+   ],
+   "img_brief": "capped gas pipe blanked off wall",
+   "notas": "N1: Si quito una cocina y no pongo otra, ¿basta con cerrar la llave?\nN2: No, y es un fallo muy común. Anular un punto de consumo no es dejar la llave cerrada y marcharse. Tienes que hacer cuatro cosas con esa llave de aparato: cerrarla, bloquearla, precintarla y taponarla. Así te aseguras de que nadie la vuelve a abrir por descuido y de que por ahí no sale ni una molécula de gas. Y si además desmontas la llave, el tubo se cierra con un tapón soldado, no con un tapón de rosca cualquiera que alguien pueda aflojar.\nN1: ¿Y después?\nN2: Después, como siempre en esta parte, compruebas la estanquidad del cierre que has hecho, a la presión de operación. Ojo a un detalle de la tabla uno: anular puntos de consumo es una operación que solo hace la empresa instaladora, es decir, tú. No la distribuidora ni el SAT. Recuerda las cuatro palabras: cerrar, bloquear, precintar y taponar. Y comprobar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 4.7",
+   "titulo": "Cese del suministro",
+   "vinetas": [
+    "Lo hace la empresa distribuidora",
+    "Cerrar, precintar y taponar la llave",
+    "O medios en remoto que impidan abrir",
+    "No es lo mismo que anular un punto"
+   ],
+   "img_brief": "gas meter cabinet sealed closed",
+   "notas": "N1: ¿En qué se diferencia cesar el suministro de anular un punto?\nN2: Es una confusión típica, así que fíjate bien. Anular un punto de consumo, lo que vimos antes, es quitar un aparato de una instalación que sigue viva; lo hace la instaladora. El cese del suministro es dejar sin gas toda la instalación; y eso lo hace la distribuidora, no tú. Para cesar el suministro, la distribuidora cierra, precinta y tapona la llave de usuario o la del contador, o bien pone medios en remoto que detecten su estado y su manipulación para impedir que se vuelva a abrir.\nN1: Entonces la palabra clave se repite en los dos casos, ¿no?\nN2: Muy bien visto: en ambos aparece precintar y taponar. Lo que cambia es quién lo hace y el alcance. Anular un punto: instaladora, un solo aparato. Cesar el suministro: distribuidora, toda la instalación. Si tienes claro quién manda en cada cosa, no vuelves a confundirlos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 5.1",
+   "titulo": "Comprobar la estanquidad: métodos",
+   "vinetas": [
+    "Detector portátil de gas",
+    "Manómetro clase 1,6 (35 %–75 %)",
+    "Giro de la métrica del contador",
+    "Localizar fugas: agua jabonosa o detector"
+   ],
+   "img_brief": "soapy water bubbles gas pipe leak test",
+   "notas": "N1: ¿Cuántas formas hay de comprobar la estanquidad?\nN2: La norma te da tres técnicas, siempre a la presión de operación, y basta con usar una. La primera, un detector portátil de gas en los tramos que se ven y se alcanzan. La segunda, un manómetro de esfera de clase uno coma seis con la aguja entre el treinta y cinco y el setenta y cinco por ciento de la escala, o uno digital o de columna de agua. Y la tercera, la más casera pero muy usada: el giro de la métrica del contador. Cierras primero las llaves de los aparatos, luego la de entrada al contador, esperas un mínimo de cinco minutos, abres rápido la llave del contador y miras si la métrica registra consumo. Si se mueve, hay fuga.\nN1: ¿Y para encontrar exactamente dónde escapa?\nN2: Para localizar la fuga usas agua jabonosa, que burbujea justo donde escapa el gas, o un detector. Lo que jamás se hace es buscar una fuga con una llama. En el siguiente slide insistimos en esto porque es de examen seguro."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 5.1",
+   "titulo": "Nunca busques fugas con una llama",
+   "vinetas": [
+    "Agua jabonosa: burbujea donde escapa",
+    "O detector portátil de gas",
+    "Detector: calibrar cada 18 meses máximo",
+    "Descalibrado, dice «no hay gas» y sí lo hay"
+   ],
+   "img_brief": "portable gas leak detector handheld device",
+   "notas": "N1: ¿De verdad hay que decir que no se busca una fuga con un mechero?\nN2: Suena a chiste, pero cae en el examen y en la vida real ha matado a gente. Jamás se localiza una fuga acercando una llama. Se usa agua jabonosa, que burbujea donde hay escape, o un detector. La llama solo sirve para volar por los aires. Es la regla más básica y la que más se salta la gente con prisa.\nN1: ¿Y el detector vale para siempre?\nN2: No, y este es el número importante: el detector portátil hay que calibrarlo, o verificarlo según las recomendaciones del fabricante, al menos cada dieciocho meses. ¿Por qué? Porque un detector descalibrado te puede decir «aquí no hay gas» cuando sí lo hay, y te vas tan tranquilo dejando una fuga. Quédate con ese dieciocho: es el mismo plazo que verás luego para los analizadores de combustión de la Parte trece. Un aparato de medida en el que no confías no es un aparato de seguridad."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 11 · Apartado 5.2",
+   "titulo": "Tres estados de una instalación",
+   "vinetas": [
+    "Apta para uso: sigue funcionando",
+    "En aptitud pendiente de corrección",
+    "No apta: fuera de servicio ya",
+    "Pendiente o no apta: avisar a distribuidora"
+   ],
+   "img_brief": "gas installation inspection checklist tablet",
+   "notas": "N1: Cuando encuentro una fuga, ¿qué decido hacer con la instalación?\nN2: La Parte once te da tres cajones donde meter cada instalación, y estos tres reaparecen en los vídeos dos y tres. Primero, apta para uso: no hay problema, sigue funcionando con normalidad. Segundo, en aptitud de uso pendiente de corrección: puede seguir con gas, pero hay algo que corregir, una fuga pequeña o una anomalía menor. Y tercero, no apta para uso: se deja fuera de servicio en el mismo momento en que localizas la fuga, precintando la llave que aísla el tramo afectado.\nN1: ¿Y en cuáles tengo que avisar a la distribuidora?\nN2: En los dos últimos: si la dejas pendiente de corrección o si es no apta, informas de inmediato a la empresa distribuidora. Y cuando consigas dejarla de nuevo apta, la vuelves a informar. Aquí la Parte once te dice el «qué hacer»; los litros por hora exactos que deciden en qué cajón cae cada fuga te llegan en los vídeos dos y tres. De momento, quédate con los tres estados y con el reflejo de avisar."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes tocar una instalación con gas sin liarla",
+   "mapa": [
+    "Quién firma y a quién avisas (Tabla 1)",
+    "Antes de dar gas, siempre estanquidad",
+    "Olor a gas: fuera manos de los interruptores",
+    "El metro separa reparar de modificar"
+   ],
+   "tagline": "Con la Parte 11 ya pisas la calle con criterio. Vamos a poner nota a las instalaciones.",
+   "notas": "N1: Cerramos fuerte. Si me tengo que quedar con lo esencial, ¿qué es?\nN2: Reconstruyamos el hilo. La Parte once es tu manual para tocar una instalación que ya tiene gas, hasta cinco bar, sin provocar un accidente. Primero, quién puede hacer cada cosa: la distribuidora manda en la acometida, el contador y el cese; tú, la instaladora, modificas, reparas y anulas puntos; el SAT solo toca aparatos. Y la acometida no se abre por libre, jamás. Segundo, la regla que te salva la vida y el título: antes de dar gas, comprueba estanquidad, siempre. Tercero, ante olor a gas, ni un dedo en los interruptores; ventilas y cierras. Y cuarto, el metro: hasta un metro es reparación y compruebas el tramo; por encima, o ampliando consumo, o con aparato distinto, es modificación con prueba completa según la UNE 60670-8.\nN1: ¿Y cómo cae esto en el examen?\nN2: Te van a cruzar la tabla uno, «quién puede hacer qué», y los plazos y métodos. Te preguntarán por el puente antichispas del contador, por los dieciocho meses del detector y por los tres estados: apta, pendiente de corrección y no apta. En la obra, todo esto es la diferencia entre un boletín bien hecho y un accidente con tu nombre en el papel. Hoy ya eres más gasista que ayer: sabes moverte por una instalación viva sin que te tiemble el pulso. En el siguiente vídeo damos el salto a la Parte doce: aprendes a inspeccionar una instalación y a ponerle nota, distinguiendo anomalías principales de secundarias. Te espero allí."
+  }
+ ]
+}

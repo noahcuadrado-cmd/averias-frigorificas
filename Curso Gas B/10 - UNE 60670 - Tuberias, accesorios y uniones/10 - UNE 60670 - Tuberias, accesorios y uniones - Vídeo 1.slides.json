@@ -1,0 +1,218 @@
+{
+ "pie": "Curso Gas B · Tema 10 · UNE 60670-3",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 10 · UNE 60670-3",
+   "videoxy": "Vídeo 1 de 3",
+   "titulo": "Materiales de tubería y accesorios",
+   "subtitulo": "Con qué se construye una instalación receptora",
+   "notas": "N1: Vale, tuberías y accesorios... ¿esto no es un poco memorieta de tubos y ya está?\nN2: Te entiendo, pero es justo lo contrario. Piensa en montar una instalación de gas como en construir un mueble: antes de tocar nada, alguien decide con qué madera, qué tornillos y qué cola se puede trabajar. Pues esta parte de la norma, la número tres, es esa lista oficial de materiales para el gas. Aquí no vemos dónde va cada tubo, sino cuál vale y cuál no. ¿Por qué importa tanto? Porque si eliges bien el material y el espesor, la instalación aguanta la prueba de fugas a la primera; y si eliges mal, tienes una avería esperando. En este primer vídeo arrancamos por los materiales de las tuberías: el plástico negro de la calle, el cobre, el acero, el inoxidable y un par más. Al acabar sabrás decir cuál se usa dónde y por qué."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["13", "partes en que se divide la norma"],
+    ["5", "bar de MOP máxima de aplicación"],
+    ["6", "materiales de tubería admitidos"]
+   ],
+   "notas": "N1: ¿Y cuánto hay que tragar aquí? ¿mucho número?\nN2: Menos del que parece, y te doy tres balizas para orientarte. La primera: la norma madre, la seis-cero-seis-siete-cero, se parte en trece cuadernillos, y el que estudiamos es el tercero, el de materiales. La segunda: todo esto vale para instalaciones de hasta cinco bar de presión máxima; por encima ya es otro mundo. Y la tercera: de tubería solo se admiten seis materiales, ni uno más. Si te agarras a esos tres números, ya tienes el mapa; el resto es rellenar detalles. Fíjate en que ninguno es una fecha: son datos de oficio, de los que caen en el examen."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "UNE 60670 · Estructura",
+   "titulo": "Dónde encaja esta parte",
+   "vinetas": [
+    "Norma madre en 13 partes",
+    "Esta es la Parte 3",
+    "Instalaciones con MOP ≤ 5 bar",
+    "Diseñar, construir, probar, controlar"
+   ],
+   "img_brief": "gas pipe installation technician wall",
+   "notas": "N1: ¿Trece partes tiene la norma? ¿por qué tantas?\nN2: Porque montar gas no es solo pegar tubos: primero se diseña, luego se construye, después se prueba que no fuga, se pone en servicio y, con los años, se revisa. Cada una de esas fases tiene su cuadernillo, y así no se mezcla todo en un texto enorme. La parte que nos toca, la tercera, es la de los materiales: tuberías, accesorios y uniones. Un apunte de vocabulario: verás mucho eso de eme-o-pe, la MOP, que es sencillamente la presión máxima a la que puede trabajar el tramo. Toda esta norma se aplica hasta cinco bar de MOP, que es la presión de las instalaciones que vas a tocar en viviendas y comercios. Ejemplo de por qué importa: si te preguntan el espesor de un tubo enterrado, eso es la parte tres; si te preguntan por dónde se ventila un cuarto de calderas, eso ya es otra parte distinta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "No las confundas",
+   "titulo": "¿Parte 3 o Parte 4?",
+   "vinetas": [
+    "Parte 3 = almacén de materiales",
+    "Qué tubo, válvula o unión usar",
+    "Parte 4 = plano de la obra",
+    "Dónde y cómo se coloca"
+   ],
+   "img_brief": "warehouse copper pipes shelves storage",
+   "notas": "N1: Vale, ¿y cómo sé si una pregunta es de la parte tres o de la cuatro?\nN2: Con una imagen que no se te olvida. La parte tres es el almacén: entras y te dicen qué tubo puedes coger, qué válvula, qué tipo de unión. La parte cuatro es el plano de la obra: te dice dónde clavas ese tubo, a qué distancia de un cable pasa y cómo se ventila. Almacén contra plano. Así que cuando la pregunta lleve las palabras 'qué material', 'qué espesor' o 'qué soldadura se admite', es parte tres, la nuestra. Cuando lleve 'trazado', 'distancia' o 'ventilación', es la cuatro. Este truco te ahorra fallar las preguntas cruzadas, que son las que ponen para pillarte."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Novedades de la edición",
+   "titulo": "Qué ha cambiado",
+   "vinetas": [
+    "Multicapa: limitador de caudal y de temperatura",
+    "Se admite el tallo PE-multicapa",
+    "UNE-EN 16129 unifica reguladores de GLP",
+    "Fuera el autobloqueo en llaves de aparato"
+   ],
+   "img_brief": "multilayer pex pipe cutaway aluminium",
+   "notas": "N1: ¿Y por qué me importan los cambios respecto a la edición vieja?\nN2: Porque lo que cambia es justo lo que les gusta preguntar: quieren saber si estudias la norma de ahora o la de antes. No hace falta que te los sepas todos de carrerilla, pero quédate con la idea de cada uno. El multicapa ahora exige sí o sí dos piezas de seguridad, el limitador de caudal y el de temperatura. Se admite un tallo nuevo, el de plástico con multicapa. Todas las normas viejas de reguladores de butano y propano se han juntado en una sola, la dieciséis mil ciento veintinueve. Y han quitado la obligación de autobloqueo en las llavecitas de conexión del aparato. Truco práctico: si en una respuesta ves una norma que 'ya no existe', probablemente es de la edición anterior, así que descártala."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Objeto y campo",
+   "titulo": "Para qué sirve esta parte",
+   "vinetas": [
+    "Condiciones de tuberías, elementos y accesorios",
+    "Y también de sus uniones",
+    "Para construir la instalación receptora",
+    "Y para conectar los aparatos"
+   ],
+   "img_brief": "gas pipe fittings copper elbow parts",
+   "notas": "N1: ¿'Objeto y campo de aplicación' no es paja de introducción?\nN2: Parece paja, pero define el terreno de juego, y por eso a veces lo preguntan tal cual. Lo que dice, en llano, es esto: esta parte fija las condiciones que deben cumplir tres cosas y su enganche. Las tres cosas son las tuberías, los elementos que se intercalan, como un contador o una válvula, y los accesorios, como un codo. Y el enganche son las uniones. ¿Todo eso para qué? Para dos trabajos: construir la instalación receptora, que es la que lleva el gas por la casa, y conectar los aparatos, la caldera o la cocina. Si te quedas con 'tuberías, elementos, accesorios y uniones', ya tienes el índice del tema entero."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Requisito básico",
+   "titulo": "La regla madre del material",
+   "vinetas": [
+    "Ni lo daña el gas por dentro",
+    "Ni el medio exterior por fuera",
+    "Si el ambiente ataca: recubrimiento",
+    "Siempre con Marcado CE"
+   ],
+   "img_brief": "corroded rusty metal pipe underground",
+   "notas": "N1: De todo el capítulo, si me quedo con una sola frase, ¿cuál es?\nN2: Esta, y cabe en una línea: el material ni se lo come el gas por dentro ni la humedad por fuera. Piénsalo como el fontanero de siempre: un tubo que se pica se acaba agujereando, y por ese agujero se escapa el gas. Entonces la norma te da dos salidas cuando el ambiente es agresivo, por ejemplo un acero metido bajo tierra: o pones un material que aguante de por sí, o lo proteges con un recubrimiento anticorrosión, como una funda. Y por encima de todo, un sello: el Marcado CE, que exige el Reglamento europeo de productos de construcción, el trescientos cinco. Sin ese marcado, el material no vale aunque parezca bueno. Ejemplo real: un tubo enterrado sin proteger acaba en corrosión perforante, ese agujerito que provoca la fuga soterrada, la más difícil y cara de encontrar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Materiales · Polietileno",
+   "titulo": "Polietileno: para enterrar",
+   "vinetas": [
+    "Calidad PE 80 o PE 100 (UNE-EN 1555)",
+    "Solo enterrado o en vaina",
+    "El sol lo agrieta",
+    "PE = Para Enterrar"
+   ],
+   "img_brief": "black polyethylene gas pipe trench ground",
+   "notas": "N1: ¿Por qué el tubo de plástico negro solo se puede enterrar?\nN2: Buena pregunta, y la respuesta es puro sentido común. El polietileno es ese tubo negro flexible que ves en las zanjas de la calle: barato, se dobla fácil y, lo mejor para el gas, no se corroe nunca. Pero tiene un talón de Aquiles: el sol. Los rayos ultravioleta lo van cuarteando hasta que se agrieta y suelta gas. Por eso la norma solo lo deja en dos sitios: enterrado, o metido dentro de una vaina que lo tape. Nunca a la vista. El truco para no olvidarlo es la propia sigla: pe, de Para Enterrar. Su calidad viene en dos grados, pe ochenta y pe cien, según la norma mil quinientos cincuenta y cinco. Si algún día ves en una fachada un trozo de tubo negro colgando al aire, ya sabes que está mal puesto: es una fuga a plazo fijo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Materiales · Cobre",
+   "titulo": "Cobre: el tubo noble",
+   "vinetas": [
+    "Redondo de precisión, sin soldadura",
+    "Tipo Cu-DHP (UNE-EN 1057)",
+    "Estado duro o recocido en rollo",
+    "Sus piezas, por soldadura capilar"
+   ],
+   "img_brief": "copper pipe coil hard drawn tube",
+   "notas": "N1: ¿Qué tiene de especial el cobre para gas?\nN2: Que es limpio, duradero y muy manejable, por eso se usa tantísimo en interior. Pero no vale cualquier cobre: la norma pide uno concreto, el llamado cu-de-hache-pe, que es cobre redondo de precisión, estirado en frío y sin costura de soldadura, según la norma mil cincuenta y siete. Ese 'sin soldadura' importa: el tubo es de una pieza, no una chapa curvada y pegada, así que no tiene una junta débil por donde empezar a fugar. Viene en dos formatos que verás en el almacén: en barra rígida, que llamamos estado duro, y en rollo blando, el recocido. Los dos son cobre bueno; lo que cambia es cómo los trabajas. Y sus piezas, los codos y manguitos, se pegan por soldadura capilar, que veremos con calma en el último vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Materiales · Cobre",
+   "titulo": "Los dos espesores del cobre",
+   "vinetas": [
+    "1 mm: visto, empotrado, en vaina, aparatos",
+    "1,5 mm: enterrado",
+    "Bajo tierra el tubo sufre más",
+    "Enterrado = medio milímetro más gordo"
+   ],
+   "img_brief": "copper pipe wall thickness caliper measure",
+   "notas": "N1: ¿Por qué el tubo enterrado tiene que ser más grueso?\nN2: Porque debajo de la tierra el tubo lo pasa peor. Aguanta el peso del terreno, la humedad, cualquier movimiento del suelo... y encima, si algo empieza a corroerlo por fuera, cuanta más pared tenga, más tarda en perforarse. Por eso la norma pide dos espesores distintos que tienes que clavarte. Uno coma cinco milímetros para todo lo que va enterrado. Y un milímetro para todo lo demás: tubo visto, empotrado en la pared, metido en vaina o para la conexión de los aparatos. La regla para no fallar: enterrado, medio milímetro más gordo. Cuidado, que este es un clásico de examen; si ves 'un milímetro para tubo enterrado', está mal: la respuesta es uno coma cinco."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Materiales · Cobre",
+   "titulo": "Duro, recocido y curvado",
+   "vinetas": [
+    "Duro: barra rígida, curvadora de máquina",
+    "Recocido: rollo blando, muelle curvatubos",
+    "Nunca mandril interno",
+    "Curva sin arrugas ni defectos"
+   ],
+   "img_brief": "bending copper pipe with spring tool",
+   "notas": "N1: Duro y recocido... ¿y cómo curvo cada uno sin cargármelo?\nN2: Vamos por partes. El cobre duro viene tieso, en barra, así que para doblarlo necesitas una máquina curvadora, manual o eléctrica. El recocido viene blando, en rollo, y ese lo doblas casi a mano con un muelle curvatubos, que es una espiral que metes para que el tubo no se aplaste. La clave, y vale para los dos, es que la curva quede lisa, sin arrugas ni pliegues. Y aquí el detalle que encanta preguntar: nunca se usa mandril interno. El mandril es una pieza que se mete dentro del tubo para curvar chapa gruesa, pero en el cobre de gas está prohibido. ¿Por qué? Porque arruga y estrangula el tubo por dentro, y un estrangulamiento deja al aparato sin caudal: llama pobre, mala combustión y avería. Curva limpia y sin mandril: esa es la consigna."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Materiales · Acero",
+   "titulo": "Acero: el clásico del gas visto",
+   "vinetas": [
+    "Sin soldadura o con soldadura longitudinal",
+    "Dimensiones según UNE-EN 10255",
+    "Curvado en frío preferente hasta 2\"",
+    "Enterrado, siempre protegido"
+   ],
+   "img_brief": "black steel gas pipe threaded fitting",
+   "notas": "N1: ¿Y el acero? ¿hasta dónde se puede curvar?\nN2: El acero es el tubo de toda la vida para el gas visto en interior, el negro roscado que has visto mil veces. Se fabrica de dos maneras válidas: sin costura, o con una soldadura a lo largo del tubo, siempre según la norma diez mil doscientos cincuenta y cinco. Lo que más se pregunta es el límite del curvado: se curva en frío con máquina, pero preferentemente solo hasta dos pulgadas de diámetro. ¿Por qué ese tope? Porque a partir de ahí el tubo es tan gordo que curvarlo en frío lo deforma; para esos diámetros grandes se usan codos ya fabricados. Sus piezas van soldadas o roscadas, cada una con su norma. Y un aviso: el acero enterrado sin proteger se lo come el terreno en nada, así que fuera siempre con su recubrimiento. Ah, y aquí también, mandril interno prohibido."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Materiales · Acero inoxidable",
+   "titulo": "Inoxidable: para ambientes duros",
+   "vinetas": [
+    "Banda soldada longitudinalmente",
+    "Serie 2 (UNE-EN 10312)",
+    "El tipo se elige según el ambiente",
+    "Accesorios de presión, también Serie 2"
+   ],
+   "img_brief": "stainless steel pipe coastal installation",
+   "notas": "N1: ¿Cuándo compensa el inoxidable en vez del acero normal?\nN2: Cuando el ambiente es agresivo y quieres que el tubo aguante sin oxidarse. Por eso la norma dice algo muy lógico: el tipo de inoxidable se elige según las condiciones del sitio. No es lo mismo un local seco de interior que una instalación a pie de costa, donde el salitre ataca, o una zona industrial con humos. A más agresividad, un inoxidable de más categoría. El dato numérico que te pueden pedir es el apellido: Serie dos. Tanto el tubo como sus accesorios de presión trabajan con la Serie dos, según la norma diez mil trescientos doce. Así que si te preguntan qué serie de inoxidable se usa, la respuesta es la dos; grábate ese número y ese apellido."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Materiales · Multicapa",
+   "titulo": "Multicapa: el sándwich",
+   "vinetas": [
+    "Polímero – aluminio – polímero",
+    "Normas UNE 53008-1 y -2",
+    "Siempre limitador de caudal y de temperatura",
+    "Sea cual sea la longitud del tramo"
+   ],
+   "img_brief": "multilayer pipe cross section aluminium layers",
+   "notas": "N1: ¿Qué es eso del multicapa y por qué lleva limitadores obligatorios?\nN2: Imagínate el corte del tubo y lo entiendes de golpe: es un sándwich de tres capas, plástico por dentro, una lámina de aluminio en medio y plástico por fuera. De ahí el nombre, polímero-aluminio-polímero. Es ligero y rápido de montar, pero tiene una debilidad: aguanta mal el calor. Si se le acerca una fuente caliente, se reblandece. Por eso la norma le exige siempre dos piezas de seguridad: un limitador de caudal, que corta si sale más gas del previsto, y un limitador de temperatura, que corta si el tubo se calienta de más. Y aquí viene la trampa de examen: son obligatorios con independencia de la longitud del tramo. Aunque el trozo de multicapa sea de un palmo, van sus dos limitadores. Todo esto según la norma cincuenta y tres mil ocho."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Materiales · Inox corrugado",
+   "titulo": "Corrugado: el flexible acordeón",
+   "vinetas": [
+    "Dos capas: inox corrugado + protección",
+    "La corrugada aguanta (estructura)",
+    "La externa protege",
+    "Norma UNE-EN 15266"
+   ],
+   "img_brief": "corrugated stainless steel gas hose yellow",
+   "notas": "N1: El tubo amarillo con forma de acordeón, ¿ese cuál es?\nN2: Ese es el acero inoxidable corrugado, y cada vez se ve más en viviendas porque se monta rapidísimo: es flexible y lo llevas por rincones donde el tubo rígido no entra. Fíjate en que tiene dos capas, y esto es lo que se pregunta. La de dentro es el acero inoxidable ondulado, el acordeón, y es la que aguanta, la que hace de estructura y resiste la presión. La de fuera es una funda de protección, normalmente ese plástico amarillo, que lo defiende de golpes y del ambiente. Estructura por dentro, protección por fuera. Su norma es la quince mil doscientos sesenta y seis. Si te describen 'un tubo de dos capas, una estructural corrugada y otra externa de protección', están hablando de este."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Vainas · Otros materiales",
+   "titulo": "Vainas, conductos y pasamuros",
+   "vinetas": [
+    "La 'funda' del tubo de gas",
+    "Material adecuado a su función",
+    "Metálicas, plásticas, de obra…",
+    "El detalle, en la UNE 60670-4"
+   ],
+   "img_brief": "pipe sleeve wall penetration conduit",
+   "notas": "N1: ¿Qué es exactamente una vaina y de qué tiene que ser?\nN2: La vaina es la funda del tubo de gas: un tubo más ancho por dentro del cual pasa el de gas cuando cruza un muro o una zona comprometida, para protegerlo. Junto a ella van los conductos y los pasamuros, que hacen esa misma labor al atravesar una pared. Aquí la norma no te da un material único, y eso a veces despista. Lo que dice es que sea el adecuado a su función: pueden ser metálicas, de plástico, de obra... según para qué sirvan. El detalle concreto de cuándo va cada una lo remite a la parte cuatro, la del plano de obra. Y un cierre útil: además de los seis materiales de tubo que hemos visto, se admite cualquier otro que acepte la norma mil setecientos setenta y cinco. La idea con la que quedarte: la vaina protege al tubo, y su material depende del trabajo que haga."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes con qué se construye el gas",
+   "mapa": [
+    "PE Para Enterrar; el sol, prohibido",
+    "Cobre 1 mm / 1,5 mm enterrado, sin mandril",
+    "Acero hasta 2\"; inoxidable Serie 2",
+    "Multicapa: siempre sus dos limitadores"
+   ],
+   "tagline": "Con estos materiales ya no te la cuela ninguna pregunta de la Parte 3. Vamos a por los elementos.",
+   "notas": "N1: Cerramos el primer vídeo. Si me quedo con lo esencial, ¿qué me llevo?\nN2: Reconstruyamos el hilo, que así se te queda solo. Empezamos entendiendo que esta parte, la tres, es el almacén de materiales de la norma del gas, para instalaciones de hasta cinco bar. Luego fuimos material por material, y cada uno tiene su porqué. El polietileno, Para Enterrar, porque el sol lo mata. El cobre, con sus dos espesores, un milímetro para lo normal y uno coma cinco para lo enterrado, porque bajo tierra sufre más, y siempre sin mandril interno para no estrangularlo. El acero, curvado hasta dos pulgadas y protegido si va enterrado. El inoxidable de Serie dos, elegido según lo agresivo del ambiente. El multicapa, ese sándwich que siempre lleva sus dos limitadores porque aguanta mal el calor. Y el corrugado, de dos capas, una que aguanta y otra que protege.\nN1: ¿Y cómo cae esto en el examen y en la obra?\nN2: En el examen te lo cruzan: te dan un espesor, una norma o una serie y tienes que decir si es correcto; con lo de hoy, esas las tienes ganadas. Y en la obra decide que la instalación pase la prueba de estanquidad a la primera y que el boletín, el certificado que firma la empresa instaladora, no te salga con defectos. Hoy ya eres más gasista que ayer: sabes elegir el tubo. En el siguiente vídeo damos el salto a los elementos que se intercalan en ese tubo, los reguladores, los contadores, las válvulas y las llaves. Te espero allí."
+  }
+ ]
+}

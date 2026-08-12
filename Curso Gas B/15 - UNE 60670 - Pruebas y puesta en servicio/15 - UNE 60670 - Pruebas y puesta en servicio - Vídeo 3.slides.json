@@ -1,0 +1,231 @@
+{
+ "pie": "Curso Gas B · Tema 15 · UNE 60670-10 · Puesta en marcha de aparatos",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 15 · UNE 60670-8/9/10",
+   "videoxy": "Vídeo 3 de 3",
+   "titulo": "Puesta en marcha de los aparatos",
+   "subtitulo": "UNE 60670-10 · Que quemen bien y no envenenen el aire",
+   "notas": "N1: Ya tengo la instalación en servicio, ¿qué me falta?\nN2: Te falta el último paso y el más delicado: encender los aparatos y comprobar que queman bien y no envenenan el aire. La Parte diez te dice qué comprobar en la puesta en marcha de cada tipo de aparato, el A, el B y el C, y también cuando adecúas un aparato por cambio de familia de gas. Aquí están los números más preguntados de todo el tema: el monóxido de carbono en los humos, el monóxido en el ambiente, el dióxido de carbono en el ambiente, el tiro, y los requisitos de los equipos de medida. Es el vídeo más denso; vamos a ir fijando cada límite numérico con calma.\nN1: ¿Por qué es tan importante esta parte?\nN2: Porque aquí se concentran las averías más peligrosas del oficio, las intoxicaciones por monóxido. Un aparato que arranca mal puede matar sin olor ni aviso. Por eso la norma pone límites tan claros: si se pasan, el aparato no se enciende."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["500 ppm", "tope de CO en los humos"],
+    ["15 ppm", "tope de CO en el ambiente"],
+    ["18 meses", "vigencia máxima de calibración"]
+   ],
+   "notas": "N1: ¿Por qué empiezas por estos tres números?\nN2: Porque son los tres que más caen y los que más vidas salvan. Quinientas partes por millón: es el tope de monóxido de carbono medido en los humos; si un aparato lo supera, no se pone en marcha. Quince partes por millón: es el tope de monóxido en el aire del local, lo que respira la gente; también para la puesta en marcha si se alcanza. Y dieciocho meses: es lo máximo que puede pasar entre calibración y calibración de tu analizador, porque un equipo descalibrado te miente. Grábalos ya, que sobre ellos monta todo el vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Marco · UNE 60670",
+   "titulo": "Qué trae la Parte 10",
+   "vinetas": [
+    "Cierra la secuencia de arranque",
+    "Puesta en marcha y cambio de familia",
+    "Novedad: medición del CO-ambiente",
+    "Equipos de medida en el apartado 4.7"
+   ],
+   "img_brief": "modern gas boiler wall mounted",
+   "notas": "N1: ¿Qué novedades trae esta edición de la Parte 10?\nN2: Varias que conviene conocer. La primera es el propio título: antes hablaba de verificar el mantenimiento de las condiciones de seguridad, y ahora se llama comprobaciones para la puesta en marcha de los aparatos o tras su adecuación por cambio de familia de gas. O sea, ahora cubre dos cosas: encender un aparato nuevo y también readaptar uno que cambia de tipo de gas. La segunda novedad: introduce la medición del monóxido en el ambiente como criterio adicional para decidir si un aparato es apto. La tercera: recoge en el apartado cuatro punto siete los requisitos de los equipos de medida.\nN1: ¿Y algo sobre la toma de muestras?\nN2: Sí, en el anexo A fija que para aparatos de potencia igual o menor de setenta kilovatios tiene que haber una toma de muestras accesible donde meter la sonda; y si el aparato no la trae, se instala un sistema de evacuación con esa toma, certificado. Lo veremos al final con detalle."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ubicar la Parte 10",
+   "titulo": "El último paso del arranque",
+   "vinetas": [
+    "Ya montaste, probaste y diste servicio",
+    "Ahora enciendes los aparatos",
+    "Calderas, calentadores, cocinas",
+    "Foco: gases de combustión y tiro"
+   ],
+   "img_brief": "technician igniting gas boiler flame",
+   "notas": "N1: ¿Dónde estamos dentro de todo el tema?\nN2: En el final de la película. Ya montaste la instalación con las partes tres, cuatro y siete; ya probaste que no pierde con la parte ocho; ya la pusiste en servicio con la parte nueve. Y ahora, con la parte diez, enciendes los aparatos y compruebas que queman bien y no envenenan el aire. Esta parte va de calderas, calentadores, cocinas y demás: su montaje, la estanquidad de su conexión, y sobre todo los gases de la combustión, el monóxido, el dióxido de carbono y el oxígeno, y el tiro del conducto.\nN1: ¿Entonces aquí ya se trabaja con fuego?\nN2: Exacto, es la primera vez en el tema que hay llama y humos de verdad. Por eso todo el foco está en la combustión: que el aparato encienda, que la llama sea buena y que los humos salgan por donde tienen que salir. Ahí es donde aparecen las averías graves."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Generalidades",
+   "titulo": "Dos comprobaciones de partida",
+   "vinetas": [
+    "¿El aparato es para este gas?",
+    "¿Lleva su marcado?",
+    "Al terminar: certificado de puesta en marcha",
+    "Es el tercer certificado del tema"
+   ],
+   "img_brief": "gas appliance rating label plate",
+   "notas": "N1: Antes de encender, ¿qué miro lo primero?\nN2: Dos cosas, siempre, antes de tocar nada. Una: comprobar que el aparato es adecuado para el tipo de gas que le va a llegar. Un aparato preparado para butano no se enciende con gas natural sin adecuarlo antes, y al revés tampoco; los inyectores y los reglajes son distintos. Y dos: comprobar que lleva su marcado, que es como el documento de identidad del aparato, lo que acredita que cumple la legislación.\nN1: ¿Y al terminar la puesta en marcha?\nN2: Al terminar hay que emitir un certificado de puesta en marcha. Es el tercer certificado del tema, y conviene que te sepas la cadena entera: primero el de la prueba de estanquidad, luego el de pruebas previas y puesta en servicio, y ahora el de puesta en marcha del aparato. La legislación de referencia es el Reglamento de gas y sus instrucciones técnicas, de la uno a la once. Tres certificados, tres momentos, y este cierra la instalación."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tabla 1",
+   "titulo": "Las comprobaciones por tipo",
+   "vinetas": [
+    "Correcto montaje del aparato",
+    "Estanquidad de la conexión",
+    "Análisis de los productos de combustión",
+    "Medición de CO-ambiente y tiro"
+   ],
+   "img_brief": "combustion gas analyzer flue measurement",
+   "notas": "N1: ¿Qué comprobaciones entran en la puesta en marcha?\nN2: La norma las junta en una tabla, la tabla uno, con cinco comprobaciones posibles y una columna por cada tipo de aparato. Las cinco son: correcto montaje del aparato, estanquidad de la conexión, análisis de los productos de la combustión, medición del monóxido en el ambiente, y comprobación del tiro del conducto de evacuación. No todas se hacen a todos los aparatos; la tabla te dice, con un sí o un no, cuáles tocan según el tipo.\nN1: ¿Y siempre mando yo, o mando el fabricante?\nN2: Muy buena pregunta. Siempre se hacen, como mínimo, las que dice la norma según el tipo de aparato, pero además hay que hacer las que indique el fabricante en su manual de instrucciones. Es decir, la tabla es el mínimo obligatorio; el manual puede pedir más. Y una regla de oro que ya adelanto: si cualquiera de las comprobaciones no sale bien, la llave del aparato queda cerrada, bloqueada y precintada, y ese aparato no se pone en marcha."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tabla 1 · Tipos",
+   "titulo": "Tipos A, B y C en cristiano",
+   "vinetas": [
+    "Tipo A: sin conducto, humos al local",
+    "Tipo B: aire del local, humos por conducto",
+    "Tipo C: estanco, aire y humos de fuera",
+    "El tipo marca qué comprobaciones tocan"
+   ],
+   "img_brief": "sealed balanced flue gas boiler",
+   "notas": "N1: ¿Qué diferencia hay entre tipo A, B y C?\nN2: Se clasifican por cómo evacúan los humos, según la norma UNE-EN mil setecientos cuarenta y nueve, y entenderlo es la llave de toda la tabla. Tipo A: no tiene conducto de evacuación, suelta los humos al propio local. Son la cocina de gas, la encimera, algunos calefactores. Tipo B: coge el aire del local para quemar y expulsa los humos por un conducto. Es el calentador o la caldera atmosférica de toda la vida. Tipo C: es estanco, coge el aire de fuera y echa los humos fuera, por un conducto que no comunica con el local. Son las calderas modernas de ventosa.\nN1: ¿Y por qué importa tanto el tipo?\nN2: Porque el tipo decide qué comprobaciones tocan. Un tipo A, que suelta humos al local, exige vigilar el monóxido en el ambiente; un tipo B de tiro natural exige comprobar el tiro, porque depende de que el conducto tire bien; y un tipo C, al ser estanco, se libra del tiro y del ambiente en muchos casos. Entender el tipo es entender la tabla."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tabla 1 · Reglas",
+   "titulo": "Dos a todos, y la consecuencia",
+   "vinetas": [
+    "Montaje y estanquidad: a todos los aparatos",
+    "Las demás dependen del tipo",
+    "Si algo falla: llave cerrada, bloqueada, precintada",
+    "El aparato no se pone en marcha"
+   ],
+   "img_brief": "gas appliance shut off valve sealed",
+   "notas": "N1: ¿Hay algo que se compruebe siempre, sea el aparato que sea?\nN2: Sí, dos comprobaciones se hacen a todos, sean A, B o C: el correcto montaje del aparato y la estanquidad de su conexión. Esas dos no fallan nunca en la lista. Las demás, análisis de combustión, monóxido en ambiente y tiro, dependen del tipo y de dónde esté puesto el aparato.\nN1: ¿Y qué pasa si una comprobación sale mal?\nN2: Aquí está la consecuencia estrella, y cae muchísimo: si cualquier comprobación no da resultado positivo, la llave del aparato queda cerrada, bloqueada y precintada, y ese aparato no se pone en marcha hasta que se arregle. Fíjate que es la misma fórmula de las llaves que vimos en la puesta en servicio. El porqué es de peso: arrancar para que el cliente tenga agua caliente un aparato que no ha pasado las comprobaciones es firmar una posible intoxicación. Antes precintar y dejarlo parado que encender algo peligroso."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tabla 1 · Matiz",
+   "titulo": "La coletilla de la zona exterior",
+   "vinetas": [
+    "Varias casillas llevan un asterisco",
+    "Solo se exigen si no es zona exterior",
+    "Al aire libre los humos se dispersan",
+    "En local cerrado sí hay riesgo"
+   ],
+   "img_brief": "rooftop gas appliance open air",
+   "notas": "N1: Hay casillas de la tabla con un asterisco, ¿qué significa?\nN2: Ese asterisco es una condición muy lógica. Varias comprobaciones, sobre todo el monóxido en ambiente y el tiro, solo se exigen si el aparato no está en una zona exterior. La norma considera zona exterior los patios, las cubiertas y sitios así, abiertos. Si el aparato está ahí, esas comprobaciones no se piden.\nN1: ¿Y por qué al aire libre no se miden?\nN2: Porque al aire libre los humos se dispersan solos, se los lleva el aire, y no hay forma de que se acumule monóxido en el ambiente hasta niveles peligrosos. El riesgo de intoxicación aparece en un local cerrado, donde los gases se quedan y se concentran. Por eso allí sí se mide, y en zona exterior no hace falta. Es la norma aplicando el sentido común: se controla donde de verdad hay peligro de acumulación."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.2",
+   "titulo": "Estanquidad de la conexión",
+   "vinetas": [
+    "Llave de conexión abierta, mandos cerrados",
+    "Uniones entre la llave y el aparato",
+    "Con método cualitativo: agua jabonosa o detector",
+    "Si pierde, no se arranca"
+   ],
+   "img_brief": "soapy water bubble test gas pipe",
+   "notas": "N1: ¿Esta estanquidad no la hicimos ya antes?\nN2: Es otra vez el último metro, pero ahora ya con gas y en la puesta en marcha. En la parte ocho comprobabas ese tramo, de la llave del aparato al aparato, con aire y a un tope de ciento diez milibares. Aquí, ya con gas circulando, compruebas todas las uniones entre la llave de conexión del aparato y el propio aparato, dejando el aparato fuera, con la llave de conexión abierta y los mandos del aparato cerrados. Y lo haces con un método cualitativo, o sea, agua jabonosa, un detector, algo que te diga sí pierde o no pierde, sin necesidad de un número exacto.\nN1: ¿Y la regla si encuentro una fuga?\nN2: Tajante y sin excepciones: en ningún caso se deja puesto en marcha un aparato si la comprobación de la estanquidad no es correcta. Si ese enlace pierde, no se arranca, punto. Es el mismo último metro de siempre, el sitio donde más fugas salen, y por eso se vigila en cada fase del tema."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.3",
+   "titulo": "CO en humos: 500 ppm",
+   "vinetas": [
+    "Se mide en los productos de combustión",
+    "CO corregido no diluido",
+    "Por encima de 500 ppm: no arranca",
+    "Corregir evita que el aire rebaje la lectura"
+   ],
+   "img_brief": "yellow gas flame poor combustion",
+   "notas": "N1: ¿Qué es eso del monóxido corregido no diluido?\nN2: Vamos por partes. El monóxido de carbono es el veneno invisible de la combustión: no huele, no se ve, y mata. Se mide en los humos, en los productos de la combustión, siguiendo el procedimiento del anexo A. El tope es quinientas partes por millón: si el aparato lo supera, no se pone en marcha. Ahora lo de corregido no diluido: cuando la sonda mide, a veces se cuela aire de fuera que se mezcla con el humo y rebaja la lectura, la diluye, y te haría creer que hay menos monóxido del que hay. Corregir es referir el valor a la combustión pura, sin ese aire colado, para que quinientas sean quinientas de verdad.\nN1: ¿Cómo se ve un monóxido alto en obra?\nN2: Un monóxido alto es señal de llama mal aireada, mala combustión. Lo notas a ojo: llama amarilla en vez de azul, tiznado, ennegrecido en la campana o en la pared por encima del aparato. Esa mancha negra es la firma de una combustión sucia. Por eso se mide y por eso, si pasa de quinientas, ese aparato no arranca hasta arreglarlo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.4",
+   "titulo": "CO-ambiente: 15 ppm",
+   "vinetas": [
+    "Es el CO en el aire del local",
+    "Todos los aparatos a máxima potencia",
+    "A los 5 minutos se mide",
+    "Sonda a 1 m y a 1,80 m de altura"
+   ],
+   "img_brief": "indoor air quality CO analyzer probe",
+   "notas": "N1: ¿En qué se diferencia esto del monóxido de los humos?\nN2: En dónde se mide. Antes medías el monóxido dentro del humo; ahora mides el monóxido que hay en el aire del local, el que respira la gente. Es otra cosa. El procedimiento: se ponen todos los aparatos en marcha a la vez, en régimen estacionario y, si son de tipo B o C, a la máxima potencia; y transcurridos cinco minutos se mide con un analizador cuya sonda se coloca aproximadamente a un metro de los aparatos y a uno coma ochenta metros de altura, más o menos a la altura de la cara de una persona de pie.\nN1: ¿Y cuál es el límite?\nN2: Quince partes por millón. Si la medición alcanza ese valor, se determina qué aparato está produciendo el exceso y ese aparato no se pone en marcha. Memoriza el trío de la medida: cinco minutos, un metro, uno coma ochenta metros; y el límite, quince partes por millón. Es el número que separa una cocina segura de una intoxicación lenta en un piso mal ventilado, de esas que empiezan con dolor de cabeza y nadie sabe por qué."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.5",
+   "titulo": "Tiro y revoco",
+   "vinetas": [
+    "Solo en tipo B de tiro natural",
+    "Peor escenario: extractor al máximo, todo cerrado",
+    "Si hay revoco, no se arranca",
+    "Por gases: CO₂ 2 500 ppm o CO 15 ppm"
+   ],
+   "img_brief": "flue draft chimney smoke test",
+   "notas": "N1: ¿Qué son el tiro y el revoco?\nN2: El tiro es la fuerza con la que el conducto se traga los humos y los lleva hacia arriba y afuera. El revoco es justo lo contrario: que los humos rebotan y vuelven al local en lugar de salir. Esta comprobación solo se hace en los aparatos de tipo B de tiro natural, los que no tienen ventilador que empuje los humos y dependen solo de que el conducto tire bien. Se comprueba que el tiro es suficiente y que no hay revoco.\nN1: ¿Y cómo se prueba, en condiciones normales?\nN2: No, se prueba en el peor escenario posible: si en el local hay un extractor mecánico que pueda funcionar a la vez, se pone ese extractor a la máxima potencia y con las puertas y ventanas cerradas. ¿Por qué así? Porque el extractor roba aire del local y puede provocar el revoco; si aguanta en esas condiciones, aguanta siempre. Si se detecta revoco, no se puede poner en marcha el aparato hasta resolverlo. Y cuando el revoco se comprueba midiendo gases del ambiente, hay dos topes que paran la puesta en marcha: dióxido de carbono en ambiente de dos mil quinientas partes por millón, o monóxido en ambiente de quince partes por millón. El dióxido alto delata que los humos se quedan en el local; el monóxido, combustión peligrosa. Cualquiera de los dos, aparato parado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.6",
+   "titulo": "Cambio de familia de gas",
+   "vinetas": [
+    "Ejemplo: gas natural a propano",
+    "Se cambian inyectores y reglajes",
+    "Repetir comprobaciones 4.2 a 4.5",
+    "Aplicar además la UNE 60670-11"
+   ],
+   "img_brief": "gas injector nozzle replacement burner",
+   "notas": "N1: ¿Qué es cambiar de familia de gas?\nN2: Es adaptar un aparato para que funcione con un gas distinto del que tenía. El ejemplo típico es pasar un aparato de gas natural, que es la segunda familia, a propano, que es la tercera familia. Eso obliga a cambiar los inyectores y a reajustar el aparato, porque cada gas quema distinto y necesita su calibre de inyector y su reglaje.\nN1: ¿Y después basta con dejarlo funcionando?\nN2: No, y esto es tajante. Después de adecuar un aparato por cambio de familia hay que repetir, cuando corresponda, las comprobaciones de los apartados cuatro punto dos a cuatro punto cinco: estanquidad de la conexión, análisis de la combustión, monóxido en ambiente y tiro. Y además cumplir lo que indica la norma UNE seiscientos setenta guion once para la operación por cambio de combustible. El porqué es evidente: has tocado la combustión, así que tienes que volver a comprobar que quema bien. Adecuar sin volver a medir no vale; te quedaría un aparato que se apaga, hace mala combustión o suelta monóxido."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.7",
+   "titulo": "Equipos de medida",
+   "vinetas": [
+    "Calibración: máximo cada 18 meses",
+    "Registro documental: 5 años",
+    "Incertidumbre: no más de ± 5 %",
+    "Botellas patrón identificadas en el certificado"
+   ],
+   "img_brief": "gas analyzer calibration laboratory",
+   "notas": "N1: ¿Por qué importa tanto la calibración del analizador?\nN2: Porque un equipo descalibrado no vale para nada, o peor: te hace aprobar un aparato con monóxido, o rechazar uno que estaba bien. Y de eso dependen vidas. Por eso la norma pone tres cifras que hay que saberse. Una: la calibración se repite como máximo cada dieciocho meses; puede ser antes si mides mucho, pero nunca más tarde. Dos: el registro documental de esas calibraciones se guarda cinco años. Y tres: la incertidumbre obtenida en la calibración no puede pasar de más menos cinco por ciento.\nN1: ¿Hay un truco para no confundir los números?\nN2: Sí: dieciocho meses de vigencia, cinco años de papeles, cinco por ciento de margen. Y añade un detalle que también cae: en el certificado de calibración tienen que constar las botellas patrón utilizadas, que son los gases de referencia con concentración conocida con los que se ajusta el analizador. Sin esa identificación, el certificado cojea. El certificado de calibración es, además, tu respaldo si algún día hay un incidente y te preguntan si tu equipo medía bien."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo A",
+   "titulo": "Análisis de la combustión",
+   "vinetas": [
+    "Régimen estacionario, máxima potencia",
+    "Tras 2 minutos se mide",
+    "Toma de muestras en aparatos ≤ 70 kW",
+    "O₂ > 10 % o CO₂ < 6 %: repetir medida"
+   ],
+   "img_brief": "flue gas sampling probe boiler",
+   "notas": "N1: ¿Cómo se hace bien la medida de los humos?\nN2: El anexo A lo detalla. Se pone el aparato en régimen estacionario y a la máxima potencia que alcance en ese momento; y tras dos minutos de funcionamiento, o el tiempo que necesite para estabilizarse, se mide el monóxido corregido no diluido en los humos, con un analizador de combustión adecuado. Importante: durante toda la medida hay que asegurarse de que el aparato no baja de potencia; en las calderas modulantes, que solas tienden a bajar, la única garantía es vigilar la presión del quemador.\nN1: ¿Y lo de la toma de muestras y esos porcentajes?\nN2: Para aparatos de potencia igual o menor de setenta kilovatios tiene que haber una toma de muestras accesible donde meter la sonda; si no la trae, se instala un sistema de evacuación certificado con esa toma, y al acabar se tapa el orificio con un tapón estanco y reutilizable. Y hay una señal de alarma de medida mala: si ves oxígeno por encima del diez por ciento o dióxido de carbono por debajo del seis por ciento, casi seguro la sonda ha cogido aire de fuera y estás midiendo humo aguado; en ese caso, recolocas la sonda y repites la medida. Las calderas de condensación son la excepción: se rigen por lo que diga el fabricante."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo B",
+   "titulo": "Medición del CO-ambiente",
+   "vinetas": [
+    "Para radiantes tipo A de naves y talleres",
+    "15 minutos de calentamiento",
+    "Sonda a 1,80 m; un punto cada 25 m²",
+    "5 minutos por posición"
+   ],
+   "img_brief": "industrial radiant heater workshop ceiling",
+   "notas": "N1: ¿El anexo B es lo mismo que el A?\nN2: No, y no hay que mezclarlos, que es un error típico. El anexo A analiza el humo de aparatos con evacuación: tipo B, tipo C, vitrocerámicas y generadores de aire caliente. El anexo B es distinto: mide el monóxido en el aire de un local que tiene calefactores radiantes de tipo A suspendidos, esos que ves en el techo de naves y talleres y que sueltan los humos al propio local. Como no tienen conducto, lo que se vigila es el aire que respira la gente.\nN1: ¿Y los tiempos y posiciones?\nN2: En el B son mayores que en el A. Se ponen todos los aparatos del local a máxima potencia y, tras quince minutos de funcionamiento, se mide el monóxido en el ambiente. La sonda se sitúa a uno coma ochenta metros de altura, y se toma un punto al menos cada veinticinco metros cuadrados, para cubrir todo el local por si el monóxido no se reparte igual. Y en cada punto se deja la sonda al menos cinco minutos. El tope de aptitud sigue siendo el general: quince partes por millón de monóxido en ambiente. Recuerda el contraste: en el A dos minutos, en el B quince minutos; el B es más lento porque el local es grande y hay que darle tiempo a que el aire se cargue."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes arrancar sin envenenar el aire",
+   "mapa": [
+    "Montaje y estanquidad, a todos; si algo falla, llave precintada",
+    "CO en humos 500 ppm; CO-ambiente 15 ppm; CO₂-ambiente 2 500 ppm",
+    "Tiro y revoco solo en tipo B de tiro natural",
+    "Equipos: 18 meses, 5 años, ± 5 %"
+   ],
+   "tagline": "Cierras el tema sabiendo encender con seguridad. Eres capaz de firmar una instalación entera.",
+   "notas": "N1: Es mucha información, ¿cómo la ordeno para que no se me caiga?\nN2: Vamos a rehacer el hilo con su lógica, que así se sujeta solo. Primero, la partida: el aparato tiene que ser adecuado al gas y llevar su marcado, y al final se emite el tercer certificado del tema, el de puesta en marcha. Segundo, las comprobaciones: montaje y estanquidad de la conexión a todos los aparatos, y las demás según el tipo A, B o C; y si cualquiera falla, llave cerrada, bloqueada y precintada, aparato parado. Tercero, los números que salvan vidas: monóxido en humos, quinientas partes por millón; monóxido en ambiente, quince; dióxido en ambiente, dos mil quinientas. Cuarto, el tiro y el revoco solo en tipo B de tiro natural, y en el peor escenario, extractor al máximo y todo cerrado. Y quinto, los equipos: dieciocho meses de calibración, cinco años de papeles, más menos cinco por ciento de margen.\nN1: ¿Y cómo se traduce todo esto al examen y a la obra?\nN2: En el examen te lo van a preguntar por los números y por los tipos: te darán un aparato, un tipo y una lectura, y tendrás que decir si arranca o no. En la obra, esto es lo que evita la avería más grave del oficio: la intoxicación por monóxido. Una llama amarilla y una campana tiznada, un revoco en un calentador atmosférico, un analizador sin calibrar; cada uno de esos detalles es una vida en juego, y ahora sabes detectarlos y pararlos. Con este vídeo cierras el tema quince entero: sabes probar que una instalación no pierde, darle gas con seguridad y encender los aparatos sin envenenar el aire. Recorriste la instalación de principio a fin. Hoy no eres solo más gasista que ayer: eres capaz de acompañar una instalación desde el tubo vacío hasta la caldera encendida y firmarla con criterio. Enhorabuena, y a por el siguiente tema."
+  }
+ ]
+}

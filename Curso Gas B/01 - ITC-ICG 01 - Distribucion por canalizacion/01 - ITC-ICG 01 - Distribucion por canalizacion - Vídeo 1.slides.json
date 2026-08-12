@@ -7,17 +7,17 @@
    "videoxy": "Vídeo 1 de 2",
    "titulo": "Del proyecto a la puesta en servicio",
    "subtitulo": "La red de la calle: diseño, ejecución y pruebas",
-   "notas": "N1: ¿Por dónde entra el gas antes de llegar a una vivienda? Por la red de la calle, la de la compañía distribuidora.\nN2: En este primer vídeo recorremos la vida entera de esa red, desde que está dibujada en el papel hasta que se le mete el gas. Son los cinco primeros apartados de la ITC-ICG cero uno: para qué sirve, cuándo hace falta permiso, cómo se diseña, cómo se ejecuta y qué pruebas hay que superar. Aunque tú, como instalador de gas be, no montes esta red, es justo donde empalma tu acometida, así que saber dónde acaba la responsabilidad del distribuidor y dónde empieza la tuya te ahorra más de una discusión en obra."
+   "notas": "N1: Cuando abres la llave de la cocina y sale gas, ¿de dónde viene ese gas antes de llegar al edificio?\nN2: Viene de una tubería que corre por debajo de la calle, la red de la compañía distribuidora. Piensa en ella como en las tuberías del agua o los cables de la luz: un servicio enterrado que da a todo el barrio. Pues bien, esa red tiene su propia norma, y es la que abrimos hoy: la ITC-ICG cero uno. En este primer vídeo la seguimos desde que está dibujada en un papel hasta que se le mete el gas por primera vez. Son sus cinco primeros apartados: para qué sirve, cuándo hace falta permiso, cómo se diseña, cómo se construye y qué pruebas tiene que pasar. Y aunque tú, como instalador de gas be, no montes esta red, es justo donde empalma tu acometida. Saber dónde termina lo del distribuidor y dónde empieza lo tuyo te evita más de una discusión en obra, de esas de aquí no llego yo."
   },
   {
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["5", "apartados de la ITC (del 1 al 5)"],
+    ["5", "apartados de la ITC que vemos hoy"],
     ["3", "fases: proyectar, construir, explotar"],
-    ["7", "normas de diseño de referencia"]
+    ["7", "normas de diseño que hay que reconocer"]
    ],
-   "notas": "N1: Antes de entrar en materia, tres números para orientarte.\nN2: Este vídeo cubre los cinco primeros apartados de la instrucción. Toda red pasa por tres fases que se repiten como un mantra durante toda su vida: proyectar, que es dibujarla en el papel; construir, que es montar la tubería; y explotar, que es operarla y mantenerla mientras da servicio. Y para diseñarla hay siete normas de referencia que veremos enseguida. Si retienes estos tres bloques, todo lo demás encaja solo."
+   "notas": "N1: ¿Por dónde empiezo a ordenar todo esto en la cabeza?\nN2: Con tres números que te sirven de percha. El primero, cinco: son los cinco primeros apartados de la instrucción, y es todo lo que cubre este vídeo. El segundo, tres: toda red de gas pasa por tres fases que se repiten como un estribillo durante toda su vida. Proyectar, que es dibujarla en el papel; construir, que es montar la tubería en la zanja; y explotar, que es operarla y mantenerla mientras da servicio. Grábate esas tres palabras porque van a volver una y otra vez. Y el tercero, siete: son las normas técnicas de referencia para el diseño; no hay que sabérselas de memoria por dentro, solo reconocerlas. Si retienes estos tres bloques, cinco apartados, tres fases y siete normas, el resto del vídeo se te coloca solo."
   },
   {
    "tipo": "contenido",
@@ -29,8 +29,8 @@
     "La red de la calle, no la receptora",
     "Canalización: hasta 16 bar"
    ],
-   "img_brief": "gas pipeline construction street",
-   "notas": "N1: ¿De qué red habla exactamente esta instrucción?\nN2: La ITC-ICG cero uno fija los requisitos técnicos esenciales y las medidas de seguridad mínimas para proyectar, construir y explotar la red de distribución por canalización. Ojo al matiz: manda sobre la red de la calle, la del distribuidor, no sobre la instalación de la vivienda, que va por otra instrucción. Y no se acaba cuando la tubería queda enterrada: rige durante toda su vida útil. Recuerda del tema anterior que la distribución por canalización es la letra a del artículo dos del Reglamento, con presión máxima de diseño de hasta dieciséis bar. En obra, cuando alguien suelta eso de que no es cosa suya, el límite está justo en la acometida: aguas arriba manda el distribuidor bajo esta ITC."
+   "img_brief": "gas pipeline construction street trench",
+   "notas": "N1: Vale, pero ¿de qué tubería habla exactamente? ¿De la de mi casa?\nN2: No, y este matiz es el primero que hay que fijar. Compara dos tuberías: la que pasa por debajo de la calle y la que llega a tu cocina. Esta ITC manda sobre la primera, la de la calle, la del distribuidor. La de tu vivienda, la instalación receptora, va por otra instrucción distinta. Aclarado eso, ¿qué fija esta norma? Dos cosas: los requisitos técnicos esenciales, que en cristiano es lo mínimo que la red tiene que cumplir sí o sí, y las medidas de seguridad mínimas. Y lo fija para las tres fases que ya conoces: proyectar, construir y explotar. Ese detalle importa: la ITC no se calla el día que entierran el tubo, sigue mandando durante toda la vida útil de la red. Recuerda del tema anterior que la distribución por canalización es la letra a del artículo dos del Reglamento, con presión máxima de diseño de hasta dieciséis bar. En la obra, cuando alguien suelte eso de que la avería no es cosa suya, el límite exacto está en la acometida: aguas arriba manda el distribuidor bajo esta ITC, aguas abajo empieza tu responsabilidad."
   },
   {
    "tipo": "contenido",
@@ -42,20 +42,21 @@
     "Primer trimestre: obras del año anterior",
     "Autoriza la Comunidad Autónoma"
    ],
-   "img_brief": "official documents stamp approval",
-   "notas": "N1: ¿Hace falta pedir permiso para construir esta red?\nN2: Sí, la red necesita autorización administrativa previa, salvo los casos que marca la Ley del sector de hidrocarburos en su artículo cincuenta y cinco punto dos. Ahora bien, para las extensiones de una red que ya existe no se pide permiso palmo a palmo: la compañía presenta una memoria general con lo que prevé construir en el año y luego, en el primer trimestre del año siguiente, entrega a la Comunidad Autónoma el proyecto de lo que de verdad ejecutó, con la fecha de puesta en servicio de cada obra. El truco es fácil: primero digo lo que pienso hacer, después justifico lo que hice. Esto lo mueve la distribuidora, no tú, pero en el examen cae quién autoriza, que es la Comunidad Autónoma, y cuándo se entrega, que es el primer trimestre."
+   "img_brief": "official documents stamp approval desk",
+   "notas": "N1: Para montar esta red, ¿hace falta pedir permiso, como una licencia de obra?\nN2: Sí, en general sí: la red necesita autorización administrativa previa, es decir, el visto bueno de la Administración antes de empezar, salvo unos casos concretos que marca la Ley del sector de hidrocarburos en su artículo cincuenta y cinco punto dos. Ahora bien, aquí hay dos ritmos y conviene no mezclarlos. Para una red nueva de verdad, permiso previo. Pero para las extensiones, que es alargar una red que ya existe, no se pide permiso metro a metro: sería inviable. Lo que hace la compañía es presentar una memoria general, un documento con lo que prevé construir a lo largo del año. Y luego, en el primer trimestre del año siguiente, entrega a la Comunidad Autónoma el proyecto de lo que de verdad ejecutó, con la fecha de puesta en servicio de cada obra. El truco para no liarte: primero digo lo que pienso hacer, la previsión; después justifico lo que hice, las obras del año anterior. Todo esto lo mueve la distribuidora, tú como instalador no tramitas nada de esto, pero en el examen caen dos datos clavados: quién autoriza, que es la Comunidad Autónoma, y cuándo se entrega lo del año anterior, que es en el primer trimestre."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3 · Diseño",
    "titulo": "Suministro seguro y continuo",
    "vinetas": [
-    "Seguro (sin fugas) y continuo (sin cortes)",
+    "Seguro: sin fugas",
+    "Continuo: sin cortes",
     "Dimensionar según la demanda",
     "Nivel socioeconómico y climatología"
    ],
-   "img_brief": "gas distribution network map",
-   "notas": "N1: ¿Qué persigue un buen diseño de red?\nN2: Dos cosas a la vez: suministro seguro, que no haya fugas, y continuo, que no se corte el gas. Por eso la red se dimensiona con capacidad suficiente pensando en cuánta gente hay, en el nivel socioeconómico de la zona y en la climatología, porque donde hace más frío se consume más gas para calefacción. ¿Y por qué te importa a ti, que trabajas aguas abajo? Porque una red mal dimensionada se queda corta el día de más frío, cae la presión y en los aparatos eso se nota en llama amarilla, mala combustión, hollín y riesgo de monóxido de carbono. El diseño es, en el fondo, la primera avería que se evita."
+   "img_brief": "engineer studying gas network plan office",
+   "notas": "N1: ¿Qué es lo que persigue un buen diseño de red? ¿Que sea barata?\nN2: No, persigue dos cosas a la vez, y son la brújula de todo el apartado. Suministro seguro, que quiere decir que no haya fugas; y suministro continuo, que quiere decir que no se corte el gas. Fíjate que son dos objetivos distintos: una red puede ser segura pero cortarse cada dos por tres, o dar servicio siempre pero fugar. Se buscan las dos. ¿Y cómo se consigue el continuo? Dimensionando la red con capacidad suficiente, es decir, poniendo tubos del calibre adecuado para la gente que va a colgar de ellos. Para eso se mira cuánta gente hay, el nivel socioeconómico de la zona, que es el poder adquisitivo y por tanto cuánto consumo se espera, y la climatología, porque donde hace más frío se gasta más gas en calefacción. ¿Y por qué te importa a ti, que trabajas aguas abajo, en las casas? Porque una red mal dimensionada se queda corta el día de más frío, cuando todo el barrio enciende la calefacción a la vez: cae la presión, y esa caída en los aparatos se traduce en llama amarilla, mala combustión, hollín y riesgo de monóxido de carbono. Dicho fino: el diseño es, en realidad, la primera avería que se evita, antes de que exista la instalación."
   },
   {
    "tipo": "contenido",
@@ -67,20 +68,20 @@
     "Pérdida de carga admisible",
     "Operación y mantenimiento"
    ],
-   "img_brief": "engineer technical drawing pipes",
-   "notas": "N1: ¿Qué datos deciden los materiales de la red?\nN2: Cuatro criterios. Las características físico-químicas del gas, porque no es lo mismo gas natural que un gas licuado del petróleo; la presión de diseño, que marca el grosor y el material del tubo; la pérdida de carga admisible, es decir cuánta presión te puedes permitir perder por el camino; y las condiciones de operación y mantenimiento. Si el material no encaja con el gas o con la presión, tarde o temprano aparece el problema. Piénsalo como cuando eliges un tubo en obra: lo eliges en función de lo que va a circular por dentro y a qué presión."
+   "img_brief": "engineer technical drawing pipes ruler",
+   "notas": "N1: Y a la hora de elegir los tubos y los materiales, ¿de qué depende esa elección?\nN2: De cuatro criterios, y te los explico con la lógica de cuando eliges un tubo en obra. Primero, las características físico-químicas del gas, porque no es lo mismo transportar gas natural que un gas licuado del petróleo: cambian densidad, poder calorífico y hasta cómo ataca al material. Segundo, la presión de diseño, que es la presión máxima para la que se calcula la red; ella marca el grosor de la pared del tubo y el material, igual que una manguera de alta presión es más gruesa que una de riego. Tercero, la pérdida de carga admisible; carga aquí significa presión, así que esto es cuánta presión te puedes permitir perder por el rozamiento a lo largo del recorrido sin que al final de la línea llegue floja. Y cuarto, las condiciones de operación y mantenimiento, es decir, cómo se va a manejar y reparar durante su vida. Si el material no encaja con el gas o con la presión, tarde o temprano aparece el problema. Es exactamente tu reflejo cuando coges un tubo: lo eliges por lo que va a circular por dentro y a qué presión, no por lo que tengas más a mano en la furgoneta."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 3 · Normas",
-   "titulo": "Las normas de diseño",
+   "eyebrow": "Apartado 3 · Normas de diseño",
+   "titulo": "Las siete normas",
    "vinetas": [
     "UNE-EN 12007 · 1594 · 12186 · 12327",
     "UNE 60310 · 60311 · 60312",
     "Se aplican según la presión de diseño"
    ],
-   "img_brief": "technical standards binder shelf",
-   "notas": "N1: ¿Cuántas normas de diseño hay que saber reconocer?\nN2: Siete. No hace falta memorizar qué dice cada una, pero sí reconocerlas cuando aparecen en una lista. Van en dos bloques. Las une e ene, que vienen de Europa y regulan las redes según la presión: la doce mil siete, la mil quinientos noventa y cuatro, la doce mil ciento ochenta y seis y la doce mil trescientos veintisiete. Y las tres hermanas españolas, la sesenta mil trescientos diez, la sesenta mil trescientos once y la sesenta mil trescientos doce, que vas a ver una y otra vez en toda esta instrucción para diseño, pruebas, operación y mantenimiento. Si en el examen ves una lista de normas de canalización, esas tres seiscientas casi seguro que están dentro."
+   "img_brief": "technical standards binders shelf office",
+   "notas": "N1: Son siete normas de diseño. ¿De verdad tengo que aprendérmelas todas?\nN2: Tranquilo, no hay que saberse qué dice cada una por dentro; hay que reconocerlas cuando aparecen en una lista, que es como te lo van a preguntar. Y para reconocerlas, un truco de bloques. Por un lado, las que empiezan por une e ene: la doce mil siete, la mil quinientos noventa y cuatro, la doce mil ciento ochenta y seis y la doce mil trescientos veintisiete. Son de origen europeo y regulan las redes según la presión. Por otro lado, y estas son las importantes, tres normas españolas que van a ser tus viejas conocidas: la sesenta mil trescientos diez, la sesenta mil trescientos once y la sesenta mil trescientos doce. Llámalas las tres hermanas seiscientas. Y presta atención, porque no aparecen solo aquí: vas a ver estas tres una y otra vez en toda la ITC, para el diseño, para las pruebas, para la operación y para el mantenimiento. Regla de examen: si te ponen una lista de normas de canalización y tienes que elegir, esas tres seiscientas casi seguro que están dentro. Además, cuál se aplica no es al azar: depende de la presión de diseño de la red."
   },
   {
    "tipo": "contenido",
@@ -91,8 +92,8 @@
     "No dañar otras redes enterradas",
     "Conectar sin cortar el suministro"
    ],
-   "img_brief": "excavator digging trench pipes",
-   "notas": "N1: ¿Quién responde de la obra y qué cuidado manda?\nN2: La obra se hace bajo la responsabilidad del titular, con personal propio o ajeno, garantizando siempre la seguridad de los trabajadores. La clave de campo es no dañar otras instalaciones enterradas: la luz, el agua, el saneamiento, el teléfono, que ya corren bajo la calle. Al abrir zanja hay que saber qué pasa por debajo. Y cuando conectas tubo nuevo a la red que ya funciona, la norma es no dejar sin gas a los que ya lo tienen: se hace en carga siempre que se pueda. Es el mismo reflejo del fontanero que cambia un tramo sin cortarle el agua a todo el edificio."
+   "img_brief": "excavator digging trench underground pipes",
+   "notas": "N1: Cuando por fin se abre la zanja y se monta el tubo, ¿quién responde y qué es lo que más se cuida?\nN2: La obra se ejecuta bajo la responsabilidad del titular de la instalación, con personal propio o ajeno, es decir, con su gente o con una contrata, pero garantizando siempre la seguridad de quien trabaja. Y hay un cuidado que es puro sentido de obra: no dañar otras instalaciones enterradas. Piensa en lo que ya corre por debajo de una calle antes de que llegues tú con la máquina: la luz, el agua, el saneamiento, el teléfono, la fibra. Al abrir zanja hay que saber qué pasa por debajo para no reventarlo. Y hay un segundo reflejo: cuando conectas el tubo nuevo a la red que ya está funcionando y dando servicio, la norma es no dejar sin gas a quienes ya lo tienen; la conexión se hace en carga, con la red viva, siempre que se pueda. Es el mismo gesto que el del fontanero que cambia un tramo de tubería sin cortarle el agua a todo el edificio: molestar lo mínimo a quien ya tiene el servicio."
   },
   {
    "tipo": "contenido",
@@ -104,7 +105,7 @@
     "Técnicas alternativas, sin abrir zanja"
    ],
    "img_brief": "horizontal directional drilling pipeline road",
-   "notas": "N1: ¿Y si la tubería tiene que cruzar una carretera o un río?\nN2: Eso son obras especiales. Si tu tubería cruza una carretera, un curso de agua, una vía de tren o un puente, hace falta autorización del organismo que manda en ese sitio: la administración de carreteras, la confederación del río, la de ferrocarriles. Y en vez de abrir zanja a lo bruto se prefieren técnicas alternativas, por ejemplo perforar por debajo sin levantar la calzada, para molestar lo menos posible al servicio que cruzas. La idea es sencilla: cruzo algo importante, pido permiso a su dueño y uso la técnica que menos moleste."
+   "notas": "N1: ¿Y qué pasa cuando la tubería tiene que cruzar una carretera o un río? Ahí no puedes abrir zanja y ya está, ¿no?\nN2: Exacto, eso son obras especiales y tienen reglas propias. La lista de obstáculos que la ITC llama especiales es cerrada, memorízala: carretera, curso de agua, ferrocarril y puente. En todos esos casos hace falta autorización del organismo afectado, es decir, del que manda en ese sitio: la administración de carreteras si cruzas una vía, la confederación hidrográfica si cruzas un río, la autoridad de ferrocarriles si cruzas las vías. Y la forma de cruzar tampoco es a lo bruto: se prefieren técnicas de construcción alternativas. La típica es la perforación horizontal, que consiste en pasar el tubo por debajo del obstáculo taladrando sin levantar la calzada, para no cortar el tráfico ni destrozar el firme. La idea resumida en una frase: cruzo algo importante, pido permiso a su dueño y uso la técnica que menos moleste al servicio que hay encima."
   },
   {
    "tipo": "contenido",
@@ -116,8 +117,8 @@
     "UNE 60310 · 60311 · 60312",
     "Zona despejada durante la prueba"
    ],
-   "img_brief": "gas pipe pressure test gauge",
-   "notas": "N1: Antes de meter el gas, ¿qué hay que comprobar?\nN2: Dos pruebas que no son lo mismo. La de resistencia comprueba que la tubería aguanta la presión sin reventar ni deformarse, es decir que sea fuerte. La de estanquidad comprueba que no se escapa el gas por ninguna unión, es decir que no fugue. Una tubería puede ser resistente y aun así fugar por una junta mal hecha, por eso se hacen las dos. Se realizan según las normas sesenta mil trescientos diez, trescientos once y trescientos doce, según el tipo de instalación. Y por seguridad, mientras se prueba no puede haber personas ajenas en la zona: estás metiendo presión y, si algo cede, salta con fuerza."
+   "img_brief": "gas pipe pressure test gauge manometer",
+   "notas": "N1: Antes de soltar el gas, ¿qué hay que comprobar? Supongo que que no haya fugas.\nN2: Eso, y una cosa más, porque son dos pruebas distintas y mucha gente las confunde. La prueba de resistencia comprueba que la tubería aguanta la presión sin reventar ni deformarse; en llano, que sea fuerte. La prueba de estanquidad comprueba que no se escapa ni una molécula de gas por ninguna unión; estanquidad significa justamente eso, que no fuga nada, ni una burbuja. Y son distintas de verdad: un tubo puede ser resistentísimo, aguantar una presión enorme, y aun así fugar por una junta mal apretada. Por eso se hacen las dos, no vale con una. Se realizan según las normas seiscientas, la trescientos diez, la trescientos once y la trescientos doce, según el tipo de instalación, esas tres hermanas que te dije que iban a volver. Y una regla de seguridad de puro sentido común: mientras se prueba, nadie ajeno en la zona. Estás metiendo mucha presión a un tubo, y si algo cede, salta con fuerza. Truco para no confundirlas nunca: resistencia, que no rompa; estanquidad, que no fugue."
   },
   {
    "tipo": "contenido",
@@ -128,8 +129,8 @@
     "Certificado de dirección de obra",
     "Lo firma el director de obra"
    ],
-   "img_brief": "signing construction certificate document",
-   "notas": "N1: ¿Dónde queda constancia de que la red pasó las pruebas?\nN2: En el certificado de dirección de obra. Cuando las pruebas terminan con resultado positivo, su descripción y sus resultados se incorporan a ese certificado, que confecciona y firma el director de la obra. Ese papel es la prueba documental de que la red superó los ensayos. Es el mismo reflejo que tienes tú cada vez que emites un boletín o un certificado de instalación: lo que no está firmado y documentado, para la Administración no existe."
+   "img_brief": "signing construction certificate document pen",
+   "notas": "N1: Vale, se hacen las pruebas. Pero ¿dónde queda constancia de que salieron bien?\nN2: En un documento con nombre y apellidos: el certificado de dirección de obra. Vamos por pasos. Primero, las pruebas tienen que terminar con resultado positivo; si algo falla, no hay nada que certificar, se corrige y se repite. Cuando salen bien, su descripción y sus resultados se incorporan a ese certificado de dirección de obra, que confecciona y firma el director de la obra, no cualquiera. ¿Y por qué tanto papel? Porque para la Administración lo que no está firmado y documentado, sencillamente no ha pasado. Ese certificado es la prueba de que la red superó los ensayos, el respaldo por si algún día hay que mirar atrás. Es el mismo reflejo que vas a tener tú cada vez que emitas un boletín o un certificado de instalación: haces el trabajo bien, sí, pero también lo dejas firmado. Trabajo hecho y papel firmado van siempre juntos."
   },
   {
    "tipo": "contenido",
@@ -139,22 +140,22 @@
     "Solo si superó las pruebas previas",
     "Evitar la mezcla aire-gas inflamable",
     "Llenado lento o tapón de gas inerte",
-    "Purgado controlado, nunca a lo loco"
+    "Purgado siempre controlado"
    ],
-   "img_brief": "gas valve technician gloves",
-   "notas": "N1: ¿Se puede dar gas nada más terminar el montaje?\nN2: No. Solo se ponen en servicio las instalaciones que han superado las pruebas previas: sin pruebas, no hay gas. Al llenar de gas hay que evitar que se forme mezcla aire-gas dentro de los límites de inflamabilidad, que es la mezcla peligrosa. Para eso, o se introduce el gas despacio, a una velocidad que reduzca el riesgo en la zona de contacto, o se separan aire y gas con un tapón de gas inerte, por ejemplo nitrógeno, o con un pistón de purga. Y el purgado se hace siempre de forma controlada. Grábate la física: el peligro no es el gas solo ni el aire solo, es la mezcla de los dos más una chispa."
+   "img_brief": "technician opening gas valve gloves pipeline",
+   "notas": "N1: Terminado el montaje y las pruebas, ¿ya se puede meter el gas sin más?\nN2: Solo si se ha superado un requisito de oro: la instalación tiene que haber pasado las pruebas previas. Sin pruebas superadas, no hay gas; grábatelo como un mandamiento. Y ahora viene la parte física, que es la clave de seguridad de todo tu oficio. Cuando metes gas en un tubo que está lleno de aire, durante un rato aire y gas conviven, y ahí está el peligro: no en el gas solo, que sin oxígeno no arde, sino en la mezcla aire-gas cuando cae dentro de los llamados límites de inflamabilidad, esa proporción justa en la que una simple chispa provoca una deflagración. ¿Cómo se evita? De dos maneras. O se introduce el gas despacio, a una velocidad que reduzca la zona de mezcla peligrosa en el punto de contacto; o se separan aire y gas metiendo en medio un tapón de gas inerte, por ejemplo nitrógeno, que no arde, o un pistón de purga que hace de tabique. Y el purgado, que es echar fuera el aire o el gas, siempre de forma controlada, nunca a lo loco. Métetelo en la cabeza porque lo vas a aplicar toda la vida cada vez que purgues una instalación: aire, más gas, más una chispa, igual a explosión."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 5.2 · Quién",
+   "eyebrow": "Apartado 5.2 · Quién lo hace",
    "titulo": "La última barrera",
    "vinetas": [
     "Personal cualificado autorizado",
     "Por el distribuidor o el titular",
     "Con conocimiento del director de obra"
    ],
-   "img_brief": "gas technician commissioning pipeline",
-   "notas": "N1: ¿Quién da el paso final de meter el gas?\nN2: No lo hace cualquiera. La puesta en servicio la lleva a cabo personal cualificado autorizado por el distribuidor o por el titular de la instalación, y siempre con conocimiento del director de obra. Es la última barrera antes de que la red quede viva. Enlaza con lo anterior en orden: primero pruebas superadas, después llenado controlado y, por último, gente autorizada dando el servicio con el director al tanto."
+   "img_brief": "gas technician commissioning pipeline outdoor",
+   "notas": "N1: Y ese paso final, el de meter el gas de verdad, ¿lo puede dar cualquiera?\nN2: No, y es lógico si piensas lo que está en juego. La puesta en servicio la lleva a cabo personal cualificado autorizado, y ojo a quién lo autoriza: el distribuidor o el titular de la instalación de distribución. Además, se hace con conocimiento del director de obra, es decir, el director tiene que estar al tanto de que se está dando ese paso. Piénsalo como la última barrera antes de que la red quede viva y cargada de gas: no es momento de improvisar ni de que lo haga alguien de paso. Y fíjate cómo encaja todo en orden, como una cadena de seguridad: primero, pruebas superadas; después, llenado controlado para evitar la mezcla peligrosa; y por último, gente cualificada y autorizada dando el servicio, con el director de obra enterado. Cada eslabón protege al siguiente."
   },
   {
    "tipo": "contenido",
@@ -166,8 +167,8 @@
     "Sin pruebas superadas, no hay gas",
     "El peligro es la mezcla aire-gas"
    ],
-   "img_brief": "gas meter cabinet street wall",
-   "notas": "N1: Cuatro golpes rápidos antes de cerrar. ¿Los tienes?\nN2: Uno, esta instrucción manda en la red de la calle a lo largo de sus tres fases, proyectar, construir y explotar. Dos, la red necesita autorización administrativa previa, la da la Comunidad Autónoma, y las obras del año anterior se entregan en el primer trimestre. Tres, sin pruebas de resistencia y estanquidad superadas no hay gas, y queda en el certificado de dirección de obra. Y cuatro, el peligro nunca es el gas solo: es la mezcla aire-gas dentro de los límites de inflamabilidad. Si respondes esos cuatro sin dudar, llevas el vídeo dominado."
+   "img_brief": "gas meter cabinet street wall building",
+   "notas": "N1: Antes de cerrar, ¿me haces un repaso rápido para ver si me quedo con lo esencial?\nN2: Cuatro golpes, y si respondes a los cuatro sin dudar, llevas el vídeo dominado. Uno: esta instrucción manda en la red de la calle, la del distribuidor, no en tu instalación receptora, y lo hace a lo largo de las tres fases, proyectar, construir y explotar. Dos: esa red necesita autorización administrativa previa; quién la da, la Comunidad Autónoma; y las obras del año anterior se entregan en el primer trimestre. Tres: sin pruebas de resistencia y estanquidad superadas no hay gas, y el resultado positivo queda en el certificado de dirección de obra que firma el director. Y cuatro, el que más te va a acompañar en la vida real: el peligro nunca es el gas solo, es la mezcla aire-gas dentro de los límites de inflamabilidad. Repasa mentalmente esos cuatro; si los tienes, seguimos."
   },
   {
    "tipo": "cierre",
@@ -175,12 +176,12 @@
    "titulo": "Controlas la red desde el papel hasta el gas",
    "mapa": [
     "Separas la red de la calle de tu receptora",
-    "Sabes quién autoriza y cuándo: la CA, primer trimestre",
+    "Sabes quién autoriza y cuándo: la CA y el primer trimestre",
     "Tienes grabado: sin pruebas superadas, no hay gas",
     "El peligro no es el gas solo, es la mezcla aire-gas"
    ],
    "tagline": "Hoy ya sabes por dónde entra el gas al barrio. En el siguiente vídeo la mantenemos viva.",
-   "notas": "N1: Cerramos fuerte. Si te quedas con cuatro conquistas, que sean estas.\nN2: Una, ya separas la red de la calle, la del distribuidor, de tu instalación receptora, y sabes que el límite está en la acometida. Dos, sabes quién autoriza, la Comunidad Autónoma, y cuándo se entrega lo del año anterior, en el primer trimestre. Tres, tienes grabada la regla de oro: sin pruebas de resistencia y estanquidad superadas no hay gas, y hay un papel que lo certifica, el certificado de dirección de obra que firma el director. Y cuatro, la física que te acompañará toda la vida profesional: el peligro no es el gas solo, es la mezcla aire-gas dentro de los límites de inflamabilidad.\nN1: ¿Y esto por qué pesa tanto?\nN2: Porque en el examen te lo preguntan cruzado, con esa lista de siete normas y ese quién autoriza y cuándo; y en la obra es lo que decide si el día de más frío la red se queda corta y aparecen la llama amarilla y el monóxido aguas abajo, en la caldera de tu cliente. Hoy ya eres más gasista que ayer: entiendes por dónde entra el gas al barrio antes de llegar a ninguna vivienda. En el siguiente vídeo damos el salto a la red viva, cómo se opera, se mantiene y se protege las veinticuatro horas, y ahí aparecen las fugas, los plazos y los trucos de campo que usarás cada semana. Te espero allí."
+   "notas": "N1: Cerramos fuerte. Si me llevo cuatro conquistas de este vídeo, ¿cuáles deberían ser?\nN2: Estas cuatro, y déjame reconstruir el hilo para que veas que no son cuatro cosas sueltas, sino una historia. Una: ya separas la red de la calle, la del distribuidor, de tu instalación receptora, y sabes que la frontera entre las dos está en la acometida. Esa frontera es la que te ahorra discusiones en obra. Dos: sabes quién autoriza esa red, la Comunidad Autónoma, y cuándo se entrega lo del año anterior, en el primer trimestre; son dos datos de examen que van casi siempre juntos. Tres: tienes grabada la regla de oro, sin pruebas de resistencia y estanquidad superadas no hay gas, y sabes que hay un papel que lo certifica, el certificado de dirección de obra que firma el director. Y cuatro: la física que te va a acompañar toda la vida profesional, el peligro no es el gas solo, es la mezcla aire-gas dentro de los límites de inflamabilidad.\nN1: ¿Y por qué pesan tanto estas cuatro cosas?\nN2: Por dos motivos que van de la mano. En el examen te las preguntan cruzadas: te sueltan la lista de siete normas, te preguntan quién autoriza y cuándo, o te ponen a elegir entre resistencia y estanquidad. Y en la obra deciden de verdad: un mal diseño aguas arriba es lo que hace que el día de más frío la red se quede corta y aparezcan la llama amarilla y el monóxido en la caldera de tu cliente, aguas abajo. Hoy ya eres más gasista que ayer, porque entiendes por dónde entra el gas al barrio antes de llegar a ninguna vivienda. En el siguiente vídeo damos el salto a la red ya viva: cómo se opera, se mantiene y se protege las veinticuatro horas, y ahí aparecen las fugas, los plazos y los trucos de campo que usarás cada semana. Te espero allí."
   }
  ]
 }

@@ -7,153 +7,198 @@
    "videoxy": "Vídeo 1 de 3",
    "titulo": "Instalaciones receptoras de gas",
    "subtitulo": "Objeto, campo de aplicación, diseño y ejecución",
-   "notas": "N1: ¿Por qué decimos que aquí empieza de verdad el Gas B?\nN2: Porque la ITC-ICG cero siete es la instrucción que regula la instalación receptora: todo lo que montas tú desde que el gas entra en el edificio hasta la llave del último aparato. En este primer vídeo vemos para qué sirve, a qué se aplica y, lo más técnico, cómo se diseña y se ejecuta: por dónde salen los humos, qué chimenea toca, cómo son los patios de ventilación, cuándo hace falta sala de máquinas y qué norma mandas según la presión. Son datos que en el examen caen sí o sí, así que aquí no sobra nada."
+   "notas": "N1: ¿Por qué se dice que aquí empieza de verdad el Gas B?\nN2: Mira, hasta ahora hemos visto el marco general, el reglamento y sus definiciones. Pero la instrucción que de verdad regula lo que tú montas con tus manos es esta, la ITC-ICG cero siete. Se ocupa de la instalación receptora, es decir, de todo el recorrido del gas desde que entra en el edificio hasta la llave del último aparato. En este primer vídeo vemos para qué sirve, a qué se aplica y, lo más técnico, cómo se diseña y se ejecuta: por dónde salen los humos, cómo son las chimeneas, los patios de ventilación, las salas de calderas y qué norma mandas según la presión. Son datos que caen sí o sí en el examen, así que aquí no sobra nada."
   },
   {
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["5 bar", "frontera entre las dos normas"],
-    ["70 kW", "umbral de sala de máquinas"],
-    ["24,4 kW", "tope de tiro natural a fachada"]
+    [
+     "70",
+     "kW: tope para salir a fachada"
+    ],
+    [
+     "5",
+     "bar: frontera de norma UNE"
+    ],
+    [
+     "24,4",
+     "kW: tiro natural solo para ACS"
+    ]
    ],
-   "notas": "N1: Quédate con tres números antes de entrar en materia.\nN2: El primero, cinco bar: es la frontera que decide la norma que sigues, por debajo la UNE sesenta mil seiscientos setenta y por encima la sesenta mil seiscientos veinte. El segundo, setenta kilovatios: a partir de ahí una caldera deja de ser un aparato doméstico y necesita sala de máquinas con la UNE sesenta mil seiscientos uno. Y el tercero, veinticuatro coma cuatro kilovatios: es el tope de un aparato de tiro natural de solo agua caliente para poder sacar los humos por fachada. Con estos tres números ya tienes el esqueleto del vídeo."
+   "notas": "N1: ¿Y estos tres números por qué son tan importantes?\nN2: Porque son las tres fronteras que más se preguntan de este vídeo. Setenta kilovatios es el tope de potencia para poder sacar los humos por la fachada en un aparato estanco o de tiro forzado. Cinco bar es la raya que decide qué norma técnica sigues: por debajo una, por encima otra. Y veinticuatro con cuatro kilovatios es el límite del aparato de tiro natural que solo hace agua caliente para poder salir también por fachada. Si te quedas con estas tres cifras, ya llevas medio vídeo ganado."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 1 · Objeto",
-   "titulo": "Para qué sirve la ITC-ICG 07",
+   "titulo": "¿Qué regula la ITC-ICG 07?",
    "vinetas": [
     "Diseño, ejecución y utilización",
-    "Instalaciones receptoras del artículo 2",
-    "Incluye los locales que las contienen",
-    "También instala y revisa aparatos"
+    "Instalaciones receptoras de gas",
+    "También los locales y los aparatos",
+    "Fin: seguridad de personas y bienes"
    ],
-   "img_brief": "gas boiler installation kitchen",
-   "notas": "N1: Fíjate en tres palabras: diseño, ejecución y utilización. ¿Qué esconden?\nN2: Que la ITC no solo dice cómo se monta la instalación, sino también cómo se proyecta antes y cómo se usa y se mantiene después. Es el manual completo de la receptora, de la cuna a la sepultura. Y ojo a un detalle que preguntan: no regula solo las tuberías, también los locales donde va todo, la cocina, el cuarto del contador, la sala de calderas, y los aparatos conectados. Cuando en obra te pregunten dónde está escrito que una caldera mural tiene que ir con tal ventilación, la respuesta empieza casi siempre en esta instrucción."
+   "img_brief": "gas boiler installation in kitchen",
+   "notas": "N1: ¿Esto es solo para las tuberías?\nN2: Buena pregunta, y la respuesta es que no, va mucho más allá. Fíjate en tres palabras que aparecen juntas: diseño, ejecución y utilización. Eso significa que la instrucción no solo dice cómo se monta la instalación, sino también cómo se proyecta antes y cómo se usa y se mantiene después. Es el manual completo, de la cuna a la sepultura. Y ahora el detalle que se pregunta: además de las tuberías, regula los locales donde va todo, la cocina, el cuarto del contador, la sala de calderas, y también los aparatos que enchufas al final. Ejemplo de obra: si la caldera está bien montada pero la cocina no ventila como toca, la instalación no cumple, porque el local también entra en la norma."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Recordatorio · Tema 00",
-   "titulo": "Qué es una instalación receptora",
+   "eyebrow": "Apartado 1 · Campo de aplicación",
+   "titulo": "La instalación receptora",
    "vinetas": [
-    "De la acometida a la llave de aparato",
-    "Acometida interior, común e individual",
-    "Llave de acometida excluida",
-    "Llaves de aparato incluidas"
+    "De la llave de acometida (fuera)",
+    "A la llave del aparato (dentro)",
+    "Tres tramos encajados",
+    "Acometida interior, común, individual"
    ],
-   "img_brief": "gas meter cabinet building",
-   "notas": "N1: ¿Te acuerdas de dónde empieza y dónde acaba la receptora?\nN2: Es el conjunto de tuberías y accesorios entre la llave de acometida, que queda excluida, y las llaves de conexión de los aparatos, que sí entran. En su caso más general tiene tres tramos encajados: acometida interior, instalación común e instalación individual. La ITC-ICG cero siete es la que pone las reglas a ese conjunto. Si esto no lo tienes fresco, para un momento y repasa el Tema cero cero, porque todo lo que viene ahora se cuelga de estos tramos."
+   "img_brief": "gas meter cabinet in building wall",
+   "notas": "N1: ¿Y qué es exactamente la instalación receptora?\nN2: Recupéralo del tema del reglamento: es todo el conjunto de tuberías y accesorios que va desde la llave de acometida, que se queda fuera y no cuenta, hasta las llaves de conexión de cada aparato, que sí cuentan. En el caso más completo tiene tres tramos metidos uno dentro de otro: primero la acometida interior, que entra de la calle al edificio; luego la instalación común, el montante que sube por el edificio; y por último la instalación individual, la de dentro de cada vivienda. La ITC-ICG cero siete es la que pone las reglas a todo ese conjunto. Si no tienes claros los tres tramos, párate un momento y repásalos, porque los vamos a usar todo el rato."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 2.1 · Chimeneas",
-   "titulo": "Diseño y material de chimeneas",
+   "eyebrow": "Apartado 2 · Evacuación de humos",
+   "titulo": "Chimeneas: diseño y cálculo",
    "vinetas": [
-    "Diseño: UNE 123001 y EN 13384-1/-2",
-    "Metálica: UNE-EN 1856-1",
-    "No metálica: NTE-ISH-74",
-    "Obra nueva y rehabilitación"
+    "Obra nueva y rehabilitación",
+    "UNE 123001",
+    "UNE-EN 13384-1 y 13384-2"
    ],
-   "img_brief": "stainless steel chimney flue roof",
-   "notas": "N1: No te pido calcular una chimenea, pero sí saber quién manda en cada cosa. ¿Sabes separarlo?\nN2: Regla de bolsillo: para diseñar y calcular la chimenea mandan la UNE ciento veintitrés mil uno y las dos partes de la UNE-EN trece mil trescientos ochenta y cuatro. Para el material, si la chimenea es metálica va la UNE-EN mil ochocientos cincuenta y seis, y si no es metálica la NTE-ISH setenta y cuatro. Truco para acordarte: mil ochocientos cincuenta y seis es la de metal, porque esas chimeneas metálicas son de acero inoxidable. Esto aplica en edificios de nueva construcción y en rehabilitados, y son cuatro o cinco referencias que gusta preguntar."
+   "img_brief": "metal chimney flue on building roof",
+   "notas": "N1: ¿Tengo que aprenderme a calcular esas normas?\nN2: Tranquilo, no. Nadie te va a pedir que calcules una chimenea de memoria. Lo que sí tienes que saber es quién manda en cada cosa. Para diseñar y calcular la chimenea de un edificio nuevo o rehabilitado, mandan tres normas: la UNE ciento veintitrés mil uno, y las dos UNE-EN trece mil trescientos ochenta y cuatro, la uno y la dos. Piensa que es como el plano de cálculo: te dice qué diámetro y qué tiro necesita la chimenea para que los humos salgan bien y no se te devuelvan a la vivienda. En el examen te preguntan la referencia de la norma, no el número final del cálculo."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 2.2 · Evacuación",
-   "titulo": "La regla: humos por cubierta",
+   "eyebrow": "Apartado 2 · Evacuación de humos",
+   "titulo": "Chimeneas: materiales",
    "vinetas": [
-    "Regla general: salida por el tejado",
-    "Excepción: fachada o patio",
-    "Sin perjuicio del RITE"
+    "Metálicas: UNE-EN 1856-1",
+    "No metálicas: NTE-ISH-74",
+    "Truco: 1856 es de metal"
    ],
-   "img_brief": "chimney on house rooftop",
-   "notas": "N1: ¿Por dónde tienen que salir los humos por defecto?\nN2: Por cubierta, es decir, por el tejado. Esa es la norma. Solo de forma excepcional se permite la salida directa al exterior, por fachada o por un patio, y en casos concretos que vemos ahora. Y una coletilla que confunde: sin perjuicio del RITE. Significa que aunque el reglamento de gas te deje sacar por fachada, el reglamento de instalaciones térmicas puede añadir sus propias condiciones. No se contradicen, se suman: en calefacción y agua caliente mandan dos reglamentos a la vez."
+   "img_brief": "stainless steel flue pipe section",
+   "notas": "N1: ¿Y cómo distingo qué norma es para el material?\nN2: Aquí hay solo dos opciones y un truco. Si la chimenea es metálica, normalmente de acero inoxidable, el material lo manda la UNE-EN mil ochocientos cincuenta y seis guion uno. Si no es metálica, por ejemplo de obra o cerámica, entonces la ene te e, ese hache, setenta y cuatro. El truco para no fallar: mil ochocientos cincuenta y seis es de metal. Repítelo un par de veces y ya no se te olvida. Por qué importa: una chimenea de un material que no aguanta la temperatura o los ácidos de la condensación se degrada, y una chimenea rota deja escapar humos con monóxido dentro del edificio."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 2.2 · Excepciones",
-   "titulo": "Cuándo se sale por fachada",
+   "eyebrow": "Apartado 2 · Evacuación de humos",
+   "titulo": "La regla: por cubierta",
+   "vinetas": [
+    "Norma general: humos por el tejado",
+    "Reformas: si hay conducto adecuado",
+    "se usa el conducto existente"
+   ],
+   "img_brief": "chimney outlets on rooftop",
+   "notas": "N1: ¿Por dónde salen los humos normalmente?\nN2: La regla general es fácil y conviene grabarla: los productos de la combustión salen por cubierta, es decir, por el tejado. Esa es la forma segura, porque arriba se dispersan y no molestan a nadie. Hay una excepción práctica para reformas: si el edificio ya tiene un conducto de evacuación que sirve para el nuevo aparato y cumple la reglamentación de hoy, aprovechas ese conducto que ya existe en lugar de abrir uno nuevo. Ejemplo de obra: cambias una caldera vieja por una nueva compatible y el humero de siempre vale, pues se reutiliza. Ahora bien, hay casos en que se permite sacar por fachada, y eso lo vemos en la siguiente."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Salida a fachada",
+   "titulo": "Excepción: salida al exterior",
    "vinetas": [
     "Estancos o tiro forzado ≤ 70 kW",
     "Tiro natural solo ACS ≤ 24,4 kW",
-    "Reforma: usa el conducto existente"
+    "Sin perjuicio del RITE"
    ],
-   "img_brief": "gas flue outlet on facade wall",
-   "notas": "N1: ¿Por qué el tiro natural aguanta menos que un estanco para salir por fachada?\nN2: Porque cuanto más control tienes sobre los humos, más margen te da el reglamento. Un aparato estanco coge el aire de fuera y echa los humos fuera por un conducto cerrado, sin tocar el aire del cuarto; el de tiro forzado empuja los humos con un ventilador. Esos, al ser más seguros, pueden salir por fachada hasta setenta kilovatios. El de tiro natural deja subir los humos solos por estar calientes, es el más primitivo, y solo se libra si es exclusivo de agua caliente sanitaria y muy pequeño, hasta veinticuatro coma cuatro kilovatios. Además, si reformas una vivienda que ya tiene un conducto de evacuación adecuado al nuevo aparato, se aprovecha el conducto existente."
+   "img_brief": "gas boiler flue outlet on facade wall",
+   "notas": "N1: ¿Cuándo puedo sacar los humos por la pared en vez de por el tejado?\nN2: Solo en dos casos pequeños y seguros, y estas dos cifras son de las estrella. Uno: aparatos estancos o de tiro forzado con potencia igual o menor de setenta kilovatios. Dos: aparatos de tiro natural que sirvan únicamente para agua caliente sanitaria, con potencia igual o menor de veinticuatro con cuatro kilovatios. Fíjate en la lógica: al tiro natural, que es el más primitivo, solo se le deja si es exclusivo de agua caliente y muy pequeño; a los estancos y de tiro forzado, que controlan mejor los humos, se les deja hasta setenta. Y una coletilla que se repite: sin perjuicio del RITE, que significa que aunque el gas te lo permita, el reglamento de calefacción puede poner condiciones extra. No se contradicen, se suman."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 2.3 · Patios",
+   "eyebrow": "Apartado 2 · Tipos de aparato",
+   "titulo": "Estanco, tiro forzado, tiro natural",
+   "vinetas": [
+    "Estanco: aire de fuera, humos fuera",
+    "Tiro forzado: un ventilador empuja",
+    "Tiro natural: suben solos por calor"
+   ],
+   "img_brief": "sealed combustion gas boiler with concentric flue",
+   "notas": "N1: ¿Y qué diferencia hay entre esos tres tipos?\nN2: Vamos de lo más seguro a lo menos. Un aparato estanco coge el aire de fuera y echa los humos fuera por un conducto cerrado; no toca en ningún momento el aire de la habitación, por eso es el más seguro. Uno de tiro forzado lleva un ventilador que empuja los humos hacia afuera; ayuda a que salgan aunque el conducto sea largo. Y uno de tiro natural deja que los humos suban solos, simplemente porque están calientes y pesan menos, como el humo de una hoguera. Entiende esto y entiendes las cifras de antes: cuanto más control tiene el aparato sobre sus humos, más margen te da el reglamento para sacarlos por fachada. Por eso los estancos y de tiro forzado llegan a setenta y el tiro natural se queda en veinticuatro con cuatro y solo para agua caliente."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Patios de ventilación",
    "titulo": "Patios para aparatos conducidos",
    "vinetas": [
-    "Existente: 0,5 × NT, mín. 4 m²",
-    "Obra nueva: 1 × NT, más de 6 m²",
-    "Techado: abertura 25 %, mín. 4 m²",
-    "NT = locales que dan al patio"
+    "Edificio existente: 0,5 × NT (mín. 4 m²)",
+    "Obra nueva: 1 × NT (más de 6 m²)",
+    "NT = locales que tiran al patio"
    ],
-   "img_brief": "interior building ventilation courtyard",
-   "notas": "N1: Dos fórmulas, y no las puedes mezclar. ¿Sabes cuál va con cada patio?\nN2: En un patio de edificio existente la superficie en planta mínima es la mitad del número de locales, y nunca menos de cuatro metros cuadrados. En obra nueva se exige el doble, uno por el número de locales, y siempre más de seis metros cuadrados; se pide más holgura porque se diseña desde cero. Ese número de locales, la ene te, es simplemente cuántas viviendas o locales tiran sus humos a ese patio: cuantos más, mayor el patio. Y si el patio está tapado por arriba con un techado, tiene que dejar una abertura permanente al exterior de al menos la cuarta parte de su sección, con mínimo de cuatro metros cuadrados. Un patio cubierto y sellado sería una trampa de gases: los aparatos no tiran, se apagan y acumulan monóxido."
+   "img_brief": "interior ventilation courtyard of apartment building",
+   "notas": "N1: ¿Qué tamaño tiene que tener el patio de ventilación?\nN2: Depende de si el edificio es de siempre o de obra nueva, y son dos fórmulas que no debes mezclar. En un edificio ya existente, la superficie en planta del patio tiene que ser al menos cero coma cinco por ene te, y nunca menos de cuatro metros cuadrados. En obra nueva se exige el doble, uno por ene te, y siempre más de seis metros cuadrados. ¿Qué es ese ene te? Simplemente el número de locales o viviendas que tiran sus humos a ese patio; cuantos más aparatos desembocan, más grande tiene que ser. La idea de fondo: en obra nueva, como se diseña desde cero, se pide más holgura. Un patio corto se convierte en una trampa de gases donde los aparatos no tiran y se acaban apagando."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 2.4 · Salas de máquinas",
-   "titulo": "Equipos de más de 70 kW",
+   "eyebrow": "Apartado 2 · Patios de ventilación",
+   "titulo": "Si el patio está techado",
    "vinetas": [
-    "> 70 kW → sala de máquinas",
-    "Norma UNE 60601",
-    "Absorción y cogeneración incluidas",
+    "Abertura permanente al exterior",
+    "25 % de la sección en planta",
+    "Mínimo 4 m²"
+   ],
+   "img_brief": "covered courtyard with open ventilation grille at top",
+   "notas": "N1: ¿Y si el patio está tapado por arriba?\nN2: Entonces hay que dejar un hueco permanente al aire libre. Concretamente, el techado debe dejar libre una abertura de comunicación con el exterior de al menos el veinticinco por ciento de la sección en planta del patio, con un mínimo de cuatro metros cuadrados. Es puro sentido común: si tapas el patio y lo sellas del todo, los humos no tienen por dónde salir y se acumulan; sería una trampa de gases. Fíjate en la palabra permanente: no vale una ventana o una compuerta que alguien pueda cerrar un día de frío, tiene que estar siempre abierta. Una cuarta parte del patio abierta al cielo, como mínimo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 2 · Grandes potencias",
+   "titulo": "Más de 70 kW: sala de máquinas",
+   "vinetas": [
+    "Calderas > 70 kW → UNE 60601",
+    "También absorción y cogeneración",
     "Potencia conjunta: se suma"
    ],
    "img_brief": "industrial gas boiler room",
-   "notas": "N1: ¿Cuándo una caldera deja de ser un aparato y pasa a ser maquinaria seria?\nN2: Por encima de setenta kilovatios. A partir de ahí, la caldera de calefacción o agua caliente, el equipo de absorción para refrigeración o el de cogeneración eléctrica ya no van en cualquier cuarto: exigen sala de máquinas con las condiciones de la UNE sesenta mil seiscientos uno. El truco es asociar esa norma a salas de calderas de más de setenta kilovatios. Y cuidado con la palabra conjunta: las potencias se suman. Tres equipos de treinta kilovatios cada uno son noventa conjuntos, pasas de setenta y ya toca sala de máquinas. No mires cada máquina por separado si trabajan juntas."
+   "notas": "N1: ¿Qué pasa cuando la caldera es muy grande?\nN2: Ata este cabo, que el número mágico son setenta kilovatios. Por encima de setenta, una caldera de calefacción o de agua caliente ya no es un aparato doméstico cualquiera: es maquinaria seria que tiene que ir en una sala de máquinas con las condiciones de la UNE sesenta mil seiscientos uno. Lo mismo vale para los equipos de llama directa de refrigeración por absorción y para los de generación eléctrica o cogeneración, si juntos pasan de setenta. Y ojo a la palabra conjunta: las potencias se suman. Tres equipos de treinta kilovatios trabajando juntos son noventa, así que pasan de setenta y toca sala de máquinas. Truco: sesenta mil seiscientos uno igual a salas de calderas. Por debajo de setenta, la norma general es la sesenta mil seiscientos setenta, que vemos ahora."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 2.5 · Norma y presión",
+   "eyebrow": "Apartado 2 · Norma según presión",
    "titulo": "La frontera de los 5 bar",
    "vinetas": [
     "Hasta 5 bar → UNE 60670",
     "Más de 5 bar → UNE 60620",
-    "MOP = presión máxima de operación"
+    "MOP: presión máxima de operación"
    ],
-   "img_brief": "gas pressure regulator gauge pipe",
-   "notas": "N1: Esta es de las preguntas más repetidas de todo Gas B. ¿La tienes clavada?\nN2: Hasta cinco bar sigues la UNE sesenta mil seiscientos setenta, la norma de toda la vida para instalaciones receptoras normales; por encima de cinco bar sigues la sesenta mil seiscientos veinte, la de alta presión. Como instalador de categoría B trabajarás casi siempre con la sesenta mil seiscientos setenta. Esa presión que decide es la máxima de operación, que en la normativa verás como MOP: la presión más alta a la que la instalación puede trabajar de forma continua en condiciones normales. No la confundas con la presión de prueba ni con la de diseño; la que decide la norma es la de funcionamiento diario."
+   "img_brief": "gas pressure regulator and gauge",
+   "notas": "N1: ¿Cómo sé qué norma técnica tengo que seguir?\nN2: Lo decide la presión máxima de operación, y esta es de las preguntas más repetidas de todo el Gas B. Chuleta: hasta cinco bar, sigues la UNE sesenta mil seiscientos setenta, la de toda la vida para instalaciones receptoras normales; por encima de cinco bar, la UNE sesenta mil seiscientos veinte, la de alta presión. Como instalador de categoría be trabajarás casi siempre con la seiscientos setenta. Esa presión máxima de operación la verás escrita como eme o pe, del inglés, y es la presión más alta a la que la instalación trabaja de forma normal y continua; no la confundas con la de prueba ni con la de diseño. Memoriza el par: seiscientos setenta es baja presión hasta cinco bar; seiscientos veinte es alta presión por encima de cinco."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 2.5 · Ubicación",
-   "titulo": "Dónde van los aparatos conducidos",
+   "eyebrow": "Apartado 2 · Ubicación de aparatos",
+   "titulo": "Circuito abierto conducido: dónde",
    "vinetas": [
     "Galerías, terrazas, locales exclusivos",
-    "También lavaderos, garaje individual",
-    "Cocina: sin robar el tiro al extractor",
-    "Excepción: solo ACS, sin límites"
+    "Lavaderos, garajes individuales",
+    "En cocina: sin robar el tiro al extractor",
+    "Solo ACS: sin estas limitaciones"
    ],
-   "img_brief": "gas water heater on wall laundry",
-   "notas": "N1: Un aparato de circuito abierto conducido respira del propio cuarto. ¿Dónde lo puedes poner?\nN2: Ese aparato coge el aire de la habitación para quemar y echa los humos por un conducto, por eso es abierto al ambiente y conducido para los humos. Como respira del cuarto, el reglamento no quiere que lo pongas en cualquier sitio: sí en galería, terraza, recinto exclusivo, lavadero o garaje individual. En la cocina solo se permite si evitas que el extractor mecánico le robe el tiro a los humos del aparato; esa interacción provoca inversión de humos y monóxido en el ambiente, con el aparato apagándose. Y la excepción que preguntan: si el aparato es solo para agua caliente sanitaria, un calentador clásico, estas limitaciones no le aplican."
+   "img_brief": "wall mounted gas water heater in laundry room",
+   "notas": "N1: ¿Qué es un aparato de circuito abierto conducido y por qué no puedo ponerlo donde quiera?\nN2: Vamos con calma. Circuito abierto quiere decir que el aparato coge el aire para quemar de la propia habitación; conducido quiere decir que los humos sí salen por un conducto. O sea, respira del cuarto pero echa el humo fuera. Como respira del cuarto, el reglamento no quiere que lo pongas en cualquier sitio: sí en galerías, terrazas, recintos o locales exclusivos para estos aparatos, y en locales de uso restringido como lavaderos o garajes individuales. En la cocina se puede, pero con una condición importante: que el extractor mecánico de la cocina no le robe el tiro al aparato, porque si el extractor tira más fuerte, invierte los humos y mete monóxido en la casa. Y la excepción que se pregunta: si el aparato es solo para agua caliente sanitaria, un calentador de toda la vida, estas limitaciones no le aplican."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 2.6 · Enterrado",
-   "titulo": "Tramos enterrados",
+   "eyebrow": "Apartado 2 · Tramos enterrados",
+   "titulo": "Tubería bajo tierra",
    "vinetas": [
     "Enterrado → UNE 60310 y 60311",
-    "Reglas de acometidas, no de tubo visto",
-    "Pregunta el material al distribuidor"
+    "Consulta el material al distribuidor",
+    "Debe ser compatible con la red"
    ],
-   "img_brief": "underground gas pipe trench",
-   "notas": "N1: Cuando la tubería va bajo tierra, ¿siguen valiendo las reglas del tubo visto?\nN2: No. En cuanto entierras un tramo se aplican las normas de acometidas, la UNE sesenta mil trescientos diez y la sesenta mil trescientos once. Truco: enterrado igual a trescientos diez y trescientos once. Y el detalle práctico que cae en examen y que te salva en obra: antes de diseñar una acometida interior enterrada tienes que pedir al distribuidor de qué material es su red, porque debes ser compatible con ella. No se pueden unir bajo tierra cualquier material con cualquier otro sin garantías. Nunca improvises el material enterrado sin ese dato: enterrar algo incompatible es garantía de uniones defectuosas, corrosión y fugas que no verás hasta que huelan."
+   "img_brief": "buried yellow gas pipe in trench",
+   "notas": "N1: ¿Y si la tubería va enterrada, cambia algo?\nN2: Cambia bastante. Cuando la tubería va bajo tierra ya no valen las reglas de la tubería vista; se aplican las normas de acometidas, la UNE sesenta mil trescientos diez y la sesenta mil trescientos once. Truco corto: enterrado igual a trescientos diez y trescientos once. Y aquí un detalle práctico que cae en examen: antes de diseñar una acometida interior enterrada, tienes que preguntar al distribuidor de qué material es su red, porque tu tubería tiene que ser compatible con ella. No puedes unir bajo tierra cualquier material con cualquier otro, porque una unión mal casada se corroe y acaba en una fuga que no ves hasta que huele. Nunca improvises el material enterrado sin ese dato."
   },
   {
    "tipo": "cierre",
-   "titulo": "Qué me llevo",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes diseñar la salida de humos",
    "mapa": [
-    "ITC-ICG 07: diseño, ejecución y uso",
-    "Humos por cubierta; 70 y 24,4 kW la excepción",
-    "Hasta 5 bar la 60670; por encima la 60620"
+    "ITC-ICG 07 manda: diseño, ejecución y uso",
+    "Humos por cubierta; fachada solo ≤ 70 y 24,4 kW",
+    "La presión decide la norma: 5 bar, la raya",
+    "Enterrado y grandes potencias, reglas propias"
    ],
-   "notas": "N1: Si te quedas con tres cosas de este vídeo, que sean estas.\nN2: Primera, la ITC-ICG cero siete es tu manual de cabecera: manda en el diseño, la ejecución y la utilización, e incluye los locales y los aparatos. Segunda, los humos son seguridad, no un trámite: salen por cubierta salvo excepción, y las dos cifras estrella para salir por fachada son setenta kilovatios en estancos o tiro forzado y veinticuatro coma cuatro en tiro natural de solo agua caliente; sacar humos donde no toca es tiro insuficiente, condensaciones y, en lo grave, monóxido dentro de casa. Y tercera, la norma la elige la presión: hasta cinco bar la sesenta mil seiscientos setenta, por encima la sesenta mil seiscientos veinte; y los equipos de más de setenta kilovatios van a sala de máquinas con la sesenta mil seiscientos uno. Con eso tienes el corazón del diseño de una receptora."
+   "tagline": "Con esto ya colocas cada norma en su sitio. Vamos a por los papeles y la puesta en servicio.",
+   "notas": "N1: Cerramos fuerte. ¿Qué me tengo que llevar de este vídeo?\nN2: Reconstruyamos el hilo. Primero, la ITC-ICG cero siete es tu manual de la instalación receptora: manda en el diseño, la ejecución y la utilización, e incluye los locales y los aparatos, no solo los tubos. Segundo, los humos son seguridad: salen por cubierta, y solo por fachada en casos pequeños, estancos o tiro forzado hasta setenta kilovatios y tiro natural de solo agua caliente hasta veinticuatro con cuatro. Tercero, la presión elige la norma: hasta cinco bar la sesenta mil seiscientos setenta, por encima la seiscientos veinte. Y cuarto, lo enterrado va por las normas de acometidas y lo gordo, por encima de setenta, a sala de máquinas con la sesenta mil seiscientos uno.\nN1: ¿Y cómo cae esto en el examen?\nN2: Te lo preguntan cruzado, con las cifras: te dan una potencia y un tipo de aparato y quieren saber si puede salir por fachada; o te dan una presión y quieren la norma. En la obra decide cosas muy reales: si dimensionas mal una chimenea o sacas humos por donde no toca, te tumban la puesta en servicio y le creas un problema de monóxido al vecino. Hoy ya eres más gasista que ayer: sabes por dónde tienen que salir los humos y con qué norma se monta cada cosa. En el siguiente vídeo damos el salto a los papeles: cuándo hace falta proyecto, qué pruebas se hacen y cómo una instalación pasa de estar montada a tener gas. Te espero allí."
   }
  ]
 }

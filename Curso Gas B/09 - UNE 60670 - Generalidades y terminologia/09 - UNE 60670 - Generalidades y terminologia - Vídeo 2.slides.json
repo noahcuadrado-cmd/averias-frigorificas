@@ -1,0 +1,244 @@
+{
+ "pie": "Curso Gas B · Tema 09 · UNE 60670-1 y -2",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 09 · UNE 60670-1 y -2",
+   "videoxy": "Vídeo 2 de 3",
+   "titulo": "Terminología (I)",
+   "subtitulo": "Accesos, aparatos, gases e instalaciones",
+   "notas": "N1: Profe, ¿un vídeo entero solo de definiciones? ¿No es un rollo?\nN2: Te va a sorprender lo útil que es. Esta es la parte dos de la norma: el diccionario del gasista. Y aquí hay un cambio de chip: no vale con entender la idea por encima, hay que quedarse con la definición exacta, porque muchas preguntas del examen son literalmente qué es esto. Pero no te asustes: no vamos a soltar definiciones a palo seco. Cada palabra la vas a entender con una imagen de obra, para que se te quede sola. Hoy va la primera mitad, del grado de accesibilidad hasta la intemperie. Cuando acabes, vas a poder explicárselo a un compañero con tus palabras."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["60", "términos en esta primera mitad"],
+    ["3", "tipos de aparato: A, B y C"],
+    ["100 m²", "separan aparcamiento de garaje"]
+   ],
+   "notas": "N1: ¿Y estos números resumen el vídeo?\nN2: Son tus anclas. Primera: vamos a ver unos sesenta términos, del tres punto uno al tres punto sesenta; parecen muchos, pero los agrupamos por temas y caen solos. Segunda: hay tres tipos de aparato de gas, el A, el B y el C, y distinguirlos es de lo más importante de todo el tema, porque va de ventilación y de monóxido de carbono. Y tercera: quédate con cien metros cuadrados, el número que separa un aparcamiento de un garaje. Con estas tres anclas ya tienes de qué va la cosa."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 2 · Objeto",
+   "titulo": "El diccionario de la norma",
+   "vinetas": [
+    "Fija el significado exacto",
+    "Términos nuevos: móvil, loft, intemperie",
+    "Desaparece el primer sótano",
+    "Estudia: lee, tapa y explica"
+   ],
+   "img_brief": "open technical dictionary book on table",
+   "notas": "N1: ¿Cómo se estudia un glosario sin volverse loco?\nN2: Con un método sencillo y potente. La parte dos solo hace una cosa: fijar el significado exacto de cada palabra que usa la norma, para que no haya interpretaciones. En esta edición se añaden términos nuevos, como aparato móvil, intemperie, local industrial, loft y ventilación cruzada; y se elimina el primer sótano, dejando solo el semisótano, que es el que se usa en el resto de la norma. Y el truco para estudiarlo: lee la definición, tápala con la mano y explícala con tus palabras; luego comprueba que no te dejas ningún matiz, esos excluida esta o incluidas estas, y los valores en cifra. En el examen la trampa casi siempre está en ese detalle fino, no en la idea general."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.1 a 3.3",
+   "titulo": "Accesibilidad: grados 1, 2 y 3",
+   "vinetas": [
+    "Grado 1: sin llaves ni escaleras",
+    "Grado 2: armario con cerradura normalizada",
+    "Grado 3: escalera o zona privada",
+    "Más número, más difícil"
+   ],
+   "img_brief": "locked gas meter cabinet with key",
+   "notas": "N1: ¿Y esto de los grados de accesibilidad para qué sirve?\nN2: Para saber lo fácil o difícil que es llegar a un dispositivo, una llave o un contador, y mantenerlo. Van del uno al tres, de más fácil a más difícil. Grado uno: llegas y lo tocas, sin abrir cerraduras y sin necesitar escaleras ni medios especiales. Grado dos: está protegido por un armario, un registro o una puerta con cerradura de llave normalizada, pero aun así llegas sin escalera. Grado tres: para manipularlo necesitas escalera o medios mecánicos especiales, o tienes que pasar por una zona privada. Truco: cuanto más alto el número, más armado está el acceso. Y ojo en obra: si montas una llave de corte con peor accesibilidad de la que le toca, luego no puedes hacer el control periódico ni cortar rápido en una emergencia. El grado se decide al montar, no se improvisa."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.4 y 3.5",
+   "titulo": "Acometida y acometida interior",
+   "vinetas": [
+    "Acometida: red hasta la llave, incluida",
+    "No forma parte de la receptora",
+    "Interior: de la llave de acometida al edificio",
+    "La frontera es la llave de acometida"
+   ],
+   "img_brief": "gas service valve entering building wall",
+   "notas": "N1: Acometida y acometida interior suenan casi igual, ¿en qué se diferencian?\nN2: En un punto exacto: la llave de acometida. Vamos despacio. La acometida es el tramo que va desde la red de distribución hasta la llave de acometida, y esa llave va incluida; es cosa de la compañía y no forma parte de tu instalación receptora. La acometida interior empieza justo después, desde la llave de acometida, ya excluida, hasta la llave o llaves de edificio, esas sí incluidas. Fíjate en el juego incluida-excluida: es la clave de todo el diccionario. La llave de acometida es la línea que separa lo de la compañía de lo tuyo. Y un detalle: si el contador está en el límite de la propiedad, puede que no haya acometida interior."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.7 y 3.8",
+   "titulo": "Aparato de gas y circuito abierto",
+   "vinetas": [
+    "Aparato de gas: usa gas normalizado",
+    "Circuito abierto: coge aire del local",
+    "Puede ser tipo A o tipo B",
+    "El tipo C no es abierto"
+   ],
+   "img_brief": "domestic gas water heater on wall",
+   "notas": "N1: ¿Qué quiere decir que un aparato es de circuito abierto?\nN2: Vamos por pasos. Aparato de gas es, sencillamente, el que quema un gas de los normalizados, de las familias de la norma UNE-EN cuatrocientos treinta y siete. Ahora, de circuito abierto quiere decir que coge el aire para quemar de la propia habitación donde está. Piensa en un calentador antiguo o una cocina: respiran el aire del local. Estos abiertos pueden ser de dos clases, tipo A o tipo B, que vemos ahora. Lo contrario del abierto es el estanco, el tipo C, que ni coge aire del local ni suelta humos en él. Guárdate la idea: abierto igual a respira el aire de la habitación."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.9 a 3.11",
+   "titulo": "Tipos A, B y C",
+   "vinetas": [
+    "Tipo A: aire del local, no evacúa",
+    "Tipo B: aire del local, evacúa por conducto",
+    "Tipo C: estanco, ni entra ni sale",
+    "A y B abiertos; C estanco"
+   ],
+   "img_brief": "modern sealed gas condensing boiler",
+   "notas": "N1: Los tipos A, B y C me lío siempre. ¿Cómo los distingo?\nN2: Este es el concepto estrella del tema, así que lo dejamos clavado. Tipo A: coge el aire del local y no evacúa los humos fuera; los suelta dentro. Ejemplo: la cocina de gas o un calentador atmosférico antiguo. Tipo B: coge el aire del local, igual que el A, pero sí evacúa los humos al exterior por un conducto o chimenea. Ejemplo: la caldera de tiro natural conectada a la chimenea. Tipo C: es estanco; su combustión no tiene ningún contacto con el aire del local, ni coge aire de él ni suelta humos en él. Ejemplo: la caldera estanca moderna, que coge aire y expulsa humos por un tubo al exterior. Regla para no fallar: el A no tira humos fuera; el B coge aire dentro y tira humos fuera; el C ni entra ni sale del local. Y por qué importa tanto: colocar el tipo equivocado, un B atmosférico en un cuarto de baño, por ejemplo, es causa directa de intoxicación por monóxido de carbono."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.12 y 3.13",
+   "titulo": "Aparato móvil y aparato popular",
+   "vinetas": [
+    "Móvil: no está fijo, se puede desplazar",
+    "Nunca con tubería rígida",
+    "Popular: solo envase ≤ 3 kg",
+    "El popular es el más pequeño"
+   ],
+   "img_brief": "small camping gas stove with cartridge",
+   "notas": "N1: ¿Aparato móvil es cualquier cosa que se pueda mover?\nN2: Casi. Móvil es el que no está fijado al local ni a un mueble anclado a la estructura, y por tanto lo puedes mover para usarlo o recolocarlo, como una estufa de butano. Y hay una regla de seguridad que no falla: un aparato móvil no se puede conectar nunca con tubería rígida; siempre flexible, porque si va a moverse, un tubo rígido acabaría rompiendo por fatiga y tendrías fuga. El aparato popular es todavía más pequeño: solo se puede conectar a un envase de hasta tres kilos, como el infiernillo de camping. Piensa en el popular como un subconjunto de lo pequeño, y el número que lo marca son tres kilos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.14 a 3.16",
+   "titulo": "Aparcamiento y garaje",
+   "vinetas": [
+    "Aparcamiento: superficie > 100 m²",
+    "Garaje: ≤ 100 m²",
+    "Abierto: aberturas ≥ 1/20, ≤ 0,5 m al techo",
+    "Cerrado: el que no cumple"
+   ],
+   "img_brief": "underground parking garage ventilation",
+   "notas": "N1: Aparcamiento y garaje, ¿no son lo mismo?\nN2: Para la norma no, y el número que los separa es cien metros cuadrados. Si la superficie construida supera los cien metros cuadrados, es aparcamiento; si es igual o menor, es garaje, que veremos en el vídeo tres. Y dentro del aparcamiento hay dos clases. Abierto: sus fachadas tienen tanta abertura permanente al exterior que ventilan solas; en concreto, un área abierta de al menos un veinteavo de la superficie, con al menos un cuarentavo repartido de forma uniforme entre las paredes opuestas, y el borde superior de las aberturas a no más de medio metro del techo. Cerrado: el que no cumple eso. Por qué importa: cuanta más ventilación natural, menos riesgo de acumular gas; de ahí que la norma sea tan exigente con las aberturas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.17 a 3.29",
+   "titulo": "Armarios, recintos y conductos",
+   "vinetas": [
+    "Armario de contadores: no entran personas",
+    "Armario-cocina: lado menor ≤ 30 cm",
+    "Conducto de tuberías: varias tuberías",
+    "Conducto técnico: contadores por planta"
+   ],
+   "img_brief": "row of gas meters in ventilated cabinet",
+   "notas": "N1: Tanto armario y conducto, ¿cómo no me hago un lío?\nN2: Los agrupamos por para qué sirven. El armario de contadores y regulación es un recinto ventilado, con puertas, que solo contiene contadores o reguladores, y en el que no pueden entrar personas; solo se abre para instalar o cambiar equipos. El armario-cocina es otra cosa: un recinto de cocción cuyo lado menor, con la puerta cerrada, es igual o menor de treinta centímetros; ese número, treinta centímetros, es el que lo define. Y los conductos: el conducto de tuberías es un canal, de obra o metálico, que puede alojar varias tuberías de gas; y el conducto técnico es ese hueco vertical junto a los rellanos que contiene, en cada planta, los contadores o reguladores que dan gas a las viviendas. Regla: el armario contiene equipos y no entra nadie; el conducto es un canal por donde pasan tuberías o donde se alojan los contadores planta a planta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.23 a 3.30",
+   "titulo": "Chimenea, conductos y evacuación",
+   "vinetas": [
+    "Conducto de evacuación: continuo y estanco",
+    "Para aparatos tipo B o C",
+    "Collarín: la boca del tipo B",
+    "Concéntricos o independientes"
+   ],
+   "img_brief": "concentric flue pipe on gas boiler",
+   "notas": "N1: ¿Qué diferencia hay entre chimenea y conducto de evacuación?\nN2: La chimenea es la estructura, las paredes que encierran uno o varios conductos de humos. El conducto de evacuación es el tubo de dentro: un conducto continuo y estanco cuya misión es llevar los humos de los aparatos tipo B o tipo C hasta la chimenea o hasta el terminal de salida. Dos palabras clave ahí: continuo, sin cortes, y estanco, que no se escapen los humos por el camino, porque esos humos llevan monóxido. El collarín de evacuación es la boca del aparato tipo B por donde se enchufa a ese conducto. Y en los tipo C los conductos pueden ser concéntricos, un tubo dentro de otro, el de humos rodeado por el de aire; o independientes, dos tubos separados. Detalle de examen: esos conductos y el terminal forman parte del aparato, salvo que se diga lo contrario."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.25 y 3.26",
+   "titulo": "Referencia frente a normales",
+   "vinetas": [
+    "Referencia: 15 °C",
+    "Normales: 0 °C",
+    "Las dos a 1 013,25 mbar",
+    "Referencia quince, normales cero"
+   ],
+   "img_brief": "gas pressure gauge and thermometer",
+   "notas": "N1: ¿Por qué hay dos condiciones distintas para medir el gas?\nN2: Porque el gas cambia de volumen con la temperatura, así que para comparar hace falta una situación patrón, un punto de partida fijo. La norma define dos, y las dos comparten la misma presión, mil trece con veinticinco milibares, y el gas seco. La única diferencia es la temperatura. Condiciones de referencia: quince grados. Condiciones normales: cero grados. Truco para no fallar nunca: referencia, quince; normales, cero. De ahí salen las dos unidades de caudal que ves en las etiquetas, el metro cúbico estándar, medido a quince grados, y el metro cúbico normal, medido a cero grados. Cuando en obra veas metro cúbico ese o metro cúbico ene, ya sabes de dónde vienen."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.22 a 3.36",
+   "titulo": "Caudal de diseño y consumos",
+   "vinetas": [
+    "Caudal de diseño qs: para dimensionar",
+    "Consumo calorífico Q: en kW",
+    "Nominal Qn: lo da el fabricante",
+    "Volumétrico qv y másico qm"
+   ],
+   "img_brief": "gas appliance rating plate with kW value",
+   "notas": "N1: Caudal, consumo, nominal, volumétrico, másico... ¿en qué se diferencian?\nN2: Ordénalos por lo que miden. El caudal de diseño, qs, es el que usas para dimensionar la instalación, calculado a partir de lo que consumen todos los aparatos juntos; se da en metros cúbicos por hora. El consumo calorífico, Q, es la energía que gasta un aparato en un tiempo, y se expresa en kilovatios; el nominal, Qn, es ese valor pero el que declara el fabricante en la placa. Luego, según midas volumen o masa: el consumo volumétrico, qv, es el volumen de gas por hora, en metros cúbicos por hora; el másico, qm, es la masa por hora, en kilogramos por hora, típico del GLP. Regla rápida: Q va en kilovatios porque es energía; qv y qm van en volumen o en peso porque es cantidad de gas. Y qs es lo que sumas para elegir el diámetro de los tubos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.31 y 3.32",
+   "titulo": "Conexión de aparato y regulación",
+   "vinetas": [
+    "Conexión: de la llave del aparato al aparato",
+    "Puede ser flexible o rígida",
+    "Conjunto de regulación: regulador y accesorios",
+    "En armario: armario de regulación"
+   ],
+   "img_brief": "gas regulator with filter and valves",
+   "notas": "N1: ¿La conexión de aparato es solo el tubo final?\nN2: Es el último tramo, sí. La conexión de aparato va desde la llave de conexión del aparato, excluida, hasta el propio aparato, también excluido; o sea, lo que hay entre la llave y el aparato, y puede ser flexible o rígida. En una bombona pequeña acoplada a un aparato móvil, esa conexión la forman el regulador de la bombona y el tubo flexible. El conjunto de regulación con o sin medida es otra cosa: es el regulador de presión más todo lo que lo acompaña, filtro, llaves de corte, tomas de presión, válvulas de seguridad, y si hay que contar el consumo, el contador. Cuando todo eso va metido en un armario, se llama armario de regulación. Idea clara: la conexión es el tramo final hasta el aparato; el conjunto de regulación es el equipo que ajusta la presión y, si toca, mide."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.37 a 3.44",
+   "titulo": "Cortatiro y evacuación asistida",
+   "vinetas": [
+    "Cortatiro: estabiliza el tiro (tipo B)",
+    "Control de evacuación: para si hay revoco",
+    "Ayuda a la evacuación: ventilador que empuja",
+    "Uno vigila y corta; otro empuja"
+   ],
+   "img_brief": "draught diverter on gas water heater",
+   "notas": "N1: El cortatiro y esos dispositivos, ¿no son todos lo mismo?\nN2: No, y conviene no mezclarlos. El cortatiro es esa abertura de los aparatos B de tiro natural que estabiliza el tiro y evita que un golpe de aire apague o descontrole la llama. A su alrededor aparecen dos dispositivos que suenan parecido pero hacen cosas opuestas. El dispositivo de control de la evacuación, típico de los aparatos que se llaman BBS, vigila: si los humos se desbordan por el cortatiro hacia el local, para el quemador. El dispositivo de ayuda a la evacuación es lo contrario de vigilar: es un ventilador que se coloca después del cortatiro y empuja los humos para que salgan. Regla: uno vigila y corta si hay peligro; el otro simplemente empuja los humos hacia fuera."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.38 a 3.47",
+   "titulo": "Detectores y corte de gas",
+   "vinetas": [
+    "Detector de gas: avisa por concentración",
+    "Corte automático: normalmente cerrado",
+    "Rearme siempre manual",
+    "Emplazamiento peligroso: puede haber explosivo"
+   ],
+   "img_brief": "gas leak detector mounted on wall",
+   "notas": "N1: ¿Cómo funciona la seguridad cuando hay una fuga?\nN2: Se encadenan tres cosas. Primero el detector de gas: un aparato que huele el gas en el aire y, al llegar a cierta concentración, avisa y puede ordenar un corte. Ese corte lo hace el corte automático de gas, y aquí va el concepto clave de toda la seguridad del gas: es normalmente cerrado. Quiere decir que, si se va la luz o falla algo, el sistema se queda en la posición segura, que es cerrado, cortando el gas. Y una vez que salta, solo se reabre a mano, con rearme manual, nunca solo; así nadie se lleva una sorpresa. Además, la norma clasifica los espacios: emplazamiento peligroso es donde puede haber una atmósfera de gas explosiva y hacen falta precauciones; no peligroso, donde no se espera. Y atmósfera explosiva es la mezcla de gas y aire en la que, si prende, la llama se propaga a toda la mezcla."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.52 a 3.55",
+   "titulo": "Las tres familias de gas",
+   "vinetas": [
+    "Wobbe: poder calorífico ÷ √densidad",
+    "1ª familia: Ws 22,4 a 24,8",
+    "2ª familia (gas natural): 39,1 a 54,7",
+    "3ª familia (GLP): 72,9 a 87,3"
+   ],
+   "img_brief": "blue and orange gas burner flame comparison",
+   "notas": "N1: ¿Qué es eso del índice de Wobbe y por qué clasifica los gases?\nN2: El índice de Wobbe es como la huella de identidad de un gas. Se calcula dividiendo el poder calorífico del gas por la raíz cuadrada de su densidad relativa, y sirve para saber si dos gases se comportan igual en un mismo quemador. Con él se ordenan las tres familias, y estos rangos caen en el examen. Primera familia, los gases manufacturados y el aire metanado o propanado: Wobbe superior entre veintidós con cuatro y veinticuatro con ocho. Segunda familia, el gas natural: entre treinta y nueve con uno y cincuenta y cuatro con siete. Tercera familia, el GLP, butano y propano: entre setenta y dos con nueve y ochenta y siete con tres, en megajulios por metro cúbico. Truco: cuanto más pesado y energético el gas, mayor Wobbe; el GLP arriba, los manufacturados abajo. Y para qué sirve en obra: cada aparato está tarado a una familia; meterle gas de otra familia da llama amarilla, hollín y monóxido."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Términos 3.56 a 3.60",
+   "titulo": "Común, individual y receptora",
+   "vinetas": [
+    "Común: de la llave de edificio a las de usuario",
+    "Individual: de la llave de usuario al aparato",
+    "Receptora: de la acometida al aparato",
+    "Intemperie: a cielo descubierto"
+   ],
+   "img_brief": "gas riser pipe in apartment stairwell",
+   "notas": "N1: ¿Dónde acaba la parte común y empieza la individual?\nN2: Todo se decide en una cadena de llaves, y con la regla de oro incluida-excluida. La instalación común va desde la llave de edificio, excluida, hasta las llaves de usuario, incluidas. La instalación individual arranca en la llave de usuario, excluida, y termina en las llaves de conexión de los aparatos, incluidas. Fíjate: la llave de usuario es la frontera; cierra la común y abre la individual. Por encima de las dos, la instalación receptora es el conjunto entero: desde la llave de acometida, excluida, hasta las llaves de conexión de aparato, incluidas, quedando fuera la conexión del aparato y el aparato mismo. Regla de oro: lo que pone la comunidad o la compañía va excluido; lo que es tuyo va incluido. Y un término suelto: intemperie es, sencillamente, a cielo descubierto, sin techo ni reparo. Por qué importa esto: ese límite decide qué tramo sometes a estanquidad y quién responde, la comunidad o el usuario."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya hablas el idioma de la norma",
+   "mapa": [
+    "Tipos A, B y C: ventilación y CO",
+    "Accesibilidad 1, 2 y 3 para el mantenimiento",
+    "Familias de gas por índice de Wobbe",
+    "Límites excluida/incluida: qué firmas y quién responde"
+   ],
+   "tagline": "Media exposición del examen, cazada. Nos queda la mitad más técnica.",
+   "notas": "N1: Ha sido mucho vocabulario. ¿Cómo lo ato todo?\nN2: Vamos a reconstruir el hilo, que no es una lista, es una lógica. Primero, los tipos de aparato: A coge aire del local y no evacúa, B coge aire del local y sí evacúa, C es estanco; esto no es trivia, es ventilación y monóxido de carbono, y colocar el tipo equivocado mata. Segundo, la accesibilidad, del uno al tres, de más fácil a más difícil, que decide si luego podrás mantener y cortar rápido. Tercero, las familias de gas se ordenan por el índice de Wobbe, y cada aparato está tarado a la suya; confundirlas da mala combustión. Y cuarto, la joya: el juego excluida-incluida en las llaves marca dónde acaba cada tramo, qué sometes a estanquidad y quién responde.\nN1: ¿Y cómo se pregunta esto?\nN2: En el examen, casi siempre como qué es esto, buscando el matiz fino: un excluida esta, un valor en cifra, los cien metros cuadrados del aparcamiento, los quince grados de referencia frente a los cero de las normales. Y en obra, estos son los términos exactos que escribes en el certificado y que discutes con la distribuidora; un boletín con la definición cambiada te lo devuelven. Ya hablas el idioma de la norma, y eso es la mitad del oficio. En el tercer y último vídeo entramos en la parte más técnica del diccionario: presiones, combustión y seguridad, donde de verdad hay vidas en juego. Te espero allí."
+  }
+ ]
+}

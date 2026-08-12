@@ -1,0 +1,249 @@
+{
+ "pie": "Curso Gas B · Tema 16 · UNE 60670-11/12/13",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 16 · UNE 60670-11/12/13",
+   "videoxy": "Vídeo 2 de 4",
+   "titulo": "Control periódico de instalaciones",
+   "subtitulo": "UNE 60670-12 · Procedimiento e individuales ≤ 70 kW",
+   "notas": "N1: ¿Qué voy a aprender a hacer en este vídeo?\nN2: Vas a aprender a inspeccionar una instalación y a ponerle nota. La Parte doce fija los criterios del control periódico de las instalaciones, es decir, de las tuberías; los aparatos vienen en la Parte trece, en el último vídeo. Lo esencial que te llevas es que hay dos clases de anomalías, las principales y las secundarias, y que cada una tiene sus consecuencias y sus plazos. En este vídeo vemos el procedimiento general y el catálogo completo de anomalías de las instalaciones individuales de potencia útil nominal de setenta kilovatios o menos, que es el caso más frecuente en vivienda.\nN1: ¿Y por qué empezamos por las pequeñas?\nN2: Porque son las que más te vas a encontrar: la caldera de un piso, el calentador, la cocina. Dominar este catálogo es dominar el noventa por ciento de tus revisiones. Cuando lo tengas, en el siguiente vídeo subimos a las instalaciones grandes y a las de edificio. Vamos allá."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["70 kW", "límite de la instalación individual"],
+    ["6 meses", "plazo de las anomalías secundarias"],
+    ["15 días", "fuga secundaria: corregir antes"]
+   ],
+   "notas": "N1: ¿Qué pintan estos tres números en el vídeo?\nN2: Marcan las tres ideas fuerza. Setenta kilovatios es la frontera que separa la instalación individual pequeña, la de este vídeo, de la grande que veremos en el siguiente. Seis meses es el plazo general que tiene el usuario para corregir una anomalía secundaria, esas que no obligan a cortar el gas. Y quince días es la excepción: cuando esa secundaria es una fuga, el plazo se acorta a menos de quince días naturales. Con estos tres números ya intuyes la lógica del control periódico: clasificar el defecto y ponerle un plazo o cortar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · Apartado 1",
+   "titulo": "Qué regula la Parte 12",
+   "vinetas": [
+    "Control periódico de instalaciones en servicio",
+    "Criterios técnicos básicos",
+    "MOP igual o menor de 5 bar"
+   ],
+   "img_brief": "gas installation periodic inspection technician",
+   "notas": "N1: ¿La Parte doce revisa lo mismo que la once?\nN2: No exactamente. La Parte once te decía cómo operar sobre una instalación en servicio: cómo tocarla sin liarla. La Parte doce da un paso más: establece los criterios técnicos básicos del control periódico de esas instalaciones. Es decir, cómo se hace la revisión que toca cada cierto tiempo para comprobar que la instalación sigue siendo segura. Y sigue jugando en el mismo terreno: instalaciones receptoras suministradas a cinco bar o menos.\nN1: ¿Control periódico es como la ITV del coche?\nN2: Es una comparación buenísima. Igual que el coche pasa la ITV cada cierto tiempo para seguir circulando, la instalación de gas pasa su control periódico. Y tú eres el que la inspecciona y decide si va bien, si tiene defectos con plazo, o si hay que dejarla fuera de servicio. La Parte doce es el manual de esa inspección para las tuberías."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · Apartado 2.1",
+   "titulo": "Dos papeles posibles al acabar",
+   "vinetas": [
+    "Todo bien: certificado (favorable)",
+    "Algo falla: informe de anomalías",
+    "Informe: alcance, situación y plazo",
+    "Siempre: recomendaciones de seguridad"
+   ],
+   "img_brief": "inspection certificate document signature pen",
+   "notas": "N1: Cuando termino una revisión, ¿qué entrego?\nN2: Sales de la visita con uno de dos documentos, no hay término medio. Si todo está bien, emites el certificado correspondiente, que es el resultado favorable. Si detectas alguna anomalía, emites el informe de anomalías, en el que tienes que indicar tres cosas: el alcance de las anomalías, la situación en que queda la instalación y el plazo de corrección. Y ojo, en los dos documentos, tanto en el certificado como en el informe, incluyes las recomendaciones de seguridad que consideres oportunas.\nN1: ¿No existe un resultado a medias?\nN2: No: o certificado, o informe. No hay «medio favorable». Piénsalo como un aprobado o un suspenso con deberes: si apruebas limpio, certificado; si hay algo que arreglar, informe donde queda escrito qué falla, cómo queda la cosa y cuándo hay que corregirlo. Ese papel es la prueba de que hiciste la revisión y de lo que encontraste."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · Apartado 2.1",
+   "titulo": "Solo lo visible y accesible",
+   "vinetas": [
+    "No se abren tabiques ni falsos techos",
+    "Se comprueba lo que se ve y se alcanza",
+    "Lo empotrado, por lo que asoma"
+   ],
+   "img_brief": "exposed gas pipe visible on wall kitchen",
+   "notas": "N1: ¿Tengo que picar la pared para revisar la tubería empotrada?\nN2: No, para nada. El control periódico no es una obra: no se abren tabiques ni se rompen falsos techos. Se comprueba lo que se ve y se alcanza, o sea, las partes visibles y accesibles. Lo que discurre empotrado se valora por lo que asoma en los puntos visibles. Esto es puro sentido común: no puedes revisar lo que no ves sin destrozar la casa, así que la norma te pide que juzgues por lo que está a la vista.\nN1: ¿Por eso algunas anomalías dicen «apreciable a través de las partes visibles»?\nN2: Exacto, ese es el motivo. Verás varias anomalías redactadas así, «apreciable a través de las partes visibles». Te están recordando que solo valoras lo que se aprecia sin desmontar nada. Si un tubo empotrado tiene un problema que no se nota por fuera, no es objeto de esta inspección. Tú revisas lo accesible, con criterio, y lo dejas por escrito."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · Apartado 2.2",
+   "titulo": "Principal o secundaria",
+   "vinetas": [
+    "Principal: subsanar en el acto",
+    "Si no puedes: cortar el suministro",
+    "Secundaria: el gas sigue, con plazo",
+    "Es la clasificación que te protege"
+   ],
+   "img_brief": "gas valve being closed by technician hand",
+   "notas": "N1: ¿Qué diferencia hay entre una anomalía principal y una secundaria?\nN2: La diferencia práctica es brutal, y decide si cortas el gas o no. Una anomalía principal es tan grave que hay que subsanarla en el mismo momento de detectarla. Si no puedes arreglarla ahí mismo, cortas el suministro, a toda la instalación o solo al aparato afectado, según proceda. Es un peligro que no puede seguir ni un minuto más con gas. Una anomalía secundaria, en cambio, no obliga a cortar: el gas sigue funcionando, pero el usuario tiene que corregirla en un plazo.\nN1: ¿Y por qué es tan importante clasificar bien?\nN2: Porque esta clasificación es la que te protege a ti. Si etiquetas como secundaria algo que era principal y dejas con gas una instalación peligrosa, del accidente respondes tú, que firmaste. Por eso hay que tener el criterio muy afinado: ante la duda de la gravedad, tira por lo seguro. Ahora vemos los plazos exactos de las secundarias."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · Apartado 2.2",
+   "titulo": "Los plazos de las secundarias",
+   "vinetas": [
+    "Secundaria general: máximo 6 meses",
+    "Fuga secundaria: menos de 15 días naturales",
+    "Principal: ya, o se corta"
+   ],
+   "img_brief": "calendar deadline reminder gas repair",
+   "notas": "N1: ¿Cuánto tiempo tiene el usuario para arreglar una anomalía secundaria?\nN2: Como norma general, un máximo de seis meses. La anomalía no es urgente, el gas puede seguir, pero no se puede eternizar: seis meses y corregida. Ahora bien, hay una excepción muy importante. Si la anomalía secundaria es una falta de estanquidad, es decir, una fuga considerada secundaria, ese plazo se acorta muchísimo: hay que corregirla en el menor tiempo posible y siempre en un plazo inferior a quince días naturales.\nN1: ¿Por qué la fuga baja tanto el plazo?\nN2: Porque una fuga, aunque sea pequeña, es gas escapando, y eso no admite medio año de espera. Quédate con la chuleta completa: principal, ya o corto; secundaria, seis meses; y si la secundaria es una fuga, menos de quince días naturales. Fíjate que hablamos de días naturales, que cuentan fines de semana y festivos, no días laborables. Estos tres plazos caen fijo en el examen."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · Apartado 3",
+   "titulo": "Individuales ≤ 70 kW",
+   "vinetas": [
+    "El caso doméstico habitual",
+    "Códigos IPa: anomalías principales",
+    "Códigos ISa: anomalías secundarias"
+   ],
+   "img_brief": "domestic gas boiler wall mounted apartment",
+   "notas": "N1: ¿Qué es una instalación individual de setenta kilovatios o menos?\nN2: Es el caso doméstico de toda la vida: la instalación de una vivienda o un pequeño comercio, con su caldera, su calentador y su cocina, cuya potencia útil nominal no pasa de setenta kilovatios. Es lo que más te vas a encontrar, con diferencia. Por eso la norma le dedica un catálogo completo de anomalías, que es el que vamos a recorrer.\nN1: ¿Y esos códigos con letras qué son?\nN2: Son la forma de nombrar cada anomalía para entenderse en los informes. En las individuales pequeñas, las principales llevan el código IPa y las secundarias el código ISa. La i de individual, la p de principal o la s de secundaria, y la a que las distingue de las grandes, que llevarán b en el siguiente vídeo. No te agobies con memorizar códigos: lo importante es saber qué defecto es principal, o sea que corta, y cuál es secundario, o sea con plazo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · IPa-1",
+   "titulo": "Fuga de gas: siempre no apta",
+   "vinetas": [
+    "Comprobar estanquidad (métodos 6.1)",
+    "Si hay fuga: siempre no apta",
+    "Anomalía principal IPa-1",
+    "Tramo aéreo exterior: criterios > 70 kW"
+   ],
+   "img_brief": "soapy water leak test on gas fitting bubbles",
+   "notas": "N1: En una instalación pequeña, ¿toda fuga es grave?\nN2: Sí, y esto es lo bueno de las individuales de hasta setenta kilovatios: no hay que andar midiendo litros por hora. Haces la comprobación de estanquidad de la instalación individual y de las conexiones de los aparatos, con los métodos del apartado seis punto uno de la Parte once, los que ya conoces: detector, agua jabonosa, manómetro. Y si detectas fuga, la instalación se considera siempre no apta para su uso, sin más. Eso es una anomalía principal, la IPa uno.\nN1: ¿No hay ninguna excepción?\nN2: Solo una: si la fuga está en un tramo aéreo exterior, es decir, un tubo al aire libre por fuera del edificio, entonces se aplican los criterios de las instalaciones de más de setenta kilovatios, que veremos en el siguiente vídeo con la escalera de litros por hora. Pero para lo normal, lo de dentro de la vivienda, quédate con la regla simple y potente: en una individual pequeña, fuga es igual a no apta y principal. Se corta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · IPa-2",
+   "titulo": "Nada de tipo A o B en dormitorio ni baño",
+   "vinetas": [
+    "Prohibido en dormitorio",
+    "Prohibido en baño, ducha o aseo",
+    "Los tipo C (estancos) sí pueden",
+    "Anomalía principal: se corta"
+   ],
+   "img_brief": "gas water heater in bathroom hazard",
+   "notas": "N1: ¿Por qué no puede haber un calentador en el baño o en el dormitorio?\nN2: Esta es de las anomalías más preguntadas y de las que más matan, así que atención. Un aparato de tipo A o de tipo B, que son los que cogen el aire del propio local o evacuan los humos a él, no puede estar en un dormitorio ni en un baño, ducha o aseo. ¿La razón? Son estancias donde duermes o te encierras con la puerta cerrada. Si el aparato falla y suelta monóxido de carbono, ahí te intoxica sin que te des cuenta, porque estás dormido o aislado. Es intoxicación por CO esperando a pasar.\nN1: ¿Y los aparatos estancos, los tipo C?\nN2: Esos sí pueden, y esa es la clave. Un tipo C es estanco: coge el aire de fuera y echa los humos fuera, no intercambia aire con el cuarto. Como no respira el aire de la habitación ni le suelta humos, no hay riesgo de intoxicación por ese lado. Por eso la caldera estanca moderna sí puede ir en un baño y el viejo calentador de tiro natural no. Esta anomalía es principal: si te la encuentras, se corta. Y para no perderte, en el siguiente slide repasamos rápido los tipos de aparato."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Repaso clave",
+   "titulo": "Tipos de aparato A, B y C",
+   "vinetas": [
+    "Tipo A: suelta los humos al local",
+    "Tipo B: aire del local, humos fuera",
+    "Tipo C: estanco, aire y humos de fuera"
+   ],
+   "img_brief": "modern sealed gas boiler flue outside wall",
+   "notas": "N1: ¿Me repasas los tipos de aparato sin líos?\nN2: Claro, porque esta clasificación explica casi todas las anomalías de ventilación y evacuación, así que conviene tenerla clavada. Tipo A: no tiene conducto de evacuación, suelta los humos directamente al local. El ejemplo típico es una cocina de gas. Tipo B: coge el aire del propio local para quemar y evacúa los humos al exterior por un conducto. Piensa en un calentador o una caldera de tiro natural. Y tipo C: es estanco, coge el aire de fuera y echa los humos fuera; no intercambia aire con el local. Es la caldera estanca moderna.\nN1: ¿Y cuál es el más seguro respecto al local?\nN2: El tipo C, sin duda, porque no toca el aire de la habitación: ni se lo roba para quemar ni le mete humos. Por eso es el único que puede ir en sitios delicados como un baño. El tipo A y el tipo B sí «respiran» con el local, y ahí es donde aparecen los problemas de ventilación, de monóxido y de dónde se pueden colocar. Con esta chuleta de tres líneas entiendes el porqué de media Parte doce."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · IPa-3 y IPa-4",
+   "titulo": "Tubo flexible dañado o quemado",
+   "vinetas": [
+    "Grietas, fisuras o daños: principal IPa-3",
+    "Elastómero o espirometálico",
+    "Pegado a partes calientes del horno: IPa-4",
+    "Salvo aislante que impida el contacto"
+   ],
+   "img_brief": "damaged cracked rubber gas hose connection",
+   "notas": "N1: ¿Cuándo un tubo flexible es anomalía principal?\nN2: Cuando está visiblemente dañado. Si un tubo flexible, ya sea de elastómero, o sea de goma, con o sin armadura, o uno espirometálico, presenta grietas, fisuras o daños, es anomalía principal IPa tres. ¿Por qué principal? Porque un tubo agrietado puede reventar y soltar gas en cualquier momento; es un peligro inmediato, no algo que pueda esperar.\nN1: ¿Y si el tubo toca la parte caliente del horno?\nN2: Ese es el caso de la IPa cuatro: un tubo flexible de elastómero en contacto con las paredes calientes de un horno u otro aparato de cocción. El calor reseca y degrada la goma hasta que revienta, así que también es principal. La única salvedad es que la conexión tenga aislantes adecuados que impidan que el flexible toque la parte caliente; si están bien puestos, no es anomalía. Truco de campo: tubo roto o achicharrado por el horno, corto; es principal. Pero ojo, que el tubo flexible da también anomalías secundarias, y las vemos luego."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · IPa-5",
+   "titulo": "Conductos de evacuación y deflector",
+   "vinetas": [
+    "Falta de conducto o de deflector",
+    "Diámetro escaso o estrangulación",
+    "Materiales que no aguantan la temperatura",
+    "Devuelven los humos al local: principal"
+   ],
+   "img_brief": "damaged flue chimney cap on roof",
+   "notas": "N1: ¿Qué problemas de la salida de humos son principales?\nN2: La IPa cinco recoge las deficiencias apreciables en los conductos de evacuación de los aparatos de tipo B y tipo C. Son varias: que falte el conducto de evacuación; que falte o esté deteriorado el deflector; que el conducto desemboque en un local que no sea zona exterior; un diámetro menor del adecuado; una estrangulación; materiales que no resistan la temperatura de los humos; una evidente falta de estanquidad; y, solo en aparatos de tiro natural, bordear obstáculos bajando de cota en el trazado. Todas tienen un problema común: devuelven los humos al local, y con ellos el monóxido.\nN1: ¿Qué es el deflector y por qué importa tanto?\nN2: El deflector es la pieza del extremo del conducto, el sombrerete, que evita que el viento meta aire dentro del tubo y provoque revocos, es decir, que los humos se devuelvan. Si falta o está roto de forma que no cumple su función, el aparato puede echar los humos hacia dentro cuando sopla el viento. Por eso un deflector roto es la causa típica del revoco y por eso todo esto es anomalía principal: se corta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · IPa-6, IPa-7, IPa-8",
+   "titulo": "Chimenea, volumen y llaves sueltas",
+   "vinetas": [
+    "Extractor o campana en chimenea de tipo B",
+    "Tipo B en local V ≤ 8 m³ mal ventilado",
+    "Llaves sin conectar y sin cerrar/precintar"
+   ],
+   "img_brief": "small kitchen gas water heater ventilation grille",
+   "notas": "N1: ¿Qué más cuenta como principal en una vivienda?\nN2: Tres casos más. La IPa seis: que un extractor mecánico, una campana de cocina o un aparato con ayuda a la evacuación estén conectados a la misma chimenea por donde salen los humos de un aparato de tipo B de tiro natural; el extractor le roba el tiro y puede devolver los humos. La IPa siete: un aparato de tipo B en un local de volumen igual o menor de ocho metros cúbicos que no tenga ventilación suficiente. Y la IPa ocho: llaves de aparato sin conectar que no estén cerradas, bloqueadas, precintadas y taponadas; si la llave no es bloqueable, al menos cerrada, precintada y taponada.\nN1: ¿Por qué esos ocho metros cúbicos son la frontera?\nN2: Fíjate en el detalle finísimo, que cae en el examen. Un tipo B mal ventilado es anomalía principal, que corta, si el local es pequeño, de ocho metros cúbicos o menos; y solo secundaria si el local es grande, de más de ocho. La lógica es clarísima: en un cuartito pequeño y mal ventilado, el monóxido se acumula deprisa y mata; en uno grande hay más margen de aire. Mismo defecto, distinta gravedad según el volumen. Ese ocho es un número de oro."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · ISa-1 y ISa-2",
+   "titulo": "Secundarias: ventilación y conservación",
+   "vinetas": [
+    "Tipo B mal ventilado en V > 8 m³: ISa-1",
+    "Corrosión, soportes o uniones en mal estado",
+    "Llaves que faltan o no son accesibles",
+    "Regulador o válvula de mínima defectuosos"
+   ],
+   "img_brief": "corroded rusty gas pipe fitting valve",
+   "notas": "N1: ¿Qué defectos son secundarios pero hay que arreglar?\nN2: Empezamos con la ISa uno, que es la pareja de la anterior: un aparato de tipo B mal ventilado, pero ahora en un local grande, de más de ocho metros cúbicos. Como hay más margen de aire, no obliga a cortar, es secundaria, seis meses. Y la ISa dos recoge lo «feo pero no urgente» del estado de conservación: materiales de tuberías, soportes, protecciones o uniones en mal estado, por ejemplo con corrosión manifiesta; llaves de corte en malas condiciones, que falten o no sean accesibles, sea la de usuario, la de vivienda o la de aparato; y el regulador de usuario o la válvula de seguridad por mínima presión en mal estado.\nN1: Entonces, ¿el óxido no corta el gas?\nN2: No por sí solo. La corrosión, una llave que no cierra o un regulador viejo son cosas que hay que arreglar, pero no son un peligro inmediato: van a seis meses. Ahora, mucho ojo con un matiz: si una llave que falta acabara provocando una fuga, ya no es este cajón de conservación, sino el de fuga, que en individual pequeña es principal. La fuga siempre manda. Guarda la idea: ISa dos es lo feo pero con plazo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · ISa-3",
+   "titulo": "Tubo flexible: viejo o mal puesto",
+   "vinetas": [
+    "Caducado, sin identificación o muy largo",
+    "Sin enchufe de seguridad en 2.ª familia",
+    "Unión floja: riesgo de desconexión",
+    "Roto es principal; viejo, secundario"
+   ],
+   "img_brief": "gas hose safety connector expiry date label",
+   "notas": "N1: ¿No habíamos visto ya el tubo flexible?\nN2: Sí, pero el tubo flexible es un clásico que reúne principales y secundarias, y conviene separarlas. Roto, con grietas o fisuras, es principal IPa tres, peligro inmediato. En cambio, son secundarias ISa tres: un tubo caducado; sin identificación o sin fecha de caducidad; más largo de lo permitido por la Norma; con la unión defectuosa o floja, con riesgo de que se desconecte fácil; sin enchufe de seguridad en gases de la segunda familia; o en contacto con partes calientes pero con horno que tenga aislamiento térmico adecuado. Todo eso va a seis meses.\nN1: ¿Qué es el enchufe de seguridad?\nN2: Es esa conexión rápida que corta el gas automáticamente si el tubo se suelta del aparato. Es obligatorio con el gas natural, que es la segunda familia. Si un tubo de gas natural no lo lleva, es anomalía secundaria. Truco que no falla: tubo roto, corto, principal; tubo viejo o mal puesto, plazo, secundaria. Y verifica siempre a mano que la unión está firme y no se suelta de un tirón."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · ISa-5",
+   "titulo": "Ventilación inadecuada: los números",
+   "vinetas": [
+    "Falta o está obstruido el orificio",
+    "Extractor: ≥ 80 cm² hasta 16 kW (tipo A)",
+    "≥ 100 cm² por encima de 16 kW",
+    "Altura: ≥ 1,80 m o < 0,40 m del techo"
+   ],
+   "img_brief": "kitchen ventilation grille air vent wall",
+   "notas": "N1: ¿Cuándo la ventilación de un local es anomalía?\nN2: La ISa cinco dice que es anomalía secundaria que falte el orificio de ventilación, salvo para aparatos de tipo C que no lo necesitan, o que el orificio sea insuficiente, esté obstruido o a una altura distinta de la que marca la norma. Pero hay unos números muy preguntables cuando en vez de orificio hay un extractor mecánico que comunica con el exterior. Su sección libre de paso, con el extractor parado, debe ser de al menos ochenta centímetros cuadrados cuando la suma de los aparatos de tipo A del local sea de dieciséis kilovatios o menos; y de al menos cien centímetros cuadrados cuando esa suma supere los dieciséis kilovatios.\nN1: ¿Y la altura del extractor importa?\nN2: Mucho, y también cae. El extremo inferior del extractor debe estar a una altura de un metro con ochenta o más respecto al suelo, o bien a menos de cuarenta centímetros del techo. La excepción: si está dentro de una campana extractora, no hay límite de altura. Memoriza el bloque: ochenta centímetros cuadrados hasta dieciséis kilovatios, cien por encima; y altura, uno con ochenta del suelo o menos de cuarenta del techo. Son cifras de examen puro."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · ISa-6, ISa-7, ISa-8",
+   "titulo": "Volumen, detección y otros servicios",
+   "vinetas": [
+    "Cocción > 16 kW: volumen insuficiente",
+    "Falta el sistema de detección y corte",
+    "Otras conducciones en contacto con el gas"
+   ],
+   "img_brief": "gas detection safety device kitchen wall",
+   "notas": "N1: ¿Qué otras secundarias me quedan por ver en la vivienda?\nN2: Tres que redondean el catálogo. La ISa seis: local con volumen insuficiente cuando el consumo total de los aparatos de cocción instalados supere los dieciséis kilovatios; si metes mucha potencia de cocción en un espacio pequeño, falta aire, y eso se valora según la Parte seis de la norma. La ISa siete: que falte el sistema de detección y corte de gas donde la norma lo exige; ese sistema es el que detecta una fuga y cierra solo. Y la ISa ocho: conducciones de otros servicios, como agua o electricidad, en contacto directo con las conducciones de gas.\nN1: ¿Por qué molesta que un tubo de agua toque al del gas?\nN2: Porque el contacto entre servicios distintos favorece problemas: corrosión donde se tocan un metal y otro, condensaciones, o que una corriente eléctrica de otra instalación llegue a la tubería de gas. Por eso las conducciones de gas deben ir separadas de las demás. Las tres son secundarias, seis meses, pero son defectos reales que un buen gasista anota sin pereza."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Parte 12 · El papeleo",
+   "titulo": "Quién firma y a quién avisas",
+   "vinetas": [
+    "Lo hace la empresa habilitada",
+    "Certificado o informe al titular",
+    "Principales o no apta: avisar a distribuidora"
+   ],
+   "img_brief": "gas installer signing inspection report",
+   "notas": "N1: ¿Quién puede hacer y firmar este control periódico?\nN2: Lo realiza y lo firma la empresa habilitada, es decir, la empresa instaladora de gas que lo tiene encomendado. No es algo que haga cualquiera: hace falta la habilitación. El documento que salga, el certificado si todo va bien o el informe de anomalías si hay defectos, se entrega al titular o usuario de la instalación, que es quien tiene que corregir y guardar el papel.\nN1: ¿Y cuándo entra la distribuidora?\nN2: Cuando hay anomalías principales o la instalación queda no apta para uso, se informa a la empresa distribuidora, igual que veíamos en la Parte once. Recuerda el reparto: tú inspeccionas y firmas; el usuario recibe y corrige; la distribuidora se entera de lo grave y maneja la acometida y el cese. Y sin ese papel, la revisión no existe: es la prueba de que se hizo y de lo que se encontró. El papeleo, siempre claro."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes inspeccionar y poner nota",
+   "mapa": [
+    "Dos papeles: certificado o informe",
+    "Principal corta; secundaria tiene plazo",
+    "Ni tipo A ni B en dormitorio o baño",
+    "El volumen de 8 m³ cambia la gravedad"
+   ],
+   "tagline": "Ya lees una vivienda como un gasista de verdad. Ahora subimos a lo grande y al edificio.",
+   "notas": "N1: Hagamos el resumen grande. ¿Qué me llevo de la Parte doce en vivienda?\nN2: Reconstruyamos el hilo. La Parte doce te enseña a inspeccionar la instalación, las tuberías, y ponerle nota. Primero, sales con uno de dos papeles: certificado si todo va bien, o informe de anomalías con su alcance, la situación en que queda la instalación y el plazo, siempre con recomendaciones de seguridad; y solo valoras lo visible y accesible. Segundo, la clasificación que te protege: principal se subsana en el acto o se corta el gas; secundaria sigue con gas pero se corrige en seis meses, salvo que sea una fuga, que baja a menos de quince días naturales. Tercero, la estrella de las principales: ni tipo A ni tipo B en dormitorio ni en baño, porque respiran el aire del cuarto y el monóxido mata; los tipo C, estancos, sí pueden. Y cuarto, un mismo defecto cambia de gravedad según el volumen: un tipo B mal ventilado es principal si el local tiene ocho metros cúbicos o menos, y secundario si tiene más.\nN1: ¿Y cómo lo van a preguntar?\nN2: Te van a cruzar principal contra secundaria, los plazos, y el catálogo de la IPa a la ISa. Caerán los números: los ocho metros cúbicos, los ochenta y cien centímetros cuadrados de ventilación, la altura de uno con ochenta. Y el tubo flexible, roto principal, viejo secundario. En la obra, esto es la diferencia entre un calentador que ennegrece la pared y suelta monóxido y una vivienda segura. Hoy ya lees una instalación como un profesional. En el siguiente vídeo subimos de nivel: instalaciones de más de setenta kilovatios con estación de regulación y medida, y las comunes del edificio, donde aparece lo más numérico del tema, la escalera de litros por hora. Te espero allí."
+  }
+ ]
+}

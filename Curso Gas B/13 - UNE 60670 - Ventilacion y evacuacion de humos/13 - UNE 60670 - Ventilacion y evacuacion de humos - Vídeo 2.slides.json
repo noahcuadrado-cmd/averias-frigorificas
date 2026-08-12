@@ -1,0 +1,249 @@
+{
+ "pie": "Curso Gas B · Tema 13 · UNE 60670-6",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 13 · UNE 60670-6",
+   "videoxy": "Vídeo 2 de 3",
+   "titulo": "Locales, volúmenes y ventilación",
+   "subtitulo": "Los números de los aparatos de tipo A y B",
+   "notas": "N1: Profe, este vídeo dicen que es el de los números. ¿Merece la pena empollarlo?\nN2: Es el que más se pregunta, así que sí. Una vez sabes qué tipo de aparato tienes, del vídeo uno, toca comprobar que el local aguanta: qué volumen mínimo necesita, qué es la ventilación rápida, cuándo un patio sirve de patio de ventilación y cuánta superficie de rejilla hace falta y dónde ponerla. Va cargado de cifras, tablas y fórmulas. No te asustes: te las voy a explicar de forma que las entiendas, no que las memorices a ciegas. Cuando entiendes el porqué de cada número, ya no se te olvida."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "5 cm²",
+     "de rejilla por cada kW"
+    ],
+    [
+     "125 cm²",
+     "mínimo de superficie libre"
+    ],
+    [
+     "30 kW",
+     "obligan a extracción mecánica"
+    ]
+   ],
+   "notas": "N1: ¿Cuáles son los tres números estrella del vídeo?\nN2: Los que más caen en el examen y los que más se chapucean en obra. Uno: la regla de oro de la ventilación es cinco centímetros cuadrados de hueco libre por cada kilovatio de potencia. Dos: aunque el aparato sea pequeño, nunca bajas de ciento veinticinco centímetros cuadrados de superficie libre. Y tres: por encima de treinta kilovatios de aparatos de tipo A que no sean de calefacción, el local necesita extracción mecánica con corte de gas si el extractor falla. Con esos tres números ya tienes medio vídeo ganado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Locales · generalidades",
+   "titulo": "Dos locales que cuentan como uno",
+   "vinetas": [
+    "Aberturas permanentes ≥ 1,5 m²",
+    "En la misma planta",
+    "El salón-cocina abierto es un local"
+   ],
+   "img_brief": "open plan kitchen living room",
+   "notas": "N1: ¿Cuándo se considera que dos habitaciones son una sola?\nN2: Cuando están comunicadas de forma permanente por un hueco grande. En concreto, si en la misma planta hay una o varias aberturas permanentes cuya superficie libre total llega a un metro y medio cuadrado o más, la norma trata los dos locales como uno solo. ¿Para qué sirve esto? Para sumar volúmenes y calcular la ventilación de todo el conjunto de golpe. Piensa en el típico salón-cocina abierto de las casas nuevas: a efectos de gas es un único local. Dos condiciones que no se te escapen: el hueco tiene que ser permanente, no una puerta que se cierra, y tiene que ser en la misma planta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Locales · generalidades",
+   "titulo": "Qué es una zona exterior",
+   "vinetas": [
+    "Abertura permanente al exterior o patio",
+    "Superficie libre ≥ 1,5 m²",
+    "Borde superior ≤ 0,50 m del techo"
+   ],
+   "img_brief": "apartment balcony open air",
+   "notas": "N1: ¿Y eso de «zona exterior»? ¿Un balcón cuenta?\nN2: Puede contar, si ventila lo suficiente. La norma considera zona exterior un local, galería, terraza o balcón que tenga una abertura permanentemente abierta que dé directamente al exterior o a un patio de ventilación, con dos condiciones: que su superficie libre sea de metro y medio cuadrado o más, y que el borde superior de esa abertura esté a medio metro o menos del techo. ¿Por qué el borde tiene que estar arriba? Porque el aire caliente y los humos escapan por arriba: si el hueco está pegado al techo, sale todo solo. Ser zona exterior relaja muchos requisitos; por ejemplo, ahí sí puede ir un tipo B solo de agua caliente. Es casi como estar en la calle."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Volumen mínimo",
+   "titulo": "Quién necesita volumen mínimo",
+   "vinetas": [
+    "Solo el tipo A lo exige",
+    "Tipo B y C: no precisan volumen",
+    "Armario-cocina: lo cumple el contiguo"
+   ],
+   "img_brief": "small kitchen with gas cooker",
+   "notas": "N1: ¿Todos los locales tienen que tener un volumen mínimo?\nN2: No, y aquí está la clave: solo lo exige el tipo A. ¿Por qué solo él? Porque el tipo A suelta los humos dentro del local, y necesita un colchón de aire grande para diluirlos. El tipo B y el tipo C echan los humos fuera, así que no dependen del tamaño de la habitación y no piden volumen mínimo. Regla directa: si en el local hay algún tipo A, mides el volumen; si solo hay B o C, te olvidas del volumen. Caso especial: el armario-cocina, ese mueble cerrado donde va la cocina, no necesita volumen mínimo, pero el local contiguo con el que comunica sí tiene que cumplirlo. El armario no vive solo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Volumen · tipo A no calefacción",
+   "titulo": "Volumen para cocción (tabla 1)",
+   "vinetas": [
+    "∑Qₙ ≤ 16 kW → 8 m³",
+    "∑Qₙ > 16 kW → Q̄ₙ − 8",
+    "Volumen bruto: sin restar muebles"
+   ],
+   "img_brief": "gas cooktop with pots",
+   "notas": "N1: ¿Cómo calculo el volumen de una cocina de gas?\nN2: Con la tabla uno, que es sencilla. Primero sumas el consumo de todos los aparatos de tipo A que no sean de calefacción del local; eso es tu total en kilovatios. Si ese total es de dieciséis kilovatios o menos, basta con ocho metros cúbicos. Si pasa de dieciséis, el volumen mínimo es ese número de kilovatios menos ocho, tomado como metros cúbicos. Ejemplo: veinte kilovatios darían veinte menos ocho, doce metros cúbicos. Y ojo a la palabra «bruto»: se mide el volumen entre las paredes del local, sin descontar los muebles ni la nevera. Se cuenta el hueco entero, porque el aire está ahí aunque haya un armario delante."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Volumen · extracción",
+   "titulo": "Por encima de 30 kW: extracción",
+   "vinetas": [
+    "Extracción mecánica continua",
+    "Corte de gas si falla el extractor",
+    "q = 10·A + 2·Qₙ (m³/h)"
+   ],
+   "img_brief": "commercial kitchen ventilation duct",
+   "notas": "N1: ¿Y en una cocina industrial con mucha potencia?\nN2: Cuando el total de tipo A no calefacción pasa de treinta kilovatios, ya no basta con el volumen: el local necesita extracción mecánica, un ventilador que renueve el aire de forma continua mientras funcionan los aparatos, y un corte de gas que salte si ese extractor falla. Ese corte es una electroválvula normalmente cerrada, mandada por un presostato diferencial o un interruptor de flujo puesto en el conducto de extracción; si el aire deja de moverse, corta el gas. El rearme es manual y a mano, sin herramientas, lo que se llama accesibilidad de grado uno. El caudal mínimo sale de la fórmula: diez por la superficie en planta más dos por el consumo. Y te libras de todo esto si el volumen dividido por el consumo pasa de diez: mucho aire por kilovatio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Volumen · tipo A calefacción",
+   "titulo": "Calefacción de tipo A: ×11",
+   "vinetas": [
+    "V = 11 · Qₙ, mínimo 15 m³",
+    "No lo apliques a una cocina",
+    "Los dos usos a la vez: se suman"
+   ],
+   "img_brief": "gas heater in workshop",
+   "notas": "N1: ¿La calefacción de tipo A usa la misma fórmula que la cocina?\nN2: No, y aquí está el error de cálculo más típico, presta atención. Para calefacción de tipo A el volumen mínimo es once por el consumo en kilovatios, con un mínimo de quince metros cúbicos. Ese multiplicar por once es solo para calefacción; no lo apliques nunca a una cocina, que va por la tabla uno de antes. ¿Y si en el mismo local tienes cocina de tipo A y calefacción de tipo A a la vez? Entonces calculas cada uno con su fórmula y sumas los dos resultados. No mezcles las dos cuentas en una; sepáralas y súmalas. Cocción por su tabla, calefacción por el once, y al final se juntan."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Volumen · obra vieja",
+   "titulo": "Edificios ya construidos",
+   "vinetas": [
+    "75-100% del volumen: +50% de rejilla",
+    "50-75%: además detector de CO",
+    "Nunca por debajo de 6 m³"
+   ],
+   "img_brief": "old apartment kitchen renovation",
+   "notas": "N1: ¿Y si en una casa vieja el local no da el volumen que pide la tabla?\nN2: La norma te da una salida, pero con condiciones. Si el local tiene entre el setenta y cinco y el cien por cien del volumen que tocaría, puedes instalar si aumentas un cincuenta por ciento la superficie de ventilación; es decir, compensas el volumen que falta con más rejilla. Si tiene entre el cincuenta y el setenta y cinco por ciento, además de esa rejilla extra necesitas un detector de monóxido que corte el gas automáticamente cuando el CO suba. Y hay un suelo que no se salta nunca: por debajo de seis metros cúbicos de volumen bruto, no se instala, pase lo que pase. Idea: menos volumen se compensa con más ventilación y, si aprietas mucho, con detector de CO; pero seis metros cúbicos es la línea roja."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ventilación rápida",
+   "titulo": "Qué es la ventilación rápida",
+   "vinetas": [
+    "Abertura practicable ≥ 0,4 m²",
+    "Ventana o puerta al exterior o patio",
+    "Indirecta: puerta ≥ 1,2 m² y ≤ 30 kW"
+   ],
+   "img_brief": "kitchen window open",
+   "notas": "N1: «Ventilación rápida»... ¿es lo mismo que la rejilla?\nN2: No, y no las confundas nunca. La ventilación rápida es una abertura grande y practicable, o sea, que se abre: una ventana o una puerta de cuatro décimas de metro cuadrado o más que dé directamente al exterior o a un patio de ventilación. Sirve para desalojar de golpe una fuga o los humos de unos fuegos abiertos sin seguridad de llama. La rejilla del capítulo seis, en cambio, es un hueco fijo de renovación de aire; un local puede necesitar las dos cosas. Existe también la ventilación rápida indirecta: se hace a través de otro local que ya tiene ventilación rápida, con una puerta de metro y dos décimas cuadrados o más, siempre que los aparatos sin seguridad no pasen de treinta kilovatios. Truco: directa cuatro décimas; puerta interior uno coma dos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ventilación rápida",
+   "titulo": "Si no cabe ventilación rápida",
+   "vinetas": [
+    "Instalar detector de gas",
+    "Con corte automático de suministro",
+    "Electroválvula de rearme manual"
+   ],
+   "img_brief": "gas detector sensor wall",
+   "notas": "N1: ¿Y si por cómo está construido el local no puedo poner ventilación rápida?\nN2: Entonces la norma no te deja tirar del enchufe: te obliga a compensar con tecnología. Si un local que debería tener ventilación rápida, por alojar aparatos de tipo A sin seguridad de llama, no puede tenerla, hay que instalar dentro detectores de gas. En viviendas, detectores domésticos homologados; en locales colectivos, comerciales o industriales, detectores que además emitan alarma e inicien el corte. Esos detectores accionan un corte automático de gas mediante una electroválvula normalmente cerrada de rearme manual. La idea es clara: si no puedes desalojar rápido una fuga abriendo una ventana, al menos que un aparato la detecte y cierre el gas antes de que se acumule."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Patios de ventilación",
+   "titulo": "Cuándo un patio es patio",
+   "vinetas": [
+    "Superficie en planta ≥ 3 m²",
+    "Lado menor ≥ 1 m",
+    "Si va techado: hueco ≥ 2 m²"
+   ],
+   "img_brief": "interior building ventilation courtyard",
+   "notas": "N1: ¿Cualquier patio vale como patio de ventilación?\nN2: No, tiene que tener un tamaño mínimo para que el aire circule de verdad. Para ser patio de ventilación necesita al menos tres metros cuadrados en planta y que el lado más corto mida un metro o más; así evitas que sea una rendija estrecha por donde no se mueve el aire. Si el patio está techado en su parte de arriba, ese techado tiene que dejar un hueco permanente de comunicación con el exterior de al menos dos metros cuadrados, para que respire. En edificios ya construidos se acepta un patio más pequeño si por abajo tiene una entrada directa de aire del exterior, o un conducto que lo comunique con la calle, de al menos trescientos centímetros cuadrados. En resumen: un patio de verdad, no un hueco angosto tapado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Patios de ventilación",
+   "titulo": "Patios para humos de B y C",
+   "vinetas": [
+    "Superficie ≥ 0,5 · NT",
+    "Mínimo 4 m²",
+    "NT: locales que evacúan al patio"
+   ],
+   "img_brief": "building air shaft flue pipes",
+   "notas": "N1: ¿Y si por el patio, además de ventilar, salen los humos de las calderas?\nN2: Entonces le pedimos más, porque ya no solo mete aire, también saca humos. Cuando un patio se usa para evacuar los productos de la combustión de aparatos de tipo B y C en edificios ya construidos, su superficie en planta debe ser al menos cero coma cinco por NT, con un mínimo de cuatro metros cuadrados. NT es el número total de locales que pueden tener aparatos de tipo B y C que desemboquen en ese patio; los cuentas. O sea, medio metro cuadrado por cada local que echa humos, y nunca menos de cuatro. Y si el patio está cubierto arriba, el techado debe dejar libre el veinticinco por ciento de su sección, con un mínimo también de cuatro metros cuadrados. La lógica: cuantas más calderas tiran humos ahí, más grande el patio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Sistemas de ventilación",
+   "titulo": "Ventilación directa",
+   "vinetas": [
+    "Abertura permanente al exterior o patio",
+    "Conducto individual: tiro natural o ventilador",
+    "Colectivo: shunt invertido, aire ascendente"
+   ],
+   "img_brief": "wall ventilation grille outdoor",
+   "notas": "N1: ¿De qué formas puede respirar el local?\nN2: Hay dos grandes vías, y esta es la buena, la directa: el local se comunica de forma permanente con el exterior o con un patio de ventilación por sí mismo. Puede ser con una abertura fija en una pared, puerta o ventana que dé directamente fuera; con un conducto individual, horizontal o vertical, donde el aire circula por tiro natural o con un ventilador (y si es con ventilador, hay que cortar el gas si el ventilador se para); o con un conducto colectivo, que funciona por circulación de aire ascendente y es del tipo shunt invertido. El shunt es ese conducto compartido de los edificios; «invertido» aquí es para meter aire, no para sacar humos. Lo importante: en la directa el local respira por su cuenta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Sistemas de ventilación",
+   "titulo": "La rejilla lleva su superficie marcada",
+   "vinetas": [
+    "Marcado indeleble de superficie libre",
+    "No cuenta el hueco, cuenta lo libre",
+    "No comunicar con cámaras de aire"
+   ],
+   "img_brief": "metal ventilation grille close up",
+   "notas": "N1: Una rejilla de veinte por diez, ¿deja pasar todo ese hueco de aire?\nN2: No, y este es un fallo muy común. Una rejilla tiene lamas, unas láminas que tapan parte del hueco, así que por un agujero de doscientos centímetros cuadrados no pasan doscientos de aire, pasan menos. A esa parte que de verdad deja pasar aire la llamamos superficie libre. Por eso la norma exige que la rejilla lleve grabada de fábrica, de forma indeleble, su superficie libre real; y si no es de medida estándar, se marca in situ con punzón, pero siempre indeleble, nunca una pegatina. En el examen, la que cuenta es la superficie libre, no el tamaño del agujero. Un detalle más: las aberturas no deben comunicar con las cámaras de aire de las paredes, para que el aire venga de fuera y no de dentro del muro."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Sistemas de ventilación",
+   "titulo": "Ventilación indirecta",
+   "vinetas": [
+    "A través de un local contiguo",
+    "Que tenga ventilación directa",
+    "Nunca dormitorio, baño o aseo"
+   ],
+   "img_brief": "interior doorway between rooms",
+   "notas": "N1: ¿Y la ventilación indirecta cómo funciona?\nN2: Es cuando el local respira prestado. En vez de dar él mismo al exterior, respira a través de un local contiguo que sí tiene ventilación directa. Para eso tiene que haber una abertura permanente de comunicación entre los dos, y esa abertura tiene que ser al menos tan grande como la ventilación directa que le correspondería al local que le presta el aire. Hay una condición innegociable: el local contiguo no puede ser un dormitorio, ni un baño, ducha o aseo. Tiene toda la lógica: no vas a coger el aire de renovación a través del cuarto donde alguien duerme o se ducha. Resumiendo: directa, el local respira solo; indirecta, respira a través del vecino de al lado, y ese vecino no puede ser un dormitorio ni un baño."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Dimensionado",
+   "titulo": "La regla de oro: 5 cm²/kW",
+   "vinetas": [
+    "5 cm²/kW, mínimo 125 cm²",
+    "Industrial > 70 kW: dos aberturas cruzadas",
+    "Conducto > 3 m: +50%; > 10 m: +150%"
+   ],
+   "img_brief": "ventilation grilles factory wall",
+   "notas": "N1: ¿Cómo sé cuánta rejilla necesito?\nN2: Con la regla de oro, el número que más se pregunta: cinco centímetros cuadrados de superficie libre por cada kilovatio de la suma de tipo A y B, y nunca menos de ciento veinticinco centímetros cuadrados aunque el aparato sea pequeño. Ejemplo: un local de veinte kilovatios daría cien, pero como el mínimo es ciento veinticinco, pones ciento veinticinco. Ahora los matices. En locales industriales donde la suma de tipo A y B pase de setenta kilovatios, no vale una sola rejilla: hacen falta dos aberturas, una arriba y otra abajo, con ventilación cruzada, cada una a cinco por kilovatio. Pero una vivienda nunca se considera industrial, aunque sume mucho. Y si ventilas por un conducto largo, de más de tres metros, sube la sección un cincuenta por ciento; de más de diez metros, al menos un ciento cincuenta por ciento. Si hay dos ventilaciones, ninguna baja de cincuenta centímetros cuadrados."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Tabla 2 · ubicación",
+   "titulo": "La ventilación se coloca según pesa el gas",
+   "vinetas": [
+    "Gas natural (sube): abertura arriba",
+    "GLP (baja): abertura abajo",
+    "Mucho tipo A: arriba y abajo"
+   ],
+   "img_brief": "low wall vent near floor",
+   "notas": "N1: ¿Y a qué altura pongo la rejilla, arriba o abajo?\nN2: Aquí el razonamiento es precioso porque es puro sentido común: pones la abertura donde tiende a acumularse el gas si hay una fuga. El gas natural es ligero y sube, así que la ventilación va arriba, a un metro ochenta o más del suelo y cerca del techo, por donde escapa. El GLP, butano o propano, es pesado y baja, así que la ventilación va abajo, a quince centímetros o menos del suelo, por donde se acumula. Cuando hay bastante tipo A, por encima de dieciséis kilovatios, necesitas dos aberturas, una arriba y otra abajo, para meter aire limpio y sacar humos; y en ese caso la de arriba siempre tiene que ser directa, porque los humos calientes tienen que salir de verdad al exterior, no a otro cuarto. Ponerla al revés es no evacuar el gas justo por donde se junta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Aparatos concretos",
+   "titulo": "Generadores de aire caliente",
+   "vinetas": [
+    "Aire de dentro: 5 cm²/kW, mín. 125",
+    "Aire de fuera: 1,5 cm²/kW, mín. 70",
+    "Quien respira de fuera, molesta menos"
+   ],
+   "img_brief": "warm air heating unit industrial",
+   "notas": "N1: ¿Por qué unos generadores de aire caliente piden menos rejilla que otros?\nN2: Fíjate en de dónde cogen el aire de combustión, que es la clave. Si el generador toma el aire del interior del local, tiene que cumplir la ventilación normal: cinco centímetros cuadrados por kilovatio, mínimo ciento veinticinco. Pero si toma el aire de combustión del exterior, la exigencia baja a uno coma cinco centímetros cuadrados por kilovatio, con un mínimo de setenta. ¿Por qué menos? Porque no está robando aire del local, así que hay que reponer mucho menos. Es el mismo principio que hace del tipo C el más cómodo: quien respira de fuera, molesta menos al local. Y si el aire de fuera llega por un conducto de más de tres metros, se aumenta un cincuenta por ciento la sección."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya dimensionas el local como un profesional",
+   "mapa": [
+    "Solo el tipo A pide volumen; B y C, no",
+    "Rejilla: 5 cm²/kW, mínimo 125 cm²",
+    "Natural arriba, GLP abajo",
+    "Obra vieja: menos volumen, más ventilación"
+   ],
+   "tagline": "Lo que calculas aquí es lo que firmas en el boletín. Nos queda la evacuación de humos: vídeo 3.",
+   "notas": "N1: Profe, son muchos números. ¿Cómo los ordeno en la cabeza?\nN2: Vamos a atarlos con su porqué, que así no se caen. Primero, el volumen: solo lo pide el tipo A, porque suelta los humos dentro y necesita aire para diluirlos; cocción por la tabla uno, calefacción por el once, y si hay de los dos, se suman. El tipo B y el C no piden volumen porque echan los humos fuera. Segundo, la rejilla: cinco centímetros cuadrados por kilovatio y nunca menos de ciento veinticinco, contando siempre la superficie libre marcada, no el agujero. Tercero, dónde va: natural arriba porque sube, GLP abajo porque baja. Y cuarto, la obra vieja, donde puedes rebajar el volumen a cambio de más rejilla o de un detector de CO, pero nunca por debajo de seis metros cúbicos.\nN1: ¿Y esto para qué me sirve el día de mañana?\nN2: Para lo más serio del oficio: lo que calculas aquí es exactamente lo que firmas en el certificado de instalación. Si te quedas corto de volumen o de rejilla, has certificado un local que no renueva el aire: mala combustión, humedades, hollín en la pared y, en el peor caso, monóxido. En el examen te pedirán el número exacto, el cinco por kilovatio, el ciento veinticinco, el treinta de la extracción; en la obra, te evitan una anomalía en la revisión. Hoy ya no ventilas a ojo, ventilas con criterio. En el vídeo tres cerramos el tema con la evacuación de humos: los conductos y las chimeneas. Ahí es donde el humo, por fin, sale de casa. Te espero."
+  }
+ ]
+}

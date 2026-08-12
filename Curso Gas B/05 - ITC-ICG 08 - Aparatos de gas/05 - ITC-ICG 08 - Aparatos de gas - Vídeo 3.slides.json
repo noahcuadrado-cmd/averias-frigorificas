@@ -7,150 +7,158 @@
    "videoxy": "Vídeo 3 de 4",
    "titulo": "Certificación de la conformidad",
    "subtitulo": "Anexo 1: examen de tipo, producción y unidad",
-   "notas": "N1: ¿Cómo se demuestra que un aparato es de fiar?\nN2: Con los procedimientos del anexo uno. Un organismo de control certifica que el aparato cumple lo que debe, por tres vías: el examen de tipo, que certifica el modelo; la verificación de conformidad de la producción, que vigila que la serie salga igual; y la verificación por unidad, que certifica un aparato concreto. Y cierra con la documentación de diseño que hay que presentar. Es la letra pequeña de la certificación que vimos en el apartado tres; aquí la desmenuzamos entera."
+   "notas": "N1: ¿Cómo se demuestra, de verdad, que un aparato es de fiar?\nN2: Esa es la pregunta de este vídeo, y la responde el anexo uno. En el primer vídeo vimos la fórmula de la conformidad, a más b, o bien c; ahora abrimos esa letra pequeña. El anexo uno detalla los tres procedimientos con los que un organismo de control certifica que un aparato cumple lo que debe: el examen de tipo, que certifica el modelo; la verificación de conformidad de la producción, que vigila que la serie salga igual; y la verificación por unidad, que certifica un aparato concreto. Y cierra con la documentación de diseño que hay que presentar. Es denso, pero se entiende bien si seguimos la lógica de quién hace qué."
   },
   {
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
     ["3", "procedimientos de certificación"],
-    ["1", "año, intervalo máximo sin aviso"],
+    ["1", "año: intervalo máximo de control"],
     ["2", "listas de documentación de diseño"]
    ],
-   "notas": "N1: ¿Qué números resumen el anexo uno?\nN2: Tres procedimientos de certificación: examen de tipo, verificación de la producción y verificación por unidad. Un año, que es el intervalo máximo entre controles sin aviso del examen de producto. Y dos listas de documentación de diseño, la del examen de tipo y la de la unidad, parecidas pero con truco. Ten estos tres números a mano."
+   "notas": "N1: ¿Qué tres números resumen el anexo uno?\nN2: Tres. Primero, tres procedimientos de certificación: examen de tipo, verificación de la producción y verificación por unidad. Segundo, un año, que es el intervalo máximo entre los controles sin aviso del organismo en el camino del examen de producto. Y tercero, dos listas de documentación de diseño: una para el examen de tipo y otra para la verificación por unidad, parecidas pero con truco. Con estos tres números tienes el esqueleto del vídeo."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Anexo 1 · Reparto de papeles",
-   "titulo": "Fabricante y organismo de control",
+   "eyebrow": "El reparto de papeles",
+   "titulo": "Quién certifica y quién solicita",
    "vinetas": [
+    "Organismo de control: examina, prueba y certifica",
     "Fabricante: solicita y aporta el aparato",
-    "Organismo: examina, prueba y certifica",
-    "Nunca se certifica a sí mismo"
+    "Nunca se certifica a sí mismo",
+    "Tercero independiente detrás de la placa"
    ],
-   "img_brief": "laboratory testing equipment inspection",
-   "notas": "N1: ¿Quién certifica realmente un aparato?\nN2: Siempre hay un tercero independiente, el organismo de control, que examina la documentación de diseño, hace o manda hacer las pruebas y expide el certificado. El fabricante o su representante legal solo presenta la solicitud y pone a disposición el aparato representativo. Nunca se certifica a sí mismo. Cuando montas un aparato, ese respaldo es lo que hay detrás de su placa y su certificado: sin él, ni deberías instalarlo ni podrías responder ante un siniestro."
+   "img_brief": "laboratory technician testing appliance",
+   "notas": "N1: Antes de entrar en los procedimientos, ¿quién hace cada cosa?\nN2: Esto es la clave que ordena todo el anexo, así que fíjalo primero. Hay dos actores. El organismo de control es un tercero independiente que examina la documentación, hace las pruebas y expide el certificado. El fabricante, o su representante legal, solo presenta la solicitud y pone el aparato a disposición. Es decir, el fabricante nunca se certifica a sí mismo: siempre hay alguien de fuera que da fe. ¿Por qué importa esto en obra? Porque cuando montas un aparato certificado, ese respaldo de un tercero independiente es lo que hay detrás de su placa y de su certificado. Sin él, ni deberías instalarlo ni podrías responder ante un siniestro."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 1 · Examen de tipo",
+   "eyebrow": "Procedimiento 1 · Examen de tipo",
    "titulo": "Certificar el molde",
    "vinetas": [
-    "Certifica un aparato representativo (tipo)",
-    "Vale para toda la serie",
-    "Puede incluir variantes sin más riesgo"
+    "Se certifica un aparato representativo (el tipo)",
+    "El organismo examina, prueba y expide certificado",
+    "El tipo puede incluir variantes sin más riesgo"
    ],
-   "img_brief": "prototype appliance factory bench",
-   "notas": "N1: ¿Se certifica cada aparato que sale de la fábrica?\nN2: No. El examen de tipo certifica un modelo representativo, el tipo, que es el molde de la serie. Se elige un aparato que representa a toda la producción y sobre él el organismo hace las pruebas necesarias para comprobar que cumple las normas o procedimientos aplicables. El tipo puede incluir distintas variantes siempre que no presenten características diferentes en cuanto a los tipos de riesgo. Idea: certificas el molde una vez, no unidad por unidad."
+   "img_brief": "gas boiler prototype factory bench",
+   "notas": "N1: ¿Qué es el examen de tipo?\nN2: Piensa en el examen de tipo como certificar un molde. El fabricante pone a disposición uno o varios aparatos representativos de la producción, que se llaman el tipo. El organismo de control examina la documentación de diseño, comprueba que ese tipo se ha fabricado de acuerdo con ella, y realiza o hace realizar las pruebas necesarias para ver si cumple las normas o procedimientos aplicables. Si cumple todo, le expide al solicitante un certificado de examen de tipo. Un matiz: el tipo puede incluir varias variantes de producto, siempre que no presenten diferencias en cuanto a los tipos de riesgo. Es decir, se certifica el modelo una vez, no cada unidad."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 1 · Modificaciones",
-   "titulo": "Si cambias el molde, avisa",
+   "eyebrow": "Examen de tipo · Cambios",
+   "titulo": "Si tocas el molde, avisas",
    "vinetas": [
-    "Informar de toda modificación del tipo",
+    "El fabricante informa de toda modificación",
     "Si afecta a la seguridad: aprobación adicional",
-    "Se añade como complemento al certificado"
+    "Va como complemento al certificado"
    ],
    "img_brief": "engineer reviewing technical drawings",
-   "notas": "N1: ¿Y si el fabricante cambia algo del modelo ya aprobado?\nN2: Debe informar al organismo que emitió el certificado de todas las modificaciones que puedan incidir en el cumplimiento de los requisitos. Si esas modificaciones afectan a los requisitos de seguridad o a las condiciones prescritas de uso, necesitan una aprobación adicional, que se realiza como complemento al certificado de examen de tipo. Por eso no vale apañar un aparato con piezas distintas a las certificadas: el certificado viejo ya no lo cubre."
+   "notas": "N1: ¿Y si el fabricante cambia algo del modelo después?\nN2: Buena pregunta, porque aquí está lo que más cae. El solicitante debe informar al organismo que emitió el certificado de todas las modificaciones introducidas en el tipo aprobado que puedan afectar al cumplimiento de los requisitos. Y si esas modificaciones afectan a los requisitos de seguridad o a las condiciones de utilización, no basta con avisar: necesitan una aprobación adicional del mismo organismo, que se añade como complemento al certificado de examen de tipo. La idea, para que se te quede: certificas el molde una vez, y avisas cada vez que retocas el molde. Por eso no vale apañar un aparato con piezas distintas a las certificadas."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 2 · Producción",
+   "eyebrow": "Procedimiento 2 · Producción",
    "titulo": "Que cada unidad salga igual",
    "vinetas": [
-    "Antes de comercializar",
-    "A elección del fabricante",
-    "Dos caminos: 2.1 o 2.2"
+    "Garantiza homogeneidad de la serie",
+    "Conformidad con el tipo certificado",
+    "A elección del fabricante: 2.1 o 2.2",
+    "Antes de comercializar"
    ],
-   "img_brief": "boiler assembly production line",
-   "notas": "N1: ¿Basta con certificar el molde?\nN2: No. El examen de tipo demuestra que el modelo es bueno; la verificación de la producción demuestra que cada unidad que sale de fábrica es igual que ese modelo. Se hace a través de un organismo de control, antes de comercializar, y el fabricante elige entre dos caminos: el examen de producto o el aseguramiento de la calidad. Certificar el molde no sirve de nada si luego la cadena produce copias defectuosas."
+   "img_brief": "boiler production assembly line",
+   "notas": "N1: Si el examen de tipo ya certifica el modelo, ¿para qué un segundo paso?\nN2: Porque certificar el molde no sirve de nada si luego la cadena produce copias defectuosas. El examen de tipo demuestra que el modelo es bueno; la verificación de conformidad de la producción demuestra que cada unidad que sale de fábrica es igual que ese modelo. Por eso van de la mano. El fabricante adopta las medidas para que la fabricación, incluidas la inspección y las pruebas finales, garantice la homogeneidad de la producción y la conformidad con el tipo. Y esta verificación se hace a través de un organismo de control, antes de comercializar, por uno de dos procedimientos que elige el fabricante: el examen de producto o el aseguramiento de la calidad. Los vemos ahora."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 2.1",
-   "titulo": "Examen de producto",
+   "eyebrow": "Camino 2.1 · Examen de producto",
+   "titulo": "La inspección sorpresa",
    "vinetas": [
-    "Controles in situ, sin aviso previo",
-    "Intervalos máximos de 1 año",
-    "Aparato rechazado → se bloquea su venta"
+    "Controles in situ y sin aviso previo",
+    "Intervalos máximos de un año",
+    "Se prueba al menos un aparato",
+    "Si uno se rechaza: se bloquea la venta"
    ],
-   "img_brief": "inspector clipboard factory floor",
-   "notas": "N1: ¿En qué consiste la inspección sorpresa?\nN2: El organismo de control aparece sin avisar, a intervalos máximos de un año, coge un número adecuado de aparatos de la producción y sobre al menos uno realiza las pruebas necesarias. Cuando uno o más aparatos son rechazados, adopta las medidas apropiadas para evitar su comercialización. Retén el dato: intervalos máximos de un año y sin aviso previo. Este camino vigila los productos, unidad a unidad."
+   "img_brief": "quality inspector factory clipboard",
+   "notas": "N1: ¿En qué consiste el examen de producto?\nN2: Este camino se basa en pillar por sorpresa. El organismo de control aparece sin avisar, a intervalos máximos de un año, coge aparatos de la producción in situ, examina un número adecuado y, sobre al menos uno de los seleccionados, hace las pruebas necesarias. Él decide en cada caso si las pruebas se hacen total o parcialmente. ¿Y si alguno no pasa? Cuando uno o más aparatos son rechazados, el organismo adopta las medidas para evitar su comercialización, es decir, bloquea su venta. Retén los dos datos de examen: sin aviso previo, y a intervalos máximos de un año. Aquí se vigila el producto, unidad a unidad."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 2.2",
+   "eyebrow": "Camino 2.2 · Calidad",
    "titulo": "Aseguramiento de la calidad",
    "vinetas": [
     "Sistema de calidad ISO 9001",
-    "Evaluado por organismo acreditado",
-    "Seguimiento anual",
-    "En caso de duda, pide muestra"
+    "Evaluado y certificado por organismo",
+    "Seguimiento anual del mantenimiento",
+    "Puede pedir una muestra si hay dudas"
    ],
-   "img_brief": "quality management certificate document",
-   "notas": "N1: ¿Y el otro camino de la producción?\nN2: En vez de vigilar los productos, se confía en que la fábrica tiene un sistema de calidad conforme a la ISO nueve mil uno, evaluado y certificado por un organismo acreditado. El fabricante envía cada año la documentación que acredita que mantiene el sistema, y el organismo, siempre y especialmente en caso de duda, puede pedir una muestra de la producción para verificarla. Aquí se vigila el proceso, no unidad a unidad. Asocia: camino dos dos igual a ISO nueve mil uno con seguimiento anual."
+   "img_brief": "quality management office documents",
+   "notas": "N1: ¿Y el otro camino, el de la calidad?\nN2: Aquí se confía en el proceso, no en pillar productos sueltos. El fabricante garantiza la conformidad mediante un sistema de calidad de la producción o del producto conforme a la norma ISO nueve mil uno, que es la norma internacional de gestión de la calidad; significa que hay procedimientos escritos, controles y auditorías. Ese sistema lo evalúa y certifica un organismo de control acreditado. Luego hay un seguimiento: el fabricante envía anualmente la documentación que acredita que mantiene el sistema aprobado, y el organismo, siempre y especialmente en caso de duda, puede pedir una muestra de la producción para verificarla. Compara los dos caminos: en el dos punto uno vigilan los productos con inspecciones sorpresa; en el dos punto dos, vigilan el proceso con un sistema de calidad y seguimiento anual."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 3 · Verificación por unidad",
+   "eyebrow": "Procedimiento 3 · Unidad",
    "titulo": "La vía de la pieza única",
    "vinetas": [
     "Certifica un aparato concreto",
+    "Típico de fabricación a medida",
     "La solicitud pide el destino del aparato",
-    "Pruebas incluso tras la instalación"
+    "Las pruebas, incluso tras instalarlo"
    ],
    "img_brief": "custom industrial gas burner unit",
-   "notas": "N1: ¿Y si solo se fabrica un aparato, a medida?\nN2: Es el camino alternativo, la letra c del apartado tres de la ITC. En vez de certificar un modelo de serie, el organismo comprueba y certifica un aparato en concreto y de forma independiente. La solicitud incluye el destino del aparato, dónde va a ir, y las pruebas pueden llevarse a cabo incluso tras la instalación. Es lógico: si solo hay un ejemplar, se examina ese, allí donde va a trabajar. Aquí tú, el instalador, puedes ser justo el punto donde el aparato queda montado antes de que el organismo lo ensaye."
+   "notas": "N1: ¿Y si solo se fabrica un aparato, no una serie?\nN2: Para eso está el camino alternativo, la c del apartado tres de la ITC: la verificación por unidad. En vez de certificar un modelo de serie, el organismo comprueba y certifica un aparato concreto, de forma independiente. Es lo típico de un aparato fabricado a medida o de una sola unidad. Fíjate en dos detalles diferenciadores que le gustan al examen: la solicitud pide el destino del aparato, es decir, dónde va a ir; y las pruebas pueden hacerse incluso tras la instalación del aparato. Es lógico: si solo hay un ejemplar, se examina ese, allí donde va a trabajar. Y aquí tú, el instalador, puedes ser justo el punto donde el aparato queda montado antes de que el organismo lo ensaye."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 4.1",
-   "titulo": "Documentación del examen de tipo",
+   "eyebrow": "Documentación · 4.1",
+   "titulo": "Diseño para el examen de tipo",
    "vinetas": [
     "Describe el modelo en general",
-    "Tipos de gases y presiones",
-    "Esquema eléctrico interior",
-    "Piezas sustituibles"
+    "Cámara, salida de humos, gases y presiones",
+    "Quemadores, seguridad y regulación",
+    "Esquema eléctrico y piezas sustituibles"
    ],
-   "img_brief": "technical blueprint appliance schematic",
-   "notas": "N1: ¿Qué papeles pide el examen de tipo?\nN2: La documentación de diseño describe el modelo de serie: cámara de combustión, salida de humos, categoría del aparato, quemadores e inyectores con sus consumos, elementos de seguridad y de regulación con sus valores de tarado, planos de fabricación acotados y a escala, lista de normas aplicadas y los manuales. Como habla de un modelo en general, incluye los tipos de gases y presiones de utilización, el esquema de la instalación eléctrica interior y las piezas susceptibles de ser sustituidas."
+   "img_brief": "technical design blueprint folder",
+   "notas": "N1: ¿Qué papeles hay que presentar para certificar?\nN2: Se llama documentación de diseño, y la del examen de tipo describe el modelo en general. Incluye marca, modelo, fabricante e importador; una descripción general del aparato con su cámara de combustión, la salida de humos, la categoría del aparato y los tipos de gases y presiones; los quemadores, inyectores y consumos; los elementos de seguridad y de regulación con sus valores de tarado y rangos; los datos para la instalación; los materiales; las piezas susceptibles de ser sustituidas; los esquemas de regulación y de seguridad, y el esquema de la instalación eléctrica interior. Más los planos acotados y a escala, la lista de normas aplicadas, la placa de características y los manuales. Es la carpeta completa del modelo."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 4.2",
-   "titulo": "Documentación de la unidad",
+   "eyebrow": "Documentación · 4.2",
+   "titulo": "Diseño para la verificación por unidad",
    "vinetas": [
-    "Describe este aparato concreto",
-    "Nº de fabricación y domicilio",
-    "Plano de situación",
-    "Gas y presión de reglaje"
+    "Describe este aparato en su sitio",
+    "Nº de fabricación y domicilio de la instalación",
+    "Plano de situación y línea de gas instalada",
+    "Gas y presión para el que se reguló"
    ],
-   "img_brief": "installation site location plan",
-   "notas": "N1: ¿En qué se diferencia esta lista de la del examen de tipo?\nN2: La de la unidad describe un aparato concreto en su sitio, así que añade datos de ese ejemplar y su emplazamiento: número de fabricación, domicilio de la instalación, plano de situación, esquema de la línea de gas instalada y el gas y la presión para el que ha sido regulado el aparato. La del tipo, en cambio, habla de gases y presiones en general y añade el esquema eléctrico interior y las piezas sustituibles. Regla: tipo es el modelo en general; unidad es este aparato en su sitio."
+   "img_brief": "installed gas line meter site",
+   "notas": "N1: Las dos listas se parecen mucho. ¿Cuál es la diferencia?\nN2: Ahí está el truco de examen. La documentación del examen de tipo, la cuatro punto uno, describe un modelo de serie en general. La de la verificación por unidad, la cuatro punto dos, describe un aparato concreto y añade datos de esa unidad y de su emplazamiento: el número de fabricación, el domicilio de la instalación, el plano de situación, el esquema de la línea de gas instalada, y el gas y la presión para el que ha sido regulado ese aparato. La cuatro punto uno, en cambio, habla de tipos de gases y presiones en general, y suma el esquema eléctrico interior y las piezas sustituibles. Regla para recordar: tipo, el modelo en general; unidad, este aparato en su sitio."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Ojo con las palabras",
-   "titulo": "Tres clasificaciones que no se mezclan",
+   "eyebrow": "Cuidado con las letras",
+   "titulo": "Categoría del aparato ≠ tipo ≠ carné",
    "vinetas": [
-    "Tipo A/B/C: por la combustión",
     "Categoría del aparato: qué gases admite",
-    "Categoría del instalador: el carné"
+    "Según UNE-EN 437",
+    "Tipo A/B/C: cómo quema el aparato",
+    "Categoría A/B/C: el carné del instalador"
    ],
-   "img_brief": "gas type category label appliance",
-   "notas": "N1: En estas listas aparece la categoría del aparato. ¿Qué significa?\nN2: Se refiere a la categoría de gases que admite el aparato, qué gases y presiones acepta, según la UNE-EN cuatrocientos treinta y siete. No es el tipo A, B o C, que va por la combustión, ni la categoría del carné del instalador. Son tres clasificaciones distintas que conviven y no debes mezclar. Elegir mal la categoría de gases para el suministro de esa vivienda es montar un aparato que no quemará bien ese gas."
+   "img_brief": "gas appliance category label detail",
+   "notas": "N1: En estas listas aparece categoría del aparato. ¿Es lo mismo que el tipo o el carné?\nN2: No, y esta es una confusión que hay que cortar de raíz porque conviven tres clasificaciones distintas. Una, la categoría del aparato: se refiere a la categoría de gases que admite el aparato, es decir, qué gases y presiones acepta, según la norma UNE-EN cuatrocientos treinta y siete. Dos, el tipo A, B o C: cómo quema y evacúa el aparato, su circuito de combustión, que vimos en el vídeo dos. Y tres, la categoría A, B o C del instalador: el nivel del carné. Son tres cosas que no tienen nada que ver. Y en obra importa: elegir mal la categoría de gases para el suministro de esa vivienda es montar un aparato que no quemará bien ese gas."
   },
   {
    "tipo": "cierre",
-   "titulo": "Qué me llevo",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya entiendes por qué te puedes fiar de un aparato",
    "mapa": [
-    "Organismo certifica; fabricante aporta",
-    "Tipo + producción, o bien unidad",
-    "Tipo ≠ categoría de aparato ≠ carné"
+    "El organismo certifica; el fabricante solo solicita",
+    "Examen de tipo = el molde; cambios = aprobación adicional",
+    "Producción: inspección sorpresa (1 año) o ISO 9001",
+    "Unidad = la pieza única, con su destino"
    ],
-   "notas": "N1: Lo esencial del anexo uno, ¿en tres trazos?\nN2: Primero, siempre hay un organismo de control independiente que examina, prueba y certifica; el fabricante solo solicita y aporta, y ese respaldo es lo que hay detrás de la placa y el certificado. Segundo, la serie se certifica con examen de tipo más verificación de la producción, ya sea por inspección sorpresa a intervalos máximos de un año o por sistema de calidad ISO nueve mil uno con seguimiento anual; y la pieza única, con verificación por unidad, que pide el destino y puede ensayarse ya instalada. Y tercero, no mezcles las tres clasificaciones: tipo por la combustión, categoría del aparato por los gases y categoría del instalador por el carné."
+   "tagline": "Ya sabes qué respalda la placa de un aparato. Solo nos queda leer esa placa y sus pruebas de seguridad.",
+   "notas": "N1: Es un vídeo técnico. ¿Cómo me quedo con lo importante?\nN2: Vamos a reconstruir el porqué, que es lo que de verdad se entiende. Todo el anexo se sostiene sobre una idea: siempre hay un organismo de control, un tercero independiente, que examina, prueba y certifica; el fabricante solo solicita y aporta. Sobre eso montamos los tres procedimientos. El examen de tipo certifica el molde de la serie, y si se toca el molde de forma que afecte a la seguridad, hace falta aprobación adicional. La verificación de la producción demuestra que cada unidad sale igual que el molde, por dos caminos a elección del fabricante: el examen de producto, con inspecciones sin aviso a intervalos máximos de un año, donde si un aparato falla se bloquea su venta; o el aseguramiento de la calidad, con sistema ISO nueve mil uno y seguimiento anual. Y la verificación por unidad certifica una pieza única, pidiendo su destino y pudiendo probarla ya instalada.\nN1: ¿Y cómo se pregunta esto y para qué me sirve en obra?\nN2: En el examen te preguntan quién certifica, cada cuánto es la inspección sorpresa, o qué distingue la documentación cuatro punto uno de la cuatro punto dos, esa del número de fabricación y el domicilio de la instalación. En la obra, este anexo es el porqué de que puedas fiarte: cuando montas un aparato certificado, detrás de su placa hay este respaldo de un tercero; y ojo con no confundir la categoría del aparato, que es qué gases admite, con el tipo de combustión o con tu carné. Hoy ya eres más gasista que ayer: sabes qué hay detrás del certificado que sostiene una instalación. Solo nos queda un paso para cerrar la ITC: leer la placa del aparato y las pruebas de seguridad del anexo tres. Vamos al último vídeo."
   }
  ]
 }

@@ -1,0 +1,243 @@
+{
+ "pie": "Curso Gas B · Tema 11 · UNE 60670-4 · Diseño y construcción",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 11 · UNE 60670-4",
+   "videoxy": "Vídeo 2 de 3",
+   "titulo": "Trazado y ubicación de las tuberías",
+   "subtitulo": "Modalidades, distancias, vainas, empotrado y sellados",
+   "notas": "N1: ¿Por qué dicen que este es el vídeo más importante del tema?\nN2: Porque es el por dónde sí y por dónde no del tubo de gas, y es lo primero que mira un inspector cuando llega a una obra. Aquí está todo lo que se ve a simple vista: si el tubo va visto, envainado, enterrado o empotrado; qué distancia deja con la luz, el agua o una chimenea; cómo se sujeta, se protege, se ventila y se señaliza. Es el capítulo cuatro de la norma y está lleno de valores concretos y de prohibiciones que caen tal cual en el examen. Tómatelo con calma, porque dominar esto es la diferencia entre que la instalación pase a la primera o te la tumben. Vamos poco a poco."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["4", "modalidades de tubería según su ubicación"],
+    ["3", "cm de separación mínima a otros servicios"],
+    ["0,40", "metros: máximo de tubo empotrado"]
+   ],
+   "notas": "N1: ¿Qué tres cifras me llevo de entrada?\nN2: Tres anclas para todo el vídeo. Uno, hay cuatro modalidades de tubería según por dónde vaya: vista, envainada, enterrada y empotrada. Dos, el número mágico de las distancias es tres centímetros, la separación mínima que el tubo de gas guarda con cualquier otro servicio y con el suelo. Y tres, el empotrado, que es la excepción, tiene un tope de cuarenta centímetros de longitud. Con estos tres números en la cabeza, el resto del vídeo se ordena solo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.1 · Clasificación",
+   "titulo": "Cuatro formas de llevar el tubo",
+   "vinetas": [
+    "Vista: visible en todo el recorrido",
+    "Envainada: dentro de vaina o conducto",
+    "Enterrada: en el subsuelo, por fuera",
+    "Empotrada: en la pared, sin vaina"
+   ],
+   "img_brief": "copper gas pipe exposed on wall",
+   "notas": "N1: ¿De cuántas maneras puede ir un tubo de gas?\nN2: De cuatro, y todas responden a una misma idea de fondo: poder reparar el tubo sin tener que picar la pared. Vamos una a una. Vista es la que se ve en todo su recorrido, la ideal, porque la tienes delante para revisarla; también cuenta como vista la que va tapada por registros que se pueden abrir y están ventilados. Envainada es la que va dentro de otro tubo protector, la vaina o conducto. Enterrada es la que va directamente en el subsuelo, siempre por fuera del edificio. Y empotrada es la que va metida directamente en la pared, a pelo, sin vaina. Ojo a la diferencia fina, que se pregunta muchísimo: envainada lleva un tubo protector alrededor; empotrada va directa en la obra sin nada. No son lo mismo. Lo ideal siempre es vista o envainada, porque son accesibles; empotrada es la excepción y está muy limitada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.2 · Generalidades",
+   "titulo": "Regla de oro: reparar sin picar",
+   "vinetas": [
+    "Vista o envainada siempre que se pueda",
+    "La común, por zonas comunitarias",
+    "Atravesar muros: con pasamuros"
+   ],
+   "img_brief": "gas pipe passing through wall sleeve",
+   "notas": "N1: Entonces, ¿cuál es la norma general de por dónde llevar el tubo?\nN2: La norma quiere que el tubo se pueda reparar o sustituir en cualquier momento sin destrozar la casa. Por eso, como criterio general, las tuberías van vistas o envainadas, que son las accesibles; solo van enterradas los tramos que tengan que ir por fuera. La empotrada se deja para casos muy contados que veremos luego. Además, hay una regla de por dónde discurre cada instalación: la instalación común, la que sirve a todo el edificio, va por zonas comunitarias, como la fachada, el patio o la caja de escalera; la individual, la de cada vivienda, va por zonas comunes o por dentro de la propia vivienda a la que sirve. Y un detalle práctico: cada vez que un tubo atraviesa un muro o una pared, se protege con un pasamuros, que es como un manguito que evita que el tubo roce con la obra. Si en algún tramo no puedes cumplir estas condiciones, la solución es envainarlo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.2 · Prohibiciones",
+   "titulo": "La lista negra: por aquí no",
+   "vinetas": [
+    "Ascensores y montacargas",
+    "Transformadores eléctricos de potencia",
+    "Chimeneas, basuras y ventilaciones",
+    "Nunca dentro de los forjados"
+   ],
+   "img_brief": "elevator shaft building interior",
+   "notas": "N1: ¿Hay sitios por donde el gas no puede pasar nunca?\nN2: Sí, y esta lista es pregunta segura, así que apréndetela con un truco muy simple: por donde suba fuego, humo, basura o electricidad gorda, el gas no pasa. En concreto: nada de huecos de ascensores o montacargas, porque el mecanismo podría aplastar o cortar el tubo; nada de locales con transformadores eléctricos de potencia, porque una chispa junto al gas es una explosión; nada de chimeneas ni conductos de humos; nada de bajantes de basura; y nada de conductos o rejillas de ventilación, salvo un caso muy concreto. Y añade una más: el tubo no puede ir metido dentro de los forjados, o sea dentro del suelo o el techo que separa las viviendas. La lógica es siempre la misma: alejar el gas de todo lo que pueda encenderlo, dañarlo o dificultar cerrarlo en una emergencia. Saltarse esta lista es firmar la instalación que un día explica un incendio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.2 · Excepción",
+   "titulo": "El gasoil, clase C, sí pasa",
+   "vinetas": [
+    "Clase C: se inflama a 55 °C o más",
+    "Solo depósitos de hasta 1000 l",
+    "Cumpliendo distancias y ventilación"
+   ],
+   "img_brief": "diesel heating oil tank in basement",
+   "notas": "N1: ¿Y lo de los combustibles líquidos? ¿No decías que estaba prohibido?\nN2: Prohibido en general, sí, pero con una excepción que conviene entender. Los combustibles líquidos se clasifican por lo fácil que es encenderlos. Los de clase C son los que se inflaman a cincuenta y cinco grados o más, es decir, cuesta mucho prenderlos: el gasoil de calefacción entra en este grupo. Como son menos peligrosos que la gasolina, la norma permite que el gas pase por un cuarto con un depósito de gasoil, pero con dos condiciones: que el depósito sea pequeño, de hasta mil litros, y que se cumplan las distancias y la ventilación que exige la reglamentación de instalaciones petrolíferas. Con clase A o B, más volátiles, o con depósitos de más de mil litros, prohibido total. Resumen: gasoil pequeño y bien ventilado, se puede; gasolina o depósitos grandes, ni hablar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.3 · Tuberías vistas",
+   "titulo": "Bien sujeta, sin apoyarse en nada",
+   "vinetas": [
+    "Soportes desmontables y aislados",
+    "Que permitan la dilatación",
+    "Más grueso el tubo, más separación"
+   ],
+   "img_brief": "metal pipe clamp bracket on wall",
+   "notas": "N1: Cuando el tubo va visto, ¿cómo se sujeta?\nN2: Con abrazaderas o soportes firmes anclados a la construcción, pero con tres condiciones importantes. Uno, tienen que ser desmontables, para poder quitar el tubo el día que haga falta. Dos, tienen que quedar aislados del tubo, sin metal contra metal, para que no aparezca corrosión. Y tres, tienen que permitir que el tubo dilate, porque con el calor el metal se alarga y si lo aprietas a muerte, se tensa y sufre. ¿Cada cuánto pones un soporte? Depende del grosor: cuanto más grueso el tubo, más peso aguanta y más distancia puedes dejar entre sujeciones; y en los tramos verticales puedes separar un poco más que en los horizontales. Los que van por fuera, además, protegidos contra la corrosión y contra el sol. La idea: que el tubo quede firme, alineado y sin apoyarse ni rozar con nada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.3 · Distancias",
+   "titulo": "El 3 y el 3: tres centímetros",
+   "vinetas": [
+    "3 cm a cualquier otro servicio",
+    "3 cm al suelo",
+    "El tubo de gas nunca toca nada"
+   ],
+   "img_brief": "gas pipe next to electrical conduit on wall",
+   "notas": "N1: ¿Qué distancia tiene que guardar con la luz o el agua?\nN2: Dos treses muy fáciles de recordar: tres centímetros a cualquier otro servicio, sea la luz, el agua, el vapor o una chimenea, tanto si va en paralelo como si lo cruza; y tres centímetros al suelo. Y se mide de superficie a superficie, no de centro a centro del tubo. Pero lo más importante es la regla de oro que hay detrás: el tubo de gas nunca toca nada, ni otra tubería ni la estructura metálica del edificio. ¿Por qué? Porque cuando dos metales distintos se tocan, se crea una pequeña pila eléctrica, lo que se llama par galvánico, y eso corroe el tubo poco a poco hasta que aparece una picadura que un día será una fuga. Así que separa, no apoyes y no dejes que roce. Si por lo que sea no llegas a esos tres centímetros, hay una salida que vemos ahora mismo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.3 · Excepción de los 3 cm",
+   "titulo": "Si no llegas, aísla el tubo",
+   "vinetas": [
+    "Coquilla, caña de PVC o cinta",
+    "Aislamiento mínimo de 400 voltios",
+    "Aguantar de −15 a +80 °C"
+   ],
+   "img_brief": "foam pipe insulation sleeve",
+   "notas": "N1: ¿Y si no puedo dejar los tres centímetros?\nN2: Entonces puedes acercar el tubo, pero solo si lo aíslas en ese tramo. El aislamiento sirve para que, aunque estén cerca, el gas y la luz o el agua no se afecten. ¿Con qué se aísla? Con una coquilla aislante, una caña de PVC, o una cinta autovulcanizante o termoretráctil, colocada como diga el fabricante. Pero ojo, esa protección no vale cualquiera: tiene que aguantar un aislamiento eléctrico de al menos cuatrocientos voltios y resistir temperaturas de menos quince a más ochenta grados. Y si el tramo va por el exterior, además tiene que estar protegida contra el sol. O sea, la coquilla no es decorativa, tiene sus números que cumplir. Ejemplo típico: el tubo de gas tiene que cruzarse con un cable eléctrico y no hay hueco para los tres centímetros; le pones la coquilla que cumple esos cuatrocientos voltios y ya puedes acercarlo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.3 · Señalización",
+   "titulo": "Señaliza y olvídate del PE visto",
+   "vinetas": [
+    "Señal 'gas' o franja amarilla",
+    "Al menos una vez en zona común",
+    "Polietileno visto: jamás"
+   ],
+   "img_brief": "yellow gas pipe marking label",
+   "notas": "N1: ¿Hay que señalizar el tubo?\nN2: Sí, y por una razón muy práctica de seguridad. En la zona común, al menos una vez, y cerca de la llave de montante, el tubo se marca con la palabra gas o con una franja amarilla bien visible. ¿Para qué? Para que nadie taladre a ciegas y pinche el tubo pensando que era otra cosa. Es avisar: aquí hay gas, cuidado. Y aprovecho para un error clásico de examen: para tuberías vistas no se puede usar polietileno, el pe e. El polietileno es ese plástico de las tuberías enterradas; puesto al sol se degrada, se vuelve quebradizo y acaba fugando. Así que el polietileno es para enterrado, nunca visto. En vistas usas metal, como acero o cobre. Grábate esto: polietileno a la vista, jamás."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.4 · Vainas y conductos",
+   "titulo": "La vaina tiene cuatro 'para qué'",
+   "vinetas": [
+    "1. Protección mecánica (golpes)",
+    "2. Ventilación (semisótanos, cámaras)",
+    "3. Acceso a armarios empotrados",
+    "4. Tuberías en suelo o subsuelo"
+   ],
+   "img_brief": "gas pipe inside protective steel conduit",
+   "notas": "N1: ¿Por qué se mete un tubo dentro de una vaina?\nN2: Por cuatro motivos, y conviene tenerlos separados porque cada uno tiene sus reglas. El primero, protección mecánica: cuando el tubo puede recibir un golpe, por ejemplo en un garaje donde pasan coches, se envaina para blindarlo. El segundo, ventilación: cuando el tubo cruza sitios donde una fuga se podría acumular, como un semisótano, un falso techo, una cámara cerrada o una vivienda ajena, se envaina para que, si hay escape, se airee hacia fuera y no se quede dentro. El tercero, para dar acceso a los armarios empotrados de regulación o contadores. Y el cuarto, cuando el tubo va por el suelo o el subsuelo. Truco de examen: si te preguntan por qué se envaina aquí, identifica primero cuál de estos cuatro casos es, porque de eso dependen el material y las condiciones. Cada motivo, su tratamiento."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.4.1.2 · Ventilación",
+   "titulo": "El semisótano, solo gases ligeros",
+   "vinetas": [
+    "Solo gas más ligero que el aire",
+    "A 50 mbar o menos",
+    "S = 10 · A, mínimo 200 cm²"
+   ],
+   "img_brief": "basement ventilation grille on wall",
+   "notas": "N1: ¿Por qué es especial un semisótano?\nN2: Porque un semisótano es una trampa para el gas: si hay una fuga, el gas se queda acumulado ahí abajo. Por eso, como regla general, el tubo se envaina al cruzarlo. Pero hay una puerta abierta, con condiciones estrictas: solo si el gas es más ligero que el aire, como el gas natural, si va a poca presión, cincuenta milibares o menos, y si el semisótano está muy bien ventilado. La lógica es preciosa: el gas natural, al ser ligero, sube y se escapa por las rejillas de arriba; por eso al butano y al propano, que son más pesados que el aire y se van al suelo, esta excepción no les vale. ¿Qué es estar bien ventilado? Dos rejillas en paredes opuestas, separadas al menos dos metros en horizontal y dos metros en altura, y con una superficie de rejilla de diez centímetros cuadrados por cada metro cuadrado de suelo, con un mínimo de doscientos centímetros cuadrados. Esa es la fórmula: superficie igual a diez por el área del suelo, y nunca menos de doscientos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.4.2 · Tabla 6",
+   "titulo": "Metal siempre, plástico a veces",
+   "vinetas": [
+    "Mecánica y semisótano: metal sí o sí",
+    "Resto de casos: plástico rígido admitido",
+    "Donde lleva asterisco: estanca"
+   ],
+   "img_brief": "steel metal conduit pipe",
+   "notas": "N1: ¿De qué material tiene que ser la vaina?\nN2: Depende del para qué, y hay un patrón muy claro en la tabla. Para protección mecánica y para ventilación en semisótano, la vaina es metálica sí o sí, porque ahí necesitas resistencia de verdad: acero u otro material igual de fuerte. En los demás casos, o sea ventilación normal, acceso a armarios y suelo o subsuelo, sí admites plástico rígido, como pe uve ce, polietileno o polipropileno, siempre que aguante la forma sin aplastarse. Eso de aguantar la forma tiene nombre técnico, rigidez anular, y se traduce en que el material no se doble más de la cuenta. Además, en todos los casos marcados con asterisco en la norma, la vaina tiene que ser estanca, que no se cuele nada. Y una regla que cae: si una misma vaina hace dos trabajos a la vez, por ejemplo proteger y ventilar, tiene que cumplir lo más exigente de los dos. Metal donde hay que resistir; plástico rígido donde solo hay que envolver."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.4.3 · Vaina de ventilación",
+   "titulo": "Un tubo que respira hacia fuera",
+   "vinetas": [
+    "Continua y estanca",
+    "Sus dos bocas, al exterior",
+    "Sella el extremo a local sin ventilar"
+   ],
+   "img_brief": "pipe vent outlet on exterior wall",
+   "notas": "N1: Si la vaina es para ventilar, ¿cómo funciona exactamente?\nN2: Piénsala como un tubo dentro de un tubo que respira. La idea es que si el tubo de gas tiene una fuga dentro de una zona ciega, como un semisótano o una cámara, ese escape tenga que salir obligatoriamente fuera, no quedarse dentro. Por eso la vaina de ventilación es continua y estanca en todo su recorrido, y sus dos bocas comunican con el exterior: una hace de entrada de aire y la otra de salida, y así se barre cualquier fuga hacia la calle. Si solo puede salir por una boca, la otra se sella pegada al tubo. Y hay una regla que se pregunta mucho y que la norma reforzó: siempre se sella el extremo de la vaina que da a un local sin ventilación, para que la fuga no se cuele justo en ese local cerrado. En resumen: la vaina de ventilación coge la fuga y la echa fuera, nunca la mete dentro."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.4 · Matices",
+   "titulo": "Vaina y conducto no son iguales",
+   "vinetas": [
+    "Vaina: ceñida al tubo, sin registros",
+    "Conducto: holgado, con registros",
+    "El conducto no ventila el local"
+   ],
+   "img_brief": "large pipe duct with maintenance access",
+   "notas": "N1: ¿Vaina y conducto son lo mismo?\nN2: Se parecen, porque los dos protegen o ventilan el tubo, pero hay una diferencia práctica. La vaina va ceñida al tubo, abrazándolo, y no lleva registros, es decir, no tiene tapas para meter la mano. El conducto es más holgado, va más suelto alrededor del tubo, y sí puede llevar registros para poder mantener la tubería sin destaparla del todo; eso sí, esos registros tienen que ser estancos y accesibles. Y un detalle importante que cae en examen: un conducto de ventilación del gas no cuenta como ventilación del local, ni sirve para pasar por él ningún otro servicio ajeno al gas. Es solo para el gas. Regla mental: vaina, ajustada y cerrada; conducto, holgado y con registros, pero exclusivo del gas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartados 4.5 y 4.6",
+   "titulo": "Enterrada y empotrada: lo justo",
+   "vinetas": [
+    "Enterrada: por fuera, según UNE 60311",
+    "Empotrada: máximo 0,40 m",
+    "Sin ninguna unión mecánica dentro"
+   ],
+   "img_brief": "buried gas pipe in trench excavation",
+   "notas": "N1: ¿Y cuando el tubo va enterrado o empotrado?\nN2: Vamos con las dos. Enterrada es la que va por el subsuelo, siempre por fuera del edificio, y se hace siguiendo otra norma específica de tuberías enterradas, con su protección contra la corrosión. La empotrada es la excepción tasada: solo se permite para rodear un obstáculo o para conectar con un cajetín o armario, y como máximo cuarenta centímetros, salvo cuando va hacia un conjunto de regulación o contadores, que puede llegar a dos metros y medio. Dentro del tramo empotrado no puede haber ninguna unión mecánica, o sea nada de roscas escondidas que un día tengas que apretar y no puedas. Si el tubo es de acero o cobre, se protege como si fuera enterrado: se limpia, se le da una imprimación y se envuelve con doble capa de cinta anticorrosión con un cincuenta por ciento de solape. Y antes de tapar, siempre prueba de estanquidad: lo que se tapa, se comprueba antes. Regla: empotrar, lo justo y bien protegido."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.7 · MOP de 2 a 5 bar",
+   "titulo": "A más presión, más al aire libre",
+   "vinetas": [
+    "Por el exterior: fachada, patio, aire libre",
+    "Dentro solo si es inevitable",
+    "Y entonces, envainado"
+   ],
+   "img_brief": "gas pipe on building facade exterior",
+   "notas": "N1: ¿Cambia algo si el gas va a más presión?\nN2: Cambia, y con lógica. Cuando la presión es alta, entre dos y cinco bar, una fuga es más peligrosa porque sale más gas y con más fuerza. Así que la norma quiere ese tubo fuera del edificio siempre que se pueda: por la fachada, por un patio de ventilación o por zonas al aire libre. Solo se mete dentro cuando es inevitable, por ejemplo si el conjunto de regulación tiene que ir por dentro, o si pasa por una centralización de contadores o una sala de máquinas. Y en esos casos, por regla general, va envainado. Hay una excepción puntual: dentro de esa misma sala de máquinas o centralización que alimenta ese regulador, o dentro del local no doméstico donde están los aparatos, no hace falta vaina. La idea a recordar: cuanta más presión, más lejos de dentro de la casa."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 4.8 · Sellados",
+   "titulo": "Sellar para que la fuga no viaje",
+   "vinetas": [
+    "Sella entrada y salida del armario",
+    "Vaina contra recinto y tubo contra vaina",
+    "Juntas de elastómero o pasta sellante"
+   ],
+   "img_brief": "sealant applied around pipe wall penetration",
+   "notas": "N1: ¿Por qué hay que sellar las tuberías del armario de contadores?\nN2: Por una razón muy concreta: un armario de contadores o de regulación puede tener una fuga pequeña, y si el tubo que sale de ahí va empotrado o envainado hacia dentro del edificio, esa fuga podría viajar por el hueco del tubo y colarse en una vivienda. Para taponar ese camino, se sellan las tuberías de entrada y de salida. La regla práctica es fácil: si el tubo entra en la obra o en una vaina, sella los dos puntos, la vaina contra el recinto y el tubo contra la vaina, para que no quede ningún resquicio por donde el gas se escape hacia dentro. En armarios semiempotrados basta con sellar la parte empotrada; en los adosados donde el tubo entra directo al edificio, también se sella. ¿Con qué? Con juntas de goma específicas o con pastas sellantes, como silicona, que aguanten estancas con el tiempo. Sellar es cerrarle el pasaporte a la fuga."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Documentación",
+   "titulo": "El trazado, en el certificado",
+   "vinetas": [
+    "Croquis del trazado en el modelo IRG",
+    "Lo que se tapa, se prueba antes",
+    "Firma la empresa instaladora habilitada"
+   ],
+   "img_brief": "installer with tablet inspecting gas pipes",
+   "notas": "N1: Todo este trazado, ¿queda registrado en algún sitio?\nN2: Sí, y esto es importante para no tener sustos con el inspector. El recorrido del tubo se documenta con su croquis o esquema en el certificado de instalación, el modelo I erre ge, que firma la empresa instaladora habilitada y se entrega a la distribuidora. Y hay una regla que enlaza con lo que hemos visto: todo lo que se tapa, o sea lo empotrado y lo envainado, se prueba de estanquidad antes de cerrarlo, y esa prueba respalda el certificado. ¿Por qué tanto papel? Porque para el inspector, lo que no está probado y documentado no existe. Si dentro de esa pared hay un tramo que nadie comprobó ni dibujó, es como si no lo hubieras hecho bien. Así que dibuja el trazado, prueba antes de tapar y firma solo lo que de verdad está montado y comprobado."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes por dónde va cada tubo",
+   "mapa": [
+    "Cuatro modalidades y la regla: reparar sin picar",
+    "La lista negra y los dos treses (3 cm)",
+    "La vaina y sus cuatro 'para qué'",
+    "Empotrado: 0,40 m y prueba antes de tapar"
+   ],
+   "tagline": "Esto es lo primero que mira el inspector. En el siguiente vídeo, cómo medir, regular y cortar el gas.",
+   "notas": "N1: Menudo bloque. ¿Cómo lo ato todo?\nN2: Reconstruyamos el hilo, que tiene una lógica de principio a fin: todo gira en torno a poder reparar sin picar y a alejar el gas del peligro. Primero, las cuatro modalidades: vista y envainada, las buenas, porque son accesibles; enterrada, por fuera; empotrada, la excepción. Luego, la lista negra, que es puro sentido común: por donde sube fuego, humo, basura o electricidad gorda, el gas no pasa. En vistas, los dos treses, tres centímetros a todo y tres al suelo, y el tubo sin tocar nada para que no se corroa. La vaina, con sus cuatro para qué, y la de ventilación siempre echando la fuga hacia fuera. Y el empotrado, lo justo, cuarenta centímetros, sin uniones escondidas y probado antes de tapar.\nN1: ¿Y esto cómo cae en el examen?\nN2: A base de cifras y de prohibiciones tal cual: los tres centímetros, los cuarenta centímetros del empotrado, la diferencia entre envainado y empotrado, la lista negra, el semisótano solo para gases ligeros. Y en la obra es lo primero que mira el inspector cuando llega: por ahí se aprueba o se tumba una instalación. Si dominas este vídeo, entras en una obra y ves de un vistazo lo que está mal. Hoy ya eres más gasista que ayer. Nos queda un último vídeo para cerrar la Parte cuatro: cómo se mide, se regula y se corta el gas, con toda la cadena de llaves. Te espero allí."
+  }
+ ]
+}

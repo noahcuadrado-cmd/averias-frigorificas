@@ -1,0 +1,153 @@
+{
+ "pie": "Curso Gas B · Tema 15 · UNE 60670-9 · Pruebas previas y puesta en servicio",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 15 · UNE 60670-8/9/10",
+   "videoxy": "Vídeo 2 de 3",
+   "titulo": "Pruebas previas y puesta en servicio",
+   "subtitulo": "UNE 60670-9 · Del tubo probado a la instalación con gas",
+   "notas": "N1: Si en la Parte 8 ya probé que no pierde, ¿qué me queda?\nN2: Te queda darle gas, y hacerlo con orden. Una cosa es que el tubo aguante presión, y otra distinta es abrir, purgar y dejar la instalación funcionando sin peligro. La Parte nueve es justo ese guion: primero las pruebas previas, que es un repaso con los ojos y las manos antes de meter gas; y luego la puesta en servicio, que es la maniobra de abrir, purgar y verificar. En este vídeo verás quién hace cada cosa, qué se comprueba, cómo se precintan las llaves que no van a servicio y por qué el purgado es el momento más delicado de todo el tema.\nN1: ¿Es un vídeo importante para el examen?\nN2: Mucho. Es cortito pero muy preguntado, porque va por listas y cada punto de la lista puede ser una pregunta. Vamos despacio para que no se te escape ninguno."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["2", "fases: pruebas previas y puesta en servicio"],
+    ["1", "certificado que hay que entregar al usuario"],
+    ["4", "estados de una llave: cerrada, bloqueada, precintada, taponada"]
+   ],
+   "notas": "N1: ¿Qué me dicen estos tres números?\nN2: Te resumen el vídeo entero. Dos fases: primero las pruebas previas, el repaso; y después la puesta en servicio, la maniobra de dar gas. Un certificado: la puesta en servicio termina siempre con un papel, el certificado de pruebas previas y puesta en servicio, del que hay que entregar copia al usuario; sin ese papel la instalación no está formalmente en servicio. Y cuatro palabras que definen cómo queda una llave que no entra en servicio: cerrada, bloqueada, precintada y, a veces, taponada. Esas cuatro caen juntas casi siempre, así que las trabajaremos bien."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Marco · UNE 60670",
+   "titulo": "Dónde encaja la Parte 9",
+   "vinetas": [
+    "Va después de la estanquidad (Parte 8)",
+    "Va antes de arrancar aparatos (Parte 10)",
+    "Instalaciones receptoras hasta 5 bar",
+    "Sin cambios relevantes de edición"
+   ],
+   "img_brief": "gas installation pipes building riser",
+   "notas": "N1: ¿En qué punto de la secuencia estamos?\nN2: Justo en el medio del arranque de una instalación. Recuerda la película: montas, pruebas que no pierde con la parte ocho, pones en servicio con la parte nueve, y arrancas los aparatos con la parte diez. Estamos en la nueve, entre la estanquidad y el encendido de los aparatos. Se aplica, como toda la norma, a instalaciones receptoras que trabajan a presión máxima de operación igual o menor de cinco bar.\nN1: ¿Esta parte ha cambiado mucho en la nueva edición?\nN2: No, esta apenas se ha tocado; solo se actualizó el título de alguna de las partes que menciona en la introducción. El contenido de fondo es el de siempre. Eso te viene bien: lo que aprendas aquí es estable."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Objeto",
+   "titulo": "Dos estanquidades distintas",
+   "vinetas": [
+    "Parte 8: prueba con aire, presión de prueba",
+    "Parte 9: verificación con gas, presión de operación",
+    "Tubo vacío antes de entregar",
+    "Instalación con gas antes de dejar en servicio"
+   ],
+   "img_brief": "technician checking gas pipe joint",
+   "notas": "N1: ¿No habíamos hecho ya la estanquidad en el vídeo anterior?\nN2: Cuidado aquí, que es un lío clásico y por eso lo pregunta. Hay dos estanquidades distintas, en dos momentos distintos. La del vídeo anterior, la de la parte ocho, era la prueba de estanquidad de entrega: con aire o gas inerte, con la tubería vacía, a presión de prueba, la alta. La de este vídeo, la de la parte nueve, es otra: es la verificación de la estanquidad ya con gas de verdad y a la presión de operación, la normal de trabajo, y se hace como paso final de la puesta en servicio.\nN1: ¿Y por qué comprobar otra vez si ya salió bien la primera?\nN2: Porque son escenarios diferentes. La primera prueba el tubo desnudo antes de entregarlo. La segunda confirma que, ya con gas real circulando a presión de trabajo, no se escapa nada por ninguna unión. Hay uniones que sellan en seco con aire y luego rezuman con gas. Esta segunda es la última red de seguridad antes de dar la instalación por servida."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Pruebas previas",
+   "titulo": "El repaso antes de dar gas",
+   "vinetas": [
+    "Documentación completa",
+    "Lo visible y accesible cumple la norma",
+    "Locales y salidas de humos correctos",
+    "Maniobrabilidad de las válvulas"
+   ],
+   "img_brief": "inspector with clipboard gas installation",
+   "notas": "N1: ¿Qué son exactamente las pruebas previas?\nN2: Son una inspección de entrega que hace el responsable antes de meter gas: un repaso con los ojos y con las manos. Mira cuatro cosas. Una, que los papeles estén completos, toda la documentación de la instalación. Dos, que lo visible y accesible cumpla la norma. Tres, que los locales donde van los aparatos y sus salidas de humos, los conductos de evacuación, estén bien. Y cuatro, que las válvulas se maniobren, que las llaves giren como deben.\nN1: ¿Tiene que revisar toda la tubería, incluso la empotrada?\nN2: No, y esto es clave: solo lo visible y accesible. Nadie pica una pared para revisar el tubo empotrado. Por eso el diseño y la ejecución previos tienen que estar bien hechos, porque en este momento ya no se revisan por dentro. Si la instalación lleva una estación de regulación, además comprueba que regula bien y que sus dispositivos de seguridad funcionan."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Pruebas previas",
+   "titulo": "Quién es el agente responsable",
+   "vinetas": [
+    "La norma remite a la legislación vigente",
+    "En la práctica: empresa instaladora habilitada",
+    "Hay un responsable designado",
+    "No lo hace cualquiera"
+   ],
+   "img_brief": "certified gas technician working",
+   "notas": "N1: La norma habla del agente responsable, ¿quién es?\nN2: La norma no le pone un carné concreto; dice de acuerdo con lo que establezca la legislación vigente. En la práctica es la empresa instaladora habilitada, o el agente que corresponda según el Reglamento de gas y sus instrucciones técnicas. Para el examen quédate con la idea de fondo: hay un responsable designado que ejecuta y firma estas comprobaciones. No las hace cualquiera que pase por allí.\nN1: ¿Y por qué la norma no dice un nombre fijo?\nN2: Porque la norma técnica describe el cómo, y quién puede firmar lo decide el Reglamento, que es la parte legal y puede cambiar. Al remitir a la legislación vigente, la UNE se mantiene válida aunque cambie quién está habilitado. Tú piensa: persona designada, cualificada, que responde con su firma. Esa es la idea que te van a pedir."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Puesta en servicio",
+   "titulo": "La maniobra, paso a paso",
+   "vinetas": [
+    "Precintar los equipos de medida",
+    "Cerrar y precintar llaves que no van a servicio",
+    "Abrir acometida y purgar",
+    "Verificar estanquidad y certificar"
+   ],
+   "img_brief": "opening gas main valve meter",
+   "notas": "N1: Vale, las previas salieron bien, ¿ahora qué maniobra hago?\nN2: Ahora viene la puesta en servicio, y tiene un orden que conviene recitar. Primero, precintar los equipos de medida, los contadores. Segundo, dejar cerradas, bloqueadas y precintadas las llaves de las viviendas o aparatos que de momento no entran en servicio; y taponarlas si además están pendientes de instalación, pero eso lo vemos aparte. Tercero, abrir la llave de acometida y purgar las instalaciones que sí van a quedar en servicio. Cuarto, verificar la estanquidad ya con gas a la presión de operación. Y quinto, si todo va bien, dejar en servicio y extender el certificado.\nN1: ¿Ese orden es importante o me lo puedo saltar?\nN2: Es importante y es lógico. Precintas y aíslas lo que no entra antes de abrir el gas, para que al abrir no vaya gas a donde no debe. Luego abres y purgas. Y solo al final, con todo comprobado, certificas. Cada paso prepara al siguiente."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Puesta en servicio",
+   "titulo": "Cerrada, bloqueada, precintada",
+   "vinetas": [
+    "Cerrada: girada, sin paso",
+    "Bloqueada: que no la abra cualquiera",
+    "Precintada: el precinto delata manipulación",
+    "Taponada: cuando no hay nada detrás"
+   ],
+   "img_brief": "sealed gas valve with security seal",
+   "notas": "N1: Cerrada, bloqueada, precintada y taponada, ¿no es todo lo mismo?\nN2: No, son cuatro estados y cada uno añade algo. Cerrada es girada, cortando el paso del gas. Bloqueada es que además no la pueda abrir cualquiera, que quede trabada. Precintada es que lleva un precinto que se rompe si alguien la toca, o sea, que delata la manipulación. Y taponada es poner un tapón físico en la boca de la llave.\nN1: ¿Y cuándo se pone el tapón y cuándo no?\nN2: Aquí está la regla que te van a preguntar. Si la llave no va a servicio pero tiene algo detrás, una vivienda o un aparato ya instalado, basta con dejarla cerrada, bloqueada y precintada. Pero si la llave da a la nada, porque la instalación individual o el aparato todavía están pendientes de instalar, entonces además se tapona. El porqué es puro sentido de seguridad: si alguien forzara el precinto de una llave sin nada detrás, saldría gas al aire libre; el tapón lo impide. Regla mental: sin nada detrás, tapón; con algo detrás, basta cerrar, bloquear y precintar. Saltarte el tapón es dejar una fuga programada en el montante."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Puesta en servicio",
+   "titulo": "El purgado, el momento clave",
+   "vinetas": [
+    "Es expulsar el aire empujándolo con gas",
+    "Peligro: mezcla aire-gas explosiva",
+    "Purgar a punto seguro, al exterior",
+    "Sin llamas ni chispas; con detector"
+   ],
+   "img_brief": "gas purging outdoor safe point",
+   "notas": "N1: ¿Qué es purgar y por qué dices que es lo más peligroso?\nN2: Purgar es expulsar el aire que hay dentro de la tubería, empujándolo con el gas que entra. Y el peligro está en el punto intermedio de esa operación: durante un rato, dentro del tubo conviven aire y gas mezclados, y esa mezcla de aire y gas, en cierta proporción, es explosiva. Basta una chispa o una llama cerca para una deflagración. Es el momento más peligroso de todo el tema, sin exagerar.\nN1: ¿Cómo se purga entonces con seguridad?\nN2: Se purga hacia un punto seguro, al exterior, no hacia un local cerrado; con un detector en la mano; y sin ninguna fuente de ignición cerca, ni llamas ni interruptores que salten. Se sigue purgando hasta que por ese punto sale gas puro, es decir, hasta quedar fuera de los límites de inflamabilidad, ya sin mezcla peligrosa dentro. Imagínatelo como vaciar una botella llena de aire soplando gas dentro hasta que ya no queda nada de aire mezclado. La norma exige justo eso: acabar el purgado con la seguridad de que dentro ya no hay mezcla inflamable."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Puesta en servicio",
+   "titulo": "Verificar y certificar",
+   "vinetas": [
+    "Estanquidad final con gas, a presión de operación",
+    "Si todo va bien, dejar en servicio",
+    "Certificado de pruebas previas y puesta en servicio",
+    "Entregar copia al titular o usuario"
+   ],
+   "img_brief": "signing installation certificate document",
+   "notas": "N1: Ya he purgado, ¿qué me falta para acabar?\nN2: Te falta la verificación final y el papel. La verificación es comprobar la estanquidad ya con gas y a la presión de operación, la normal de trabajo. Es la última comprobación antes de dar la instalación por servida: aquí aparece la unión que sellaba en seco pero rezuma con gas. Si todo va bien, se deja la instalación en servicio. Y entonces, el paso que cierra la faena: extender el certificado de pruebas previas y puesta en servicio, y entregar copia al titular o usuario.\nN1: ¿Y si no entrego ese certificado?\nN2: Entonces la instalación no está formalmente en servicio, hagas lo que hagas en obra. El papel es lo que lo hace legal. Ubícalo mentalmente en la cadena de certificados del tema: primero el de la prueba de estanquidad de la parte ocho, luego este de pruebas previas y puesta en servicio de la parte nueve, y después el de puesta en marcha de los aparatos de la parte diez. Tres certificados en tres momentos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Caso especial",
+   "titulo": "GLP de depósito: primero llenar",
+   "vinetas": [
+    "Depósito fijo de GLP en chalé o urbanización",
+    "No hay servicio con el depósito vacío",
+    "Puesta en servicio tras el primer llenado",
+    "Sin producto no hay gas para purgar"
+   ],
+   "img_brief": "LPG storage tank residential garden",
+   "notas": "N1: ¿Cambia algo si el gas viene de un depósito de GLP?\nN2: Sí, un matiz muy lógico. Cuando el gas no viene de la red de la ciudad sino de un depósito fijo de gases licuados del petróleo, típico de un chalé o de una urbanización aislada, la puesta en servicio se hace tras el primer llenado del depósito. No puedes poner en servicio con el depósito vacío.\nN1: ¿Y por qué es tan evidente?\nN2: Porque sin producto en el depósito no tienes gas con el que purgar la instalación, ni presión de operación que verificar. Es como querer poner en marcha un coche sin combustible en el tanque: primero llenas, luego arrancas. Así que en instalaciones de GLP de depósito, el orden manda: primer llenado y después la puesta en servicio. Es una pregunta fácil si te acuerdas de la lógica."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes dar gas sin dejarte nada",
+   "mapa": [
+    "Pruebas previas: repaso de lo visible y accesible",
+    "El purgado se hace al exterior, sin chispas, hasta gas puro",
+    "Sin nada detrás, tapón; con algo detrás, cerrar-bloquear-precintar",
+    "Termina con certificado y copia al usuario"
+   ],
+   "tagline": "De un tubo probado a una instalación legalmente en servicio. Ya solo faltan los aparatos.",
+   "notas": "N1: Recapitulando, ¿qué es lo que de verdad tengo que dominar?\nN2: Rehagamos el hilo con su porqué. Uno: las pruebas previas son un repaso con ojos y manos de lo visible y accesible, papeles, locales, salidas de humos y maniobra de válvulas, porque lo empotrado ya no se revisa aquí. Dos: la puesta en servicio tiene un orden, precintar, aislar lo que no entra, abrir y purgar, verificar y certificar. Tres: el purgado es el momento más peligroso, porque se forma mezcla aire-gas explosiva, y por eso se hace al exterior, sin llamas ni chispas, hasta que sale gas puro. Cuatro: las llaves que no entran quedan cerradas, bloqueadas y precintadas, y taponadas si no tienen nada detrás. Y cinco: todo termina con un certificado del que se entrega copia al usuario.\nN1: ¿Cómo cae esto en el examen y en la obra?\nN2: En el examen cae por las listas, cada punto puede ser una pregunta, y sobre todo por dos trampas: las dos estanquidades distintas, aire a presión de prueba contra gas a presión de operación, y las cuatro palabras de la llave. En la obra, el purgado mal hecho hacia un local cerrado es una causa real de deflagraciones, y saltarte un tapón deja una fuga esperando en un montante. Hoy ya eres más gasista que ayer: sabes convertir un tubo probado en una instalación con gas y en servicio legal. En el último vídeo del tema encendemos los aparatos y medimos que queman bien sin envenenar el aire, con la Parte diez. Vamos a por el gran final."
+  }
+ ]
+}

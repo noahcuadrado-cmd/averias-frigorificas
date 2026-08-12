@@ -1,0 +1,187 @@
+{
+ "pie": "Curso Gas B · Tema 14 · UNE 60670-7",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 14 · UNE 60670-7",
+   "videoxy": "Vídeo 2 de 2",
+   "titulo": "Instalación y conexión de aparatos",
+   "subtitulo": "Requisitos de cada tipo de conexión",
+   "notas": "N1: Profe, en el vídeo anterior vimos qué conexión toca en cada caso. ¿Y ahora?\nN2: Ahora bajamos al taller a montarla bien. En el vídeo uno teníamos el mapa: las dos tablas que deciden qué tubo vale. En este desmenuzamos los siete tipos de conexión uno a uno: qué norma cumple cada uno, para qué aparatos sirve, la longitud máxima que puede tener el tubo, cómo se hacen las uniones y las prohibiciones, como no cruzar por detrás del horno o no usar racor de dos piezas. Y cerramos con el Anexo A, que te dice de un vistazo qué aparato lleva rígida y cuál flexible. Esto es la chuleta que consultas delante del aparato antes de apretar la última tuerca."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["7", "tipos de conexión de aparatos"],
+    ["2 m", "longitud máxima habitual del tubo"],
+    ["30 °C", "sobrecalentamiento máximo tras el horno"]
+   ],
+   "notas": "N1: ¿Qué me adelantan estas tres cifras?\nN2: Son el esqueleto del vídeo. Siete: son los siete tipos de conexión que vamos a ver, del tubo rígido al de goma de la bombona. Dos metros: es la longitud máxima que más se repite, la de los flexibles metálicos; verás que casi todo gira en torno a que el tubo sea lo más corto posible. Y treinta grados: es el tope de sobrecalentamiento que permite que un flexible pase por detrás de un horno, y solo si el fabricante lo certifica por escrito. Si retienes estas tres, ya tienes colgadas las perchas donde ir poniendo el resto."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "4.1 · Conexión rígida",
+   "titulo": "Rígida: el mismo tubo",
+   "vinetas": [
+    "Cobre, acero, inox, multicapa",
+    "Uniones según UNE 60670-3",
+    "Exclusiva para aparatos fijos",
+    "Uniones mecánicas por junta plana"
+   ],
+   "img_brief": "copper gas pipe fittings on wall",
+   "notas": "N1: ¿Qué tiene de especial la conexión rígida?\nN2: Lo curioso es que no es un material aparte. La conexión rígida es seguir con el mismo tubo que has usado en toda la instalación: cobre, acero, acero inoxidable, multicapa o inox corrugado, con las mismas uniones que manda la parte tres de la norma, la de las tuberías. Es decir, no cambias de mundo, prolongas la tubería hasta el aparato. Por eso solo vale para aparatos fijos: si el aparato no se mueve, lo mejor es unirlo con tubo firme, sin flexibles que con los años envejezcan. Y las uniones mecánicas se hacen con enlace de junta plana, una junta que aprieta entre dos caras y sella. Rígida es igual a firmeza y a durar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "4.2 · Acero inox corrugado",
+   "titulo": "Flexible de acero corrugado",
+   "vinetas": [
+    "Doméstico: UNE 60713",
+    "No doméstico: si falta caudal, ISO 10380",
+    "2 m si DN ≤ 15",
+    "0,470 m si DN > 15"
+   ],
+   "img_brief": "corrugated stainless steel gas hose",
+   "notas": "N1: Este flexible metálico, ¿cuándo lo uso?\nN2: Es el flexible metálico de acero corrugado, muy común. Para uso doméstico va según su norma habitual. Y aquí una idea importante: incluso en comercio o industria la norma te empuja a usar ese mismo flexible, siempre que su diámetro dé caudal suficiente para el aparato. Solo cuando se queda corto de caudal, cuando necesitas más diámetro del que ofrece, saltas a la otra norma, la europea. Por defecto el normal; el europeo solo si falta caudal. Y ojo a las longitudes, que son trampa: con diámetro fino, hasta dos metros; con diámetro gordo, mayor de quince, solo cuarenta y siete centímetros. Cuanto más gordo el tubo, más corta la conexión. Es contraintuitivo y por eso se pregunta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Regla de oro",
+   "titulo": "El flexible, nunca bajo las llamas",
+   "vinetas": [
+    "Longitud: la mínima necesaria",
+    "Sin contacto con partes calientes",
+    "Un tubo largo se reseca y fuga"
+   ],
+   "img_brief": "blue gas flame burner fire",
+   "notas": "N1: ¿Por qué insisten tanto con la longitud del flexible?\nN2: Porque es la clave de seguridad que está por encima de todas las cifras. Un tubo flexible debe medir lo mínimo necesario para llegar al aparato, ni un palmo de más. ¿La razón? Si dejas tubo de sobra, ese tubo cuelga, y puede acabar cayendo justo encima del quemador o tocando una parte caliente. Y un flexible bajo las llamas o pegado al calor se reseca, se cuartea como una goma vieja y termina fugando. De una fuga de gas a un incendio o a una intoxicación por monóxido hay un paso. Por eso la norma repite en cada tipo: el flexible nunca debe quedar bajo la acción de las llamas. Corta a medida y llévalo por donde no le llegue calor."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "4.3 · Espirometálica con enchufe",
+   "titulo": "Espirometálica: 1,5 m",
+   "vinetas": [
+    "Lleva enchufe de seguridad",
+    "Exclusiva de uso doméstico",
+    "Longitud máxima 1,5 m",
+    "Calefacción móvil: 0,6 m"
+   ],
+   "img_brief": "spiral metal flexible gas hose",
+   "notas": "N1: Vamos con las de enchufe de seguridad. ¿La primera?\nN2: La espirometálica, un flexible metálico en espiral, que siempre lleva enchufe de seguridad, ese enganche que corta el gas al desconectar. Por llevar enchufe de seguridad, ya sabes: solo uso doméstico. ¿Y la longitud? Aquí toca aprender la cifra: como máximo un metro y medio. Pero si conectas un aparato de calefacción móvil, una estufa que arrastras por la casa, se acorta a sesenta centímetros, para que no ande el tubo suelto por el suelo. Reténlo así: espirometálica, metro y medio en general, sesenta centímetros si es calefacción que se mueve."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "4.4 · Acero corrugado con enchufe",
+   "titulo": "Con enchufe: 2 m",
+   "vinetas": [
+    "Misma familia, con enchufe de seguridad",
+    "Exclusiva de uso doméstico",
+    "Longitud máxima 2 m",
+    "Calefacción móvil: 0,75 m"
+   ],
+   "img_brief": "stainless steel gas connector kitchen",
+   "notas": "N1: Y la otra con enchufe, ¿cambia mucho?\nN2: Son dos primas hermanas. Esta es de acero inoxidable corrugado y también lleva enchufe de seguridad, así que otra vez solo uso doméstico. Todo igual... menos las cifras, y ahí está la trampa del examen. La espirometálica de antes eran un metro y medio, y sesenta centímetros en calefacción móvil. Esta llega a dos metros en general, y setenta y cinco centímetros si es calefacción móvil. No las mezcles: mismo tipo de aparato, longitudes distintas. Un truco: casi todas las calefacciones móviles se quedan en sesenta centímetros; la única que se estira a setenta y cinco es justo esta, el acero corrugado con enchufe."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Montaje · Enchufe de seguridad",
+   "titulo": "Rosca sí, racor de dos piezas no",
+   "vinetas": [
+    "Unión roscada UNE-EN 10226-1",
+    "Racor de dos piezas: prohibido",
+    "El racor se afloja y fuga"
+   ],
+   "img_brief": "threaded gas pipe fitting wrench",
+   "notas": "N1: ¿Por qué prohíben el racor de dos piezas?\nN2: En las dos conexiones con enchufe de seguridad, la espirometálica y la de acero corrugado, la unión mecánica va roscada, con una rosca cónica que sella al apretar. Y hay una prohibición tajante: nunca con racor de dos piezas. El racor de dos piezas es ese de tuerca loca que aprieta una junta entre dos mitades. ¿El problema? Con la vibración se puede aflojar y empezar a fugar. La rosca cónica, en cambio, sella mucho mejor y no se suelta. Por eso la regla, cortita para que se te grabe: enchufe de seguridad, rosca sí, racor de dos piezas no."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Prohibición · Calor",
+   "titulo": "No cruzar tras el horno",
+   "vinetas": [
+    "Nada por detrás de una cocina con horno",
+    "Salvo aislamiento térmico certificado",
+    "Y ≤ 30 °C de sobrecalentamiento"
+   ],
+   "img_brief": "kitchen oven back panel installation",
+   "notas": "N1: Otra prohibición que se repite: lo del horno. ¿Cómo es?\nN2: Sí, esta aparece en varios flexibles, así que apúntala una vez y vale para todos. El tubo flexible no puede pasar por la parte de atrás de una cocina que tenga horno, sea el horno de gas o eléctrico. ¿Por qué? Porque detrás del horno se acumula muchísimo calor y allí el flexible se cocería. Solo hay una excepción: que el horno lleve aislamiento térmico en su parte trasera y que el fabricante haya demostrado en ensayos que allí no se superan los treinta grados de sobrecalentamiento, y que lo deje por escrito en el manual. Si no tienes ese papel del fabricante, el flexible no va por detrás del horno, y punto."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "4.5 · Elastómero con armadura",
+   "titulo": "Goma reforzada: móvil y GLP",
+   "vinetas": [
+    "Goma con malla de refuerzo",
+    "Móviles no domésticos con GLP",
+    "Sopletes: norma de soldeo",
+    "Longitud máxima 1,5 m"
+   ],
+   "img_brief": "reinforced braided rubber gas hose",
+   "notas": "N1: ¿Qué es eso del elastómero con armadura?\nN2: Elastómero es la palabra fina para la goma. Y con armadura interna o externa quiere decir que esa goma va reforzada con una malla, como un latiguillo trenzado; aguanta más que el tubo de goma pelado. Por ir reforzada, se admite en sitios más exigentes: aparatos móviles no domésticos alimentados con GLP, y también sopletes. Para los sopletes sigue la norma de las mangueras de soldeo y corte, con un matiz importante: en un soplete la longitud máxima no se aplica, porque necesitas la manguera que pida el trabajo. Para el resto, longitud máxima de un metro y medio, y sesenta centímetros si es calefacción móvil no industrial."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "4.6 · Elastómero",
+   "titulo": "El tubo naranja de la bombona",
+   "vinetas": [
+    "El clásico de butano (goma)",
+    "Boquillas UNE 60714, mismo DN",
+    "Abrazaderas metálicas, nunca de plástico",
+    "Solo móviles, mecheros y sopletes"
+   ],
+   "img_brief": "orange butane rubber hose metal clamp",
+   "notas": "N1: Este es el de toda la vida, ¿no? El de la bombona.\nN2: Exacto, el clásico tubo de goma naranja del butano. Va solo en aparatos móviles, mecheros y sopletes, y si sigue la norma europea, solo con GLP. El montaje tiene dos detalles que caen seguro. Uno: se une con boquillas, unas piezas según su norma, del mismo diámetro que el tubo; si el tubo es de nueve milímetros, boquilla de nueve, no se improvisa. Dos, y muy importante: se sujeta con abrazaderas metálicas, nunca de plástico. ¿Por qué metálicas? Porque la goma se dilata con el calor, y una brida de plástico cede, el tubo se suelta de la boquilla y tienes una fuga de gas y olor a butano en la cocina. Y recuerda: este tubo de goma caduca; el metálico, no."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "4.7 · Metálica corrugada",
+   "titulo": "Metálica corrugada, sin enchufe",
+   "vinetas": [
+    "Misma manguera que la 4.4",
+    "Pero SIN enchufe de seguridad",
+    "Longitud máxima 2 m",
+    "Unión: junta plana o a tetina"
+   ],
+   "img_brief": "flexible metal gas connector fitting",
+   "notas": "N1: Esta se parece mucho a la del punto 4.4, ¿en qué se distinguen?\nN2: Muy buena, porque es un lío típico. Las dos usan la misma manguera metálica corrugada. La diferencia es el enchufe: la del punto cuatro punto cuatro lleva enchufe de seguridad y es solo doméstica, con unión roscada; esta, la cuatro punto siete, no lleva enchufe. Al no llevarlo, se une de otra forma: por junta plana o por conexión a tetina, y si un enlace es de junta plana, el otro puede ser roscado. Su longitud máxima es de dos metros. En resumen: misma manguera, montaje distinto. Si en el examen te hablan de enchufe de seguridad es la cuatro cuatro; si no lo mencionan, piensa en la cuatro siete."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Anexo A · Informativo",
+   "titulo": "¿Se mueve o no se mueve?",
+   "vinetas": [
+    "Fijo o encastrado → conexión rígida",
+    "Móvil → conexión flexible",
+    "Es una guía orientativa"
+   ],
+   "img_brief": "built in gas hob kitchen counter",
+   "notas": "N1: Y el Anexo A, ¿para qué sirve?\nN2: Es la chuleta más práctica del tema. Es informativo, o sea orientativo, no obligatorio, pero te resuelve la duda de un vistazo con una sola pregunta: ¿el aparato es fijo o se mueve? Si es fijo o va encastrado, una encimera empotrada, una caldera, un calentador, una secadora fija, un horno industrial, lo normal es conexión rígida. Si es móvil, una cocina de gas suelta, una estufa de infrarrojos, un paellero, un frigorífico de gas, un soplete, lo normal es conexión flexible. Fíjate que casa con todo lo que hemos visto: lo fijo con tubo firme, lo móvil con tubo que acompaña el movimiento. Fijo, rígida; móvil, flexible. Esa es la brújula."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "El papeleo",
+   "titulo": "Un montaje mal hecho, se firma",
+   "vinetas": [
+    "Certificado de instalación y puesta en marcha",
+    "Se entrega al usuario",
+    "Cambiar un flexible caducado se registra"
+   ],
+   "img_brief": "gas installer signing certificate document",
+   "notas": "N1: Y todo esto del montaje, ¿también acaba en un papel?\nN2: También, y es la misma idea que en el vídeo anterior pero llevada al montaje. El tipo de conexión que pones y que esté bien ejecutada es lo que la empresa instaladora certifica y firma, en el certificado de instalación, el boletín, y en la puesta en marcha del aparato; ese documento se entrega al usuario y queda a disposición de la distribuidora y de la comunidad autónoma. Y ojo: sustituir un flexible caducado o mal montado en un aparato que ya está en servicio también es una operación que debe quedar registrada. La conclusión es seria: firmar un montaje con el flexible equivocado, demasiado largo, o con una brida de plástico, es firmar un defecto con tu nombre."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya montas las siete conexiones",
+   "mapa": [
+    "Rígida: solo fijos, el mismo tubo de la instalación",
+    "Longitudes de memoria por cada tipo de flexible",
+    "Enchufe: rosca sí, racor no; nada tras el horno",
+    "Anexo A: fijo → rígida, móvil → flexible"
+   ],
+   "tagline": "Ya sabes elegir y montar cualquier conexión de gas. Con esto cierras el Tema 14 completo.",
+   "notas": "N1: Profe, hemos visto muchas cifras. ¿Cómo lo amarro todo?\nN2: Vamos a reconstruirlo con cabeza, no de memorieta. La conexión rígida es prolongar el mismo tubo de la instalación, y solo para fijos. Los flexibles se ordenan por una única idea de seguridad: el tubo nunca debe quedar bajo las llamas, así que va lo más corto posible; de ahí salen todas las longitudes máximas, dos metros el acero corrugado, un metro y medio la espirometálica y los elastómeros, y las versiones de calefacción móvil más cortas, casi todas sesenta centímetros salvo el acero corrugado con enchufe, que llega a setenta y cinco. Los dos flexibles con enchufe de seguridad son de casa y se roscan, nunca racor de dos piezas. El tubo naranja de la bombona lleva boquillas y abrazadera metálica. Y ninguno cruza por detrás del horno salvo aislamiento certificado por debajo de treinta grados.\nN1: ¿Y a la hora de la verdad, examen y obra?\nN2: En el examen te cruzan las longitudes a ver si te lías, te preguntan qué unión lleva el enchufe de seguridad, o te dan un aparato y esperan que digas rígida o flexible con el Anexo A. En la obra, cada una de estas reglas es una fuga o un incendio que evitas: el flexible corto, la abrazadera metálica, la rosca bien hecha. Con esto cierras el Tema catorce completo: ya sabes dónde va cada aparato, con qué se conecta y cómo se monta bien. Hoy no es que sepas más, es que ya trabajas como un gasista de verdad. Enhorabuena, has terminado el tema."
+  }
+ ]
+}

@@ -7,17 +7,17 @@
    "videoxy": "Vídeo 3 de 3",
    "titulo": "Mantenimiento y control periódico",
    "subtitulo": "Inspección, revisión y régimen general del Reglamento",
-   "notas": "N1: La instalación ya tiene gas. ¿Y ahora qué?\nN2: Ahora hay que mantenerla viva y segura durante años. En este cierre del articulado vemos quién debe mantener y controlar las instalaciones, la diferencia más preguntada de todo el tema, que es inspección contra revisión, quién puede operar en instalaciones de gas y las reglas finales del Reglamento: cumplimiento, excepciones, reconocimiento mutuo, normas UNE, sanciones y accidentes. Es el bloque que convierte al instalador en un profesional que entiende su responsabilidad de verdad."
+   "notas": "N1: La instalación ya tiene gas. ¿Y ahora qué?\nN2: Ahora viene lo que dura años: mantenerla viva y segura. En este cierre del articulado juntamos varias piezas. Vemos quién debe mantener y controlar las instalaciones, la diferencia más preguntada de todo el tema, que es inspección contra revisión, quién puede operar en instalaciones de gas, y las reglas finales del Reglamento: cumplimiento, excepciones, reconocimiento mutuo europeo, normas UNE, sanciones y accidentes. Parece mucho, pero verás que casi todo se ordena con dos o tres ideas simples. Este es el bloque que convierte a un montador de tubos en un profesional que entiende de qué responde."
   },
   {
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["24", "horas para avisar de un accidente"],
+    ["24", "horas para avisar del accidente"],
     ["7", "días para el informe completo"],
     ["4", "clases de accidente"]
    ],
-   "notas": "N1: ¿Qué tres números tienes que llevarte grabados de este vídeo?\nN2: Veinticuatro horas es el plazo máximo que tiene el suministrador para avisar a la Comunidad Autónoma cuando hay un accidente con daños importantes o víctimas. Siete días es el plazo para remitir después el informe completo. Y cuatro son las clases de accidente que el Reglamento lista como conjunto cerrado: deflagración, explosión, intoxicación e incendio. El truco para el orden es sencillo: primero llamas, en veinticuatro horas, y luego escribes, en siete días."
+   "notas": "N1: ¿Qué tres números tengo que llevarme grabados de este vídeo?\nN2: Estos tres se preguntan y hay que soltarlos sin dudar. Veinticuatro horas es el plazo máximo que tiene el suministrador para avisar a la Comunidad Autónoma cuando hay un accidente con daños importantes o víctimas. Siete días es el plazo para remitir después el informe completo. Y cuatro son las clases de accidente que el Reglamento lista como conjunto cerrado: deflagración, explosión, intoxicación e incendio. El truco para no cambiar el orden de los plazos es muy sencillo, y lo repetiremos: primero llamas, en veinticuatro horas, y luego escribes, en siete días."
   },
   {
    "tipo": "contenido",
@@ -29,7 +29,7 @@
     "El instalador ayuda, no responde por él"
    ],
    "img_brief": "homeowner gas boiler maintenance check",
-   "notas": "N1: La instalación hay que mantenerla. ¿Pero de quién es esa obligación?\nN2: Del titular, el dueño, y en su defecto del usuario, quien la gasta. No es del instalador ni de la compañía: ellos ayudan y recomiendan, pero el que responde de que la instalación esté permanentemente en disposición de servicio, con su nivel de seguridad, es el dueño. Es exactamente como el coche: el taller te lo arregla, pero el que tiene que llevarlo a revisión eres tú. Tu papel como gasista es ejecutar el mantenimiento y advertir por escrito; la responsabilidad última de conservarlo es del titular."
+   "notas": "N1: La instalación hay que mantenerla, pero ¿de quién es esa obligación?\nN2: Del titular, el dueño, y en su defecto del usuario, quien la gasta. Que no te confunda que tú seas el que va con las herramientas: la obligación legal de mantener no es del instalador ni de la compañía. Ellos ayudan y recomiendan, pero el que responde de que la instalación esté permanentemente en disposición de servicio, con su nivel de seguridad, es el dueño. La comparación que lo deja clavado: es como el coche. El taller te lo arregla, pero el que está obligado a llevarlo a la revisión y a mantenerlo eres tú, el propietario. Tu papel como gasista es ejecutar el mantenimiento cuando te llaman y advertir por escrito de lo que veas; la responsabilidad última de conservarlo en buen estado es del titular."
   },
   {
    "tipo": "contenido",
@@ -42,7 +42,7 @@
     "Organismo de control obligatorio → inspección"
    ],
    "img_brief": "gas distribution pipeline street valve",
-   "notas": "N1: Esta es LA pregunta del tema. ¿Cómo distingues inspección de revisión?\nN2: Con una sola pregunta: ¿la instalación está conectada a la red de distribución, la tubería de la compañía en la calle? Si sí está conectada, gas natural de ciudad o GLP de red, es inspección. Si no está conectada, un depósito de GLP propio de un chalé, unas bombonas, es revisión. Y una segunda regla que gana cualquier empate: si la ley obliga a que venga un organismo de control, es inspección siempre. Chuleta mental: conectada a red, inspección; por tu cuenta, revisión. Con esto resuelves todas las preguntas de este bloque, que son muchas."
+   "notas": "N1: Esta es LA pregunta del tema. ¿Cómo distingo inspección de revisión?\nN2: Buena noticia: se resuelve con una sola pregunta. Pregúntate si la instalación está conectada a la red de distribución, es decir, a la tubería de la compañía que pasa por la calle. Si la respuesta es sí, gas natural de ciudad o GLP de red, entonces es inspección. Si la respuesta es no, por ejemplo un depósito de GLP propio en un chalé o unas bombonas, entonces es revisión. Y una segunda regla que gana cualquier empate: si la ley obliga a que venga un organismo de control, es inspección siempre, sin discusión. Chuleta mental para toda la vida: conectada a red, inspección; por tu cuenta, revisión. Con esta sola pregunta resuelves todas las cuestiones de este bloque, que en el examen son muchas y parecen difíciles hasta que tienes la clave."
   },
   {
    "tipo": "contenido",
@@ -54,7 +54,7 @@
     "También la parte común"
    ],
    "img_brief": "gas technician inspecting meter cabinet",
-   "notas": "N1: Cuando toca inspección, ¿quién está habilitado para hacerla?\nN2: Las inspecciones periódicas de las receptoras alimentadas desde redes por canalización las hace una empresa instaladora de gas habilitada o el distribuidor, con medios propios o externos. Y esto incluye también la inspección de la parte común de las receptoras. Fíjate en que es siempre alguien ajeno al usuario, habilitado para ello. Estas inspecciones son pan de tu oficio: cuando tengas tu categoría B y trabajes con una empresa habilitada, es una de las cosas que vas a hacer. Y recuerda que el titular elige libremente la empresa que se la realiza."
+   "notas": "N1: Cuando toca inspección, ¿quién está habilitado para hacerla?\nN2: La inspección de las receptoras alimentadas desde redes por canalización la hace una empresa instaladora de gas habilitada o el distribuidor, con medios propios o externos. Y fíjate en un detalle práctico: esto incluye también la inspección de la parte común de las receptoras, el montante que comparten los vecinos, no solo lo de cada piso. Lo importante que aquí se repite es que siempre lo hace alguien ajeno al usuario, habilitado para ello; no se autoinspecciona uno solo su instalación de red. Esto no es teoría lejana: cuando tengas tu categoría B y trabajes con una empresa habilitada, hacer estas inspecciones va a ser pan de tu oficio. Y recuerda un derecho del cliente que también cae: el titular elige libremente qué empresa se la realiza."
   },
   {
    "tipo": "contenido",
@@ -66,7 +66,7 @@
     "Entidades que indique la ITC"
    ],
    "img_brief": "lpg tank house garden inspection",
-   "notas": "N1: ¿Y cuándo toca revisión, quién la pide?\nN2: Las revisiones se hacen en todas las instalaciones que no están conectadas a redes de distribución, por ejemplo un depósito de GLP propio en un chalé. Es obligación del titular, y en su defecto del usuario, solicitar los servicios de una de las entidades que indica la ITC. Fíjate en la diferencia con la inspección: allí manda el hecho de estar enganchado a la red, donde un fallo afecta a muchos, y viene alguien habilitado ajeno; aquí la instalación es más privada, tu depósito, y el propio titular tiene que mover ficha para que se la revisen. Misma finalidad, la seguridad, pero distinto nombre y distinto agente según el riesgo."
+   "notas": "N1: ¿Y cuándo toca revisión, quién la pide?\nN2: La revisión es para todas las instalaciones que no están conectadas a redes de distribución; el ejemplo típico es un depósito de GLP propio en un chalé. Aquí cambia quién mueve ficha: es obligación del titular, y en su defecto del usuario, solicitar los servicios de una de las entidades que indica la ITC. Compara con la inspección para entender la lógica: en la inspección mandaba el hecho de estar enganchado a la red, donde un fallo puede afectar a muchos vecinos, y venía alguien habilitado ajeno; en la revisión la instalación es más privada, tu depósito en tu parcela, y es el propio titular quien tiene que pedir que se la revisen. Misma finalidad en las dos, la seguridad; lo que cambia es el nombre y el agente, y cambia según el riesgo."
   },
   {
    "tipo": "contenido",
@@ -78,7 +78,7 @@
     "Fuga incipiente, mala combustión, CO"
    ],
    "img_brief": "blocked ventilation grille wall dust",
-   "notas": "N1: Más allá del papeleo, ¿para qué sirve de verdad el control periódico?\nN2: Es el momento en que cazas lo que mata despacio, lo que no se ve de un día para otro. Una rejilla de ventilación tapada con un mueble o con pintura. Un conducto de evacuación de humos obstruido. Una fuga incipiente que todavía no huele fuerte. Un aparato que empieza a dar mala combustión y monóxido de carbono. De cada control sale su certificado, con o sin anomalías, y si hay anomalías, ese papel marca lo que hay que corregir. Saltarse el control o firmarlo sin mirar de verdad es dejar que el problema crezca sin que nadie lo vea, hasta el susto. Ahí es donde tu trabajo salva vidas."
+   "notas": "N1: Más allá del papeleo, ¿para qué sirve de verdad el control periódico?\nN2: Sirve para cazar lo que mata despacio, esos problemas que no se ven de un día para otro y por eso son tan traicioneros. Piensa en casos reales: una rejilla de ventilación tapada con un mueble o pintada por encima, que ahoga la combustión. Un conducto de evacuación de humos obstruido, que devuelve los gases a la casa. Una fuga incipiente, todavía pequeña, que aún no huele fuerte. O un aparato que empieza a dar mala combustión y monóxido de carbono. De cada control sale su certificado, con o sin anomalías, y si las hay, ese papel marca justo lo que hay que corregir. La conclusión es seria: saltarse el control o firmarlo sin mirar de verdad es dejar que el problema crezca sin que nadie lo vea, hasta el susto o la desgracia. Aquí es donde tu trabajo, bien hecho, salva vidas."
   },
   {
    "tipo": "contenido",
@@ -90,7 +90,7 @@
     "Sobre todo si hay riesgo significativo"
    ],
    "img_brief": "government inspector safety vest clipboard",
-   "notas": "N1: Por encima de inspecciones y revisiones, ¿hay alguien más que vigile?\nN2: Sí, y es la Comunidad Autónoma. Por encima de todo, puede comprobar en cualquier momento, por sí misma o mediante un organismo de control, que la instalación cumple, sobre todo si hay riesgo significativo para personas, animales, bienes o medio ambiente. Es la policía del gas: puede aparecer cuando quiera. De oficio significa por su propia iniciativa; a instancia de parte significa porque alguien se ha quejado. No es lo habitual del día a día, pero conviene saber que ese control administrativo existe y está por encima de los controles periódicos."
+   "notas": "N1: Por encima de inspecciones y revisiones, ¿hay alguien más que vigile?\nN2: Sí, y conviene saberlo. Por encima de todo está la Comunidad Autónoma, que puede comprobar en cualquier momento, por sí misma o mediante un organismo de control, que la instalación cumple; sobre todo si hay un riesgo significativo para personas, animales, bienes o medio ambiente. Es, por decirlo llano, la policía del gas: puede aparecer cuando quiera. Te traduzco dos expresiones legales que salen aquí: 'de oficio' significa que actúa por su propia iniciativa, sin que nadie se lo pida; y 'a instancia de parte' significa que actúa porque alguien lo ha solicitado o se ha quejado. No es lo del día a día, pero es importante que sepas que ese control administrativo existe y está por encima de los controles periódicos normales."
   },
   {
    "tipo": "contenido",
@@ -103,7 +103,7 @@
     "Tú vas a por la categoría B"
    ],
    "img_brief": "gas installer license card uniform",
-   "notas": "N1: Empresa instaladora, instalador, agente de puesta en marcha. ¿Es todo lo mismo?\nN2: No, son tres papeles distintos y el examen los cruza. La empresa instaladora es la empresa, la razón social habilitada según la ITC-ICG cero nueve, con su seguro y sus medios. El instalador es la persona con carné, y tiene categorías A, B o C según esa misma ITC. Y el agente de puesta en marcha es quien arranca los aparatos, según la ITC-ICG cero ocho. Tú te estás sacando la categoría B: podrás trabajar en la mayoría de instalaciones receptoras domésticas y comerciales típicas. Ve asociando cada papel con su ITC: instalador a la cero nueve, aparatos a la cero ocho."
+   "notas": "N1: Empresa instaladora, instalador, agente de puesta en marcha. ¿Es todo lo mismo?\nN2: No, son tres figuras distintas y el examen las cruza a propósito, así que vamos a separarlas bien. La empresa instaladora es la empresa, la razón social habilitada según la ITC-ICG cero nueve, con su seguro y sus medios. El instalador es la persona con carné, tú, y tiene categorías A, B o C según esa misma ITC. Y el agente de puesta en marcha es quien arranca los aparatos, según la ITC-ICG cero ocho. Tú te estás sacando ahora mismo la categoría B: con ella podrás trabajar en la mayoría de instalaciones receptoras domésticas y comerciales típicas, que son la inmensa mayoría de las que verás. Un consejo para el examen: ve asociando cada figura con su ITC, el instalador a la cero nueve y los aparatos a la cero ocho, y no las mezclarás."
   },
   {
    "tipo": "contenido",
@@ -116,19 +116,19 @@
     "Excepción, último recurso (art. 10)"
    ],
    "img_brief": "engineer signing safety compliance document",
-   "notas": "N1: ¿El Reglamento es lo máximo que puedes hacer, o lo mínimo?\nN2: Es el mínimo. Sus prescripciones son mínimos obligatorios: marcan el suelo, no el techo. Puedes hacerlo más seguro, nunca menos. Y si por lo que sea no puedes cumplir a la letra, hay dos salidas, siempre antes del procedimiento del artículo quinto y firmadas por técnico competente. La primera es la técnica equivalente, del artículo noveno: lo hago distinto pero demuestro que es igual de seguro o más, y me lo aprueban. La segunda, como último recurso, es la excepción, del artículo décimo: es imposible cumplir y tampoco hay equivalente, así que pido permiso para saltármelo a cambio de medidas compensatorias. No confundas equivalente con excepción: una es otro camino igual de seguro, la otra es el último cartucho."
+   "notas": "N1: ¿El Reglamento es lo máximo que puedo hacer, o lo mínimo?\nN2: Es el mínimo, y este matiz cambia la forma de entenderlo todo. Sus prescripciones son mínimos obligatorios: marcan el suelo, no el techo. Puedes hacerlo más seguro, nunca menos. Y si por lo que sea no puedes cumplir una prescripción a la letra, existen dos salidas, las dos siempre antes del procedimiento del artículo quinto y firmadas por técnico competente. La primera es la técnica equivalente, del artículo noveno: lo hago de otra manera pero demuestro que es igual de seguro o más, y me lo aprueban. La segunda, como último recurso, es la excepción, del artículo décimo: es materialmente imposible cumplir y tampoco hay equivalente, así que pido permiso para saltármelo a cambio de medidas compensatorias. No confundas una con otra: la equivalente es 'otro camino igual de seguro', la excepción es 'el último cartucho cuando no hay otra'. Y ambas se piden antes, nunca después de montar."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Artículos 11 y 12 · Normas",
    "titulo": "Europa vale y las UNE van sin año",
    "vinetas": [
-    "Reconocimiento mutuo: material europeo, si es seguro",
+    "Reconocimiento mutuo: material europeo si es seguro",
     "Las ITC citan las UNE sin año",
     "El listado con años, en la ITC-ICG 11"
    ],
    "img_brief": "european standards manual technical book",
-   "notas": "N1: Dos detalles finos pero preguntados: material extranjero y normas UNE.\nN2: Primero, el reconocimiento mutuo del artículo once: un material aprobado legalmente en otro Estado de la Unión Europea, o de la zona asimilada, vale aquí, siempre que garantice un nivel de seguridad equivalente. Es la lógica del mercado único: no hay que volver a certificar en cada país. Y segundo, el artículo doce: las ITC citan las normas UNE sin indicar el año de edición, para no quedarse anticuadas cada vez que se revisa una norma. El listado oficial con los años vive en la ITC-ICG once. Por eso en todo el curso verás, por ejemplo, UNE sesenta mil seiscientos setenta sin fecha: no es un olvido, es exactamente como manda el Reglamento."
+   "notas": "N1: Dos detalles finos pero preguntados: material extranjero y normas UNE.\nN2: Los vemos juntos porque los dos caen. Primero, el reconocimiento mutuo del artículo once: un material aprobado y comercializado legalmente en otro Estado de la Unión Europea, o de la zona asimilada, vale también aquí, siempre que garantice un nivel de seguridad equivalente al que exigimos nosotros. Es la lógica del mercado único europeo: no hace falta volver a certificarlo país por país. Y segundo, el artículo doce, un detalle muy fino: las ITC citan las normas UNE sin indicar el año de edición. ¿Por qué? Para no quedarse anticuadas cada vez que se revisa una norma. El listado oficial, ese sí con los años de cada norma, vive en la ITC-ICG once. Por eso en todo el curso verás, por ejemplo, UNE sesenta mil seiscientos setenta escrita sin fecha: no es un olvido ni una errata, es exactamente como manda el Reglamento."
   },
   {
    "tipo": "contenido",
@@ -140,7 +140,7 @@
     "Leve, grave o muy grave"
    ],
    "img_brief": "legal code book gavel table",
-   "notas": "N1: Si se incumple, ¿dónde están las multas, en el Reglamento?\nN2: No, y esto es una pregunta con trampa. El Reglamento no inventa las multas: te remite a las dos leyes de las que cuelga. La Ley de industria y la Ley de hidrocarburos son las que fijan qué es una infracción leve, grave o muy grave y cuál es su sanción. Idea para el examen: las sanciones no están en el Reglamento, están en las leyes. Si ves una opción que dice que el propio Reglamento fija las multas, desconfía; lo que hace es enviarte al régimen sancionador de esas dos leyes."
+   "notas": "N1: Si se incumple, ¿dónde están las multas, en el propio Reglamento?\nN2: No, y esta es una pregunta con trampa muy típica. El Reglamento no inventa las multas: te remite a las dos leyes de las que cuelga, ¿te acuerdas de ellas del primer vídeo? La Ley de industria y la Ley de hidrocarburos son las que fijan qué es una infracción leve, grave o muy grave, y cuál es la sanción de cada una. La idea para el examen es directa: las sanciones no están en el Reglamento, están en las leyes. Así que si ves una opción que dice que el propio Reglamento fija las multas, desconfía y descártala; lo que hace el Reglamento es enviarte al régimen sancionador de esas dos leyes. Todo cuadra con la idea del tronco: el Reglamento desarrolla las leyes, no las sustituye."
   },
   {
    "tipo": "contenido",
@@ -152,33 +152,33 @@
     "Clases: deflagración, explosión, intoxicación, incendio"
    ],
    "img_brief": "emergency gas leak warning scene",
-   "notas": "N1: Ante un accidente grave, ¿qué protocolo y qué plazos?\nN2: Dos plazos que caen juntos. Cuando un accidente causa daños importantes o víctimas, el suministrador lo notifica a la Comunidad Autónoma lo antes posible y en no más de veinticuatro horas, y después remite un informe completo en un plazo máximo de siete días. El truco: primero llamo, veinticuatro horas, luego escribo, siete días. Y memoriza las cuatro clases de accidente como lista cerrada: deflagración, explosión, intoxicación e incendio. Un matiz: en la deflagración el frente de llama avanza más despacio que el sonido, un fogonazo rápido; en la explosión avanza más rápido que el sonido y es mucho más destructiva. En gas doméstico lo habitual es la deflagración, pero el Reglamento las lista por separado."
+   "notas": "N1: Ante un accidente grave, ¿qué protocolo y qué plazos?\nN2: Dos plazos que caen siempre juntos, así que apréndelos en pareja. Cuando un accidente causa daños importantes o víctimas, el suministrador lo notifica a la Comunidad Autónoma lo antes posible y en no más de veinticuatro horas; y después remite un informe completo en un plazo máximo de siete días. El truco para no cambiarlos: primero llamo, veinticuatro horas, luego escribo, siete días. Y memoriza las cuatro clases de accidente como lista cerrada: deflagración, explosión, intoxicación e incendio. Un matiz que te da puntos: deflagración y explosión no son lo mismo. En la deflagración el frente de llama avanza más despacio que el sonido, es un fogonazo rápido; en la explosión avanza más rápido que el sonido y es mucho más destructiva. En gas doméstico lo habitual es la deflagración, pero el Reglamento las lista por separado."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Repaso relámpago",
    "titulo": "Fíjalo en treinta segundos",
    "vinetas": [
-    "Conectada a red → inspección; por tu cuenta → revisión",
+    "Conectada a red → inspección; sin red → revisión",
     "Mantener es del titular",
     "Reglamento: el suelo, nunca el techo",
     "Accidente: 24 h para llamar, 7 días para escribir"
    ],
    "img_brief": "gas safety inspection summary checklist",
-   "notas": "N1: Repaso rápido de todo el bloque. ¿Tienes los cuatro pilares?\nN2: Uno, la pregunta estrella: conectada a la red de distribución es inspección; por tu cuenta, revisión; y si obliga organismo de control, inspección siempre. Dos, mantener la instalación es obligación del titular, no tuya. Tres, el Reglamento marca mínimos obligatorios, el suelo y nunca el techo, y para no cumplir a la letra existen la técnica equivalente y la excepción, siempre antes del artículo quinto y firmadas por técnico competente. Y cuatro, ante accidente grave, veinticuatro horas para llamar y siete días para el informe, con las cuatro clases cerradas. Recítalos y pasamos al gran cierre."
+   "notas": "N1: Repaso rápido de todo el bloque. ¿Tengo los cuatro pilares?\nN2: Los fijamos en treinta segundos y en voz alta. Uno, la pregunta estrella: conectada a la red de distribución es inspección; por tu cuenta, sin red, revisión; y si obliga organismo de control, inspección siempre. Dos, mantener la instalación es obligación del titular, no tuya; tú ejecutas y adviertes. Tres, el Reglamento marca mínimos obligatorios, el suelo y nunca el techo, y para no cumplir a la letra existen la técnica equivalente y la excepción, siempre antes del artículo quinto y firmadas por técnico competente. Y cuatro, ante accidente grave, veinticuatro horas para llamar y siete días para el informe, con las cuatro clases cerradas. Recítalos de carrerilla y pasamos al gran cierre del tema."
   },
   {
    "tipo": "cierre",
    "eyebrow": "Lo que ya dominas",
    "titulo": "Cierras el articulado como un profesional",
    "mapa": [
-    "Distingues inspección de revisión con una sola pregunta",
+    "Distingues inspección de revisión con una pregunta",
     "Sabes que el mantenimiento responde el titular",
     "Manejas mínimos, equivalencias y excepciones",
     "El protocolo de accidente lo tienes de memoria"
    ],
    "tagline": "Has terminado el marco normativo: ya piensas como gasista. A por las instalaciones.",
-   "notas": "N1: Este es el gran final del tema. ¿Qué has conquistado en estos tres vídeos?\nN2: Piénsalo como logros, no como resumen. Hoy distingues inspección de revisión con una sola pregunta, la de si está conectada a la red, y esa es la pregunta más repetida de todo el bloque. Sabes que la obligación de mantener es del titular, y que tú ejecutas y adviertes. Manejas las reglas finales: el Reglamento como mínimos obligatorios, la técnica equivalente y la excepción como salidas firmadas por técnico competente, las UNE citadas sin año con su listado en la ITC-ICG once, y las sanciones que viven en las dos leyes. Y llevas de memoria el protocolo de accidente: veinticuatro horas para avisar, siete días para el informe, cuatro clases cerradas.\nN1: ¿Y por qué esto te hace mejor gasista y no solo mejor examinando?\nN2: Porque en el examen te lo preguntan tal cual: inspección o revisión, quién comunica, qué plazos de accidente; y ahora lo resuelves sin pestañear. Pero en la obra vale todavía más: cada vez que haces un control periódico de verdad, cazas la rejilla tapada o el conducto obstruido que mata despacio, y evitas la intoxicación por monóxido antes de que ocurra. Ahí tu firma protege a una familia. Con esto cierras el Tema cero: ya no solo tocas tubos, entiendes de dónde sale cada norma, de qué respondes y por qué. Has completado el marco normativo entero; hoy ya piensas como un gasista. A partir de aquí saltamos a las instalaciones de verdad, con todo este mapa en la cabeza. Enhorabuena, y a por el siguiente tema."
+   "notas": "N1: Este es el gran final del tema. ¿Qué he conquistado en estos tres vídeos?\nN2: Vamos a reconstruirlo como logros, no como resumen, porque hoy sabes hacer cosas que al empezar no sabías. Distingues inspección de revisión con una sola pregunta, la de si está conectada a la red, y esa es la pregunta más repetida de todo el bloque. Sabes que la obligación de mantener es del titular, y que tú ejecutas y adviertes por escrito. Manejas las reglas finales sin agobiarte: el Reglamento como mínimos obligatorios, la técnica equivalente y la excepción como salidas firmadas por técnico competente y siempre antes de montar, las UNE citadas sin año con su listado en la ITC-ICG once, y las sanciones que viven en las dos leyes, no en el Reglamento. Y llevas de memoria el protocolo de accidente: veinticuatro horas para avisar, siete días para el informe, cuatro clases cerradas.\nN1: ¿Y por qué esto me hace mejor gasista, y no solo mejor examinando?\nN2: Por dos motivos. En el examen te lo preguntan tal cual, inspección o revisión, quién comunica, qué plazos de accidente, y ahora lo resuelves sin pestañear. Pero en la obra vale todavía más, y esto es lo bonito del oficio: cada vez que haces un control periódico de verdad, cazas la rejilla tapada o el conducto obstruido que mata despacio, y evitas una intoxicación por monóxido antes de que ocurra. Ahí tu firma protege a una familia entera. Con esto cierras el Tema cero completo: ya no solo tocas tubos, entiendes de dónde sale cada norma, de qué respondes tú y por qué existe cada regla. Has completado el marco normativo de arriba abajo; hoy, de verdad, ya piensas como un gasista. A partir de aquí saltamos a las instalaciones reales con todo este mapa en la cabeza. Enhorabuena por el tema, y a por el siguiente."
   }
  ]
 }

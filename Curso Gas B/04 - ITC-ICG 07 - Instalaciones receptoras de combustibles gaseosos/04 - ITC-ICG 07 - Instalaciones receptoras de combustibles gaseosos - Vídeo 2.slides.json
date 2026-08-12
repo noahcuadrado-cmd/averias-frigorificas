@@ -6,156 +6,198 @@
    "tema": "Tema 04 · Reglamento · ITC-ICG 07",
    "videoxy": "Vídeo 2 de 3",
    "titulo": "Documentación y puesta en servicio",
-   "subtitulo": "Proyecto, pruebas, certificados y arranque",
-   "notas": "N1: Ya sabes montar. ¿Y los papeles y el arranque?\nN2: Montar la instalación es la mitad del trabajo; la otra mitad son los papeles y el arranque. En este vídeo recorremos toda la parte administrativa de la ITC-ICG cero siete: si hace falta autorización, cuándo se exige proyecto, qué pruebas hay que hacer antes de entregar, qué certificados se emiten y, sobre todo, el procedimiento paso a paso de la puesta en servicio, con contrato y sin contrato de suministro. Aquí caen preguntas de cifras y de quién hace qué, así que fíjate mucho en los agentes: instalador, distribuidor, suministrador y usuario."
+   "subtitulo": "Proyecto, certificados y arranque de la instalación",
+   "notas": "N1: ¿Por qué es tan importante toda esta parte de papeles?\nN2: Porque montar la instalación es solo la mitad del trabajo; la otra mitad son los papeles y el arranque. En este vídeo recorremos toda la parte administrativa de la ITC-ICG cero siete: si hace falta autorización, cuándo se exige proyecto, qué pruebas hay que hacer antes de entregar, qué certificados se emiten y, sobre todo, el procedimiento paso a paso de la puesta en servicio, con contrato y sin contrato. Aquí caen preguntas de cifras, potencias y presiones, y preguntas de quién hace qué, así que fíjate bien en los agentes: instaladora, distribuidor, suministrador y usuario."
   },
   {
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["70 kW", "proyecto en instalación individual"],
-    ["2.000 kW", "proyecto en común o acometida"],
-    ["9", "pasos de las pruebas previas"]
+    [
+     "70",
+     "kW: proyecto en instalación individual"
+    ],
+    [
+     "2.000",
+     "kW: proyecto en común y acometida"
+    ],
+    [
+     "9",
+     "pasos de la puesta en servicio"
+    ]
    ],
-   "notas": "N1: Tres números para orientarte antes de empezar.\nN2: El primero, setenta kilovatios: por encima, una instalación individual ya necesita proyecto. El segundo, dos mil kilovatios: es el umbral para la instalación común y para la acometida interior. Y el tercero, nueve: son los pasos que da el distribuidor en las pruebas previas y la puesta en servicio, cinco de comprobar y cuatro de rematar. Con estos tres números y una regla de presión, que veremos, tienes controlado cuándo hace falta proyecto y cómo se da el gas."
+   "notas": "N1: ¿Qué me dicen estos números antes de empezar?\nN2: Te resumen el vídeo. Setenta kilovatios es la potencia a partir de la cual una instalación individual necesita proyecto; por debajo, con el certificado del instalador basta. Dos mil kilovatios es el listón para las instalaciones comunes y para las acometidas interiores. Y nueve son los pasos que sigue el distribuidor para dejar una instalación en servicio, desde comprobar la documentación hasta firmar el certificado. Si retienes estos tres, ya tienes el esqueleto de todo lo administrativo."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.1 · Autorización",
-   "titulo": "¿Hace falta permiso para montar?",
+   "titulo": "¿Necesito permiso para montar?",
    "vinetas": [
     "No precisa autorización administrativa",
     "Basta hacerlo bien y documentarlo",
-    "Comunicar solo si hubo proyecto"
+    "Comunicar solo en ciertos casos"
    ],
-   "img_brief": "plumber installing gas pipe wall",
-   "notas": "N1: Antes de montar, ¿tienes que pedir permiso y esperar?\nN2: No. Punto corto pero preguntable: para ejecutar una instalación receptora no necesitas autorización administrativa previa. No hay que pedir un permiso y quedarte parado esperando respuesta. Basta con hacer las cosas bien, documentarlas y, en su caso, comunicarlas, que lo vemos al final. Recuerda del Tema cero cero la diferencia entre autorización, que es un permiso previo para casos gordos, y comunicación, que es avisar después. Para la mera ejecución de la receptora, aquí no toca ni una ni la otra."
+   "img_brief": "gas installer working on pipe with wrench",
+   "notas": "N1: ¿Tengo que pedir permiso a la Administración antes de montar?\nN2: No, y este punto, aunque es corto, se pregunta. Para ejecutar una instalación receptora no necesitas ninguna autorización administrativa previa; no hay que pedir un permiso y quedarte esperando a que te digan que sí. Basta con hacer las cosas bien, documentarlas con sus certificados y, en algún caso concreto, comunicarlas después. Recuerda la diferencia del tema del reglamento: autorización es pedir permiso antes, y se reserva para casos gordos; comunicación es avisar después. Aquí, para el simple hecho de montar, ni una ni la otra. Arrancas la obra sin papeleo previo."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.2 · Proyecto",
-   "titulo": "Cuándo hace falta proyecto",
+   "titulo": "¿Cuándo hace falta proyecto?",
    "vinetas": [
     "Individual > 70 kW",
     "Común > 2.000 kW",
     "Acometida interior > 2.000 kW",
-    "Más de 5 bar: siempre proyecto"
+    "Más de 5 bar: siempre"
    ],
    "img_brief": "engineer reviewing technical drawings",
-   "notas": "N1: Cuatro disparadores de proyecto. ¿Te los sabes de memoria?\nN2: La instalación individual salta antes, con más de setenta kilovatios, porque es la pequeña. La común y la acometida interior aguantan hasta dos mil kilovatios. Y por encima de todo manda la presión: si la red trabaja a más de cinco bar, hay proyecto siempre, sea cual sea el uso y la potencia. El proyecto contiene todas las descripciones, cálculos y planos para ejecutar, más las instrucciones de funcionamiento, mantenimiento y revisión. En obra esto es clave: saberlo te evita arrancar un trabajo que luego no se puede legalizar por no tener proyecto."
+   "notas": "N1: ¿Y cuándo me obligan a hacer un proyecto?\nN2: Aquí tienes que memorizar tres números y una regla de presión. Una instalación individual necesita proyecto si pasa de setenta kilovatios. Una instalación común, si pasa de dos mil. Una acometida interior, también si pasa de dos mil. Y por encima de todo manda la presión: si la instalación se alimenta de una red que trabaja a más de cinco bar, necesita proyecto siempre, sea cual sea el uso y la potencia. El truco: la individual salta antes, con setenta, porque es la pequeña; la común y la acometida aguantan hasta dos mil. Y añade dos casos más: cuando se usan técnicas o materiales nuevos, y cuando por sus características no se puede cumplir algún requisito sin bajar la seguridad. Saber esto te evita arrancar una obra que luego no se puede legalizar."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.2 · Ampliaciones",
-   "titulo": "Ampliaciones y dirección de obra",
+   "titulo": "La regla del 30 %",
    "vinetas": [
-    "Ampliar > 30 % de la potencia → proyecto",
-    "Nuevas técnicas o materiales → proyecto",
-    "Proyecto ⇒ certificado de dirección de obra"
+    "Ampliar y superar el 30 %",
+    "de la potencia de diseño inicial",
+    "O entrar en los otros supuestos"
    ],
-   "img_brief": "engineer signing document clipboard",
-   "notas": "N1: ¿Puedes engordar una instalación poco a poco sin proyecto?\nN2: No sin límite. Si amplías y con la ampliación superas en un treinta por ciento la potencia de diseño original, o entras en cualquiera de los supuestos de potencia y presión de antes, necesitas proyecto. Es la forma que tiene el reglamento de evitar que se engorde una instalación a base de pequeñas ampliaciones sin control. También hace falta proyecto con nuevas técnicas o materiales, siempre que no bajen la seguridad. Y ata este cabo importante: siempre que hay proyecto, hay un técnico competente que dirige la obra y firma el certificado de dirección de obra. Proyecto implica dirección de obra; si no hay proyecto, lo normal en domésticas, no hay ese certificado."
+   "img_brief": "gas pipe network with branches on wall",
+   "notas": "N1: Si amplío una instalación que ya tenía, ¿también necesito proyecto?\nN2: Depende de cuánto la amplíes. La regla es esta: si al ampliar superas en un treinta por ciento la potencia de diseño que tenía la instalación al proyectarse, entonces sí necesitas proyecto. También si con la ampliación entras en cualquiera de los supuestos que ya vimos, por ejemplo si te pasas de setenta en una individual. La idea de fondo es lógica: una ampliación pequeña no obliga a nada, pero crecer más de un treinta por ciento ya es harina de otro costal. Es la forma que tiene el reglamento de evitar que alguien engorde una instalación poco a poco, a base de ampliaciones sueltas, sin que nadie la controle con un proyecto."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.2 · Dirección de obra",
+   "titulo": "Proyecto = dirección de obra",
+   "vinetas": [
+    "Si hay proyecto, hay técnico",
+    "Emite certificado de dirección de obra",
+    "Sin proyecto, no hay dirección"
+   ],
+   "img_brief": "technical engineer with hard hat on construction site",
+   "notas": "N1: ¿Y qué papel sale del proyecto?\nN2: Van siempre de la mano estas dos ideas: proyecto y dirección de obra. Siempre que una instalación necesita proyecto, hay un técnico competente que dirige la obra y que, al acabar, firma un certificado de dirección de obra. Es su forma de decir: yo he vigilado que esto se monte según el proyecto. Y al revés: si no hay proyecto, que es lo normal en las instalaciones domésticas pequeñas, no hay dirección de obra ni ese certificado. Asócialo como una pareja fija: proyecto implica dirección de obra. En el examen te lo pueden preguntar justo así, para ver si sabes que uno arrastra al otro."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.3 · Pruebas de entrega",
    "titulo": "La prueba estrella: estanquidad",
    "vinetas": [
-    "Prueba de estanquidad antes de entregar",
-    "UNE 60670-8 (baja) o UNE 60620 (alta)",
-    "Resultado positivo al certificado",
-    "Enterrada: certificado antes del gas"
+    "La hace la empresa instaladora",
+    "UNE 60670-8 (baja) o 60620 (alta)",
+    "Resultado positivo en el certificado"
    ],
-   "img_brief": "gas pressure test manometer pipe",
-   "notas": "N1: ¿Qué prueba no puede faltar antes de entregar?\nN2: La de estanquidad: tú, la empresa instaladora, tienes que demostrar que la instalación no tiene fugas. Se hace según la UNE sesenta mil seiscientos setenta, parte ocho, en baja presión, o la sesenta mil seiscientos veinte en alta. El resultado positivo se hace constar en el certificado de instalación. Recuerda del Tema cero cero: la prueba la hace quien monta; no la confundas con la inspección, que la hace un tercero. Y un detalle de secuencia: si hay acometida interior enterrada, su certificado va al distribuidor antes de la puesta en marcha, porque lo enterrado, una vez tapado, ya no se revisa a ojo."
+   "img_brief": "pressure gauge manometer on gas pipe test",
+   "notas": "N1: ¿Qué prueba hay que hacer antes de entregar la instalación?\nN2: La prueba de estanquidad, que es la más importante. Estanquidad significa que la instalación no tiene fugas, que no se escapa ni una burbuja de gas por ninguna unión. Antes de entregar, tú, la empresa instaladora, tienes que probarlo, siguiendo la UNE sesenta mil seiscientos setenta guion ocho si es baja presión, o la UNE sesenta mil seiscientos veinte si es alta. Y el resultado positivo se hace constar en el certificado de instalación, o sea, queda por escrito y firmado. Recuerda un matiz del tema del reglamento: la prueba la hace quien monta; no la confundas con la inspección, que la hace un tercero distinto. Una estanquidad mal hecha acaba en olor a gas y, en lo grave, en una deflagración."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.3 · Acometida enterrada",
+   "titulo": "Enterrado: el certificado, antes",
+   "vinetas": [
+    "Acometida interior enterrada",
+    "Certificado al distribuidor",
+    "Antes de la puesta en marcha"
+   ],
+   "img_brief": "buried gas pipe connection underground",
+   "notas": "N1: ¿Y con la parte enterrada hay algo especial?\nN2: Sí, un detalle de orden que conviene tener claro. Si la instalación tiene acometida interior enterrada, la empresa instaladora tiene que entregar al distribuidor el certificado de esa acometida antes de la puesta en marcha, es decir, antes de dar gas. La lógica es de puro sentido común: lo que va enterrado, una vez tapado, ya no se puede revisar a simple vista. Así que el distribuidor quiere en la mano el papel que garantiza que se probó y que quedó bien, antes de permitir que circule el gas. Primero el certificado sobre la mesa; después, el gas. Nunca al revés."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.4 · Certificados",
-   "titulo": "Los tres certificados de instalación",
+   "titulo": "Tres certificados, uno por tramo",
    "vinetas": [
     "IRG-1: acometida interior",
     "IRG-2: instalación común",
     "IRG-3: instalación individual",
-    "Solo el IRG-3 lista aparatos"
+    "Todos llevan croquis"
    ],
-   "img_brief": "hand filling paper form desk",
-   "notas": "N1: Tres certificados, uno por tramo. ¿Sabes qué distingue a cada uno?\nN2: El uno es el de acometida interior, el tramo de entrada; su certificado insiste en las pruebas de resistencia mecánica y estanquidad, según la sesenta mil trescientos diez y la trescientos once, y es el único que menciona la servidumbre de paso. El dos es el de la instalación común, el montante compartido del edificio. Y el tres es el de la instalación individual, lo de dentro de la vivienda; es el único que exige listar los aparatos conectados o previstos con su consumo calorífico nominal, porque es el que llega hasta ellos. Truco para el examen: solo el individual habla de aparatos. Y todos llevan croquis con trazado, material, longitudes, diámetros, accesorios y caudales por tramo: el plano de tu trabajo para quien venga detrás."
+   "img_brief": "installer filling out paper certificate on clipboard",
+   "notas": "N1: ¿Cuántos certificados de instalación hay y en qué se diferencian?\nN2: Hay tres, uno por cada tramo de la receptora, y no conviene mezclarlos. El uno erre ge guion uno es el de la acometida interior, el tramo de entrada; este es el único que insiste en las pruebas de resistencia mecánica y estanquidad según las normas de acometidas, y el único que menciona la servidumbre de paso. El uno erre ge guion dos es el de la instalación común, el montante compartido del edificio. Y el uno erre ge guion tres es el de la instalación individual, lo de dentro de la vivienda. Los tres llevan croquis: trazado, material, longitudes, diámetros, accesorios y caudales por tramo. Piensa en el croquis como el plano de tu trabajo, para que quien venga detrás entienda por dónde va cada tubo sin abrir la pared."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.4 · Certificados",
+   "titulo": "Solo el individual lista aparatos",
+   "vinetas": [
+    "IRG-3 incluye los aparatos",
+    "con su consumo nominal",
+    "Es el que llega hasta ellos"
+   ],
+   "img_brief": "gas cooktop and boiler in home",
+   "notas": "N1: ¿Por qué dices que solo uno de ellos habla de aparatos?\nN2: Porque de los tres certificados, solo el individual, el uno erre ge guion tres, tiene que listar los aparatos de consumo conectados o previstos, indicando su consumo calorífico nominal, es decir, cuántos kilovatios consume cada uno. Y tiene toda la lógica: es el único tramo que llega de verdad hasta los aparatos, dentro de la vivienda. El de la acometida y el de la común se quedan por el camino, en la entrada y en el montante, así que no tienen aparatos que listar. Truco para el examen: si una pregunta habla de listar aparatos y su potencia, piensa siempre en el individual."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.4 · Chimeneas",
-   "titulo": "Certificación de chimeneas",
+   "titulo": "Chimeneas en obra nueva",
    "vinetas": [
-    "Obra nueva con chimeneas",
-    "Previa a la puesta en servicio",
-    "La firma el técnico u organismo de control"
+    "Edificio de nueva planta con chimeneas",
+    "Certificación previa a la puesta en servicio",
+    "Técnico competente u organismo de control"
    ],
-   "img_brief": "inspector checking building chimney",
-   "notas": "N1: En un edificio de nueva planta con chimeneas, ¿basta con el certificado de instalación?\nN2: No: hace falta además una certificación específica de las chimeneas, previa a la puesta en servicio, que acredite que cumplen con las normas de diseño y cálculo, la ciento veintitrés mil uno y las dos partes de la trece mil trescientos ochenta y cuatro, y en materiales con la mil ochocientos cincuenta y seis si son metálicas o la NTE-ISH setenta y cuatro si no lo son. Si el certificado de dirección de obra ya incluye esa acreditación, vale; si no, la firma el técnico facultativo competente responsable de la construcción o un organismo de control. Es la garantía de que los humos van a salir bien antes de que entre nadie a vivir."
+   "img_brief": "new building rooftop with chimney flues",
+   "notas": "N1: ¿Y las chimeneas de un edificio nuevo hay que certificarlas aparte?\nN2: Sí. Si la instalación alimenta a un edificio de nueva planta y ese edificio tiene chimeneas para evacuar los humos, antes de la puesta en servicio hace falta una certificación que acredite que esas chimeneas cumplen las normas de diseño y cálculo y las de materiales que ya vimos en el primer vídeo. Ahora, si el certificado de dirección de obra ya incluye esa acreditación, no hace falta nada más. Pero si no la incluye, tiene que extenderla el técnico facultativo competente responsable de la construcción o un organismo de control. En resumen: alguien con autoridad técnica firma que las chimeneas están bien calculadas y son del material correcto, antes de dar gas."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.5 · Puesta en servicio",
    "titulo": "Cerrar, bloquear, precintar, taponar",
    "vinetas": [
-    "Llaves sin contrato: cerradas y precintadas",
-    "Bloqueadas: que nadie las abra",
-    "Taponadas si no hay aparato",
-    "Gas en el montante, nunca suelto"
+    "Llaves de viviendas sin contrato",
+    "Cerradas, bloqueadas y precintadas",
+    "Taponadas si no hay aparato"
    ],
-   "img_brief": "sealed gas valve meter cabinet",
-   "notas": "N1: Das gas a un edificio, pero muchas viviendas aún no tienen contrato. ¿Qué haces con esas llaves?\nN2: Cuando pones en servicio, las llaves de inicio de las instalaciones individuales que no arrancan todavía, y las llaves de conexión de los aparatos pendientes de instalar, tienen que quedar cerradas, bloqueadas y precintadas, para que nadie las abra por su cuenta. Y si además la instalación o el aparato ni siquiera están montados, se taponan: un tapón físico en la boca de la llave. Es seguridad pura: puede haber gas en el montante del edificio, pero tiene que ser imposible que salga por una salida sin terminar. En obra, saltarse esto es dejar gas suelto en un local a medias, una fuga esperando a pasar."
+   "img_brief": "gas valve with security seal",
+   "notas": "N1: Cuando doy gas al edificio pero hay viviendas sin contrato, ¿qué hago con esas llaves?\nN2: Muy buena, porque es lo habitual: das gas al montante, pero muchas viviendas todavía no tienen contrato. Esas llaves de inicio hay que dejarlas cerradas, bloqueadas y precintadas, para que nadie las abra por su cuenta; el precinto es como el sello que salta si alguien lo toca. Y si además la instalación individual o el aparato ni siquiera están montados, se taponan, que es poner un tapón físico en la boca de la llave. Es seguridad pura: puede haber gas en el montante, pero tiene que ser imposible que salga por una salida sin terminar. Lo mismo con las llaves de conexión de los aparatos que están pendientes de instalar o de arrancar."
   },
   {
    "tipo": "contenido",
-   "eyebrow": "Apartado 3.5 · Purga",
-   "titulo": "Purgar antes de dar gas",
+   "eyebrow": "Apartado 3.5 · Puesta en servicio",
+   "titulo": "Purgar: sacar el aire",
    "vinetas": [
     "Barrer el aire de la tubería",
-    "Sin mezcla aire-gas inflamable dentro",
-    "Dejar la tubería solo con gas"
+    "Que no quede mezcla aire-gas",
+    "Fuera de los límites de inflamabilidad"
    ],
-   "img_brief": "technician purging gas line valve",
-   "notas": "N1: Antes de dar gas a una tubería que estaba llena de aire, ¿qué toca hacer?\nN2: Purgarla, es decir, barrer el aire con gas o con un inerte para que dentro no quede una mezcla de aire y gas dentro de los límites de inflamabilidad. Esa mezcla es justo la que puede arder si salta una chispa. Purgar bien es dejar la tubería solo con gas, fuera del rango explosivo. Es una de las operaciones más delicadas del arranque: purgar mal es arriesgar una deflagración al primer chispazo, o un aparato que ni arranca porque le queda aire en la línea. Se hace con cabeza, ventilando y sin fuentes de ignición cerca."
+   "img_brief": "gas technician purging pipe at valve",
+   "notas": "N1: ¿Qué es eso de purgar la instalación?\nN2: Purgar es sacar el aire que hay dentro de la tubería antes de dejarla llena de gas. Piénsalo así: la tubería recién montada está llena de aire; si metes gas de golpe, durante un rato dentro se forma una mezcla de aire y gas, y esa mezcla, en cierta proporción, es explosiva; puede arder con una simple chispa. A esa proporción peligrosa se le llama estar dentro de los límites de inflamabilidad. Purgar bien es barrer ese aire, normalmente empujándolo con el propio gas o con un gas inerte, hasta que dentro solo quede gas, ya fuera del rango explosivo. Es una de las operaciones más delicadas del arranque: purgar mal es arriesgar una deflagración al primer chispazo."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.5.1 · Con contrato",
+   "titulo": "Con contrato de suministro",
+   "vinetas": [
+    "El usuario firma la póliza antes",
+    "Se solicita la puesta en servicio",
+    "La ejecuta el distribuidor"
+   ],
+   "img_brief": "person signing a contract at a desk",
+   "notas": "N1: Si la vivienda va a tener contrato normal, ¿por dónde se empieza?\nN2: Primero, antes de nada, el futuro usuario tiene que formalizar la póliza de abono o el contrato de suministro con el suministrador, aportando su documentación. Sin contrato no hay puesta en servicio. Una vez firmado, en las instalaciones alimentadas desde una red de distribución, el usuario, o el suministrador en su nombre, solicita al distribuidor la puesta en servicio. Y es el distribuidor, con personal propio o autorizado, quien viene a hacer las pruebas y a dar el gas. Esta misma solicitud vale también cuando se modifica una instalación. Fíjate en el orden: contrato primero, solicitud después, y el distribuidor ejecuta."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.5.1 · Los 9 pasos",
+   "titulo": "Nueve pasos, dos bloques",
+   "vinetas": [
+    "1-5: comprobar todo",
+    "docs, partes visibles, locales, válvulas",
+    "6-9: precintar contador y estanquidad",
+    "dejar en servicio y certificar"
+   ],
+   "img_brief": "gas meter and regulator being inspected",
+   "notas": "N1: ¿Y qué hace exactamente el distribuidor, paso a paso?\nN2: Son nueve pasos que se parten en dos bloques muy fáciles de recordar. Del uno al cinco, comprobar: que la documentación esté completa, que las partes visibles y accesibles cumplan la normativa, que los locales donde van los aparatos y sus conductos de humos estén bien, que las válvulas se maniobren, y, si hay una estación de regulación, que funcionen sus sistemas de regulación y de seguridad. Del seis al nueve, rematar: precintar el equipo de medida, o sea el contador, verificar la estanquidad, dejar la instalación en servicio si todo va favorable, y extender un certificado de pruebas previas y puesta en servicio, con copia para el titular. La regla mental: primero compruebo, y solo si va bien, doy gas y firmo. El paso seis, precintar el contador, es el que lo deja oficial."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.5.1 · Quién actúa",
    "titulo": "¿Quién da el gas?",
    "vinetas": [
-    "Primero: contrato o póliza de abono",
-    "Con red → lo hace el distribuidor",
-    "Sin red → lo hace el suministrador",
-    "A petición del usuario"
+    "Con red: el distribuidor",
+    "Sin red: el suministrador",
+    "Mismas pruebas, cambia el agente"
    ],
-   "img_brief": "utility technician gas meter reading",
-   "notas": "N1: ¿Quién ejecuta la puesta en servicio? Depende de una cosa.\nN2: Depende de si la instalación está alimentada desde una red de distribución. De forma previa, el futuro usuario formaliza la póliza de abono o el contrato de suministro. Luego, si está alimentada desde red, gas natural o gases licuados del petróleo de red, la puesta en servicio la hace el distribuidor, con personal propio o autorizado, a petición del usuario o del suministrador en su nombre. Si no está alimentada desde red, por ejemplo un depósito propio, las mismas pruebas y el certificado los hace el suministrador. Es el mismo procedimiento; solo cambia quién lo ejecuta, y en el examen suelen jugar con ese cambio de agente."
-  },
-  {
-   "tipo": "contenido",
-   "eyebrow": "Apartado 3.5.1 · 9 pasos",
-   "titulo": "Pruebas previas y arranque",
-   "vinetas": [
-    "1-5: comprobar (docs, locales, válvulas)",
-    "6: precintar el contador",
-    "7-8: estanquidad y dejar en servicio",
-    "9: certificado, copia al titular"
-   ],
-   "img_brief": "gas meter with security seal",
-   "notas": "N1: Nueve pasos, pero se agrupan en dos bloques. ¿Cuáles?\nN2: Los pasos del uno al cinco son comprobar: que la documentación está completa, que las partes visibles y accesibles cumplen la norma, que los locales donde van los aparatos y sus conductos de humos son adecuados, que las válvulas maniobran, y si hay estación de regulación, que funcionan los sistemas de regulación y los dispositivos de seguridad. Los pasos del seis al nueve son rematar: precintar el equipo de medida, es decir el contador, que queda oficial; verificar la estanquidad; dejar la instalación en servicio si todo va bien; y extender el certificado de pruebas previas y puesta en servicio, con copia al titular o usuario. Regla mental: primero compruebo, y solo si va bien, doy gas y firmo."
-  },
-  {
-   "tipo": "contenido",
-   "eyebrow": "Apartado 3.5.1 · Archivo",
-   "titulo": "Guardar los papeles y la regla del año",
-   "vinetas": [
-    "Archivar instalación y puesta en servicio",
-    "Consultable por la Comunidad Autónoma",
-    "Más de un año parado → como nueva"
-   ],
-   "img_brief": "office archive folders shelf",
-   "notas": "N1: Firmados los papeles, ¿dónde acaban y qué pasa si la instalación estuvo mucho tiempo parada?\nN2: El distribuidor, o el suministrador si no hay red, archiva un ejemplar del certificado de instalación y del certificado de pruebas previas y puesta en servicio, de forma que el órgano competente de la Comunidad Autónoma pueda consultarlos en todo momento. Y la regla del año, la misma que en el articulado: si una instalación estuvo más de un año sin suministro tras resolverse el contrato, al reabrir se trata como nueva. No se reengancha sin más: la distribuidora comprueba que existe el certificado de la instalación individual archivado y rehace el certificado de pruebas previas y puesta en servicio. Más de un año parado, borrón y cuenta nueva."
+   "img_brief": "gas distribution technician at meter cabinet",
+   "notas": "N1: ¿Siempre da el gas el distribuidor?\nN2: No, depende de si hay red por detrás. Si la instalación se alimenta desde una red de distribución, gas natural o gases del petróleo de red, la puesta en servicio la hace el distribuidor, con personal propio o autorizado, a petición del usuario o del suministrador. Pero si la instalación no se alimenta desde red, por ejemplo con un depósito propio, entonces esas mismas pruebas previas y ese mismo certificado los hace el suministrador. Fíjate: el procedimiento es idéntico, lo único que cambia es quién lo ejecuta. En el examen les gusta jugar justo con este cambio de agente, así que quédate con la pregunta clave: ¿hay red o no?"
   },
   {
    "tipo": "contenido",
@@ -163,34 +205,48 @@
    "titulo": "Sin contrato: manda la instaladora",
    "vinetas": [
     "No interviene el distribuidor",
-    "La instaladora hace las pruebas del 3.3",
-    "Certificado de instalación en todos los casos",
-    "Copia al titular"
+    "La instaladora hace las pruebas",
+    "Siempre entrega certificado al titular"
    ],
-   "img_brief": "gas installer clipboard house",
-   "notas": "N1: ¿Y si se deja la instalación acabada pero aún sin dar de alta?\nN2: Entonces no hay contrato de suministro domiciliario, así que no interviene el distribuidor para la puesta en servicio. Manda la empresa instaladora que hizo el montaje: realiza las pruebas y verificaciones de entrega del apartado tres punto tres, básicamente la estanquidad, y emite en todos los casos el certificado de instalación, del que entrega copia al titular. Fíjate en esa expresión, en todos los casos: ese certificado no es opcional, siempre se entrega. Es el papel que acredita que lo que dejaste hecho está probado y en condiciones, aunque todavía no haya gas circulando."
+   "img_brief": "installer handing document to homeowner",
+   "notas": "N1: ¿Y si la instalación se deja acabada pero sin dar de alta el suministro?\nN2: Ese es el caso sin contrato de suministro domiciliario: la instalación se termina, pero todavía no se contrata el gas. Aquí no interviene el distribuidor para ninguna puesta en servicio. Es la empresa instaladora, la que ha hecho el montaje, quien realiza las pruebas y verificaciones de entrega, básicamente la estanquidad, y emite, en todos los casos, el certificado de instalación, del que entrega copia al titular. Fíjate en la expresión en todos los casos: ese certificado no es opcional, siempre se entrega. Es la garantía en papel de que lo que se ha montado está probado y en condiciones, aunque todavía no tenga gas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 3.5.1 · Reapertura",
+   "titulo": "La regla del año",
+   "vinetas": [
+    "Más de un año sin suministro",
+    "tras resolver el contrato",
+    "Se trata como instalación nueva"
+   ],
+   "img_brief": "old closed gas meter in cabinet",
+   "notas": "N1: Si una casa lleva mucho tiempo sin gas, ¿se reengancha sin más?\nN2: No, y aquí vuelve una regla que ya salió en el articulado del reglamento: la regla del año. Si una instalación estuvo más de un año sin suministro después de haberse resuelto el contrato, al volver a darle gas se trata como si fuera una instalación nueva. No se reengancha y ya está. La distribuidora comprueba que existe el certificado de la instalación individual archivado y, a continuación, rehace el certificado de pruebas previas y puesta en servicio, con todas sus comprobaciones. La idea, fácil de retener: más de un año parada, borrón y cuenta nueva. Es lógico, porque en un año una instalación abandonada puede haberse degradado sin que nadie la mire."
   },
   {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.6 · Comunicación",
-   "titulo": "Comunicar solo si hubo proyecto",
+   "titulo": "Comunicar solo si hay proyecto",
    "vinetas": [
-    "Sin proyecto → no se comunica",
-    "Con proyecto → se comunica",
-    "El suministrador guarda la documentación"
+    "Con proyecto: se comunica",
+    "Sin proyecto: no hace falta",
+    "Pero siempre se guarda la documentación"
    ],
-   "img_brief": "administrative office stamp document",
-   "notas": "N1: ¿Cuándo hay que avisar a la Administración de que has montado?\nN2: La regla es sencilla: si la instalación necesitaba proyecto, por las potencias o la presión del apartado tres punto dos, se comunica a la Administración; si no necesitaba proyecto, no hace falta comunicar nada. Pero ojo con un matiz que confunde: aunque no comuniques, el suministrador debe tener a disposición de la Administración toda la documentación necesaria de esa instalación. No comunicar no es no documentar: los papeles siempre existen y siempre se guardan, por si la Administración los pide."
+   "img_brief": "filing cabinet with documents and folders",
+   "notas": "N1: ¿Tengo que avisar a la Administración cuando acabo?\nN2: Solo en un caso, y es fácil de recordar: si la instalación necesitaba proyecto, por las potencias o la presión que vimos, entonces se comunica a la Administración. Si no necesitaba proyecto, que es lo normal en lo doméstico, no hace falta comunicar nada. Pero ojo con una trampa: aunque no comuniques, el suministrador tiene que guardar la documentación de la instalación y tenerla lista por si la Administración la pide. O sea, no comunicar no es lo mismo que no documentar. El papel siempre existe y siempre está disponible; lo que cambia es si además hay que enviar el aviso o no."
   },
   {
    "tipo": "cierre",
-   "titulo": "Qué me llevo",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes darle papeles y gas a una instalación",
    "mapa": [
-    "Ejecutar no precisa autorización",
-    "Proyecto: 70, 2.000 kW y 5 bar",
-    "Con red da el gas el distribuidor; sin red, el suministrador"
+    "Proyecto: 70 kW, 2.000 kW y más de 5 bar",
+    "La estanquidad la hace quien monta",
+    "Puesta en servicio: comprobar y luego dar gas",
+    "IRG-1, IRG-2, IRG-3, uno por tramo"
    ],
-   "notas": "N1: Tres ideas para cerrar la parte administrativa.\nN2: Primera, para ejecutar una receptora no necesitas autorización: haces las cosas bien, las documentas y, si tocaba proyecto, las comunicas. Segunda, los disparadores del proyecto: individual por encima de setenta kilovatios, común y acometida por encima de dos mil, cualquier instalación a más de cinco bar sea cual sea la potencia, y las ampliaciones que superen el treinta por ciento; y donde hay proyecto hay certificado de dirección de obra. Y tercera, quién da el gas: con red lo hace el distribuidor en nueve pasos, primero comprobar y luego precintar el contador, probar estanquidad, dar servicio y certificar; sin red lo hace el suministrador; y sin contrato manda la instaladora, que siempre entrega el certificado de instalación al titular. La prueba que no falla nunca es la de estanquidad, y purgar bien es lo que evita un susto en el arranque."
+   "tagline": "Ya dominas el arranque y el papeleo. Vamos a por el mantenimiento y las inspecciones.",
+   "notas": "N1: Recapitulando, ¿qué me llevo de todo lo administrativo?\nN2: Vamos a reconstruirlo con sentido. Montar es media faena; la otra media son los papeles y el arranque. Para montar no hace falta autorización, pero sí saber cuándo hace falta proyecto: individual por encima de setenta kilovatios, común y acometida por encima de dos mil, y siempre que se pase de cinco bar. Y proyecto arrastra dirección de obra. Antes de entregar, la prueba estrella es la estanquidad, que la hace quien monta y queda en el certificado de instalación. Los certificados son tres, uno por tramo, y solo el individual, el uno erre ge guion tres, lista los aparatos. Y la puesta en servicio sigue un orden sagrado: primero comprobar, y solo si va bien, precintar el contador, probar la estanquidad, dar gas y firmar.\nN1: ¿Cómo se pregunta esto y para qué me sirve en la obra?\nN2: En el examen caen las cifras, setenta, dos mil, cinco bar, treinta por ciento, y el juego de quién hace qué: distribuidor con red, suministrador sin red, instaladora sin contrato. En la obra, esto decide si puedes legalizar o no lo que montas y quién firma cada papel; equivocarte aquí es quedarte con una instalación acabada que no se puede poner en servicio. Hoy ya sabes llevar una instalación desde el último tubo hasta tener gas y sello. Eres más gasista que ayer. En el último vídeo cerramos el tema con la vida de la instalación: mantenimiento, inspecciones y revisiones, anomalías y los modelos de impresos. Te espero para el gran final."
   }
  ]
 }

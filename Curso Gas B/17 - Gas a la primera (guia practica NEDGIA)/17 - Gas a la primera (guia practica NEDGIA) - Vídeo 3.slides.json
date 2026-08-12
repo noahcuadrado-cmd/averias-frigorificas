@@ -1,0 +1,253 @@
+{
+ "pie": "Curso Gas B · Tema 17 · Gas a la primera",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 17 · Guía práctica",
+   "videoxy": "Vídeo 3 de 3",
+   "titulo": "Gas a la primera",
+   "subtitulo": "Ventilación, evacuación de humos y certificados",
+   "notas": "N1: ¿Con qué cerramos la guía?\nN2: Con lo que más vidas salva. El aparato quema gas, y hay que darle aire para quemar y sacarle los humos. En este vídeo vemos cómo se ventilan los locales con aparatos a gas, qué volumen mínimo necesitan, cómo funcionan los patios, qué exige el RITE para evacuar los productos de la combustión, y qué certificados hay que rellenar al terminar. Ventilaciones, volúmenes, patios, humos y papeles, todo con sus cifras exactas. Es el vídeo de la seguridad de verdad."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "125 cm²",
+     "ventilación mínima de un local con gas"
+    ],
+    [
+     "8 m³",
+     "volumen mínimo con cocina ≤ 16 kW"
+    ],
+    [
+     "86 %",
+     "rendimiento ErP en calderas pequeñas"
+    ]
+   ],
+   "notas": "N1: ¿Qué me dicen estas tres cifras?\nN2: Son el esqueleto de la seguridad del vídeo. Ciento veinticinco centímetros cuadrados es la ventilación mínima que pide un local con gas, por pequeña que sea la potencia. Ocho metros cúbicos es el volumen mínimo con una cocina de gas de hasta dieciséis kilovatios. Y ochenta y seis por ciento es el rendimiento que exige la normativa europea a las calderas pequeñas, que en la práctica solo alcanza la condensación. Aire, espacio y rendimiento: las tres patas de este vídeo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ventilaciones · Generalidades",
+   "titulo": "Dónde no puede haber un aparato a gas",
+   "vinetas": [
+    "En dormitorio, baño, ducha o aseo: no",
+    "Nunca bajo el primer sótano (dr<1)",
+    "Primer sótano: suelo a >60 cm bajo la calle",
+    "Salas > 70 kW van por otra norma"
+   ],
+   "img_brief": "gas boiler in ventilated utility room",
+   "notas": "N1: ¿Por qué no se puede poner un aparato a gas en un dormitorio o un baño?\nN2: Por la misma razón por la que no metíamos ahí el contador: son sitios donde te encierras con la puerta cerrada, a veces a dormir, a veces a ducharte con vapor, y sin ventilación garantizada. Un aparato quemando gas consume aire y suelta humos; si la combustión se tuerce, aparece monóxido de carbono, que no huele. En un cuarto cerrado eso es una intoxicación silenciosa. Por eso ni tipo A ni tipo B en dormitorio, baño, ducha o aseo. Y otra prohibición hermana: nada de aparatos por debajo del primer sótano, porque el gas natural tiene densidad relativa menor que uno, es más ligero que el aire, y en un sótano profundo no ventila. Ojo al dato de examen: se considera primer sótano aquel cuyo suelo está, en todas sus paredes, a más de sesenta centímetros por debajo del nivel de la calle. Y una última pieza: las salas de máquinas de más de setenta kilovatios ya no las gobierna esta norma, tienen la suya propia."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ventilaciones · Generalidades",
+   "titulo": "Local único y zona exterior: 1,5 m²",
+   "vinetas": [
+    "Local único: abertura > 1,5 m² entre locales",
+    "Zona exterior: abertura ≥ 1,5 m²",
+    "Con el borde a ≤ 0,5 m del techo",
+    "Local único: se suman los volúmenes"
+   ],
+   "img_brief": "open plan kitchen and living room",
+   "notas": "N1: Veo el número metro y medio cuadrado dos veces. ¿Es lo mismo?\nN2: Coincide el número, pero son dos conceptos distintos, así que cuidado. El primero es local único: dos locales cuentan como uno solo si los une una abertura permanente de más de metro y medio cuadrado. ¿Para qué sirve? Para sumar sus volúmenes y su ventilación como si fueran una sola estancia; por ejemplo, una cocina abierta al comedor. El segundo es zona exterior: una galería, una terraza o un balcón cuentan como exterior, a efectos de la norma, si tienen una abertura permanente de al menos metro y medio cuadrado hacia fuera o a un patio, y con el borde superior de esa abertura a medio metro o menos del techo. Truco para no confundirlos: cuando veas metro y medio cuadrado, pregúntate qué te están diciendo, si me están uniendo dos locales en uno o me están sacando una galería al exterior."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Aberturas de ventilación",
+   "titulo": "La frontera de los 16 kW en tipo A",
+   "vinetas": [
+    "Solo tipo B: una abertura arriba",
+    "Tipo A ≤ 16 kW: una abertura arriba",
+    "Tipo A > 16 kW: dos aberturas",
+    "La superior, siempre directa"
+   ],
+   "img_brief": "ventilation grilles high and low on wall",
+   "notas": "N1: ¿Cuándo necesito una abertura de ventilación y cuándo dos?\nN2: Depende del tipo de aparato y de la potencia. Recordemos: los aparatos tipo A sueltan los humos al propio local, como una cocina de gas; los tipo B los sacan por un conducto. Si en el local solo hay tipo B, o hay tipo A hasta dieciséis kilovatios, basta con una abertura en la parte alta: extremo inferior a un metro con ochenta o más del suelo y a cuarenta centímetros o menos del techo. Pero en cuanto los aparatos tipo A pasan de dieciséis kilovatios, ya necesitas dos aberturas: una abajo, con el extremo superior a cincuenta centímetros o menos del suelo, y otra arriba; y la de arriba tiene que ser obligatoriamente directa al exterior. La lógica: más potencia significa más humos y más aire necesario, así que separas la entrada de aire por abajo y la salida por arriba. Dieciséis kilovatios es la frontera que tienes que recordar."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Cálculo de la ventilación",
+   "titulo": "kW × 5, mínimo 125 cm²",
+   "vinetas": [
+    "Superficie = kW × 5 (cm²)",
+    "Nunca menos de 125 cm²",
+    "Los aparatos estancos no cuentan",
+    "Solo cuenta el circuito abierto"
+   ],
+   "img_brief": "kitchen ventilation grille on wall",
+   "notas": "N1: ¿Cómo calculo los centímetros de ventilación que necesita una cocina?\nN2: Con una regla que es la estrella del tema, muy fácil de recordar. Sumas la potencia de todos los aparatos de circuito abierto del local, en kilovatios, y la multiplicas por cinco: eso te da los centímetros cuadrados de ventilación. Pero con un suelo: nunca menos de ciento veinticinco centímetros cuadrados. Por eso una cocina de diez kilovatios, que por la cuenta daría cincuenta, se queda igualmente en ciento veinticinco. Dos avisos importantes. Uno: los aparatos estancos no cuentan en esta suma, porque cogen el aire de fuera y sueltan los humos fuera por su propio conducto; solo cuentan los de circuito abierto, que respiran del local. Y dos: cuando la potencia de tipo A pasa de dieciséis kilovatios y necesitas dos aberturas, repartes esa superficie en dos mitades iguales, una arriba y otra abajo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Ventilación rápida",
+   "titulo": "Pasando de 30 kW, más exigencia",
+   "vinetas": [
+    "Ventilación rápida típica: 0,4 m²",
+    "≤ 30 kW: directa o indirecta",
+    "> 30 kW: directa obligatoria",
+    "Corte por fallo, electroválvula fuera"
+   ],
+   "img_brief": "commercial kitchen ventilation hood",
+   "notas": "N1: ¿Qué es la ventilación rápida y qué cambia al pasar de treinta kilovatios?\nN2: La ventilación rápida es una abertura pensada para evacuar deprisa un exceso de gas si algo va mal; el valor típico que verás es de cuatro décimas de metro cuadrado. Ahora, fíjate en la frontera de los treinta kilovatios, porque marca el nivel de exigencia. Por debajo de treinta, la ventilación puede ser directa o indirecta. Pero por encima de treinta, la ventilación tiene que ser directa al exterior y, además, montas un sistema de corte de gas por fallo de la ventilación, con una electroválvula de rearme manual colocada fuera del local. ¿Por qué fuera? Para que, si salta, alguien tenga que ir, comprobar qué ha pasado y rearmarla a conciencia, no desde dentro sin mirar. La idea de fondo se repite en todo el tema: más potencia, más humos posibles, más seguridad activa."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Volumen mínimo",
+   "titulo": "kW − 8, con suelo de 8 m³",
+   "vinetas": [
+    "Tipo A ≤ 16 kW → 8 m³",
+    "Tipo A > 16 kW → kW − 8",
+    "Calefacción directa → kW × 11 (mín. 15 m³)",
+    "Estancos y conducidos: sin volumen"
+   ],
+   "img_brief": "spacious kitchen with gas appliances",
+   "notas": "N1: ¿Cuánto volumen mínimo pide un local con una cocina de gas?\nN2: Depende de la potencia y del tipo de aparato. Para aparatos tipo A de cocción o gasodomésticos, hasta dieciséis kilovatios se piden ocho metros cúbicos fijos. Por encima de dieciséis, la cuenta es el número de kilovatios menos ocho, en metros cúbicos: por ejemplo, veinticinco kilovatios dan diecisiete metros cúbicos; cuarenta y cinco kilovatios, treinta y siete. Para aparatos de calefacción directa la fórmula es otra: potencia por once, con un mínimo de quince metros cúbicos. Y si hay de los dos tipos, calculas cada volumen y los sumas. Ojo a lo importante: los aparatos estancos y los de circuito abierto conducido no piden volumen mínimo, porque no vierten sus humos al local. El volumen es para los que respiran y sueltan en la propia estancia."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Consumo > 30 kW",
+   "titulo": "Cuándo hace falta extracción mecánica",
+   "vinetas": [
+    "> 30 kW: extracción mecánica y corte",
+    "Fórmula: q = 10·A + 2·ΣQn",
+    "Renovación continua de aire",
+    "Salvo que volumen/kW > 10"
+   ],
+   "img_brief": "mechanical extraction fan and duct",
+   "notas": "N1: Un local grande de restaurante, ¿siempre necesita extractor mecánico?\nN2: No siempre, y aquí está el matiz. Cuando el consumo calorífico total del local supera los treinta kilovatios, la norma pide un sistema de impulsión o extracción mecánica de aire que garantice la renovación continua, más un corte de gas por fallo de la ventilación, para que si el extractor se para, el gas se cierre. El caudal de aire que hay que extraer sale de una fórmula sencilla: diez por la superficie en planta del local, en metros cuadrados, más dos por la suma de potencias de los aparatos tipo A que no sean de calefacción. Ahora, la excepción práctica: no hace falta ese extractor mecánico cuando el local es tan grande que la relación entre su volumen y el consumo supera el valor diez. O sea, si hay aire de sobra por metro cúbico, el propio local ventila. Más gas en poco sitio, ventilación forzada; mucho sitio para poco gas, te libras."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Edificios ya construidos",
+   "titulo": "Rebajar volumen tiene precio",
+   "vinetas": [
+    "75–100 % del volumen → +50 % ventilación",
+    "50–75 % → +50 % y detector de CO",
+    "El CO corta el gas (electroválvula)",
+    "Nunca por debajo de 6 m³"
+   ],
+   "img_brief": "carbon monoxide detector on wall",
+   "notas": "N1: En un piso antiguo no siempre hay ocho metros cúbicos. ¿Qué se hace?\nN2: Buena pregunta, porque en obra existente el hueco es el que es. La norma te deja bajar del volumen de la tabla, pero siempre compensando con más seguridad. Si el local tiene entre el setenta y cinco y el cien por cien del volumen que pedía la tabla, incrementas un cincuenta por ciento la superficie de ventilación. Si tiene entre el cincuenta y el setenta y cinco por ciento, además de ese cincuenta por ciento más de ventilación, tienes que poner un detector de monóxido de carbono que, cuando detecte, accione una electroválvula normalmente cerrada y corte el gas. Menos aire, más seguridad activa. Y hay una línea roja que no se cruza nunca: el volumen bruto del local no puede ser inferior a seis metros cúbicos, por muchas compensaciones que pongas. Por debajo de ahí, no hay aparato de gas que valga."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Patios de ventilación y evacuación",
+   "titulo": "Meter aire o sacar humos",
+   "vinetas": [
+    "Ventilación: 3 m², lado ≥ 1 m",
+    "Techado: 2 m² libres al exterior",
+    "Evacuación: NT × 0,5 m² (mín. 4 m²)",
+    "NT son locales, no ventanas"
+   ],
+   "img_brief": "building interior ventilation courtyard",
+   "notas": "N1: ¿Qué diferencia hay entre patio de ventilación y patio de evacuación?\nN2: No es lo mismo meter aire que sacar humos, y por eso hay dos patios con exigencias distintas. El patio de ventilación, que sirve para dar aire a los locales, pide poco: una superficie mínima de tres metros cuadrados, con el lado menor de al menos un metro, y si está techado por arriba, tiene que dejar dos metros cuadrados libres de comunicación con el exterior. El patio de evacuación es donde desembocan los humos de aparatos conducidos, calderas y calentadores, y pide más: la superficie sale de multiplicar cero coma cinco metros cuadrados por el número de locales, con un mínimo de cuatro metros cuadrados, y si está techado, tiene que dejar libre el veinticinco por ciento de su sección. Y cuidado con el error clásico: ese número, ene te, son los locales que pueden tener aparatos conducidos, no las ventanas ni las puertas que dan al patio. Cuenta habitaciones que sueltan humos, no huecos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "RITE · Evacuación de humos",
+   "titulo": "Cambiar el aparato es aplicar el RITE",
+   "vinetas": [
+    "Sustituir la caldera → entra el RITE",
+    "Humos a cubierta por conducto",
+    "Calderas: condensación, clase 5, estancas",
+    "Prohibido el atmosférico de tiro natural"
+   ],
+   "img_brief": "condensing boiler flue on roof",
+   "notas": "N1: Si solo cambio una caldera vieja por otra, ¿tengo que cumplir la norma nueva?\nN2: Sí, y esta es una frase que cae en el examen: cambiar el aparato equivale a aplicar el RITE. Aunque la instalación sea antigua, en el momento en que sustituyes la caldera entras en las reglas actuales, al menos en la parte reformada. ¿Y qué exigen esas reglas? Que los productos de la combustión se evacúen a cubierta mediante conducto, con carácter general; solo se admite salida directa a fachada en viviendas unifamiliares o en edificios habitados donde se demuestre que no se puede llevar un conducto a cubierta. Que las calderas sean de condensación, de clase cinco de óxidos de nitrógeno, las menos contaminantes, y estancas. Y algo tajante: queda prohibido instalar nuevos calentadores atmosféricos de tiro natural en interiores, ni de estreno ni como recambio. La norma empuja hacia aparatos estancos, que cogen y sueltan el aire por conducto y no roban el aire del local."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Rendimientos · ErP",
+   "titulo": "86 % o condensación",
+   "vinetas": [
+    "ErP: rendimientos mínimos para el CE",
+    "≥ 86 % en calderas < 70 kW",
+    "En la práctica, condensación",
+    "Referido al poder calorífico superior"
+   ],
+   "img_brief": "modern condensing gas boiler wall",
+   "notas": "N1: ¿Por qué prácticamente todas las calderas nuevas son de condensación?\nN2: Por rendimiento. La normativa europea de productos, la que hay que cumplir para conseguir el marcado CE, fija rendimientos mínimos. Para calderas de menos de setenta kilovatios, que son casi todas las de vivienda, pide del orden de un ochenta y seis por ciento o más, referido al poder calorífico superior del gas. Y ese ochenta y seis por ciento, en la práctica, solo se alcanza con tecnología de condensación, que es la que aprovecha también el calor del vapor de agua de los humos en vez de tirarlo por la chimenea. Por eso el RITE impone condensación en obra nueva: no es un capricho, es que un aparato normal no llega a ese rendimiento. Quédate con el número redondo: ochenta y seis por ciento mínimo, y eso significa caldera de condensación."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Calderas B3x",
+   "titulo": "El truco del tubo concéntrico",
+   "vinetas": [
+    "Estancas, tubo dentro de tubo",
+    "El exterior mete aire; el interior saca humos",
+    "Una fuga se reaspira al aparato",
+    "Renuevan shunts si todos llevan tiro forzado"
+   ],
+   "img_brief": "concentric flue pipe of a boiler",
+   "notas": "N1: ¿Qué tiene de especial una caldera B3x?\nN2: Tiene un truco de seguridad muy elegante: el tubo concéntrico, que es un tubo dentro de otro tubo. El de fuera, el de mayor diámetro, mete aire para la combustión; el de dentro saca los humos. La gracia está aquí: si el tubo de humos tuviera una fuga, el propio tubo de aire, que lo envuelve, reaspira esa fuga hacia dentro del aparato en lugar de dejarla salir al local. Por eso el de aire tiene que envolver por completo al de humos. Lo que convierte una estanca en B3x es que coge el aire del propio local donde está, no de la calle. Son ideales para renovar los shunts comunitarios, esos conductos colectivos de las calderas atmosféricas antiguas, pero con una condición estricta: todos los vecinos conectados al mismo conducto tienen que montar tiro forzado. Si queda uno solo con tiro natural, la evacuación colectiva falla y los humos vuelven al interior. Y ojo, las bolas giratorias en la salida de humos del shunt no valen: si se paran, dificultan la salida."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Salida directa al exterior",
+   "titulo": "30 cm del techo, 2,20 m a huecos",
+   "vinetas": [
+    "Más de 30 cm bajo el techo",
+    "2,20 m a ventanas y huecos",
+    "Zona privada: basta 30 cm del suelo",
+    "Solo cuenta tu planta; deflectores ayudan"
+   ],
+   "img_brief": "boiler flue outlet on building facade",
+   "notas": "N1: Cuando la caldera saca los humos a fachada, ¿qué distancias tengo que respetar?\nN2: Hay dos cifras que caen siempre. La primera: si la salida está bajo el techo de una terraza, balcón o galería, tiene que quedar a más de treinta centímetros por debajo de ese techo, para que los humos no se acumulen pegados al forjado. La segunda: frente a la salida se respeta una distancia a ventanas y huecos, típicamente dos metros con veinte, para que el humo no se meta por la ventana de al lado. Ahora los matices: si evacúas a una zona privada tuya, esa distancia de dos veinte no hace falta, pero mantienes como mínimo treinta centímetros del suelo. Y un detalle que confunde: estas distancias se miden solo en tu misma planta; lo que haya en los pisos de arriba no se tiene en cuenta. Por último, cuando la fachada va justa de espacio, existen deflectores divergentes que dispersan el flujo y permiten reducir la distancia mínima. Una salida mal puesta ennegrece la fachada y devuelve humos al vecino."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Certificados de instalación",
+   "titulo": "IRG-1, IRG-2 e IRG-3",
+   "vinetas": [
+    "IRG-1: acometida interior",
+    "IRG-2: instalación común",
+    "IRG-3: instalación individual",
+    "Los firma la empresa instaladora"
+   ],
+   "img_brief": "technician filling installation certificate form",
+   "notas": "N1: ¿Qué son los IRG y cómo no confundirlos?\nN2: Son los certificados de instalación que rellena y firma la empresa instaladora al terminar, y los memorizas siguiendo el recorrido del gas. IRG uno es el certificado de acometida interior, el tramo que va de la calle al edificio. IRG dos es el de la instalación común, el montante que comparten los vecinos. IRG tres es el de la instalación individual, ya dentro de la vivienda. Uno, dos y tres, de fuera hacia dentro. Estos papeles se entregan a la empresa distribuidora para la puesta en servicio. Y ojo a dos casos en los que no hace falta certificado, que caen en el examen: si no modificas más de un metro de instalación, se considera una simple reparación; y si la instalación no ha estado más de un año de baja y tiene la inspección periódica vigente sin anomalías, tampoco. Fuera de esos casos, el que no se documenta no existe para la distribuidora."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Certificado individual · IRG-3",
+   "titulo": "La Piv nunca baja de 30 kW",
+   "vinetas": [
+    "Piv de diseño: mínimo 30 kW",
+    "Los 2 mayores enteros; el resto, mitad",
+    "Coeficiente corrector 1,10",
+    "Contador de casa G-4; regulador a 0,020 bar"
+   ],
+   "img_brief": "domestic gas meter G4 installation",
+   "notas": "N1: ¿Cómo se calcula la potencia de diseño de una vivienda?\nN2: Con una fórmula que tiene truco de simultaneidad. La potencia de diseño individual, la Piv, se calcula así: coges los dos aparatos de mayor consumo y entran enteros; el resto de aparatos entran a la mitad, divididos entre dos; sumas todo y lo multiplicas por uno coma diez, que es un coeficiente corrector. ¿Por qué los demás a la mitad? Porque no todos los aparatos de la casa tiran a tope a la vez; es simultaneidad. Y hay un suelo importantísimo: aunque la cuenta te dé menos, la Piv se toma como mínimo treinta kilovatios. Ese es el punto de partida para dimensionar la vivienda. Con esa potencia eliges el contador, que para una vivienda normal es el G cuatro, doméstico, que da hasta seis metros cúbicos por hora, y el regulador individual, que da igual si entra en media presión A o B, siempre sale a veinte milésimas de bar, baja presión, que es lo que piden los aparatos domésticos."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Certificado común · IRG-2",
+   "titulo": "La simultaneidad baja con más vecinos",
+   "vinetas": [
+    "Pc con factor de simultaneidad S",
+    "S1 sin calefacción; S2 con calefacción",
+    "Más viviendas → factor S más bajo",
+    "Regulador común: entra MP-B, sale MP-A o BP"
+   ],
+   "img_brief": "centralized gas meter battery in building",
+   "notas": "N1: ¿Por qué la instalación común no se dimensiona sumando la potencia de todas las viviendas?\nN2: Porque sería absurdo pensar que todos los vecinos van a consumir a tope en el mismo instante. Eso es la simultaneidad. La potencia de diseño de la comunitaria, la Pc, se calcula aplicando un factor de simultaneidad, la ese, que baja cuanto más viviendas hay: en una vivienda es uno, y va bajando hasta quedarse en torno a quince o treinta y cinco centésimas cuando pasas de treinta viviendas. Hay dos columnas: la ese uno, cuando no hay calefacción individual, baja más rápido; y la ese dos, cuando sí hay calefacción individual, baja más despacio, porque las calderas de todos sí coinciden en las mañanas frías de invierno. El caudal de diseño sale de dividir esa potencia entre el poder calorífico superior. Y no confundas los reguladores: el común coge media presión B, de cuatro décimas a cinco bar, y la baja a media presión A o a baja presión, mientras que el individual salía a veinte milésimas. Cada uno a lo suyo."
+  },
+  {
+   "tipo": "cierre",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya das aire, sacas humos y firmas la obra",
+   "mapa": [
+    "Nada de gas donde se duerme, se ducha o bajo el primer sótano",
+    "Ventilación kW × 5 (mín. 125 cm²) y volumen kW − 8",
+    "RITE: condensación, clase 5, estanca y a cubierta",
+    "IRG-1, 2 y 3: la obra queda documentada"
+   ],
+   "tagline": "Has completado la guía de Gas a la primera. Ya haces gas… a la primera.",
+   "notas": "N1: Es el final del tema. ¿Cómo lo cierro todo en la cabeza?\nN2: Reconstruyamos el hilo, porque este vídeo es el de la seguridad de verdad. Todo parte de una idea: un aparato quema gas, y para hacerlo bien necesita aire limpio para la combustión y una salida para los humos; si le falta cualquiera de las dos, la combustión se tuerce y aparece monóxido de carbono, que no huele y mata. Por eso nada de aparatos donde se duerme o se ducha, ni bajo el primer sótano donde el gas ligero no ventila. Por eso la ventilación se calcula, kilovatios por cinco con mínimo de ciento veinticinco centímetros cuadrados, y el volumen también, kilovatios menos ocho. Por eso, al cambiar un aparato, se despierta el RITE y exige condensación, clase cinco, estanca y humos a cubierta, con sus distancias de treinta centímetros al techo y dos con veinte a los huecos. Y por eso, al terminar, se firma: IRG uno para la acometida, IRG dos para la común con su simultaneidad, IRG tres para la individual con la Piv mínima de treinta kilovatios. En el examen te lo preguntarán con números concretos, una ventilación, un volumen, una distancia de humos, un certificado; en la obra, cada una de estas cifras separa una instalación segura de una intoxicación por monóxido. Con esto has completado la guía práctica de Gas a la primera: ya sabes preparar los contadores, trazar y probar el tubo, y darle aire y salida a los aparatos. Ya no montas gas de cualquier manera: lo montas bien, a la primera. Enhorabuena, hoy eres gasista de pleno derecho."
+  }
+ ]
+}
