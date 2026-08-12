@@ -21,8 +21,8 @@ Panel de control del curso **Gas B** (PROMPT MAESTRO v9).
 - [x] **FASE 0 — estructura de 18 carpetas** (`Curso Gas B/`, temas 00-17) + MAPA + FUENTE.md.
 - [x] Motor de PDF del curso (`_build/`): plantilla navy + generador reutilizable.
 - [x] **FASE 1 — Tema 00 v2** (34 notas aclaratorias con ejemplos, renombradas). Estándar aprobado por el cliente.
-- [~] **FASE 1 — Bloque A (temas 01-08)** en producción (workflow, un agente por ITC).
-- [ ] FASE 1 — Bloque B (temas 09-17): tras cerrar el Bloque A.
+- [x] **FASE 1 — Bloque A (temas 01-08)** completo y verificado (28 md + PDFs). Commit.
+- [~] **FASE 1 — Bloque B (temas 09-17)** en producción (workflow, un agente por tema UNE/guía).
 - [ ] Diagramas de comprensión (pasada aparte, cuando el texto esté cerrado). Los PDF de estudio van SIN imágenes (decisión del cliente).
 
 ## Correcciones aplicadas
