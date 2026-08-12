@@ -45,6 +45,20 @@
    "notas": "N1: ¿Y qué es exactamente un centro de operación? ¿Un sitio con gente mirando pantallas?\nN2: Justo eso: piénsalo como la torre de control de un aeropuerto, pero de la red de gas. Desde ahí se vigila que todo vaya bien, con los medios materiales y humanos necesarios. ¿Qué es lo que vigila sobre todo? Dos parámetros de calidad que tienes que grabarte. El primero, la presión, que el gas llegue con la fuerza justa a todos. El segundo, el odorizante, y este merece una explicación: el gas natural no huele a nada, así que se le añade a propósito una sustancia que huele fatal, a huevo podrido, para que cualquiera note un escape con la nariz. Por eso el odorante es de vida o muerte: si falta, hay una fuga y nadie la huele hasta que ya es tarde. Presión y odorizante, esos dos siempre a raya. Y ahora, atención a una excepción que se pregunta: las redes que se alimentan desde depósitos de gas licuado del petróleo, típicas de una urbanización con su depósito de propano, no están obligadas a tener centro de operación; para ellas se dictan requisitos aparte según su tamaño. Es un salvo que, y esos siempre caen."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Cuáles son los dos parámetros de calidad que vigila el centro de operación?",
+   "opciones": [
+    "La presión y la concentración de odorizante",
+    "La temperatura y el caudal del gas",
+    "La humedad y el poder calorífico",
+    "El diámetro del tubo y la profundidad de la zanja"
+   ],
+   "correcta": 0,
+   "porque": "Los parámetros de calidad son, al menos, la presión y el odorizante; sin odorante nadie huele la fuga.",
+   "notas_p": "N1: Dos parámetros, ni uno más para esta pregunta.\nN2: Uno hace que el gas llegue con fuerza; el otro hace que puedas olerlo si se escapa. Esos dos.",
+   "notas_r": "N1: ¿Por qué la a?\nN2: Porque los dos parámetros de calidad que se vigilan siempre son la presión y el odorizante. El odorante es el que huele a huevo podrido: si falta, hay fuga y nadie la nota hasta que es tarde."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 6.1 · Cuatro funciones",
    "titulo": "Lo que hace el centro",
@@ -97,6 +111,20 @@
    "notas": "N1: El titular comprueba la estanquidad de la red. Cuando aparece una fuga, ¿cómo se clasifica?\nN2: En tres clases, ordenadas de más a menos grave, y esta clasificación cae mucho. La primera, fuga de intervención urgente: hay peligro inmediato, hay que ir ya. La segunda, de intervención programada: hay que arreglarla sí o sí, pero se puede planificar la intervención con calma, para dentro de unos días. Y la tercera, de vigilancia de progresión: es tan pequeña o tan poco peligrosa que, de momento, solo se vigila por si va a más. Truco para el orden: urgente ahora, programada pronto, progresión la miro. Y aquí viene lo bueno, la pregunta con miga: ¿por qué la misma fuga puede ser urgente o solo de vigilancia? Porque depende sobre todo de dónde esté. Una fuga pequeña en pleno campo no es lo mismo que esa misma fuga pegada a un edificio habitado, donde el gas se puede acumular y hacer daño a la gente. Por eso, entre los factores que deciden la clase están las características del gas, la presión de operación y lo que diga el detector, pero el que más pesa es la proximidad a propiedades y edificios y el uso que se les da. La documentación de estos controles queda en poder del titular, a disposición de la Comunidad Autónoma."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Qué factor pesa más para clasificar una fuga como urgente?",
+   "opciones": [
+    "La proximidad de la fuga a edificios habitados",
+    "El color de la llama en los aparatos cercanos",
+    "La antigüedad de la tubería afectada",
+    "El día de la semana en que se detecta"
+   ],
+   "correcta": 0,
+   "porque": "La misma fuga es urgente pegada a una vivienda y solo de vigilancia en campo abierto; decide la cercanía a propiedades y su uso.",
+   "notas_p": "N1: Una fuga igual puede ser urgente o de simple vigilancia. ¿De qué depende?\nN2: No es solo el tamaño. Piensa dónde está la fuga y quién vive al lado.",
+   "notas_r": "N1: ¿Por qué la a?\nN2: Porque lo que dispara la urgencia es la proximidad a propiedades y edificios y el uso que se les da: junto a una vivienda el gas se acumula y hace daño. También cuentan el tipo de gas, la presión de operación y el detector, pero la cercanía es la que más pesa."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 6.4 · Mantenimiento",
    "titulo": "Parche primero, reparación después",
@@ -147,6 +175,20 @@
    ],
    "img_brief": "road excavation works underground utility pipes",
    "notas": "N1: Imagina una empresa que va a abrir zanja en la calle para poner fibra y no sabe que justo debajo pasa el gas. ¿Qué manda la ITC?\nN2: Aquí está una de las preguntas más golosas del tema, porque son tres plazos seguidos y hay que decirlos en orden. La idea de fondo es de puro sentido común: antes de tocar la vía pública donde hay red de gas, hay que preguntar a la compañía dónde están sus tubos. Ahora los tres números. Primero, esa empresa avisa y solicita información al distribuidor con una antelación mínima de treinta días antes de empezar; y lo hace por escrito, por carta, fax o correo, indicando la localización concreta. Segundo, el distribuidor tiene un plazo máximo de veinte días para contestar con la mejor información disponible de dónde están sus instalaciones, qué normas hay que respetar cerca y cómo contactar con el servicio de urgencias. Y tercero, cuando la empresa ya va a arrancar de verdad, comunica el inicio de los trabajos con al menos veinticuatro horas de antelación. El truco temporal para clavarlo: pido con treinta, me contestan en veinte, aviso con veinticuatro horas. Y ojo, el solicitante no puede empezar a picar hasta haber recibido y aceptado formalmente esa información."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Obras de terceros: ¿cuáles son los tres plazos, en orden?",
+   "opciones": [
+    "Aviso 30 días antes; el distribuidor contesta en 20; inicio con 24 horas",
+    "Aviso 20 días antes; el distribuidor contesta en 30; inicio con 48 horas",
+    "Aviso 15 días antes; el distribuidor contesta en 10; inicio con 24 horas",
+    "Aviso 30 días antes; el distribuidor contesta en 24; inicio con 20 horas"
+   ],
+   "correcta": 0,
+   "porque": "Se solicita información con treinta días, el distribuidor responde en veinte y el inicio de la obra se avisa con veinticuatro horas.",
+   "notas_p": "N1: Tres números seguidos, y el orden importa.\nN2: Pido con antelación larga, me contestan algo más rápido y el arranque lo aviso con un día justo. ¿Cuántos días y horas exactos?",
+   "notas_r": "N1: ¿Por qué la a?\nN2: Porque el truco temporal es: pido con treinta, me contestan en veinte, aviso con veinticuatro horas. Las demás bailan los números. Y ojo, no se puede empezar hasta recibir y aceptar formalmente la información."
   },
   {
    "tipo": "contenido",

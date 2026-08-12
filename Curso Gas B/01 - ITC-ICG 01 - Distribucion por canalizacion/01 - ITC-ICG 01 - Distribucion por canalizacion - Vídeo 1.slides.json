@@ -46,6 +46,20 @@
    "notas": "N1: Para montar esta red, ¿hace falta pedir permiso, como una licencia de obra?\nN2: Sí, en general sí: la red necesita autorización administrativa previa, es decir, el visto bueno de la Administración antes de empezar, salvo unos casos concretos que marca la Ley del sector de hidrocarburos en su artículo cincuenta y cinco punto dos. Ahora bien, aquí hay dos ritmos y conviene no mezclarlos. Para una red nueva de verdad, permiso previo. Pero para las extensiones, que es alargar una red que ya existe, no se pide permiso metro a metro: sería inviable. Lo que hace la compañía es presentar una memoria general, un documento con lo que prevé construir a lo largo del año. Y luego, en el primer trimestre del año siguiente, entrega a la Comunidad Autónoma el proyecto de lo que de verdad ejecutó, con la fecha de puesta en servicio de cada obra. El truco para no liarte: primero digo lo que pienso hacer, la previsión; después justifico lo que hice, las obras del año anterior. Todo esto lo mueve la distribuidora, tú como instalador no tramitas nada de esto, pero en el examen caen dos datos clavados: quién autoriza, que es la Comunidad Autónoma, y cuándo se entrega lo del año anterior, que es en el primer trimestre."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Quién autoriza la red y cuándo se entrega el proyecto de lo ejecutado?",
+   "opciones": [
+    "La Comunidad Autónoma; en el primer trimestre del año siguiente",
+    "El Ayuntamiento; en el último trimestre del mismo año",
+    "El Ministerio; dentro de los treinta días tras la obra",
+    "El distribuidor; cuando finalice cada tramo de tubería"
+   ],
+   "correcta": 0,
+   "porque": "La autoriza el órgano competente de la Comunidad Autónoma y las obras del año anterior se entregan dentro del primer trimestre.",
+   "notas_p": "N1: Aquí van dos datos que caen casi siempre juntos, no los sueltes por separado.\nN2: Piensa quién da el permiso y en qué momento del calendario se rinden cuentas de lo construido. Uno es una administración; el otro, un trimestre concreto.",
+   "notas_r": "N1: ¿Por qué la primera?\nN2: Porque la que autoriza es la Comunidad Autónoma, no el Ayuntamiento ni el Ministerio, y el proyecto de las obras realizadas se entrega dentro del primer trimestre del año siguiente. El truco: primero digo lo que pienso hacer y luego justifico lo que hice, y quien manda es la comunidad autónoma."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 3 · Diseño",
    "titulo": "Suministro seguro y continuo",
@@ -121,6 +135,20 @@
    "notas": "N1: Antes de soltar el gas, ¿qué hay que comprobar? Supongo que que no haya fugas.\nN2: Eso, y una cosa más, porque son dos pruebas distintas y mucha gente las confunde. La prueba de resistencia comprueba que la tubería aguanta la presión sin reventar ni deformarse; en llano, que sea fuerte. La prueba de estanquidad comprueba que no se escapa ni una molécula de gas por ninguna unión; estanquidad significa justamente eso, que no fuga nada, ni una burbuja. Y son distintas de verdad: un tubo puede ser resistentísimo, aguantar una presión enorme, y aun así fugar por una junta mal apretada. Por eso se hacen las dos, no vale con una. Se realizan según las normas seiscientas, la trescientos diez, la trescientos once y la trescientos doce, según el tipo de instalación, esas tres hermanas que te dije que iban a volver. Y una regla de seguridad de puro sentido común: mientras se prueba, nadie ajeno en la zona. Estás metiendo mucha presión a un tubo, y si algo cede, salta con fuerza. Truco para no confundirlas nunca: resistencia, que no rompa; estanquidad, que no fugue."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "En las pruebas previas, ¿qué comprueba exactamente la prueba de estanquidad?",
+   "opciones": [
+    "Que la tubería no deja escapar el gas por ninguna unión",
+    "Que la tubería aguanta la presión sin reventar",
+    "Que el material resiste la corrosión del terreno",
+    "Que la red tiene el diámetro adecuado a la demanda"
+   ],
+   "correcta": 0,
+   "porque": "La estanquidad verifica que no hay fugas; que aguante la presión sin romper es la prueba de resistencia.",
+   "notas_p": "N1: Cuidado, que estas dos pruebas se confunden a la primera de cambio.\nN2: Una mira si el tubo es fuerte; la otra, si el tubo es hermético. La pregunta va por la segunda.",
+   "notas_r": "N1: ¿Por qué la a?\nN2: Porque estanquidad es que no se escape ni una burbuja por las uniones. Que aguante la presión sin reventar es la de resistencia, que es otra cosa. Recuerda el truco: resistencia, que no rompa; estanquidad, que no fugue."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 5.1 · Papeleo",
    "titulo": "Queda por escrito",
@@ -144,6 +172,20 @@
    ],
    "img_brief": "technician opening gas valve gloves pipeline",
    "notas": "N1: Terminado el montaje y las pruebas, ¿ya se puede meter el gas sin más?\nN2: Solo si se ha superado un requisito de oro: la instalación tiene que haber pasado las pruebas previas. Sin pruebas superadas, no hay gas; grábatelo como un mandamiento. Y ahora viene la parte física, que es la clave de seguridad de todo tu oficio. Cuando metes gas en un tubo que está lleno de aire, durante un rato aire y gas conviven, y ahí está el peligro: no en el gas solo, que sin oxígeno no arde, sino en la mezcla aire-gas cuando cae dentro de los llamados límites de inflamabilidad, esa proporción justa en la que una simple chispa provoca una deflagración. ¿Cómo se evita? De dos maneras. O se introduce el gas despacio, a una velocidad que reduzca la zona de mezcla peligrosa en el punto de contacto; o se separan aire y gas metiendo en medio un tapón de gas inerte, por ejemplo nitrógeno, que no arde, o un pistón de purga que hace de tabique. Y el purgado, que es echar fuera el aire o el gas, siempre de forma controlada, nunca a lo loco. Métetelo en la cabeza porque lo vas a aplicar toda la vida cada vez que purgues una instalación: aire, más gas, más una chispa, igual a explosión."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Al llenar la red de gas, ¿dónde está realmente el peligro?",
+   "opciones": [
+    "En la mezcla aire-gas dentro de los límites de inflamabilidad",
+    "En el gas puro, que arde en cuanto sale del tubo",
+    "En el aire de la tubería, que se inflama solo",
+    "En la presión alta del gas al entrar en la red"
+   ],
+   "correcta": 0,
+   "porque": "Ni el gas solo ni el aire solo arden; el riesgo es la mezcla en proporción inflamable, por eso se llena despacio o con tapón inerte.",
+   "notas_p": "N1: Pregunta de las que salvan vidas, no solo exámenes.\nN2: El gas solo no arde y el aire solo tampoco. Piensa qué aparece cuando se juntan los dos en la proporción justa.",
+   "notas_r": "N1: ¿Por qué la a?\nN2: Porque el peligro no es el gas ni el aire por separado, sino la mezcla aire-gas cuando cae dentro de los límites de inflamabilidad y basta una chispa. Por eso se mete el gas despacio o con un tapón de gas inerte que separe ambos fluidos."
   },
   {
    "tipo": "contenido",

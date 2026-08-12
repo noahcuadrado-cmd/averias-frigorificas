@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["500 ppm", "tope de CO en los humos"],
-    ["15 ppm", "tope de CO en el ambiente"],
-    ["18 meses", "vigencia máxima de calibración"]
+    [
+     "500 ppm",
+     "tope de CO en los humos"
+    ],
+    [
+     "15 ppm",
+     "tope de CO en el ambiente"
+    ],
+    [
+     "18 meses",
+     "vigencia máxima de calibración"
+    ]
    ],
    "notas": "N1: ¿Por qué empiezas por estos tres números?\nN2: Porque son los tres que más caen y los que más vidas salvan. Quinientas partes por millón: es el tope de monóxido de carbono medido en los humos; si un aparato lo supera, no se pone en marcha. Quince partes por millón: es el tope de monóxido en el aire del local, lo que respira la gente; también para la puesta en marcha si se alcanza. Y dieciocho meses: es lo máximo que puede pasar entre calibración y calibración de tu analizador, porque un equipo descalibrado te miente. Grábalos ya, que sobre ellos monta todo el vídeo."
   },
@@ -70,6 +79,108 @@
    ],
    "img_brief": "combustion gas analyzer flue measurement",
    "notas": "N1: ¿Qué comprobaciones entran en la puesta en marcha?\nN2: La norma las junta en una tabla, la tabla uno, con cinco comprobaciones posibles y una columna por cada tipo de aparato. Las cinco son: correcto montaje del aparato, estanquidad de la conexión, análisis de los productos de la combustión, medición del monóxido en el ambiente, y comprobación del tiro del conducto de evacuación. No todas se hacen a todos los aparatos; la tabla te dice, con un sí o un no, cuáles tocan según el tipo.\nN1: ¿Y siempre mando yo, o mando el fabricante?\nN2: Muy buena pregunta. Siempre se hacen, como mínimo, las que dice la norma según el tipo de aparato, pero además hay que hacer las que indique el fabricante en su manual de instrucciones. Es decir, la tabla es el mínimo obligatorio; el manual puede pedir más. Y una regla de oro que ya adelanto: si cualquiera de las comprobaciones no sale bien, la llave del aparato queda cerrada, bloqueada y precintada, y ese aparato no se pone en marcha."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Tabla 1 · Aparatos tipo A",
+   "titulo": "Comprobaciones mínimas · aparatos tipo A",
+   "headers": [
+    "Comprobación",
+    "Cocinas y hornos",
+    "Vitro cubiertas",
+    "Generadores EN 525",
+    "Susp. radiación",
+    "Otros A"
+   ],
+   "rows": [
+    [
+     "Correcto montaje",
+     "SÍ",
+     "SÍ",
+     "SÍ",
+     "SÍ",
+     "SÍ"
+    ],
+    [
+     "Estanquidad de conexión",
+     "SÍ",
+     "SÍ",
+     "SÍ",
+     "SÍ",
+     "SÍ"
+    ],
+    [
+     "Análisis de combustión",
+     "NO",
+     "SÍ",
+     "SÍ",
+     "NO",
+     "NO"
+    ],
+    [
+     "Medición CO-ambiente",
+     "NO",
+     "SÍ",
+     "SÍ",
+     "SÍ",
+     "NO"
+    ],
+    [
+     "Tiro del conducto",
+     "–",
+     "–",
+     "–",
+     "–",
+     "–"
+    ]
+   ],
+   "nota": "Tipo A: aparatos sin conducto que sueltan los humos al local; SÍ significa que esa comprobación es obligatoria y el guion que no aplica.",
+   "notas": "N1: En un aparato de tipo A, ¿qué comprobaciones son siempre obligatorias?\nN2: Esta media tabla recoge los aparatos de tipo A, los que no tienen conducto y sueltan los humos al local. Se lee por filas. Las dos primeras, montaje correcto y estanquidad de la conexión, llevan sí en todas las columnas: se hacen siempre, a cualquier aparato. El análisis de combustión solo se pide en vitrocerámicas de fuegos cubiertos y en generadores según la norma EN quinientos veinticinco. La medición de monóxido en ambiente se añade además en los suspendidos de radiación. Y el tiro no aplica a ningún tipo A, por eso va con guion. Ejemplo de obra: una cocina de gas normal solo exige montaje y estanquidad; una vitro cubierta exige además análisis de combustión y monóxido en ambiente."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Tabla 1 · Tipos B y C",
+   "titulo": "Comprobaciones mínimas · tipos B y C",
+   "headers": [
+    "Comprobación",
+    "B tiro natural",
+    "B tiro forzado",
+    "C"
+   ],
+   "rows": [
+    [
+     "Correcto montaje",
+     "SÍ",
+     "SÍ",
+     "SÍ"
+    ],
+    [
+     "Estanquidad de conexión",
+     "SÍ",
+     "SÍ",
+     "SÍ"
+    ],
+    [
+     "Análisis de combustión",
+     "SÍ",
+     "SÍ",
+     "SÍ"
+    ],
+    [
+     "Medición CO-ambiente",
+     "SÍ (2)",
+     "SÍ (2)",
+     "SÍ (2)"
+    ],
+    [
+     "Tiro del conducto",
+     "SÍ (2)",
+     "NO",
+     "NO"
+    ]
+   ],
+   "nota": "El (2) significa que solo se exige si el aparato no está en zona exterior; el tiro solo se comprueba en tipo B de tiro natural.",
+   "notas": "N1: ¿Qué diferencia a un tipo B de tiro natural de uno forzado o de un tipo C en las comprobaciones?\nN2: Esta media tabla cierra los tipos B y C. En los tres, montaje, estanquidad y análisis de combustión llevan sí siempre. La medición de monóxido en ambiente también, pero con la coletilla del dos: solo se exige cuando el aparato no está en zona exterior, porque al aire libre los humos se dispersan. Fíjate en la última fila, la del tiro: solo se comprueba en el tipo B de tiro natural, y también con la coletilla del dos; en el tiro forzado y en el tipo C va no, porque el ventilador o el ser estanco ya resuelven la evacuación. Ejemplo: un calentador atmosférico de tipo B de tiro natural en una cocina cerrada exige comprobar el tiro; una caldera estanca de tipo C, no."
   },
   {
    "tipo": "contenido",
@@ -137,6 +248,20 @@
    "notas": "N1: ¿Qué es eso del monóxido corregido no diluido?\nN2: Vamos por partes. El monóxido de carbono es el veneno invisible de la combustión: no huele, no se ve, y mata. Se mide en los humos, en los productos de la combustión, siguiendo el procedimiento del anexo A. El tope es quinientas partes por millón: si el aparato lo supera, no se pone en marcha. Ahora lo de corregido no diluido: cuando la sonda mide, a veces se cuela aire de fuera que se mezcla con el humo y rebaja la lectura, la diluye, y te haría creer que hay menos monóxido del que hay. Corregir es referir el valor a la combustión pura, sin ese aire colado, para que quinientas sean quinientas de verdad.\nN1: ¿Cómo se ve un monóxido alto en obra?\nN2: Un monóxido alto es señal de llama mal aireada, mala combustión. Lo notas a ojo: llama amarilla en vez de azul, tiznado, ennegrecido en la campana o en la pared por encima del aparato. Esa mancha negra es la firma de una combustión sucia. Por eso se mide y por eso, si pasa de quinientas, ese aparato no arranca hasta arreglarlo."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál es el tope de CO corregido no diluido en los humos para poder arrancar?",
+   "opciones": [
+    "Quince partes por millón",
+    "Doscientas cincuenta partes por millón",
+    "Quinientas partes por millón",
+    "Dos mil quinientas partes por millón"
+   ],
+   "correcta": 2,
+   "porque": "Por encima de quinientas partes por millón de CO corregido no diluido en los humos, el aparato no se pone en marcha.",
+   "notas_p": "N1: Uno de los números estrella del tema. ¿Cuál es el tope de monóxido en los humos?\nN2: No lo confundas con el del ambiente, que es mucho más bajo. Este se mide dentro del humo.",
+   "notas_r": "N1: ¿Por qué la ce?\nN2: El monóxido corregido no diluido en los humos no puede pasar de quinientas partes por millón; si las supera, el aparato no arranca. Ojo a las trampas: quince es el del ambiente, y dos mil quinientas es el del dióxido en ambiente."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.4",
    "titulo": "CO-ambiente: 15 ppm",
@@ -148,6 +273,20 @@
    ],
    "img_brief": "indoor air quality CO analyzer probe",
    "notas": "N1: ¿En qué se diferencia esto del monóxido de los humos?\nN2: En dónde se mide. Antes medías el monóxido dentro del humo; ahora mides el monóxido que hay en el aire del local, el que respira la gente. Es otra cosa. El procedimiento: se ponen todos los aparatos en marcha a la vez, en régimen estacionario y, si son de tipo B o C, a la máxima potencia; y transcurridos cinco minutos se mide con un analizador cuya sonda se coloca aproximadamente a un metro de los aparatos y a uno coma ochenta metros de altura, más o menos a la altura de la cara de una persona de pie.\nN1: ¿Y cuál es el límite?\nN2: Quince partes por millón. Si la medición alcanza ese valor, se determina qué aparato está produciendo el exceso y ese aparato no se pone en marcha. Memoriza el trío de la medida: cinco minutos, un metro, uno coma ochenta metros; y el límite, quince partes por millón. Es el número que separa una cocina segura de una intoxicación lenta en un piso mal ventilado, de esas que empiezan con dolor de cabeza y nadie sabe por qué."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "En la medición del CO-ambiente, ¿dónde y cuándo se coloca la sonda?",
+   "opciones": [
+    "A dos metros de los aparatos y al minuto",
+    "A un metro de los aparatos, a uno coma ochenta de altura, a los cinco minutos",
+    "Pegada al quemador, nada más encender",
+    "A uno coma ochenta de altura, a los quince minutos"
+   ],
+   "correcta": 1,
+   "porque": "La sonda se sitúa a un metro de los aparatos y a uno coma ochenta de altura, y se mide a los cinco minutos de funcionamiento.",
+   "notas_p": "N1: El trío de la medida del monóxido en ambiente. ¿Dónde va la sonda y cuándo mides?\nN2: Recuerda que se mide donde respira la gente, más o menos a la altura de la cara.",
+   "notas_r": "N1: ¿Por qué la be?\nN2: Cinco minutos, un metro de los aparatos y uno coma ochenta de altura. La de quince minutos es la del anexo B para radiantes de tipo A, no la general. Memoriza el trío: cinco minutos, un metro, uno coma ochenta."
   },
   {
    "tipo": "contenido",
@@ -187,6 +326,20 @@
    ],
    "img_brief": "gas analyzer calibration laboratory",
    "notas": "N1: ¿Por qué importa tanto la calibración del analizador?\nN2: Porque un equipo descalibrado no vale para nada, o peor: te hace aprobar un aparato con monóxido, o rechazar uno que estaba bien. Y de eso dependen vidas. Por eso la norma pone tres cifras que hay que saberse. Una: la calibración se repite como máximo cada dieciocho meses; puede ser antes si mides mucho, pero nunca más tarde. Dos: el registro documental de esas calibraciones se guarda cinco años. Y tres: la incertidumbre obtenida en la calibración no puede pasar de más menos cinco por ciento.\nN1: ¿Hay un truco para no confundir los números?\nN2: Sí: dieciocho meses de vigencia, cinco años de papeles, cinco por ciento de margen. Y añade un detalle que también cae: en el certificado de calibración tienen que constar las botellas patrón utilizadas, que son los gases de referencia con concentración conocida con los que se ajusta el analizador. Sin esa identificación, el certificado cojea. El certificado de calibración es, además, tu respaldo si algún día hay un incidente y te preguntan si tu equipo medía bien."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cada cuánto, como máximo, debe calibrarse el analizador de combustión?",
+   "opciones": [
+    "Cada seis meses",
+    "Cada doce meses",
+    "Cada dieciocho meses",
+    "Cada veinticuatro meses"
+   ],
+   "correcta": 2,
+   "porque": "La calibración se repite como máximo cada dieciocho meses; puede hacerse antes, pero nunca más tarde.",
+   "notas_p": "N1: Los tres números de los equipos. ¿Cuál es el máximo entre calibración y calibración?\nN2: Recuerda el truco: dieciocho meses de vigencia, cinco años de papeles, cinco por ciento de margen.",
+   "notas_r": "N1: ¿Por qué la ce?\nN2: Dieciocho meses es el tope entre calibraciones; puede hacerse antes si mides mucho, pero nunca después. No lo mezcles con los cinco años del registro documental ni con el más menos cinco por ciento de incertidumbre."
   },
   {
    "tipo": "contenido",

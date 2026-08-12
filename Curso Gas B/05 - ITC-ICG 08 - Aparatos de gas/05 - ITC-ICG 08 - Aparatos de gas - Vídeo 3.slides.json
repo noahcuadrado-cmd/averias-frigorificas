@@ -83,6 +83,20 @@
    "notas": "N1: ¿En qué consiste el examen de producto?\nN2: Este camino se basa en pillar por sorpresa. El organismo de control aparece sin avisar, a intervalos máximos de un año, coge aparatos de la producción in situ, examina un número adecuado y, sobre al menos uno de los seleccionados, hace las pruebas necesarias. Él decide en cada caso si las pruebas se hacen total o parcialmente. ¿Y si alguno no pasa? Cuando uno o más aparatos son rechazados, el organismo adopta las medidas para evitar su comercialización, es decir, bloquea su venta. Retén los dos datos de examen: sin aviso previo, y a intervalos máximos de un año. Aquí se vigila el producto, unidad a unidad."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "En el examen de producto, ¿cada cuánto realiza el organismo los controles sin aviso previo?",
+   "opciones": [
+    "A intervalos máximos de un año",
+    "A intervalos máximos de dos años",
+    "Cada seis meses, en fecha fija",
+    "Solo cuando el fabricante lo solicita"
+   ],
+   "correcta": 0,
+   "porque": "El organismo controla los aparatos in situ y sin aviso previo, a intervalos máximos de un año; si rechaza alguno, evita su comercialización.",
+   "notas_p": "N1: Un dato numérico del camino de la inspección sorpresa.\nN2: Recuerda que el organismo aparece sin avisar. La clave es el intervalo máximo que puede pasar entre una visita y la siguiente.",
+   "notas_r": "N1: ¿Por qué un año?\nN2: Porque la norma fija controles in situ y sin aviso a intervalos máximos de un año; el organismo prueba al menos un aparato y, si lo rechaza, bloquea su comercialización. El truco: es intervalo máximo, es decir, como mucho un año, puede ser antes."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Camino 2.2 · Calidad",
    "titulo": "Aseguramiento de la calidad",
@@ -146,6 +160,20 @@
    ],
    "img_brief": "gas appliance category label detail",
    "notas": "N1: En estas listas aparece categoría del aparato. ¿Es lo mismo que el tipo o el carné?\nN2: No, y esta es una confusión que hay que cortar de raíz porque conviven tres clasificaciones distintas. Una, la categoría del aparato: se refiere a la categoría de gases que admite el aparato, es decir, qué gases y presiones acepta, según la norma UNE-EN cuatrocientos treinta y siete. Dos, el tipo A, B o C: cómo quema y evacúa el aparato, su circuito de combustión, que vimos en el vídeo dos. Y tres, la categoría A, B o C del instalador: el nivel del carné. Son tres cosas que no tienen nada que ver. Y en obra importa: elegir mal la categoría de gases para el suministro de esa vivienda es montar un aparato que no quemará bien ese gas."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "La categoría del aparato que aparece en la documentación de diseño, ¿a qué se refiere?",
+   "opciones": [
+    "Al tipo de combustión A, B o C",
+    "A los gases y presiones que admite el aparato",
+    "Al nivel del carné del instalador",
+    "A la potencia útil en kilovatios"
+   ],
+   "correcta": 1,
+   "porque": "La categoría del aparato indica qué gases y presiones acepta, según la UNE-EN 437; no es el tipo A/B/C de combustión ni la categoría del carné del instalador.",
+   "notas_p": "N1: Cuidado, que aquí conviven tres clasificaciones que comparten palabras.\nN2: Piensa en qué describe la categoría del aparato. No la confundas con cómo quema ni con el carné del instalador.",
+   "notas_r": "N1: ¿Por qué la be?\nN2: Porque la categoría del aparato es la categoría de gases que admite: qué gases y presiones acepta. El tipo a, be o ce describe la combustión; y la categoría a, be o ce del carné es el nivel del instalador. Son tres cosas distintas: no las mezcles."
   },
   {
    "tipo": "cierre",

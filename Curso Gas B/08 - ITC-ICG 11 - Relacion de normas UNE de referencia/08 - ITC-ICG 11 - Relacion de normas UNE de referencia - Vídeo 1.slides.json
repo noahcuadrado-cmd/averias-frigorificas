@@ -115,6 +115,162 @@
    "notas": "N1: Dentro de las nacionales, ¿cómo me oriento entre tantos números?\nN2: Agrúpalas por lo que hacen, no las memorices sueltas. La serie sesenta mil es la de las normas nacionales del gas. Dentro, hay tres bloques que te conviene distinguir. Distribución, la red de la calle: seis mil trescientos diez, trescientos once y trescientos doce, según la presión. Instalaciones receptoras, lo que va dentro del edificio: seis mil seiscientos veinte para gas natural por encima de cinco bar, y seis mil seiscientos setenta hasta cinco bar. Y luego el GLP en depósito, la seis mil doscientos cincuenta. La ciento veintitrés mil uno es chimeneas. Con esos bloques ya no te pierdes."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Relación de normas · Serie 60xxx y 123xxx",
+   "titulo": "Normas UNE nacionales (I): distribución y receptoras",
+   "headers": [
+    "Norma UNE",
+    "Contenido / tema"
+   ],
+   "rows": [
+    [
+     "UNE 60210",
+     "Plantas satélite de Gas Natural Licuado (GNL)."
+    ],
+    [
+     "UNE 60250",
+     "Instalaciones de suministro de Gases Licuados del Petróleo (GLP) en depósitos fijos para su consumo en instalaciones receptoras."
+    ],
+    [
+     "UNE 60310",
+     "Canalizaciones de distribución de combustibles gaseosos con presión máxima de operación superior a 5 bar e igual o inferior a 16 bar."
+    ],
+    [
+     "UNE 60310/1M",
+     "Canalizaciones de combustibles gaseosos con MOP superior a 5 bar e inferior o igual a 16 bar (modificación de la UNE 60310)."
+    ],
+    [
+     "UNE 60311",
+     "Canalizaciones de distribución de combustibles gaseosos con MOP igual o inferior a 5 bar."
+    ],
+    [
+     "UNE 60311/1M",
+     "Canalizaciones de distribución de combustibles gaseosos con MOP igual o inferior a 5 bar (modificación de la UNE 60311)."
+    ],
+    [
+     "UNE 60312",
+     "Estaciones de regulación para canalizaciones de distribución con presión de entrada no superior a 16 bar."
+    ],
+    [
+     "UNE 60601",
+     "Salas de máquinas y equipos autónomos de generación de calor o frío o para cogeneración que utilizan combustibles gaseosos."
+    ],
+    [
+     "UNE 60620-1",
+     "Instalaciones receptoras de gas natural a presiones superiores a 5 bar. Parte 1: Generalidades."
+    ],
+    [
+     "UNE 60620-2",
+     "Instalaciones receptoras de gas natural a presiones superiores a 5 bar. Parte 2: Acometidas interiores."
+    ],
+    [
+     "UNE 60620-3",
+     "Instalaciones receptoras de gas natural a presiones superiores a 5 bar. Parte 3: Estaciones de regulación y medida."
+    ],
+    [
+     "UNE 60620-4",
+     "Instalaciones receptoras de gas natural a presiones superiores a 5 bar. Parte 4: Grupos de regulación."
+    ],
+    [
+     "UNE 60620-5",
+     "Instalaciones receptoras de gas natural a presiones superiores a 5 bar. Parte 5: Control periódico de las instalaciones en servicio."
+    ],
+    [
+     "UNE 60630",
+     "Diseño, construcción, montaje y explotación de estaciones de servicio de GLP para vehículos a motor."
+    ]
+   ],
+   "nota": "MOP es la máxima presión de operación: la presión más alta a la que la instalación trabaja de forma normal.",
+   "notas": "N1: ¿Por dónde empieza el listado nacional?\nN2: Esta es la primera mitad de las normas de casa, las de la serie sesenta mil. Léela por bloques, no de memoria. Arriba tienes la de plantas satélite y la de depósitos de GLP. Luego el bloque de distribución, la red de la calle: la trescientos diez para presiones altas, la trescientos once para presiones bajas y la trescientos doce para las estaciones de regulación. Fíjate en que algunas llevan barra uno eme: es la misma norma con un parche, no una norma nueva. Después vienen las receptoras de gas natural por encima de cinco bar, la serie seiscientos veinte, troceada en cinco partes. Un ejemplo de obra: si vas a una nave con gas natural a presión alta, tu norma de receptora es la seiscientos veinte, no la seiscientos setenta."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Relación de normas · Serie 60xxx y 123xxx",
+   "titulo": "Normas UNE nacionales (II): la serie 60670",
+   "headers": [
+    "Norma UNE",
+    "Contenido / tema"
+   ],
+   "rows": [
+    [
+     "UNE 60670-1",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 1: Generalidades."
+    ],
+    [
+     "UNE 60670-2",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 2: Terminología."
+    ],
+    [
+     "UNE 60670-3",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 3: Tuberías, elementos, accesorios y sus uniones."
+    ],
+    [
+     "UNE 60670-4",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 4: Diseño y construcción."
+    ],
+    [
+     "UNE 60670-5",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 5: Recintos para la instalación de contadores de gas."
+    ],
+    [
+     "UNE 60670-6",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 6: Configuración, ventilación y evacuación de los productos de la combustión en los locales."
+    ],
+    [
+     "UNE 60670-7",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 7: Instalación y conexión de los aparatos a gas."
+    ],
+    [
+     "UNE 60670-8",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 8: Pruebas de estanquidad para la entrega de la instalación."
+    ],
+    [
+     "UNE 60670-9",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 9: Pruebas previas al suministro y puesta en servicio."
+    ],
+    [
+     "UNE 60670-10",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 10: Verificación del mantenimiento de las condiciones de seguridad de los aparatos."
+    ],
+    [
+     "UNE 60670-11",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 11: Operaciones en instalaciones receptoras en servicio."
+    ],
+    [
+     "UNE 60670-12",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 12: Control periódico de las instalaciones receptoras en servicio."
+    ],
+    [
+     "UNE 60670-13",
+     "Instalaciones receptoras de gas con MOP inferior o igual a 5 bar. Parte 13: Control periódico de los aparatos a gas de las instalaciones en servicio."
+    ],
+    [
+     "UNE 60750",
+     "Indelebilidad y durabilidad del marcado de aparatos a gas, depósitos de gas y componentes y accesorios de instalaciones de gas."
+    ],
+    [
+     "UNE 123001",
+     "Cálculo, diseño e instalación de chimeneas modulares."
+    ]
+   ],
+   "nota": "La serie 60670 (partes 1 a 13) son las instalaciones receptoras hasta 5 bar: el corazón de la categoría B.",
+   "notas": "N1: Y esta segunda mitad, ¿por qué es la importante para mí?\nN2: Porque aquí está la familia seis mil seiscientos setenta al completo, la que más vas a manejar: instalaciones receptoras hasta cinco bar, lo doméstico y lo comercial. Mira cómo está troceada en trece partes y liga cada una a una avería. La parte ocho son las pruebas de estanquidad, la que evita la fuga. La parte seis, la ventilación y evacuación de humos, la que evita la intoxicación por monóxido. La parte siete, la conexión de aparatos. La parte nueve, las pruebas previas para dar gas por primera vez. Y al final tienes la del marcado y la ciento veintitrés mil uno de chimeneas modulares. Un ejemplo: te llaman por una caldera que ennegrece la rejilla; tu norma de cabecera es la parte seis, la de ventilación."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué parte de la UNE 60670 trata las pruebas de estanquidad para la entrega de la instalación?",
+   "opciones": [
+    "UNE 60670-6",
+    "UNE 60670-7",
+    "UNE 60670-8",
+    "UNE 60670-9"
+   ],
+   "correcta": 2,
+   "porque": "La UNE 60670-8 son las pruebas de estanquidad para la entrega. La -6 es ventilación y evacuación de humos, la -7 conexión de aparatos y la -9 pruebas previas al suministro.",
+   "notas_p": "N1: Ahora que tienes la tabla delante, afinemos con la estrella de tu categoría.\nN2: Pista: la estanquidad es asegurarte de que no se escapa ni una burbuja de gas, y se comprueba justo antes de entregar la instalación. No es la de la ventilación ni la de conectar aparatos.",
+   "notas_r": "N1: ¿Por qué la ce, la parte ocho?\nN2: Porque la parte ocho de la seis mil seiscientos setenta son las pruebas de estanquidad para la entrega de la instalación receptora: la que evita la fuga. Cuidado con las vecinas: la parte seis es ventilación y evacuación de humos, la parte siete la conexión de aparatos, y la parte nueve las pruebas previas al suministro. Truco: liga cada parte a la avería que previene y no las confundirás."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Tu categoría B",
    "titulo": "La serie 60670, tu pan de cada día",
@@ -141,6 +297,20 @@
    "notas": "N1: Veo seis mil seiscientos setenta y seis mil seiscientos veinte y me hago un lío. ¿Cómo las separo?\nN2: Por la presión, y aquí entra una sigla que verás mil veces: MOP, la máxima presión de operación, la presión más alta a la que la instalación trabaja de forma normal y continuada. Cuando leas MOP menor o igual a cinco bar, piensa instalación de vivienda y comercio. Ese umbral de cinco bar es la frontera: la seis mil seiscientos setenta es hasta cinco bar, lo tuyo; la seis mil seiscientos veinte es por encima de cinco bar, industrial. Un truco para no fallar: el número más alto, seiscientos setenta, es la presión más baja. Y ojo, la trescientos diez, once y doce ya no son receptoras, son distribución, la red de la calle. Meter una norma de distribución en el boletín de una vivienda es un error que salta a la primera revisión."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Qué serie de normas UNE aplica a una instalación receptora doméstica con MOP inferior o igual a 5 bar?",
+   "opciones": [
+    "UNE 60620",
+    "UNE 60670",
+    "UNE 60311",
+    "UNE 60312"
+   ],
+   "correcta": 1,
+   "porque": "La serie 60670 regula las instalaciones receptoras hasta 5 bar, lo doméstico y comercial. La 60620 es para más de 5 bar y las 60311/60312 son de distribución.",
+   "notas_p": "N1: Vamos con una de examen, que esta cae fijo. Fíjate bien en la presión.\nN2: Pista: piensa en la presión de una vivienda normal y en cuál de las dos series de receptoras cubre ese tramo. Ojo, que dos de las opciones ni siquiera son receptoras, son de distribución.",
+   "notas_r": "N1: ¿Por qué la be?\nN2: Porque la serie seis mil seiscientos setenta es la de las instalaciones receptoras hasta cinco bar, lo doméstico y comercial, el núcleo de tu categoría. La seis mil seiscientos veinte es para más de cinco bar, industrial, y la trescientos once y la trescientos doce son de distribución, la red de la calle. El truco para no fallar: el número más alto, seiscientos setenta, es la presión más baja."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Europeas e internacionales",
    "titulo": "Normas UNE-EN, ISO y CEN/TR",
@@ -154,6 +324,136 @@
    "notas": "N1: Y todas esas une-en, ¿de qué van en general?\nN2: Son las de origen europeo e internacional, y también se agrupan por temas. Para la distribución europea tienes la doce mil siete, la mil quinientos noventa y cuatro y la doce mil trescientos veintisiete, esta última de ensayos de presión y puesta en servicio de la red. Para chimeneas y humos, la mil ochocientos cincuenta y seis y la trece mil trescientos ochenta y cuatro, que es la de cálculo. Para comportamiento frente al fuego, la mil trescientos sesenta y tres y la trece mil quinientos uno. Y la iso nueve mil uno es la de gestión de la calidad. No hace falta que te las sepas de carrerilla: basta con que sepas a qué cajón temático pertenece cada una."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Relación de normas · Europeas e internacionales",
+   "titulo": "Normas UNE-EN (I): fuego, chimeneas y distribución",
+   "headers": [
+    "Norma",
+    "Contenido / tema"
+   ],
+   "rows": [
+    [
+     "UNE-EN 3-7+A1",
+     "Extintores portátiles de incendios. Parte 7: Características, requisitos de funcionamiento y métodos de ensayo."
+    ],
+    [
+     "UNE-EN 437",
+     "Gases de ensayo. Presiones de ensayo. Categorías de aparatos."
+    ],
+    [
+     "UNE-EN 1363-1",
+     "Ensayos de resistencia al fuego. Parte 1: Requisitos generales."
+    ],
+    [
+     "UNE-EN 1594",
+     "Sistemas de suministro de gas. Canalizaciones con MOP superior a 16 bar. Requisitos funcionales."
+    ],
+    [
+     "UNE-EN 1856-1",
+     "Chimeneas. Requisitos para chimeneas metálicas. Parte 1: Chimeneas modulares."
+    ],
+    [
+     "UNE-EN 1949",
+     "Instalaciones de sistemas de GLP para usos domésticos en vehículos habitables de recreo y para alojamiento en otros vehículos."
+    ],
+    [
+     "UNE-EN 12007-1",
+     "Sistemas de suministro de gas. Canalizaciones con MOP inferior o igual a 16 bar. Parte 1: Requisitos funcionales generales."
+    ],
+    [
+     "UNE-EN 12007-2",
+     "Canalizaciones con MOP inferior o igual a 16 bar. Parte 2: Requisitos específicos para el polietileno (MOP inferior o igual a 10 bar)."
+    ],
+    [
+     "UNE-EN 12007-3",
+     "Canalizaciones con MOP inferior o igual a 16 bar. Parte 3: Recomendaciones funcionales específicas para el acero."
+    ],
+    [
+     "UNE-EN 12007-4",
+     "Canalizaciones con MOP inferior o igual a 16 bar. Parte 4: Recomendaciones funcionales específicas para la renovación."
+    ],
+    [
+     "UNE-EN 12007-5",
+     "Canalizaciones con MOP inferior o igual a 16 bar. Parte 5: Acometidas. Requisitos funcionales específicos."
+    ],
+    [
+     "UNE-EN 12186",
+     "Infraestructura gasista. Estaciones de regulación de presión de gas para el transporte y la distribución. Requisitos de funcionamiento."
+    ],
+    [
+     "UNE-EN 12327",
+     "Sistemas de suministro de gas. Ensayos de presión, puesta en servicio y fuera de servicio. Requisitos funcionales."
+    ]
+   ],
+   "nota": "Las UNE-EN son normas europeas adoptadas como españolas; valen por igual en todos los países que las adoptan.",
+   "notas": "N1: Pasamos a las de origen europeo. ¿Cómo las ordeno?\nN2: Esta primera mitad la agrupas por temas. Arriba tienes las de fuego: la de extintores, la mil trescientos sesenta y tres de resistencia al fuego y, más adelante, la de reacción al fuego de los materiales. La cuatrocientos treinta y siete es la reina, la que define las familias de gas y las categorías de aparatos; la vas a citar sin parar. Luego el bloque de distribución europea: la mil quinientos noventa y cuatro para presiones muy altas, la familia doce mil siete troceada por materiales, con la parte dos del polietileno, y la doce mil trescientos veintisiete de ensayos de presión y puesta en servicio de la red. Un ejemplo de obra: si tiendes tubería de polietileno enterrada, tu referencia europea es la doce mil siete parte dos."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Relación de normas · Europeas e internacionales",
+   "titulo": "Normas UNE-EN (II): GLP, calidad y tipos de aparato",
+   "headers": [
+    "Norma",
+    "Contenido / tema"
+   ],
+   "rows": [
+    [
+     "UNE-EN 12864",
+     "Reguladores de reglaje fijo para presiones de salida inferiores o iguales a 200 mbar y caudal inferior o igual a 4 kg/h, con dispositivos de seguridad, para butano, propano o sus mezclas."
+    ],
+    [
+     "UNE-EN 12864/A1",
+     "Reguladores de reglaje fijo (200 mbar, 4 kg/h) para butano, propano o sus mezclas (modificación A1 de la UNE-EN 12864)."
+    ],
+    [
+     "UNE-EN 12864/A2",
+     "Reguladores de reglaje fijo (200 mbar, 4 kg/h) para butano, propano o sus mezclas (modificación A2 de la UNE-EN 12864)."
+    ],
+    [
+     "UNE-EN 12864/A3",
+     "Reguladores de reglaje fijo (200 mbar, 4 kg/h) para butano, propano o sus mezclas (modificación A3 de la UNE-EN 12864)."
+    ],
+    [
+     "UNE-EN 13384-1+A1",
+     "Chimeneas. Métodos de cálculo térmicos y fluidodinámicos. Parte 1: Chimeneas que dan servicio a un único aparato de calefacción."
+    ],
+    [
+     "UNE-EN 13384-2+A1",
+     "Chimeneas. Métodos de cálculo térmicos y de fluidos dinámicos. Parte 2: Chimeneas que dan servicio a más de un generador de calor."
+    ],
+    [
+     "UNE-EN 13501-1",
+     "Clasificación frente al fuego de los productos de construcción. Parte 1: A partir de datos de ensayos de reacción al fuego."
+    ],
+    [
+     "UNE-EN 13786+A1",
+     "Inversores automáticos con presión máxima de salida inferior o igual a 4 bar y caudal inferior o igual a 100 kg/h, con dispositivos de seguridad, para butano, propano y sus mezclas."
+    ],
+    [
+     "UNE-EN 16436-1+A2",
+     "Mangueras y tubos de elastómero y plástico para propano, butano y sus mezclas en fase vapor. Parte 1: Mangueras y tubos."
+    ],
+    [
+     "UNE-EN 16436-2+A2",
+     "Mangueras y tubos de elastómero y plástico para propano, butano y sus mezclas en fase vapor. Parte 2: Conjuntos con accesorios de unión."
+    ],
+    [
+     "UNE-EN ISO 9001",
+     "Sistemas de gestión de la calidad. Requisitos."
+    ],
+    [
+     "UNE-EN ISO 16923",
+     "Estaciones de servicio para gas natural. Estaciones de GNC para repostaje de vehículos."
+    ],
+    [
+     "UNE-CEN/TR 1749",
+     "Esquema europeo para la clasificación de los aparatos a gas según la forma de evacuación de los productos de la combustión (tipos). Ratificada por AENOR."
+    ]
+   ],
+   "nota": "Las marcas /A1, /A2, /A3 y +A1 son la misma norma retocada, no normas nuevas: en el boletín citas la norma base.",
+   "notas": "N1: Y esta segunda mitad, ¿qué me aporta en el día a día?\nN2: Aquí está lo del GLP que tocas con las manos. La doce mil ochocientos sesenta y cuatro es la de los reguladores, esos que bajan la presión de la bombona; verás que aparece varias veces con barra a uno, a dos y a tres, pero es la misma norma con parches sucesivos, no cuatro normas. La trece mil setecientos ochenta y seis es la de los inversores automáticos y la dieciséis mil cuatrocientos treinta y seis, la de las mangueras y tubos flexibles, la avería más típica de una cocina de butano. Cierran la lista la nueve mil uno de calidad y, muy importante, la cen barra te erre mil setecientos cuarenta y nueve, que clasifica los aparatos por tipos según cómo echan los humos. Un ejemplo: si cambias la manguera agrietada de una bombona, la norma detrás es la dieciséis mil cuatrocientos treinta y seis."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "La reina de las citas",
    "titulo": "UNE-EN 437 y CEN/TR 1749",
@@ -165,6 +465,20 @@
    ],
    "img_brief": "blue gas flame on burner",
    "notas": "N1: Has dicho que la cuatrocientos treinta y siete la cito mil veces. ¿Por qué es tan importante?\nN2: Porque define las tres familias de gas y las categorías de aparatos. Las tres familias son: primera, gases manufacturados y aire propanado; segunda, gas natural; tercera, los GLP, butano y propano. Cada vez que en el curso oigas tres familias, detrás está la cuatrocientos treinta y siete. Y tiene una compañera inseparable, la cen barra te erre mil setecientos cuarenta y nueve, que clasifica los aparatos por tipos: tipo A, tipo B y tipo C, según cómo evacúan los humos de la combustión. Esto no es teoría de adorno: equivocar el tipo de aparato, poner un tipo A donde hace falta un C estanco, es diseñar una intoxicación por monóxido desde el papel."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué norma define las tres familias de gas y las categorías de aparatos?",
+   "opciones": [
+    "UNE-EN 437",
+    "UNE-CEN/TR 1749",
+    "UNE-EN ISO 9001",
+    "UNE-EN 12864"
+   ],
+   "correcta": 0,
+   "porque": "La UNE-EN 437 fija las tres familias de gas (1.ª manufacturados, 2.ª natural, 3.ª GLP) y las categorías de aparatos. La CEN/TR 1749 clasifica los aparatos por tipos A, B y C.",
+   "notas_p": "N1: Última pregunta, y va sobre la norma que más vas a citar.\nN2: Pista: buscas la que reparte el gas en tres familias, la primera, la segunda y la tercera. Otra opción, muy parecida, clasifica los aparatos por tipos según cómo echan los humos; esa no es.",
+   "notas_r": "N1: ¿Por qué la a, la cuatrocientos treinta y siete?\nN2: Porque la cuatrocientos treinta y siete define las tres familias de gas, la primera de manufacturados y aire propanado, la segunda de gas natural y la tercera de los GLP, y también las categorías de aparatos. No la confundas con su compañera, la cen barra te erre mil setecientos cuarenta y nueve, que clasifica los aparatos por tipos a, be y ce según cómo evacúan los humos. La nueve mil uno es calidad y la doce mil ochocientos sesenta y cuatro, reguladores."
   },
   {
    "tipo": "contenido",

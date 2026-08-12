@@ -55,6 +55,20 @@
    "notas": "N1: ¿Qué es el totalizador y por qué importa tanto su altura?\nN2: El totalizador es la ventanita del contador donde se lee el consumo, los numeritos que marcan cuánto gas ha pasado. La altura importa por algo muy práctico: si lo pones demasiado alto, el que va a leer no llega, y el que va a mantener tampoco puede trabajar. Piénsalo como el cuadro de la luz de casa: tiene que estar a la vista y a mano, no encaramado en el techo. Por eso en centralizado la norma pide el totalizador por debajo de dos metros. Solo en módulos prefabricados, los de la norma UNE sesenta mil cuatrocientos noventa, se admite hasta dos metros con cuarenta, pero con una condición: que dejes una escalera o un útil para leer. Si lo dejas alto y sin acceso, llegan las lecturas estimadas y las reclamaciones de factura."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál es la altura máxima del totalizador cuando el contador va dentro de la vivienda?",
+   "opciones": [
+    "1,7 m",
+    "2 m",
+    "2,4 m",
+    "1,5 m"
+   ],
+   "correcta": 0,
+   "porque": "En vivienda el totalizador no puede superar 1,7 m; los 2 m (2,4 m en prefabricado) son para la centralización, donde hay escalera de servicio.",
+   "notas_p": "N1: Cuidado, que aquí caen dos alturas y mucha gente las cruza. ¿A qué altura como máximo va el totalizador dentro de la vivienda?\nN2: Piensa quién lo lee: dentro de casa lo lee el propio usuario, de pie y sin subirse a nada.",
+   "notas_r": "N1: ¿Por qué un metro setenta y no dos metros?\nN2: Porque en la vivienda no hay escalera de servicio; lo tiene que leer cómodamente el usuario. Truco para no fallar: centralizado dos metros, dos con cuarenta en prefabricado con escalera; en vivienda, uno setenta."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Recinto de contadores",
    "titulo": "Tres detalles del recinto que caen siempre",
@@ -104,6 +118,74 @@
    ],
    "img_brief": "wall ventilation grille louver metal",
    "notas": "N1: Hay una tabla enorme de secciones. ¿Me la tengo que aprender de memoria?\nN2: No te agobies con la tabla celda a celda; quédate con la lógica y la sacas sola. Ventilar el recinto sirve para que, si hay una microfuga, el gas se airee y no se acumule; si te quedas corto de rejilla, conviertes el recinto en una bolsa de gas. La idea: los armarios son pequeños y cerrados, así que piden secciones pequeñas, entre cinco y cincuenta centímetros cuadrados, y no admiten ventilación indirecta. Los locales y cuartos, más grandes, piden doscientos centímetros cuadrados arriba y abajo, o ciento cincuenta si hay muchos contadores. Y hay dos recargos del cincuenta por ciento: cuando el conducto es largo y cuando estás en un primer sótano, que además exige puerta estanca. Con eso respondes casi cualquier casilla."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Ventilación del recinto",
+   "titulo": "Secciones de ventilación del recinto (UNE 60490)",
+   "headers": [
+    "Ventilación",
+    "Local técnico",
+    "Armario exterior",
+    "Armario interior",
+    "Conducto técnico",
+    "Cuarto contadores (N≤2)",
+    "Cuarto contadores (N>2)"
+   ],
+   "rows": [
+    [
+     "Superior · directa",
+     "200 cm²",
+     "5 cm²",
+     "50 cm²",
+     "5 cm²",
+     "200 cm²",
+     "150 cm²"
+    ],
+    [
+     "Superior · indirecta",
+     "No se permite",
+     "No se permite",
+     "No se permite",
+     "5 cm²",
+     "No se permite",
+     "No se permite"
+    ],
+    [
+     "Inferior · directa",
+     "200 cm²",
+     "5 cm²",
+     "50 cm²",
+     "5 cm²",
+     "200 cm²",
+     "150 cm²"
+    ],
+    [
+     "Inferior · indirecta",
+     "200 cm² (*)",
+     "No se permite",
+     "No se permite",
+     "5 cm² (*)",
+     "200 cm² (*)",
+     "150 cm² (*)"
+    ]
+   ],
+   "nota": "Sección mínima de rejilla arriba y abajo según el recinto; los armarios piden poco y no admiten indirecta; conducto largo o primer sótano, +50 %.",
+   "notas": "N1: ¿Hay que aprenderse esta tabla casilla a casilla?\nN2: No, con la lógica la sacas sola. La tabla da la sección mínima de rejilla, arriba y abajo, según el tipo de recinto y el número de contadores. Fíjate en el patrón: los armarios, que son pequeños y cerrados, piden secciones pequeñas, entre cinco y cincuenta centímetros cuadrados, y no admiten ventilación indirecta; los locales y cuartos, más grandes, piden doscientos centímetros cuadrados, o ciento cincuenta si hay más de dos contadores; y solo el conducto técnico admite indirecta. El asterisco avisa de que, en un primer sótano con gas más ligero que el aire, la indirecta no se permite. Y recuerda los dos recargos del cincuenta por ciento: cuando el conducto es largo y cuando estás en primer sótano, que además exige puerta estanca. Ejemplo de obra: un cuarto de contadores con tres contadores en planta baja pide ciento cincuenta centímetros cuadrados arriba y otros ciento cincuenta abajo, con ventilación directa."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál es el único recinto de contadores que admite ventilación indirecta?",
+   "opciones": [
+    "El conducto técnico",
+    "El armario exterior",
+    "El local técnico",
+    "El armario interior"
+   ],
+   "correcta": 0,
+   "porque": "En la tabla UNE 60490 solo el conducto técnico admite indirecta; armarios y locales exigen ventilación directa al exterior.",
+   "notas_p": "N1: De todos los recintos de la tabla, solo uno puede ventilar de forma indirecta, pasando antes por otro local. ¿Cuál es?\nN2: Repasa la fila de la indirecta: casi todo pone «no se permite» menos una columna.",
+   "notas_r": "N1: ¿Por qué justo ese?\nN2: Porque el conducto técnico es un hueco cerrado y estrecho por donde el aire ya circula; el resto, armarios y locales, tienen que soltar el aire directo al exterior para no llevar una posible fuga a otra estancia."
   },
   {
    "tipo": "contenido",
@@ -194,6 +276,103 @@
    ],
    "img_brief": "gas installation pipes and valves building",
    "notas": "N1: Las tablas de la comunitaria y la individual tienen muchas filas. ¿Hay un patrón?\nN2: Sí, y en cuanto lo ves ya no necesitas empollar fila por fila. Fíjate: todo lo que la distribuidora necesita tocar, la acometida, la llave de edificio, la de montante, los contadores, la regulación y la llave de usuario, vive en zona comunitaria o pública y pide grado dos o tres. En cambio, todo lo que maneja el usuario dentro de su propia vivienda, la llave de vivienda, la del aparato, la del regulador, es grado uno, a mano y sin llave. Así que ante cualquier llave, primero decide dos cosas: quién la usa y dónde está. Con eso el grado casi se contesta solo. Y todo esto queda reflejado en el certificado de instalación, el boletín que firma la empresa instaladora y entrega a la distribuidora."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Accesibilidad · IRC",
+   "titulo": "Instalación Receptora Comunitaria (IRC)",
+   "headers": [
+    "Dispositivo",
+    "Accesibilidad",
+    "Desde zona"
+   ],
+   "rows": [
+    [
+     "Llave de acometida",
+     "Grado 1 ó 2 (empresa distribuidora)",
+     "Pública"
+    ],
+    [
+     "Llave de edificio",
+     "Grado 2 ó 3 (para todos)",
+     "Comunitaria o pública"
+    ],
+    [
+     "Llave de montante",
+     "Grado 2 ó 3 (para todos)",
+     "Comunitaria o pública"
+    ],
+    [
+     "Llave de usuario / abonado",
+     "Grado 2 (para todos)",
+     "Comunitaria"
+    ],
+    [
+     "Centralización de contadores",
+     "Grado 2 (para todos)",
+     "Comunitaria"
+    ],
+    [
+     "Armario de regulación",
+     "Grado 2 (para todos)",
+     "Comunitaria"
+    ],
+    [
+     "Obturador de cierre (no con contadores de funciones añadidas)",
+     "Grado 3 (empresa distribuidora)",
+     "Comunitaria"
+    ]
+   ],
+   "nota": "Grado de accesibilidad y zona de cada llave de la instalación comunitaria; casi todo lo que toca la distribuidora vive en zona común con grado 2 ó 3.",
+   "notas": "N1: ¿Qué grado pide cada llave de la parte comunitaria?\nN2: Esta tabla recoge la instalación receptora comunitaria, la parte que maneja la empresa distribuidora. Léela con un patrón: todo lo que la distribuidora necesita tocar vive en zona comunitaria o pública y pide grado dos o tres. La acometida, grado uno o dos desde zona pública; el edificio y el montante, grado dos o tres; la llave de usuario, la centralización y el armario de regulación, grado dos para todos desde zona común; y el obturador de cierre, grado tres solo para la distribuidora. Un detalle de examen: el obturador no se monta si pones contadores de funciones añadidas, los de telemedida, porque el propio contador ya corta a distancia. Ejemplo de obra: la llave de usuario de un piso tiene que quedar accesible con grado dos para la distribuidora desde el rellano, no escondida dentro de la vivienda."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Accesibilidad · IRI",
+   "titulo": "Instalación Receptora Individual (IRI)",
+   "headers": [
+    "Dispositivo",
+    "Accesibilidad",
+    "Desde zona"
+   ],
+   "rows": [
+    [
+     "Llave de contador",
+     "Grado 1 ó 2 (para el usuario)",
+     "Vivienda"
+    ],
+    [
+     "Llave de vivienda",
+     "Grado 1 (para el usuario)",
+     "Vivienda"
+    ],
+    [
+     "Llave de aparato",
+     "Grado 1 (para el usuario)",
+     "Vivienda"
+    ],
+    [
+     "Llave de regulador",
+     "Grado 1 ó 2 (para el usuario)",
+     "Vivienda"
+    ]
+   ],
+   "nota": "Las llaves que maneja el usuario dentro de su vivienda son de grado 1 (a mano, sin llave) o como mucho grado 2.",
+   "notas": "N1: ¿Y dentro de la vivienda, qué grado piden las llaves?\nN2: Aquí está la instalación receptora individual, lo que maneja el propio usuario dentro de casa. Fíjate en el contraste con la comunitaria: como las usa el usuario y están en la vivienda, son grado uno, a mano y sin llave, o como mucho grado uno o dos en la del contador y la del regulador. La llave de vivienda y la de aparato, grado uno siempre. Regla para colocar cualquier llave: primero decide quién la usa y dónde está; si es el usuario dentro de casa, grado uno. Ejemplo de obra: la llave de la cocina, la del aparato, tiene que quedar a mano del usuario, sin cerraduras ni escaleras."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Con qué grado de accesibilidad debe quedar la llave de usuario para la empresa distribuidora?",
+   "opciones": [
+    "Grado 2",
+    "Grado 1",
+    "Grado 3",
+    "No exige grado"
+   ],
+   "correcta": 0,
+   "porque": "La llave de usuario se pone siempre y debe ser fácilmente accesible con grado 2 para la distribuidora, desde zona común o límite de propiedad.",
+   "notas_p": "N1: La llave de usuario es la que deja sin gas una vivienda concreta en una emergencia. ¿Con qué grado tiene que poder llegar a ella la distribuidora?\nN2: Piensa que la compañía debe poder cortar desde la zona común aunque no haya nadie en casa: ni tan libre como el grado más bajo, ni tan difícil como el más alto.",
+   "notas_r": "N1: ¿Por qué grado dos y no otro?\nN2: Porque grado dos es cerradura normalizada sin escalera: la distribuidora abre con su llave desde la zona común y corta el gas. Si la dejaras dentro de la vivienda inaccesible, no podría cerrar en caso de peligro, y eso es anomalía."
   },
   {
    "tipo": "cierre",

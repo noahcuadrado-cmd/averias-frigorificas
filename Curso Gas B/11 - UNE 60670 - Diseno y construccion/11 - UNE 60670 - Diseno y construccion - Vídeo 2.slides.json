@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["4", "modalidades de tubería según su ubicación"],
-    ["3", "cm de separación mínima a otros servicios"],
-    ["0,40", "metros: máximo de tubo empotrado"]
+    [
+     "4",
+     "modalidades de tubería según su ubicación"
+    ],
+    [
+     "3",
+     "cm de separación mínima a otros servicios"
+    ],
+    [
+     "0,40",
+     "metros: máximo de tubo empotrado"
+    ]
    ],
    "notas": "N1: ¿Qué tres cifras me llevo de entrada?\nN2: Tres anclas para todo el vídeo. Uno, hay cuatro modalidades de tubería según por dónde vaya: vista, envainada, enterrada y empotrada. Dos, el número mágico de las distancias es tres centímetros, la separación mínima que el tubo de gas guarda con cualquier otro servicio y con el suelo. Y tres, el empotrado, que es la excepción, tiene un tope de cuarenta centímetros de longitud. Con estos tres números en la cabeza, el resto del vídeo se ordena solo."
   },
@@ -58,6 +67,20 @@
    "notas": "N1: ¿Hay sitios por donde el gas no puede pasar nunca?\nN2: Sí, y esta lista es pregunta segura, así que apréndetela con un truco muy simple: por donde suba fuego, humo, basura o electricidad gorda, el gas no pasa. En concreto: nada de huecos de ascensores o montacargas, porque el mecanismo podría aplastar o cortar el tubo; nada de locales con transformadores eléctricos de potencia, porque una chispa junto al gas es una explosión; nada de chimeneas ni conductos de humos; nada de bajantes de basura; y nada de conductos o rejillas de ventilación, salvo un caso muy concreto. Y añade una más: el tubo no puede ir metido dentro de los forjados, o sea dentro del suelo o el techo que separa las viviendas. La lógica es siempre la misma: alejar el gas de todo lo que pueda encenderlo, dañarlo o dificultar cerrarlo en una emergencia. Saltarse esta lista es firmar la instalación que un día explica un incendio."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Por cuál de estos lugares SÍ puede discurrir una tubería de gas?",
+   "opciones": [
+    "Por el hueco de un ascensor",
+    "Por un local con un transformador eléctrico de potencia",
+    "Por un local con un depósito de gasoil (clase C) de 800 l",
+    "Por dentro de un forjado de la vivienda"
+   ],
+   "correcta": 2,
+   "porque": "Los combustibles de clase C, como el gasoil, en depósitos de hasta 1000 l son la única excepción admitida, cumpliendo distancias y ventilación.",
+   "notas_p": "N1: De la lista negra de prohibiciones, hay una excepción. ¿Por dónde de estos cuatro sitios sí puede pasar el gas?\nN2: Acuérdate del truco: por donde suba fuego, humo, basura o electricidad gorda, el gas no pasa. Solo uno de estos cuatro es una excepción tolerada.",
+   "notas_r": "N1: ¿Por qué el del gasoil?\nN2: Porque el gasoil es un combustible de clase C, se inflama a cincuenta y cinco grados o más, así que cuesta mucho prenderlo y es menos peligroso que la gasolina. Por eso la norma deja pasar el gas por un local con un depósito de gasoil pequeño, de hasta mil litros, cumpliendo distancias y ventilación. El truco para no fallar: ascensor, transformador y forjado son noes rotundos; la única puerta abierta es la clase C en depósito pequeño."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.2 · Excepción",
    "titulo": "El gasoil, clase C, sí pasa",
@@ -80,6 +103,45 @@
    ],
    "img_brief": "metal pipe clamp bracket on wall",
    "notas": "N1: Cuando el tubo va visto, ¿cómo se sujeta?\nN2: Con abrazaderas o soportes firmes anclados a la construcción, pero con tres condiciones importantes. Uno, tienen que ser desmontables, para poder quitar el tubo el día que haga falta. Dos, tienen que quedar aislados del tubo, sin metal contra metal, para que no aparezca corrosión. Y tres, tienen que permitir que el tubo dilate, porque con el calor el metal se alarga y si lo aprietas a muerte, se tensa y sufre. ¿Cada cuánto pones un soporte? Depende del grosor: cuanto más grueso el tubo, más peso aguanta y más distancia puedes dejar entre sujeciones; y en los tramos verticales puedes separar un poco más que en los horizontales. Los que van por fuera, además, protegidos contra la corrosión y contra el sol. La idea: que el tubo quede firme, alineado y sin apoyarse ni rozar con nada."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 4.3 · Tuberías vistas",
+   "titulo": "Separación máxima entre elementos de sujeción",
+   "headers": [
+    "Diámetro nominal (DN, mm)",
+    "Diámetro nominal (pulgadas)",
+    "Tramo horizontal (m)",
+    "Tramo vertical (m)"
+   ],
+   "rows": [
+    [
+     "DN ≤ 15",
+     "DN ≤ ½\"",
+     "1,0",
+     "1,5"
+    ],
+    [
+     "15 < DN ≤ 28",
+     "½\" < DN ≤ 1\"",
+     "1,5",
+     "2,0"
+    ],
+    [
+     "28 < DN ≤ 42",
+     "1\" < DN ≤ 1½\"",
+     "2,5",
+     "3,0"
+    ],
+    [
+     "DN > 42",
+     "DN > 1½\"",
+     "3,0",
+     "3,5 (al menos una sujeción por planta)"
+    ]
+   ],
+   "nota": "A mayor diámetro de tubo, más peso aguanta y más se pueden separar los soportes; en vertical se admite algo más que en horizontal.",
+   "notas": "N1: ¿Cada cuánto se pone un soporte en un tubo visto?\nN2: Esta tabla te da la separación máxima entre sujeciones según el grosor del tubo, y tiene una lógica muy clara: cuanto más grueso el tubo, más distancia puedes dejar, porque aguanta más peso sin combarse. Se lee por filas de diámetro. Un tubo fino, de hasta quince milímetros, pide un soporte cada metro en horizontal y cada metro y medio en vertical. Según sube el diámetro, la separación crece: en el tramo de veintiocho a cuarenta y dos milímetros ya vas a dos metros y medio en horizontal y tres en vertical. Y para los tubos más gruesos, de más de cuarenta y dos, hasta tres metros en horizontal y tres y medio en vertical, pero con al menos una sujeción por planta. Fíjate en dos patrones: el vertical siempre admite un poco más que el horizontal, y son valores orientativos. Ejemplo de obra: un montante de tubo grueso lleva como mínimo una abrazadera en cada piso."
   },
   {
    "tipo": "contenido",
@@ -143,6 +205,31 @@
    "notas": "N1: ¿Por qué es especial un semisótano?\nN2: Porque un semisótano es una trampa para el gas: si hay una fuga, el gas se queda acumulado ahí abajo. Por eso, como regla general, el tubo se envaina al cruzarlo. Pero hay una puerta abierta, con condiciones estrictas: solo si el gas es más ligero que el aire, como el gas natural, si va a poca presión, cincuenta milibares o menos, y si el semisótano está muy bien ventilado. La lógica es preciosa: el gas natural, al ser ligero, sube y se escapa por las rejillas de arriba; por eso al butano y al propano, que son más pesados que el aire y se van al suelo, esta excepción no les vale. ¿Qué es estar bien ventilado? Dos rejillas en paredes opuestas, separadas al menos dos metros en horizontal y dos metros en altura, y con una superficie de rejilla de diez centímetros cuadrados por cada metro cuadrado de suelo, con un mínimo de doscientos centímetros cuadrados. Esa es la fórmula: superficie igual a diez por el área del suelo, y nunca menos de doscientos."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 4.4.1.2 · Semisótano ventilado",
+   "titulo": "Factores de corrección de la superficie de aireación por conducto",
+   "headers": [
+    "Longitud de conducto (m)",
+    "Factor de corrección"
+   ],
+   "rows": [
+    [
+     "3 ≤ L ≤ 10",
+     "1,5"
+    ],
+    [
+     "10 < L ≤ 26",
+     "2"
+    ],
+    [
+     "26 < L ≤ 50",
+     "2,5"
+    ]
+   ],
+   "nota": "Si la ventilación del semisótano llega por un conducto largo, la superficie de rejilla se multiplica por este factor: cuanto más largo, más rejilla.",
+   "notas": "N1: ¿Y si la rejilla del semisótano tiene que salir por un conducto largo?\nN2: Entonces la superficie de aireación que habías calculado se queda corta y hay que agrandarla, porque el aire circula peor cuanto más largo es el conducto. Esta tabla te da por cuánto multiplicar. Se lee por tramos de longitud. Si el conducto mide entre tres y diez metros, multiplicas la superficie por uno coma cinco. Si mide más de diez y hasta veintiséis, la multiplicas por dos. Y si mide más de veintiséis y hasta cincuenta, por dos coma cinco. La idea de fondo: cuanto más largo el conducto, más resistencia al paso del aire, así que más rejilla necesitas para compensar. Ejemplo: si te salían doscientos centímetros cuadrados de rejilla y el conducto mide quince metros, multiplicas por dos y necesitas cuatrocientos."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.4.2 · Tabla 6",
    "titulo": "Metal siempre, plástico a veces",
@@ -153,6 +240,45 @@
    ],
    "img_brief": "steel metal conduit pipe",
    "notas": "N1: ¿De qué material tiene que ser la vaina?\nN2: Depende del para qué, y hay un patrón muy claro en la tabla. Para protección mecánica y para ventilación en semisótano, la vaina es metálica sí o sí, porque ahí necesitas resistencia de verdad: acero u otro material igual de fuerte. En los demás casos, o sea ventilación normal, acceso a armarios y suelo o subsuelo, sí admites plástico rígido, como pe uve ce, polietileno o polipropileno, siempre que aguante la forma sin aplastarse. Eso de aguantar la forma tiene nombre técnico, rigidez anular, y se traduce en que el material no se doble más de la cuenta. Además, en todos los casos marcados con asterisco en la norma, la vaina tiene que ser estanca, que no se cuele nada. Y una regla que cae: si una misma vaina hace dos trabajos a la vez, por ejemplo proteger y ventilar, tiene que cumplir lo más exigente de los dos. Metal donde hay que resistir; plástico rígido donde solo hay que envolver."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 4.4.2 · Tabla 6",
+   "titulo": "Materiales de las vainas y conductos según su función",
+   "headers": [
+    "Función",
+    "Material de vainas",
+    "Material de conductos o perfiles"
+   ],
+   "rows": [
+    [
+     "Protección mecánica de tuberías",
+     "Acero, espesor mínimo de 1,5 mm; u otros de similar resistencia mecánica",
+     "Metálicos (acero, cobre, etc.), espesor mínimo 1,5 mm; o de obra (espesor mínimo 5 cm)"
+    ],
+    [
+     "Ventilación de tuberías en semisótano*",
+     "Metálicos (acero, cobre, etc.)",
+     "Metálicos (acero, cobre, etc.)"
+    ],
+    [
+     "Ventilación de tuberías en el resto de casos*",
+     "Metálicos; u otros con rigidez anular (radio de curvatura ≥ 3 veces su diámetro), p. ej. PVC, PE, PP",
+     "Metálicos (acero, cobre, etc.); o de obra"
+    ],
+    [
+     "Acceso a armarios empotrados de regulación y contadores*",
+     "Metálicos; u otros con rigidez anular (radio de curvatura ≥ 3 veces su diámetro), p. ej. PVC, PE, PP",
+     "Metálicos (acero, cobre, etc.); o de obra"
+    ],
+    [
+     "Tuberías situadas en suelo o subsuelo*",
+     "Metálicos; u otros con rigidez anular (radio de curvatura ≥ 3 veces su diámetro), p. ej. PVC, PE, PP",
+     "Metálicos (acero, cobre, etc.); o de obra"
+    ]
+   ],
+   "nota": "El asterisco (*) indica que el material debe asegurar la estanquidad; en protección mecánica y semisótano la vaina es siempre metálica.",
+   "notas": "N1: ¿De qué material va la vaina según para qué sirva?\nN2: Esta tabla cruza cada función con el material admitido, y tiene un patrón que conviene ver. Se lee por filas de función. Para protección mecánica, la vaina es de acero de al menos milímetro y medio de espesor, u otro material igual de resistente, porque ahí necesitas aguantar golpes. Para ventilación en semisótano, metálica sí o sí. En cambio, en los demás casos, ventilación normal, acceso a armarios y suelo o subsuelo, ya se admite plástico rígido como pe uve ce, polietileno o polipropileno, siempre que mantenga la forma, lo que la norma llama rigidez anular, un radio de curvatura de al menos tres veces su propio diámetro. Los conductos, en todos los casos, pueden ser metálicos o de obra. Dos reglas que caen: donde hay asterisco, el material tiene que ser estanco; y si una vaina hace dos funciones a la vez, cumple lo más exigente de las dos. Metal donde hay que resistir; plástico rígido donde solo hay que envolver."
   },
   {
    "tipo": "contenido",
@@ -189,6 +315,20 @@
    ],
    "img_brief": "buried gas pipe in trench excavation",
    "notas": "N1: ¿Y cuando el tubo va enterrado o empotrado?\nN2: Vamos con las dos. Enterrada es la que va por el subsuelo, siempre por fuera del edificio, y se hace siguiendo otra norma específica de tuberías enterradas, con su protección contra la corrosión. La empotrada es la excepción tasada: solo se permite para rodear un obstáculo o para conectar con un cajetín o armario, y como máximo cuarenta centímetros, salvo cuando va hacia un conjunto de regulación o contadores, que puede llegar a dos metros y medio. Dentro del tramo empotrado no puede haber ninguna unión mecánica, o sea nada de roscas escondidas que un día tengas que apretar y no puedas. Si el tubo es de acero o cobre, se protege como si fuera enterrado: se limpia, se le da una imprimación y se envuelve con doble capa de cinta anticorrosión con un cincuenta por ciento de solape. Y antes de tapar, siempre prueba de estanquidad: lo que se tapa, se comprueba antes. Regla: empotrar, lo justo y bien protegido."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál es la longitud máxima de empotramiento de una tubería de gas (caso general)?",
+   "opciones": [
+    "0,20 m",
+    "0,40 m",
+    "1,00 m",
+    "2,50 m"
+   ],
+   "correcta": 1,
+   "porque": "El empotrado se limita a 0,40 m en el caso general; solo hacia un conjunto de regulación o contadores puede llegar a 2,50 m.",
+   "notas_p": "N1: El empotrado es la excepción y está muy tasado. ¿Cuánto tubo como máximo puedes empotrar en el caso normal?\nN2: Piensa que empotrar es solo para rodear un obstáculo o llegar a un cajetín. Hay una cifra pequeña que la marca, y otra mayor que es solo para un caso especial.",
+   "notas_r": "N1: ¿Por qué cuarenta centímetros?\nN2: Porque la norma solo deja empotrar lo justo, para esquivar un obstáculo o conectar con un cajetín, y pone el tope en cuarenta centímetros. El dos coma cinco es la trampa: esa longitud mayor solo vale cuando el tubo va hacia un conjunto de regulación o de contadores, no en el caso general. El truco para no fallar: caso normal, cuarenta centímetros; hacia regulación o contadores, hasta dos metros y medio. Y dentro del empotrado, ninguna unión mecánica escondida."
   },
   {
    "tipo": "contenido",

@@ -158,6 +158,20 @@
    "notas": "N1: ¿Todo el que toca aparatos gordos estudia el anexo dos entero?\nN2: No, y aquí está la regla fina que cae en el examen. El anexo dos tiene dieciocho apartados. El reparto depende de qué operación quieras hacer. Si es el cuatro punto uno, arrancar, mantener o reparar los aparatos grandes y las vitros de fuegos cubiertos, necesitas los apartados del uno al diecisiete. Si es el cuatro punto dos, adecuar por cambio de familia de gas, necesitas el anexo completo, los dieciocho. ¿Qué tiene de especial el apartado dieciocho para marcar la diferencia? Es justo el de adaptación de aparatos a otras familias de gas: pasar un aparato de butano a gas natural, por ejemplo. Por eso solo lo pide el cuatro punto dos. Y recuerda del vídeo dos: ese cuatro punto dos solo lo pueden hacer la a y la be, nunca la ce. Chuleta de una línea: el dieciocho es el cambio de gas, y solo lo necesita el cuatro punto dos."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Para adecuar un aparato por cambio de familia de gas (4.2), ¿qué parte del anexo 2 se exige y a qué categorías?",
+   "opciones": [
+    "El anexo 2 completo (1 a 18), solo A y B",
+    "Los apartados 1 a 17, solo A y B",
+    "El anexo 2 completo, las tres categorías",
+    "Los apartados 1 a 17, las tres categorías"
+   ],
+   "correcta": 0,
+   "porque": "El 4.2 exige el anexo 2 completo porque suma el apartado 18, de adaptación a otras familias de gas, y solo lo pueden acreditar las categorías A y B.",
+   "notas_p": "N1: Regla fina de este vídeo. Para el cambio de familia de gas, ¿cuánto anexo dos te piden y quién puede hacerlo?\nN2: Acuérdate del apartado que marca la diferencia y de que la ce se queda fuera de cambiar el gas. Junta esas dos pistas.",
+   "notas_r": "N1: ¿Por qué el completo y solo la a y la be?\nN2: Porque el cuatro punto dos, cambiar de familia de gas, necesita el apartado dieciocho, el de adaptación de aparatos a otras familias, y ese solo está en el anexo completo. Y como la ce trabaja con instalaciones que no cambian de familia de gas, esa operación le está vetada: solo la a y la be. El truco: el cuatro punto uno, arrancar los grandes, se queda en el uno al diecisiete; el cambio de gas se lo lleva todo."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Anexo 2 · En la práctica",
    "titulo": "El anexo 2 es un manual de averías",
@@ -182,6 +196,20 @@
    ],
    "img_brief": "sealed balanced flue gas boiler on wall",
    "notas": "N1: Espera, ¿los tipos de aparato A, B y C son mis categorías?\nN2: No, y esta es la trampa clásica del tema, así que fíjate bien. En el anexo dos aparecen los aparatos clasificados en tipo a, tipo be y tipo ce, pero esto no tiene nada que ver con las categorías del instalador. Aquí, las letras van por cómo evacúa el aparato los humos de la combustión. El tipo a es el no conducido: suelta los humos directamente al local donde está, como una cocina de gas. El tipo be es el conducido: coge el aire del local pero saca los humos fuera por un conducto, como muchos calentadores antiguos. Y el tipo ce es el estanco: coge el aire de fuera y expulsa los humos fuera, en un circuito cerrado que no toca el aire de la casa, como las calderas modernas de pared. Son dos clasificaciones distintas que, por mala suerte, usan las mismas letras. En obra importa mucho: un aparato tipo a en un local sin ventilación es un riesgo directo de monóxido de carbono. No confundas el tipo del aparato con la categoría de tu carné."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "En el anexo 2, ¿qué es un aparato de tipo A?",
+   "opciones": [
+    "No conducido: evacúa los humos al propio local",
+    "Estanco: circuito cerrado con el exterior",
+    "Conducido: toma el aire del local y saca los humos fuera",
+    "La categoría más alta del instalador"
+   ],
+   "correcta": 0,
+   "porque": "El tipo A es el aparato no conducido: suelta los productos de la combustión al local. No tiene nada que ver con la categoría A del instalador.",
+   "notas_p": "N1: Y cerramos con la trampa clásica del tema. En el anexo dos, un aparato de tipo a, ¿qué es?\nN2: Ojo, que no te hablo de tu carné. Aquí las letras van por cómo saca el aparato los humos. Piensa en una cocina de gas sin campana.",
+   "notas_r": "N1: ¿Por qué no conducido y no la categoría del instalador?\nN2: Porque en el anexo dos las letras de los aparatos van por cómo evacúan los humos: el tipo a los suelta al local, el tipo be los saca fuera pero coge el aire de dentro, y el tipo ce es estanco, en circuito cerrado con el exterior. Son dos clasificaciones distintas que usan las mismas letras. El truco para no caer: si te hablan de humos y evacuación, es el tipo del aparato; si te hablan de presión y alcance, es la categoría del carné."
   },
   {
    "tipo": "cierre",

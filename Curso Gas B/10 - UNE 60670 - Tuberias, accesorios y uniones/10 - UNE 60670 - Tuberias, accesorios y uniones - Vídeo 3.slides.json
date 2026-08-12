@@ -59,6 +59,15 @@
    "notas": "N1: ¿Cuándo puedo soldar blando y cuándo me obligan a fuerte?\nN2: Grábate esta frontera como norma de oro, porque es de las más preguntadas. Por encima de cero coma cero cinco bar, siempre soldadura fuerte, sin excepción. La blanda solo se permite hasta cero coma cero cinco bar, y además solo en usos domésticos o en cocinas de tipo A cuya potencia sumada no pase de treinta kilovatios. ¿Y por qué esta diferencia? Porque la soldadura fuerte, que se hace a mucha más temperatura, aguanta el calor de un incendio muchísimo mejor; la blanda se funde antes. Por eso, y aquí el matiz que buscan: si el tubo cruza un aparcamiento cerrado, es soldadura fuerte obligatoria aunque la presión sea baja, porque un garaje es zona de riesgo de incendio. Piénsalo así: soldar blando donde tocaba fuerte es dejar preparada una fuga para el día del fuego."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿A partir de qué presión es obligatoria siempre la soldadura fuerte?",
+   "opciones": ["Por encima de 0,05 bar", "Por encima de 0,15 bar", "Por encima de 0,4 bar", "Por encima de 2 bar"],
+   "correcta": 0,
+   "porque": "Por encima de 0,05 bar la soldadura debe ser siempre fuerte; la blanda solo se admite hasta 0,05 bar en uso doméstico o cocina tipo A ≤ 30 kW. Y en aparcamiento cerrado, fuerte aunque la presión sea baja.",
+   "notas_p": "N1: La frontera de oro del vídeo. ¿A partir de qué presión te obligan a soldadura fuerte sí o sí?\nN2: Es el escalón más bajo de la escalera de presiones; piensa en cero coma cero cinco bar.",
+   "notas_r": "N1: ¿Por qué justo en ese punto?\nN2: Porque la soldadura fuerte, hecha a mucha más temperatura, aguanta el calor de un incendio muchísimo mejor que la blanda. Por encima de cero coma cero cinco bar, siempre fuerte. Y ojo al matiz: en un aparcamiento cerrado es fuerte aunque la presión sea baja, porque es zona de riesgo."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Soldadura · Polietileno",
    "titulo": "Polietileno con polietileno",
@@ -111,6 +120,15 @@
    "notas": "N1: ¿Por qué no puedo unir directamente cobre y acero?\nN2: Porque dos metales distintos en contacto, con la humedad, montan una pila: es lo que se llama par galvánico. Uno de los dos se va corroyendo y la junta acaba fugando con el tiempo. Para evitarlo, la norma usa lo que yo llamo la regla del traductor: entre cobre y acero, y también entre cobre e inoxidable, nunca los unas a pelo; metes en medio un accesorio de aleación de cobre que hace de intermediario, de traductor entre los dos metales. Y para la unión de ese accesorio con el acero, apunta el tercer punto de fusión del tema: ochocientos cincuenta grados, por soldadura fuerte a tope por bordón. Ya tienes los tres números juntos: doscientos veinte, cuatrocientos cincuenta y ochocientos cincuenta grados. Si en el examen ves 'unión directa de cobre y acero', es falsa: siempre va el traductor por medio."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Para unir un tubo de cobre con uno de acero, la norma exige...",
+   "opciones": ["Soldarlos directamente por capilaridad", "Intercalar un accesorio de aleación de cobre", "Unirlos con una junta de elastómero", "Usar soldadura blanda de estaño-plomo"],
+   "correcta": 1,
+   "porque": "Cobre y acero nunca se unen directos (formarían un par galvánico que corroe la junta); se intercala un accesorio de aleación de cobre, soldado al acero a tope por bordón a 850 °C.",
+   "notas_p": "N1: Pregunta de las que caen seguro. Cobre con acero, ¿se pueden soldar directamente el uno al otro?\nN2: Recuerda la regla del traductor: entre metales distintos siempre va algo por medio.",
+   "notas_r": "N1: ¿Por qué no directo?\nN2: Porque dos metales distintos con humedad forman una pila, un par galvánico, y uno se corroe hasta que la junta fuga. Por eso se mete de intermediario un accesorio de aleación de cobre, el traductor. Si ves 'unión directa de cobre y acero', es falsa."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Uniones · Plomo",
    "titulo": "El plomo: solo para lo viejo",
@@ -148,6 +166,15 @@
    ],
    "img_brief": "press fitting tool crimping gas pipe",
    "notas": "N1: ¿Y las que no se desmontan? ¿el press-fitting qué es?\nN2: Las no desmontables quedan fijas: una vez hechas, para deshacerlas hay que cortar. La más clásica es la roscada, tubo de acero con rosca, que va por la norma diecinueve mil quinientos con sus accesorios. Pero la reina de la obra rápida hoy es el press-fitting: metes el tubo en el accesorio y lo aprietas con una máquina prensadora que deforma el metal y sella; puede ser radial o axial según cómo apriete. Dentro del accesorio hay una junta tórica, una goma en forma de anillo, que es la que hace la estanquidad, y va por la norma quinientos cuarenta y nueve. También son no desmontables las uniones de multicapa y las del corrugado flexible. Un aviso de obra: si te olvidas de prensar un accesorio o maltratas la junta tórica, tienes la fuga esperando a salir en la prueba, o peor, después. Y de nuevo, todas hasta cinco bar."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Hasta qué MOP se pueden utilizar las uniones mecánicas (roscadas, press-fitting, bridas...)?",
+   "opciones": ["Hasta 0,05 bar", "Hasta 0,4 bar", "Hasta 2 bar", "Hasta 5 bar"],
+   "correcta": 3,
+   "porque": "Todas las uniones mecánicas, desmontables y no desmontables, se admiten hasta una MOP de 5 bar, el mismo tope de aplicación de toda la norma.",
+   "notas_p": "N1: Una tapa que vale para todas las mecánicas. ¿Hasta qué presión se pueden usar?\nN2: Coincide con el techo de aplicación de toda esta norma; piensa en el valor más alto de la escalera.",
+   "notas_r": "N1: ¿Por qué ese tope y no otro?\nN2: Porque es el límite de aplicación de toda la norma seis-cero-seis-siete-cero, y las uniones mecánicas no van más allá. Da igual que sean desmontables o no desmontables: todas, hasta cinco bar."
   },
   {
    "tipo": "contenido",

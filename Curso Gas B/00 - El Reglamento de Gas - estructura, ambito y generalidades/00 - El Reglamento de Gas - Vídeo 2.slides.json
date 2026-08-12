@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["8", "pasos de la puesta en servicio"],
-    ["30", "días del titular para comunicar"],
-    ["3", "certificados de arranque"]
+    [
+     "8",
+     "pasos de la puesta en servicio"
+    ],
+    [
+     "30",
+     "días del titular para comunicar"
+    ],
+    [
+     "3",
+     "certificados de arranque"
+    ]
    ],
    "notas": "N1: ¿Qué tres números marcan este vídeo?\nN2: Estos tres números son el mapa. Ocho pasos ordenados en el artículo quinto, desde el diseño hasta el arranque de los aparatos: esa es la película de toda obra. Treinta días es el plazo que tiene el titular, el dueño, para comunicar la instalación a la Comunidad Autónoma después de la puesta en servicio. Y tres certificados de arranque que no debes confundir jamás, porque el examen los cruza: el de instalación, el de dirección de obra y el de puesta en marcha del aparato. Si sujetas estos tres números, tienes dónde colgar todo lo demás del vídeo."
   },
@@ -117,6 +126,20 @@
    "notas": "N1: ¿Cuántos certificados salen al terminar y quién firma cada uno?\nN2: Al acabar, y con las pruebas favorables, salen certificados, pero no todos aparecen siempre. El certificado de instalación es tu factura de que está bien hecho, el documento estrella: sin él no hay gas, así de claro. Lo firma quien ejecutó la instalación, o sea, tu empresa. Después, solo en instalaciones que necesitan proyecto, aparece el certificado de dirección de obra, que lo firma el director de obra. Y solo cuando la ITC obligó a que viniera el organismo de control, aparece el certificado de inspección. La idea que te salva en el examen: siempre hay certificado de instalación; los otros dos, solo a veces. En obra la traducción es literal: sin ese boletín firmado, no puedes ni pedir el gas a la compañía."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "De los certificados de arranque, ¿cuál existe siempre en toda instalación?",
+   "opciones": [
+    "El certificado de dirección de obra",
+    "El certificado de instalación",
+    "El certificado de inspección del organismo de control",
+    "El certificado de puesta en marcha del aparato"
+   ],
+   "correcta": 1,
+   "porque": "El certificado de instalación lo firma quien ejecuta y no falta nunca; los otros aparecen solo si hay proyecto o si la ITC lo exige.",
+   "notas_p": "N1: Tres certificados, pero solo uno no falta jamás. ¿Cuál es?\nN2: Piensa en el que se pide siempre para poder dar gas, con proyecto o sin él.",
+   "notas_r": "N1: ¿Por qué el de instalación?\nN2: Porque es tu factura de que está bien hecho: sin él no hay gas, y lo firma quien ejecutó. El de dirección de obra solo aparece si hubo proyecto y el de inspección solo si la ITC obligó al organismo de control; por eso esos dos son 'a veces'."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Artículo 5.6 · Puesta en servicio",
    "titulo": "La regla del año",
@@ -129,6 +152,20 @@
    "notas": "N1: Una casa lleva mucho tiempo cerrada. ¿Se reengancha el gas sin más?\nN2: Vamos con el paso en que ya entra el gas. Para poner en servicio, el responsable primero recibe copia de los certificados que acabamos de ver. Y para las pruebas de funcionamiento, la empresa instaladora puede pedir al distribuidor un suministro provisional de gas, siempre asumiendo ella la responsabilidad de la instalación y de las pruebas. Hasta aquí, lo normal. Pero ahora retén esta regla porque cae fijo en el examen: si una instalación lleva más de un año sin gas, una casa cerrada, una herencia parada, no se reengancha sin más; se trata como si fuera nueva, con todos sus papeles y sus pruebas. Si lleva menos de un año y conserva su certificado de control periódico en vigor, entonces sí se puede restablecer directamente. Piensa en 'el año' como una fecha de caducidad mental: pasado el año, borrón y cuenta nueva."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Una instalación lleva más de un año sin gas. ¿Cómo se procede para darle suministro?",
+   "opciones": [
+    "Se reengancha directamente, sin ningún trámite",
+    "Basta con una prueba de estanquidad rápida",
+    "Se trata como una instalación nueva, con papeles y pruebas",
+    "Solo hace falta un aviso del suministrador"
+   ],
+   "correcta": 2,
+   "porque": "Parada más de un año, la instalación se trata como nueva: documentación y pruebas incluidas.",
+   "notas_p": "N1: Una casa cerrada mucho tiempo, ¿se reengancha sin más?\nN2: Piensa en el año como una fecha de caducidad mental.",
+   "notas_r": "N1: ¿Por qué como nueva?\nN2: Porque pasado el año no hay garantía de que la instalación siga segura, así que borrón y cuenta nueva: papeles y pruebas como si se estrenara. Por debajo del año y con su certificado de control en vigor, sí se puede restablecer directamente."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Artículo 5.7 · Comunicación",
    "titulo": "Treinta días y lo presenta el titular",
@@ -139,6 +176,20 @@
    ],
    "img_brief": "person filling paperwork office desk",
    "notas": "N1: ¿Quién avisa a la Administración y en cuánto tiempo?\nN2: Aquí van dos datos que el examen pregunta siempre juntos: quién y cuándo. El quién es el titular, el dueño de la instalación, no la empresa instaladora. En la práctica lo suele tramitar la instaladora en nombre del titular, por comodidad, pero la responsabilidad legal de comunicar es del titular, que no se te olvide. Y el cuándo: antes de que pasen treinta días desde la puesta en servicio, ante el órgano competente de la Comunidad Autónoma. Cuidado con un detalle que meten como trampa: el plazo se cuenta desde la puesta en servicio, desde que entra el gas, no desde que acabaste el montaje. Junto con esa comunicación se entrega la documentación técnica y el certificado de instalación. Regla para recordarlo: es el dueño quien avisa, y tiene un mes."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Quién comunica la instalación a la Administración y en qué plazo?",
+   "opciones": [
+    "La empresa instaladora, antes de quince días",
+    "El titular, antes de treinta días desde la puesta en servicio",
+    "El distribuidor, antes de treinta días desde el montaje",
+    "El instalador, antes de siete días desde las pruebas"
+   ],
+   "correcta": 1,
+   "porque": "La responsabilidad de comunicar es del titular, ante la Comunidad Autónoma, antes de treinta días desde la puesta en servicio.",
+   "notas_p": "N1: Quién y cuándo, las dos juntas. ¿Quién avisa y en qué plazo?\nN2: Ojo, aunque lo tramite la instaladora, la responsabilidad legal es de otra persona.",
+   "notas_r": "N1: ¿Por qué el titular y treinta días?\nN2: Porque comunicar es obligación del dueño, no de la instaladora, aunque esta lo tramite en su nombre. Y el plazo se cuenta desde la puesta en servicio, desde que entra el gas, no desde que acabaste el montaje: ahí está la trampa."
   },
   {
    "tipo": "contenido",

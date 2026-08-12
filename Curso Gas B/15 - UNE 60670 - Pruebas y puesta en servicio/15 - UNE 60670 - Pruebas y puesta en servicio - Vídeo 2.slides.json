@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["2", "fases: pruebas previas y puesta en servicio"],
-    ["1", "certificado que hay que entregar al usuario"],
-    ["4", "estados de una llave: cerrada, bloqueada, precintada, taponada"]
+    [
+     "2",
+     "fases: pruebas previas y puesta en servicio"
+    ],
+    [
+     "1",
+     "certificado que hay que entregar al usuario"
+    ],
+    [
+     "4",
+     "estados de una llave: cerrada, bloqueada, precintada, taponada"
+    ]
    ],
    "notas": "N1: ¿Qué me dicen estos tres números?\nN2: Te resumen el vídeo entero. Dos fases: primero las pruebas previas, el repaso; y después la puesta en servicio, la maniobra de dar gas. Un certificado: la puesta en servicio termina siempre con un papel, el certificado de pruebas previas y puesta en servicio, del que hay que entregar copia al usuario; sin ese papel la instalación no está formalmente en servicio. Y cuatro palabras que definen cómo queda una llave que no entra en servicio: cerrada, bloqueada, precintada y, a veces, taponada. Esas cuatro caen juntas casi siempre, así que las trabajaremos bien."
   },
@@ -44,6 +53,20 @@
    ],
    "img_brief": "technician checking gas pipe joint",
    "notas": "N1: ¿No habíamos hecho ya la estanquidad en el vídeo anterior?\nN2: Cuidado aquí, que es un lío clásico y por eso lo pregunta. Hay dos estanquidades distintas, en dos momentos distintos. La del vídeo anterior, la de la parte ocho, era la prueba de estanquidad de entrega: con aire o gas inerte, con la tubería vacía, a presión de prueba, la alta. La de este vídeo, la de la parte nueve, es otra: es la verificación de la estanquidad ya con gas de verdad y a la presión de operación, la normal de trabajo, y se hace como paso final de la puesta en servicio.\nN1: ¿Y por qué comprobar otra vez si ya salió bien la primera?\nN2: Porque son escenarios diferentes. La primera prueba el tubo desnudo antes de entregarlo. La segunda confirma que, ya con gas real circulando a presión de trabajo, no se escapa nada por ninguna unión. Hay uniones que sellan en seco con aire y luego rezuman con gas. Esta segunda es la última red de seguridad antes de dar la instalación por servida."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "La verificación de estanquidad de la Parte nueve, ¿cómo se hace?",
+   "opciones": [
+    "Con aire, a la presión de prueba alta",
+    "Con gas inerte y la tubería vacía",
+    "Con gas real, a la presión de operación",
+    "Con agua jabonosa, a la presión de prueba"
+   ],
+   "correcta": 2,
+   "porque": "En la Parte nueve se verifica ya con gas real y a la presión de operación, distinto de la prueba con aire de la Parte ocho.",
+   "notas_p": "N1: Trampa clásica de las dos estanquidades. La de la Parte nueve, ¿con qué y a qué presión?\nN2: Recuerda: una prueba la tubería vacía antes de entregar; la otra confirma ya con gas. ¿Cuál es esta?",
+   "notas_r": "N1: ¿Por qué la ce?\nN2: La Parte ocho prueba con aire o inerte a presión de prueba, con el tubo vacío. La Parte nueve verifica ya con gas real y a la presión de operación, como paso final de la puesta en servicio. Son dos comprobaciones en dos momentos."
   },
   {
    "tipo": "contenido",
@@ -98,6 +121,20 @@
    "notas": "N1: Cerrada, bloqueada, precintada y taponada, ¿no es todo lo mismo?\nN2: No, son cuatro estados y cada uno añade algo. Cerrada es girada, cortando el paso del gas. Bloqueada es que además no la pueda abrir cualquiera, que quede trabada. Precintada es que lleva un precinto que se rompe si alguien la toca, o sea, que delata la manipulación. Y taponada es poner un tapón físico en la boca de la llave.\nN1: ¿Y cuándo se pone el tapón y cuándo no?\nN2: Aquí está la regla que te van a preguntar. Si la llave no va a servicio pero tiene algo detrás, una vivienda o un aparato ya instalado, basta con dejarla cerrada, bloqueada y precintada. Pero si la llave da a la nada, porque la instalación individual o el aparato todavía están pendientes de instalar, entonces además se tapona. El porqué es puro sentido de seguridad: si alguien forzara el precinto de una llave sin nada detrás, saldría gas al aire libre; el tapón lo impide. Regla mental: sin nada detrás, tapón; con algo detrás, basta cerrar, bloquear y precintar. Saltarte el tapón es dejar una fuga programada en el montante."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Una llave que no entra en servicio y no tiene nada instalado detrás, ¿cómo queda?",
+   "opciones": [
+    "Cerrada, bloqueada y precintada solamente",
+    "Cerrada, bloqueada, precintada y taponada",
+    "Solo precintada",
+    "Abierta pero bloqueada"
+   ],
+   "correcta": 1,
+   "porque": "Si la llave da a la nada se tapona además, para que aunque fuercen el precinto no salga gas al aire.",
+   "notas_p": "N1: Las cuatro palabras de la llave, que caen juntas. Llave sin nada detrás, ¿cómo la dejas?\nN2: Piensa qué pasaría si alguien forzara el precinto y detrás no hubiera ni vivienda ni aparato.",
+   "notas_r": "N1: ¿Por qué la be?\nN2: Sin nada detrás, tapón; con algo detrás, basta cerrar, bloquear y precintar. El tapón evita que salga gas al aire si alguien manipula el precinto de una llave que da a la nada."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Puesta en servicio",
    "titulo": "El purgado, el momento clave",
@@ -109,6 +146,20 @@
    ],
    "img_brief": "gas purging outdoor safe point",
    "notas": "N1: ¿Qué es purgar y por qué dices que es lo más peligroso?\nN2: Purgar es expulsar el aire que hay dentro de la tubería, empujándolo con el gas que entra. Y el peligro está en el punto intermedio de esa operación: durante un rato, dentro del tubo conviven aire y gas mezclados, y esa mezcla de aire y gas, en cierta proporción, es explosiva. Basta una chispa o una llama cerca para una deflagración. Es el momento más peligroso de todo el tema, sin exagerar.\nN1: ¿Cómo se purga entonces con seguridad?\nN2: Se purga hacia un punto seguro, al exterior, no hacia un local cerrado; con un detector en la mano; y sin ninguna fuente de ignición cerca, ni llamas ni interruptores que salten. Se sigue purgando hasta que por ese punto sale gas puro, es decir, hasta quedar fuera de los límites de inflamabilidad, ya sin mezcla peligrosa dentro. Imagínatelo como vaciar una botella llena de aire soplando gas dentro hasta que ya no queda nada de aire mezclado. La norma exige justo eso: acabar el purgado con la seguridad de que dentro ya no hay mezcla inflamable."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Por qué es el purgado el momento más peligroso de la puesta en servicio?",
+   "opciones": [
+    "Porque se trabaja a la presión de prueba más alta",
+    "Porque puede formarse una mezcla aire-gas explosiva",
+    "Porque el gas sale muy frío y hiela la tubería",
+    "Porque hay que desmontar el contador"
+   ],
+   "correcta": 1,
+   "porque": "Al expulsar el aire con gas, en el punto intermedio conviven aire y gas y esa mezcla, en cierta proporción, es explosiva.",
+   "notas_p": "N1: Con chispa. ¿Qué hace del purgado el momento más delicado de todo el tema?\nN2: Piensa en qué hay dentro del tubo justo cuando el gas va empujando al aire hacia fuera.",
+   "notas_r": "N1: ¿Por qué la be?\nN2: Durante el purgado conviven aire y gas, y esa mezcla es explosiva con una simple chispa. Por eso se purga al exterior, sin llamas ni chispas y con detector, hasta que sale gas puro y queda fuera de los límites de inflamabilidad."
   },
   {
    "tipo": "contenido",

@@ -133,6 +133,20 @@
    "notas": "N1: ¿Y por qué la empresa necesita un seguro tan grande?\nN2: Porque el gas, cuando falla, no falla en pequeño. Antes de nada, la empresa tiene que disponer de los medios técnicos para trabajar con seguridad, las herramientas y los aparatos de medida. Y luego, la pieza más preguntada: un seguro de responsabilidad civil profesional que cubra los daños que puedas causar. Las cifras son números de examen puro, por siniestro: la categoría a, novecientos mil euros; la be, seiscientos mil euros; la ce, trescientos mil euros. Truco para no olvidarlos: van de mayor a menor según la letra, a más alcance más seguro, y bajan en saltos de trescientos mil. Novecientos, seiscientos, trescientos. ¿Por qué tanto? Porque si una instalación tuya provoca una fuga, una explosión o una intoxicación por monóxido de carbono, ese seguro es lo que responde por las víctimas y los daños. Tú, categoría be, seiscientos mil euros, y vigente en todo momento."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Qué seguro de responsabilidad civil por siniestro necesita una empresa instaladora de categoría B?",
+   "opciones": [
+    "600.000 €",
+    "900.000 €",
+    "300.000 €",
+    "1.200.000 €"
+   ],
+   "correcta": 0,
+   "porque": "Las cuantías por siniestro son 900.000 € la A, 600.000 € la B y 300.000 € la C; la B necesita 600.000 €.",
+   "notas_p": "N1: Pregunta de número puro, de las que caen sí o sí. Tu empresa es categoría be: ¿cuánto seguro por siniestro necesitas?\nN2: Acuérdate del truco: bajan de mayor a menor con la letra y en saltos de trescientos mil. La be está justo en el medio.",
+   "notas_r": "N1: ¿Por qué seiscientos mil y no otra cifra?\nN2: Porque las tres cuantías son novecientos mil la a, seiscientos mil la be y trescientos mil la ce. La be, la reina del día a día, cae en medio: seiscientos mil euros por siniestro, y siempre vigente. La trampa suele ser colarte el millón doscientos mil, que no existe en la norma."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.9 · Prohibición",
    "titulo": "Nada de vender boletines",
@@ -155,6 +169,20 @@
    ],
    "img_brief": "calendar with marked deadline dates",
    "notas": "N1: ¿Y si me abren un expediente, cuánto tiempo tengo para defenderme?\nN2: Tienes plazos concretos, y aquí es fácil liarse, así que vamos a ordenarlos. Cuando la Administración detecta un posible incumplimiento, abre un expediente y te da quince días naturales para alegar, es decir, para aportar tus pruebas y tus descargos, tu versión. Y si la infracción es grave, puede suspenderte cautelarmente la actividad mientras resuelve, por un periodo máximo de tres meses. Ahora la parte que cae en el examen: no confundas estos plazos con el del apartado anterior. Recuerda, el mes era para comunicar tú los cambios o el cese de tu empresa, algo voluntario. Estos dos, los quince días y los tres meses, son del régimen sancionador, cuando la cosa va mal. Tres plazos, tres situaciones: un mes para avisar, quince días para defenderte, tres meses de suspensión como tope."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿En qué plazo debe la empresa comunicar a la comunidad autónoma un cambio de datos o el cese de la actividad?",
+   "opciones": [
+    "Un mes",
+    "Quince días naturales",
+    "Tres meses",
+    "Cuatro años"
+   ],
+   "correcta": 0,
+   "porque": "El cambio o el cese se comunican en el plazo de un mes; no lo confundas con los 15 días para alegar ni con los 3 meses de suspensión cautelar.",
+   "notas_p": "N1: Cuidado, que aquí el examen mezcla plazos a propósito. ¿Cuánto tienes para avisar de un cambio de datos o del cierre de tu empresa?\nN2: Hay tres plazos en este vídeo y solo uno es el correcto para avisar tú, por tu cuenta. Los otros son del régimen sancionador.",
+   "notas_r": "N1: ¿Por qué un mes y no quince días o tres meses?\nN2: Porque el mes es el plazo para comunicar tú los cambios o el cese, algo voluntario. Los quince días naturales son para alegar cuando te abren expediente, y los tres meses son el tope de la suspensión cautelar si la infracción es grave. Y los cuatro años son la garantía por mala ejecución, otra cosa distinta. Ordénalos: un mes para avisar, quince días para defenderte, tres meses de suspensión como tope."
   },
   {
    "tipo": "contenido",

@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["13", "partes de la UNE 60670"],
-    ["5 bar", "presión máxima de operación (MOP)"],
-    ["1 m", "frontera entre reparar y modificar"]
+    [
+     "13",
+     "partes de la UNE 60670"
+    ],
+    [
+     "5 bar",
+     "presión máxima de operación (MOP)"
+    ],
+    [
+     "1 m",
+     "frontera entre reparar y modificar"
+    ]
    ],
    "notas": "N1: ¿Qué me tengo que quedar de estos tres números?\nN2: Son los tres pilares del vídeo. Uno: la norma UNE 60670 tiene trece partes, y este tema solo toca las tres últimas, la once, la doce y la trece, que hablan de instalaciones que ya funcionan. Dos: esta norma juega en el terreno de cinco bar o menos; es la baja y media presión de las instalaciones domésticas y comerciales, justo lo tuyo como gasista de categoría B. Y tres: un metro es la frontera mágica que separa una simple reparación de una modificación con todas las de la ley. Grábate estos tres y ya tienes el mapa del vídeo."
   },
@@ -55,6 +64,146 @@
    ],
    "img_brief": "gas distribution worker and installer meeting",
    "notas": "N1: ¿No puede cada uno hacer todo si sabe hacerlo?\nN2: Pues no, y esto es clave. La tabla uno reparte el trabajo entre tres figuras, porque no todo el mundo manda sobre todo. La empresa distribuidora es la dueña de la red que llega a la calle: solo ella toca la llave de acometida, coloca o retira el contador y da de baja el suministro. La empresa instaladora, que eres tú, se ocupa de la instalación de dentro: modificas, reparas, corriges defectos y anulas puntos de consumo. Y el SAT, el servicio de asistencia técnica, solo entra en los aparatos: interrumpir o restablecer el gas a una caldera o a un calentador, nunca a las tuberías.\nN1: ¿Y cómo lo recuerdo sin liarme?\nN2: Con una frase: la distribuidora manda en lo de fuera y en el contador, tú mandas en la tubería de dentro, y el SAT solo en el aparato. Fíjate en las tres cosas que tú no puedes hacer solo: retirar o poner el contador y cesar el suministro. Y una que solo haces tú: anular puntos de consumo. En el examen te lo van a cruzar, así que ten claro el reparto."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Parte 11 · Tabla 1",
+   "titulo": "Tabla 1 — Instalación común: quién puede",
+   "headers": [
+    "Operación (instalación común)",
+    "Distribuidora",
+    "Instaladora",
+    "Fabricante o SAT"
+   ],
+   "rows": [
+    [
+     "Interrupción del suministro",
+     "SÍ ¹",
+     "SÍ ²",
+     "–"
+    ],
+    [
+     "Restablecimiento del suministro",
+     "SÍ ¹",
+     "SÍ ²",
+     "–"
+    ],
+    [
+     "Modificación de la instalación ³",
+     "–",
+     "SÍ",
+     "–"
+    ],
+    [
+     "Reparación de la instalación ³",
+     "–",
+     "SÍ",
+     "–"
+    ],
+    [
+     "Corrección de defectos de la instalación",
+     "–",
+     "SÍ",
+     "–"
+    ],
+    [
+     "Cambio de combustible de la instalación",
+     "SÍ",
+     "SÍ",
+     "–"
+    ]
+   ],
+   "nota": "«SÍ» = esa entidad puede hacer la operación; «–» = no le corresponde. ¹ acometida solo la distribuidora o quien autorice; ² la instaladora, comunicándolo a la distribuidora; ³ ver reparación/modificación.",
+   "notas": "N1: En la instalación común, la que da servicio a todo el edificio, ¿quién puede tocar qué?\nN2: Esta tabla reparte el trabajo sobre la instalación común entre la distribuidora y la instaladora. Léela por filas. Interrumpir y restablecer el suministro pueden hacerlo las dos, pero fíjate en las llamadas: la distribuidora a través de la llave de acometida, que es la nota uno, y la instaladora comunicándoselo a la distribuidora, que es la nota dos. Modificar, reparar y corregir defectos es cosa solo de la instaladora. Y el cambio de combustible pueden hacerlo ambas. Fíjate en un detalle: el fabricante o servicio de asistencia técnica no pinta nada en la instalación común, su columna está entera a raya. Ejemplo de obra: si en un montante del edificio hay que reparar un tramo, vas tú, la instaladora, nunca el servicio técnico del aparato."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Parte 11 · Tabla 1",
+   "titulo": "Tabla 1 — Instalación individual: quién puede",
+   "headers": [
+    "Operación (instalación individual)",
+    "Distribuidora",
+    "Instaladora",
+    "Fabricante o SAT"
+   ],
+   "rows": [
+    [
+     "Interrupción del suministro a la instalación",
+     "SÍ",
+     "SÍ",
+     "–"
+    ],
+    [
+     "Restablecimiento del suministro a la instalación",
+     "SÍ",
+     "SÍ ⁴",
+     "–"
+    ],
+    [
+     "Interrupción de suministro a aparatos",
+     "SÍ",
+     "SÍ",
+     "SÍ"
+    ],
+    [
+     "Restablecimiento del suministro a aparatos",
+     "SÍ",
+     "SÍ",
+     "SÍ"
+    ],
+    [
+     "Modificación de la instalación ³",
+     "–",
+     "SÍ",
+     "–"
+    ],
+    [
+     "Reparación de la instalación ³",
+     "–",
+     "SÍ",
+     "–"
+    ],
+    [
+     "Retirar o colocar contador",
+     "SÍ",
+     "–",
+     "–"
+    ],
+    [
+     "Cambio de presión de contaje por sustitución de regulador",
+     "–",
+     "SÍ ²",
+     "–"
+    ],
+    [
+     "Anulación de puntos de consumo",
+     "–",
+     "SÍ",
+     "–"
+    ],
+    [
+     "Cese del suministro a la instalación",
+     "SÍ",
+     "–",
+     "–"
+    ]
+   ],
+   "nota": "«SÍ» = puede hacerla; «–» = no procede. ⁴ la instaladora restablece tras subsanar anomalías principales, comunicándolo a la distribuidora. El SAT solo entra en los aparatos, nunca en la tubería.",
+   "notas": "N1: Y en la instalación individual, la de cada vivienda, ¿quién manda?\nN2: Aquí entran las tres figuras, así que léela con calma. Fíjate primero en lo que solo hace la distribuidora: retirar o colocar el contador, y el cese del suministro. Su columna manda en el equipo de medida y en dar de baja la instalación. Fíjate luego en lo que solo hace la instaladora: anular puntos de consumo y el cambio de presión de contaje por sustitución del regulador. Y fíjate en las dos únicas filas donde aparece el fabricante o servicio de asistencia técnica: interrumpir y restablecer el gas a los aparatos, jamás a las tuberías. La llamada cuatro te recuerda que la instaladora puede restablecer tras subsanar anomalías principales, siempre comunicándolo a la distribuidora. Ejemplo de obra: quitas una cocina para siempre, eso es anular un punto de consumo y lo firmas tú; pero si hay que llevarse el contador, esa llamada es para la distribuidora."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Quién puede retirar o colocar el contador de gas?",
+   "opciones": [
+    "Solo la empresa distribuidora",
+    "Solo la empresa instaladora",
+    "El fabricante o el servicio técnico",
+    "Cualquiera de las tres figuras"
+   ],
+   "correcta": 0,
+   "porque": "Retirar o colocar el contador es competencia exclusiva de la distribuidora; ni la instaladora ni el servicio técnico pueden hacerlo.",
+   "notas_p": "N1: Vamos con una de reparto de papeles, que en el examen las cruzan sin piedad. ¿Quién puede retirar o colocar el contador de gas?\nN2: Piensa de quién es el equipo de medida y quién manda en la parte de la red, no en la tubería de dentro de casa.",
+   "notas_r": "N1: ¿Por qué la distribuidora y no la instaladora?\nN2: Porque el contador es el equipo de medida de la distribuidora, igual que la llave de acometida. La instaladora manda en la tubería de dentro; el servicio técnico, solo en los aparatos. El truco para no fallar: contador y acometida, distribuidora; tubería, instaladora; aparato, servicio técnico."
   },
   {
    "tipo": "contenido",
@@ -119,6 +268,20 @@
    "notas": "N1: Si huelo a gas, lo primero es apagar todo, ¿no?\nN2: Aquí está el error que mata, y cae en el examen. Mucha gente, al oler a gas, corre al interruptor a apagar la luz. Es un fallo gravísimo. Un simple chispazo del interruptor puede detonar la mezcla de aire y gas. La norma lo dice sin rodeos: no acciones ningún interruptor, ni para apagar ni para encender. Lo que haces es abrir ventanas para ventilar y cerrar la llave de paso del gas. Nada de chispas, nada de llamas.\nN1: ¿Y si necesito luz para ver lo que hago?\nN2: Si tienes que entrar en un recinto cerrado donde puede haber gas, primero verificas el ambiente con un detector homologado, conforme con las normas UNE-EN sesenta y un mil setecientos setenta y nueve. Y si necesitas iluminación, usas una linterna de seguridad, también llamada antideflagrante, que está diseñada para no producir chispas. Nunca la luz del techo, nunca la del móvil. Recuerda: ante olor a gas, manos fuera de los interruptores, ventila y cierra."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Entras en una vivienda y hay un fuerte olor a gas. ¿Qué haces primero?",
+   "opciones": [
+    "Apagar la luz para evitar chispas",
+    "Encender una llama para localizar la fuga",
+    "Ventilar y cerrar la llave de paso, sin tocar interruptores",
+    "Llamar por el móvil desde dentro del recinto"
+   ],
+   "correcta": 2,
+   "porque": "Ante olor a gas no se acciona ningún interruptor ni se generan chispas: se ventila y se cierra la llave de paso.",
+   "notas_p": "N1: La clásica que mata en el examen y en la vida real. Al entrar hueles a gas fuerte. ¿Primer gesto?\nN2: Cuidado, que la respuesta intuitiva de mucha gente es justo la peligrosa. Piensa en qué produce chispas.",
+   "notas_r": "N1: ¿Por qué ventilar y cerrar, y no apagar la luz?\nN2: Porque accionar cualquier interruptor, encender o apagar, produce un chispazo que puede detonar la mezcla de aire y gas. Nada de llamas, nada de móvil dentro del recinto. Abres para ventilar y cierras la llave de paso. El truco: ante olor a gas, manos fuera de los interruptores."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Parte 11 · Apartado 4.1",
    "titulo": "Interrupción y restablecimiento",
@@ -142,6 +305,20 @@
    ],
    "img_brief": "measuring copper gas pipe with tape",
    "notas": "N1: ¿Qué más da que sea reparación o modificación si al final toco la tubería?\nN2: Da mucho, porque cambia lo que tienes que comprobar antes de dar gas, y la frontera es justo un metro. Si actúas sobre un tramo de un metro o menos, aunque cambies el material o el trazado, es una reparación: basta con comprobar la estanquidad del tramo reparado, a la presión de operación. Si el tramo es de más de un metro con cambio de material o trazado, o si amplías consumo, o si cambias un aparato por otro de características distintas, entonces es una modificación.\nN1: ¿Y la modificación qué exige de más?\nN2: Una prueba de estanquidad completa de la instalación, según la Norma UNE 60670-8, no solo mirar el trocito que tocaste. Chuleta para el examen y para la obra: poco tubo, es reparación y compruebas el tramo; mucho tubo, más consumo o aparato distinto, es modificación y toca prueba completa. Ese metro lo cambia todo, no lo olvides."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Actúas sobre un tramo de tubería de más de un metro cambiando su trazado. ¿Qué es?",
+   "opciones": [
+    "Una reparación; compruebas solo el tramo",
+    "Una modificación; prueba completa según la UNE 60670-8",
+    "Un mantenimiento sin necesidad de prueba",
+    "Una anulación de punto de consumo"
+   ],
+   "correcta": 1,
+   "porque": "Por encima de un metro con cambio de trazado o material es modificación, y exige la prueba de estanquidad completa de la UNE 60670-8.",
+   "notas_p": "N1: Una de la frontera mágica. Tocas un tramo de más de un metro y le cambias el trazado. ¿Reparación o modificación?\nN2: Acuérdate de dónde está la raya y de qué te obliga a probar cada lado.",
+   "notas_r": "N1: ¿Por qué es modificación?\nN2: Porque el metro es la frontera. Hasta un metro es reparación y compruebas solo el tramo. Por encima, con cambio de material o de trazado, o si amplías consumo, o si pones un aparato distinto, es modificación y toca prueba completa según la parte ocho. El truco: poco tubo, tramo; mucho tubo, prueba entera."
   },
   {
    "tipo": "contenido",

@@ -118,6 +118,20 @@
    "notas": "N1: ¿Y hay aparatos que no puedo tocar con el carné normal?\nN2: Tocar sí, pero tres tipos de trabajo piden un plus de formación, y estos tres son la frontera de todo el tema. Primero apunta lo general: puedes conectar y montar aparatos, y hacer su puesta en marcha, su mantenimiento y su reparación. Ahora los tres frenos, que se repiten sin parar. Uno: los aparatos conducidos, de tipo be y ce, de más de veinticuatro coma cuatro kilovatios de potencia útil, o sea, las calderas y calentadores grandes. Dos: las vitrocerámicas de gas de fuegos cubiertos. Y tres: la adecuación de un aparato por cambio de familia de gas, por ejemplo pasarlo de butano a gas natural. Para estos tres no basta el carné: hace falta la formación adicional del apartado cuatro, que vemos en el vídeo dos. Piénsalo así: son operaciones de nivel experto sobre el aparato, y por eso piden un plus. El número que tienes que llevar tatuado es veinticuatro coma cuatro kilovatios."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿A partir de qué potencia útil un aparato conducido tipo B o C exige formación adicional?",
+   "opciones": [
+    "Más de 24,4 kW",
+    "Más de 15 kW",
+    "Más de 30 kW",
+    "Más de 70 kW"
+   ],
+   "correcta": 0,
+   "porque": "El umbral que fija la ITC-ICG 09 es 24,4 kW: por encima, el aparato conducido B o C pide el plus de formación del apartado 4.",
+   "notas_p": "N1: Va la primera, y esta cae fijo. ¿A partir de cuánta potencia un aparato conducido be o ce te obliga a sacar formación extra?\nN2: Piensa en el número que te he pedido que lleves tatuado desde el principio del vídeo. No es un número redondo.",
+   "notas_r": "N1: ¿Por qué veinticuatro coma cuatro y no otro?\nN2: Es la cifra exacta que marca la norma para separar los aparatos pequeños, que cualquier instalador arranca, de los grandes, que piden el plus del apartado cuatro. El truco para no fallar: los otros valores, quince, treinta o setenta, suenan redondos y por eso son la trampa; el bueno es el raro, veinticuatro coma cuatro."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 2.2 · Categoría A",
    "titulo": "Categoría A: sin límites",
@@ -155,6 +169,134 @@
    ],
    "img_brief": "small gas boiler in apartment kitchen",
    "notas": "N1: ¿Y la C para qué sirve, si es tan pequeña?\nN2: La ce es la categoría más limitada, y su lema es el gas de una casa y poco más. Solo puede tocar instalaciones individuales, de uso doméstico, dentro de viviendas, hasta cero coma cuatro bar, y que no necesiten proyecto ni cambio de familia de gas. Nada de comunidades, nada de comercios, nada de industria. Fíjate en la diferencia con la be: la be llega a cinco bar y a todo tipo de uso; la ce se queda en cero coma cuatro bar y solo en la vivienda. Ahora, un matiz importante para no equivocarte: en los aparatos, la ce puede hacer casi lo mismo que la be, incluso arrancar y reparar los aparatos grandes si saca la formación adicional. La gran diferencia entre be y ce no está en el aparato, está en la instalación. La ce es pequeña en tuberías, no tanto en aparatos."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 2.2 · Comparativa",
+   "titulo": "Categorías A / B / C · Instalaciones (1 de 2)",
+   "headers": [
+    "Aspecto",
+    "Categoría A",
+    "Categoría B",
+    "Categoría C"
+   ],
+   "rows": [
+    [
+     "Alcance general",
+     "Todas las operaciones del 2.1 en instalaciones y aparatos",
+     "Instalaciones receptoras y aparatos, con límites",
+     "Solo receptoras individuales sin proyecto ni cambio de familia de gas"
+    ],
+    [
+     "Presión máxima de operación (MOP)",
+     "Sin límite",
+     "Hasta 5 bar",
+     "Hasta 0,4 bar"
+    ],
+    [
+     "Tipo de uso",
+     "Cualquiera",
+     "Doméstico, colectivo, comercial o industrial",
+     "Solo doméstico, en interior de viviendas"
+    ],
+    [
+     "Común / individual",
+     "Ambas",
+     "Comunes e individuales",
+     "Solo individuales"
+    ],
+    [
+     "Potencia de diseño / familia de gas",
+     "Sin límite",
+     "Cualquiera (potencia, situación y familia)",
+     "Limitado a instalación de vivienda"
+    ],
+    [
+     "Enterrado por el exterior y acometidas interiores enterradas",
+     "Sí",
+     "Excluidas",
+     "Excluidas"
+    ],
+    [
+     "Depósitos fijos de GLP, estaciones de servicio, envases uso propio",
+     "Sí",
+     "No (salvo envases de GLP para receptoras y caravanas)",
+     "No"
+    ]
+   ],
+   "nota": "MOP es la presión máxima de operación, el tope de presión al que puede trabajar la instalación.",
+   "notas": "N1: ¿Sabrías decir de memoria hasta qué presión llega cada categoría?\nN2: Esta tabla es la chuleta que resume el vídeo; se lee de izquierda a derecha, comparando la a, la be y la ce fila a fila. En alcance, la a lo hace todo, la be trabaja con límites y la ce solo receptoras individuales de vivienda. En presión, que es la fila reina, la a no tiene tope, la be llega hasta cinco bar y la ce se queda en cero coma cuatro bar. En uso, la a cualquiera, la be doméstico, colectivo, comercial e industrial, y la ce solo doméstico dentro de viviendas. Y fíjate en lo enterrado por el exterior y en los depósitos fijos de gas licuado: solo la a. Ejemplo de obra: para una comunidad de vecinos a bar y medio te vale la be; para un depósito fijo enterrado en un chalé, solo la a."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 2.2 · Comparativa",
+   "titulo": "Categorías A / B / C · Aparatos (2 de 2)",
+   "headers": [
+    "Aspecto",
+    "Categoría A",
+    "Categoría B",
+    "Categoría C"
+   ],
+   "rows": [
+    [
+     "Caravanas y autocaravanas (GLP doméstico)",
+     "Sí",
+     "Sí",
+     "No"
+    ],
+    [
+     "Requiere proyecto",
+     "Puede",
+     "Puede",
+     "No (solo instalaciones sin proyecto)"
+    ],
+    [
+     "Conexión y montaje de aparatos",
+     "Sí",
+     "Sí",
+     "Sí"
+    ],
+    [
+     "PEM, mantenimiento y reparación tipo A y B/C hasta 24,4 kW",
+     "Sí",
+     "Sí",
+     "Sí"
+    ],
+    [
+     "PEM, mantenimiento y reparación B/C mayor de 24,4 kW y vitro de fuegos cubiertos",
+     "Sí (apartado 4)",
+     "Sí (apartado 4)",
+     "Sí (apartado 4)"
+    ],
+    [
+     "Adecuación por cambio de familia de gas",
+     "Sí (apartado 4)",
+     "Sí (apartado 4)",
+     "No"
+    ],
+    [
+     "Soldadura de tubería de polietileno",
+     "No (la hace el soldador de PE)",
+     "No",
+     "No"
+    ]
+   ],
+   "nota": "PEM es la puesta en marcha del aparato; cada casilla indica si esa categoría puede realizar esa operación.",
+   "notas": "N1: ¿Y en los aparatos, en qué se diferencian las tres categorías?\nN2: Esta segunda parte de la tabla remata las operaciones sobre aparatos y los detalles finos. En conexión y montaje de aparatos, y en la puesta en marcha de los aparatos hasta veinticuatro coma cuatro kilovatios, las tres pueden. Para los conducidos de más de veinticuatro coma cuatro kilovatios y las vitrocerámicas de fuegos cubiertos, las tres también, pero con la formación adicional del apartado cuatro. La gran diferencia está abajo: la adecuación por cambio de familia de gas la hacen la a y la be, nunca la ce. Y una excepción que cae siempre: la soldadura de la tubería de polietileno no es de ninguna de las tres, la firma el soldador de polietileno. En obra: si te piden pasar una caldera de butano a gas natural y eres ce, ese trabajo no es tuyo."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué categoría necesitas para la instalación receptora de una comunidad de vecinos a 2 bar?",
+   "opciones": [
+    "Categoría B",
+    "Categoría C",
+    "Categoría A",
+    "No hace falta categoría"
+   ],
+   "correcta": 0,
+   "porque": "Es un uso colectivo por debajo de 5 bar y sin partes enterradas por el exterior: entra de lleno en la categoría B.",
+   "notas_p": "N1: Segunda pregunta, de las que caen cruzadas. Comunidad de vecinos, dos bar: ¿qué carné necesitas?\nN2: Fíjate en dos casillas de la tabla que acabamos de ver: el tipo de uso y la presión. ¿Colectivo por debajo de cinco bar te suena a alguna letra?",
+   "notas_r": "N1: ¿Por qué la be y no la a o la ce?\nN2: Porque la ce solo llega a instalaciones individuales de vivienda hasta cero coma cuatro bar, así que se queda corta. Y la a sería pasarse: se reserva para lo enterrado por el exterior, los depósitos fijos y las presiones por encima de cinco bar. Un uso colectivo a dos bar es el terreno natural de la be, la reina del día a día."
   },
   {
    "tipo": "contenido",

@@ -55,6 +55,64 @@
    "notas": "N1: Veo el número metro y medio cuadrado dos veces. ¿Es lo mismo?\nN2: Coincide el número, pero son dos conceptos distintos, así que cuidado. El primero es local único: dos locales cuentan como uno solo si los une una abertura permanente de más de metro y medio cuadrado. ¿Para qué sirve? Para sumar sus volúmenes y su ventilación como si fueran una sola estancia; por ejemplo, una cocina abierta al comedor. El segundo es zona exterior: una galería, una terraza o un balcón cuentan como exterior, a efectos de la norma, si tienen una abertura permanente de al menos metro y medio cuadrado hacia fuera o a un patio, y con el borde superior de esa abertura a medio metro o menos del techo. Truco para no confundirlos: cuando veas metro y medio cuadrado, pregúntate qué te están diciendo, si me están uniendo dos locales en uno o me están sacando una galería al exterior."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Ventilaciones · Generalidades",
+   "titulo": "Reglas de ubicación de aparatos a gas (I)",
+   "headers": [
+    "Concepto",
+    "Regla"
+   ],
+   "rows": [
+    [
+     "Dormitorio, baño, ducha o aseo",
+     "No deben contener aparatos a gas (tipo A y B)."
+    ],
+    [
+     "Primer sótano",
+     "No se instalan aparatos con dr < 1 (más ligeros que el aire) por debajo del primer sótano. Es primer sótano/semisótano la planta cuyo suelo está, en todas sus paredes, a más de 60 cm por debajo del suelo exterior de la calle o patio contiguo."
+    ],
+    [
+     "Local que comunica con dormitorio, baño o ducha",
+     "No se ubican aparatos de circuito abierto conducido de tiro natural (B) si el acceso a ese cuarto es una puerta que comunica con el local."
+    ],
+    [
+     "Local único",
+     "Dos locales son local único si se comunican con una abertura permanente superior a 1,5 m²."
+    ]
+   ],
+   "nota": "Dónde no puede ir un aparato a gas y qué es primer sótano y local único. dr < 1 significa gas más ligero que el aire.",
+   "notas": "N1: ¿Dónde no puede ir nunca un aparato a gas?\nN2: Primera parte de la tabla de reglas. Nada de aparatos, ni tipo A ni tipo B, en dormitorio, baño, ducha o aseo, porque son cuartos donde te encierras y una fuga intoxica. Nada de aparatos más ligeros que el aire, con densidad relativa menor que uno, por debajo del primer sótano, porque abajo no ventila; y ojo al dato: es primer sótano el que tiene el suelo a más de sesenta centímetros por debajo de la calle en todas sus paredes. Tampoco un aparato de tipo B de tiro natural en un local cuya puerta comunique con un dormitorio o un baño. Y define local único: dos estancias cuentan como una sola si las une una abertura permanente de más de metro y medio cuadrado. Ejemplo de obra: una cocina abierta al salón por un hueco grande se calcula como un solo local."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Ventilaciones · Generalidades",
+   "titulo": "Reglas de ubicación de aparatos a gas (II)",
+   "headers": [
+    "Concepto",
+    "Regla"
+   ],
+   "rows": [
+    [
+     "Aparatos de circuito abierto en cocinas, tipo B de tiro natural",
+     "Se instalan en cocinas si impiden la interacción entre la extracción mecánica y la evacuación de los productos de la combustión. El dispositivo que lo evita debe arrancar en ≤ 2 minutos. La ayuda de tiro permite que funcionen los dos a la vez."
+    ],
+    [
+     "Ventilación indirecta",
+     "La que se hace a través de un local contiguo que no sea dormitorio, baño, ducha o aseo, y que disponga de ventilación directa."
+    ],
+    [
+     "Local considerado zona exterior",
+     "Galería, terraza o balcón cuenta como zona exterior si tiene abertura permanente al exterior o patio, con superficie libre ≥ 1,5 m² y borde superior a ≤ 0,5 m del techo."
+    ],
+    [
+     "Aparatos de circuito abierto tipo A en lofts",
+     "Solo para cocción si: los quemadores llevan seguridad por detección de llama; la suma de potencias tipo A de cocción es ≤ 12 kW; y el volumen bruto del loft no baja de 80 m³. El contador cabe en el loft si su volumen supera 75 m³."
+    ]
+   ],
+   "nota": "Segunda parte: qué es ventilación indirecta, cuándo una galería cuenta como exterior y las condiciones del loft.",
+   "notas": "N1: ¿Qué es ventilación indirecta y cuándo una galería cuenta como exterior?\nN2: Segunda parte de la tabla. Ventilación indirecta es la que sale a través de un local contiguo que tenga ventilación directa y que no sea dormitorio ni baño. Una galería, terraza o balcón cuenta como zona exterior si tiene una abertura permanente de al menos metro y medio cuadrado y con el borde superior a medio metro o menos del techo. En cocinas, un tipo B de tiro natural convive con el extractor solo si un dispositivo evita que se peleen, arrancando en dos minutos o menos. Y en un loft se admiten aparatos tipo A solo para cocinar, con seguridad de llama, con la suma de potencias hasta doce kilovatios y un volumen del loft de al menos ochenta metros cúbicos. Ejemplo de obra: para meter el contador en un loft diáfano, su volumen tiene que pasar de setenta y cinco metros cúbicos."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Aberturas de ventilación",
    "titulo": "La frontera de los 16 kW en tipo A",
@@ -66,6 +124,35 @@
    ],
    "img_brief": "ventilation grilles high and low on wall",
    "notas": "N1: ¿Cuándo necesito una abertura de ventilación y cuándo dos?\nN2: Depende del tipo de aparato y de la potencia. Recordemos: los aparatos tipo A sueltan los humos al propio local, como una cocina de gas; los tipo B los sacan por un conducto. Si en el local solo hay tipo B, o hay tipo A hasta dieciséis kilovatios, basta con una abertura en la parte alta: extremo inferior a un metro con ochenta o más del suelo y a cuarenta centímetros o menos del techo. Pero en cuanto los aparatos tipo A pasan de dieciséis kilovatios, ya necesitas dos aberturas: una abajo, con el extremo superior a cincuenta centímetros o menos del suelo, y otra arriba; y la de arriba tiene que ser obligatoriamente directa al exterior. La lógica: más potencia significa más humos y más aire necesario, así que separas la entrada de aire por abajo y la salida por arriba. Dieciséis kilovatios es la frontera que tienes que recordar."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Aberturas de ventilación",
+   "titulo": "Posición de las aberturas según el aparato",
+   "headers": [
+    "Contenido del local",
+    "Posición de la abertura",
+    "Ventilación"
+   ],
+   "rows": [
+    [
+     "Solo aparatos tipo B",
+     "Extremo inferior a ≥ 1,80 m del suelo y ≤ 40 cm del techo. En edificios construidos, a cualquier altura.",
+     "Directa o indirecta"
+    ],
+    [
+     "Tipo A y B juntos, o solo tipo A, con ∑Qn (A) ≤ 16 kW",
+     "Extremo inferior a ≥ 1,80 m del suelo y ≤ 40 cm del techo. En edificios construidos, extremo inferior a ≥ 1,80 m del suelo.",
+     "Directa o indirecta"
+    ],
+    [
+     "Tipo A y B juntos, o solo tipo A, con ∑Qn (A) > 16 kW",
+     "Dos aberturas (UNE 60670-6, 6.2): una inferior con extremo superior ≤ 50 cm del suelo, y una superior con extremo inferior ≥ 1,80 m del suelo y ≤ 40 cm del techo.",
+     "Inferior directa o indirecta; superior directa"
+    ]
+   ],
+   "nota": "Cuántas aberturas y dónde, según el tipo de aparato y la potencia. La frontera son los 16 kW de tipo A: por encima, dos aberturas.",
+   "notas": "N1: ¿Cuándo hace falta una abertura y cuándo dos?\nN2: Depende del tipo de aparato y de la potencia. Con solo tipo B, o con tipo A hasta dieciséis kilovatios, basta una abertura arriba: a un metro con ochenta o más del suelo y a cuarenta centímetros o menos del techo. En cuanto el tipo A pasa de dieciséis kilovatios, necesitas dos aberturas: una abajo, con su extremo superior a cincuenta centímetros o menos del suelo, y otra arriba; y la de arriba, obligatoriamente directa al exterior. La lógica: más potencia, más humos, así que separas la entrada de aire baja de la salida alta. Ejemplo de obra: en una cocina con solo una encimera pequeña, una rejilla alta basta; si sumas varios aparatos de tipo A y pasas de dieciséis kilovatios, rejilla arriba y rejilla abajo."
   },
   {
    "tipo": "contenido",
@@ -81,6 +168,57 @@
    "notas": "N1: ¿Cómo calculo los centímetros de ventilación que necesita una cocina?\nN2: Con una regla que es la estrella del tema, muy fácil de recordar. Sumas la potencia de todos los aparatos de circuito abierto del local, en kilovatios, y la multiplicas por cinco: eso te da los centímetros cuadrados de ventilación. Pero con un suelo: nunca menos de ciento veinticinco centímetros cuadrados. Por eso una cocina de diez kilovatios, que por la cuenta daría cincuenta, se queda igualmente en ciento veinticinco. Dos avisos importantes. Uno: los aparatos estancos no cuentan en esta suma, porque cogen el aire de fuera y sueltan los humos fuera por su propio conducto; solo cuentan los de circuito abierto, que respiran del local. Y dos: cuando la potencia de tipo A pasa de dieciséis kilovatios y necesitas dos aberturas, repartes esa superficie en dos mitades iguales, una arriba y otra abajo."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Ventilaciones · Ejemplos",
+   "titulo": "Ejemplos de locales con potencia ≤ 16 kW",
+   "headers": [
+    "Tipo de aparato",
+    "Ejemplo",
+    "Ventilación",
+    "Volumen mínimo",
+    "Ventilación rápida"
+   ],
+   "rows": [
+    [
+     "Tipo A (no conectados)",
+     "Cocina 10 kW",
+     "10 × 5 = 50 → mín. 125 cm² (1,80 m suelo, 0,40 m techo)",
+     "< 16 kW → 8 m³",
+     "Sin dispositivo por falta de llama → 0,4 m²"
+    ],
+    [
+     "Tipo A + B (conectados y no)",
+     "Cocina 10 kW + caldera 24 kW",
+     "(10 + 24) × 5 = 170 cm²",
+     "Aparato A < 16 kW → 8 m³",
+     "Aparatos A sin dispositivo por falta de llama → 0,4 m²"
+    ],
+    [
+     "Tipo B (conectados)",
+     "Calentador/caldera 24 kW",
+     "24 × 5 = 120 → 125 cm²",
+     "No precisa",
+     "No precisa"
+    ]
+   ],
+   "nota": "Ejemplos resueltos: cómo se aplican kW × 5, el mínimo de 125 cm², el volumen de 8 m³ y la ventilación rápida según el tipo de aparato.",
+   "notas": "N1: ¿Cómo se aplican las reglas en un caso real de hasta dieciséis kilovatios?\nN2: La tabla resuelve tres ejemplos. Una cocina de tipo A de diez kilovatios: por cinco daría cincuenta, pero el mínimo manda, ciento veinticinco centímetros cuadrados, ocho metros cúbicos de volumen y ventilación rápida de cuatro décimas de metro cuadrado. Una cocina de diez más una caldera de veinticuatro, mezcla de tipo A y B: sumas treinta y cuatro por cinco, ciento setenta centímetros cuadrados. Y solo una caldera de tipo B de veinticuatro kilovatios: por cinco daría ciento veinte, sube al mínimo de ciento veinticinco, pero como es estanca conducida no precisa volumen ni ventilación rápida. Fíjate: el tipo B conectado saca los humos fuera, por eso no pide volumen; el tipo A respira del local y sí lo pide."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál es la superficie mínima de ventilación de un local con gas, aunque la potencia sea pequeña?",
+   "opciones": [
+    "125 cm²",
+    "100 cm²",
+    "150 cm²",
+    "200 cm²"
+   ],
+   "correcta": 0,
+   "porque": "La superficie es kW × 5, pero nunca menos de 125 cm²; por eso una cocina de 10 kW, que daría 50, se queda en 125.",
+   "notas_p": "N1: La ventilación se calcula multiplicando por cinco, pero hay un suelo por debajo del cual no se baja. ¿Cuánto es ese mínimo?\nN2: Piensa en una cocina pequeña de diez kilovatios: la cuenta daría cincuenta, pero la norma no deja bajar de cierto valor.",
+   "notas_r": "N1: ¿Por qué ciento veinticinco y no cincuenta?\nN2: Porque la regla es kilovatios por cinco, pero con un mínimo de ciento veinticinco centímetros cuadrados. Aunque la cuenta dé menos, ese es el suelo: por eso una cocina de diez kilovatios se queda en ciento veinticinco. Y recuerda, los estancos no cuentan, solo el circuito abierto."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Ventilación rápida",
    "titulo": "Pasando de 30 kW, más exigencia",
@@ -94,6 +232,33 @@
    "notas": "N1: ¿Qué es la ventilación rápida y qué cambia al pasar de treinta kilovatios?\nN2: La ventilación rápida es una abertura pensada para evacuar deprisa un exceso de gas si algo va mal; el valor típico que verás es de cuatro décimas de metro cuadrado. Ahora, fíjate en la frontera de los treinta kilovatios, porque marca el nivel de exigencia. Por debajo de treinta, la ventilación puede ser directa o indirecta. Pero por encima de treinta, la ventilación tiene que ser directa al exterior y, además, montas un sistema de corte de gas por fallo de la ventilación, con una electroválvula de rearme manual colocada fuera del local. ¿Por qué fuera? Para que, si salta, alguien tenga que ir, comprobar qué ha pasado y rearmarla a conciencia, no desde dentro sin mirar. La idea de fondo se repite en todo el tema: más potencia, más humos posibles, más seguridad activa."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Ventilaciones · Ejemplos",
+   "titulo": "Ejemplos de locales con potencia > 16 kW",
+   "headers": [
+    "Ejemplo",
+    "Ventilación",
+    "Volumen mínimo",
+    "Ventilación rápida"
+   ],
+   "rows": [
+    [
+     "Cocina 10 kW + cocina 15 kW",
+     "25 kW → 25 × 5 = 125 cm² (Sup. 62,5 / Inf. 62,5)",
+     "25 − 8 = 17 m³",
+     "≤ 30 kW; sin dispositivo por extinción de llama VR = 0,4 m²; directa o indirecta"
+    ],
+    [
+     "Cocina 10 + cocina 15 + plancha 20 kW",
+     "45 kW → 45 × 5 = 225 cm² (Sup. 112,5 / Inf. 112,5)",
+     "45 − 8 = 37 m³",
+     "> 30 kW; VR = 0,4 m²; directa; corte por fallo de ventilación; electroválvula de rearme manual fuera del local"
+    ]
+   ],
+   "nota": "Con más de 16 kW la ventilación se reparte en dos mitades iguales; pasando de 30 kW, la ventilación es directa y con corte por fallo.",
+   "notas": "N1: ¿Y cuando el local pasa de dieciséis kilovatios?\nN2: Dos ejemplos. Dos cocinas, una de diez y otra de quince, suman veinticinco kilovatios: por cinco, ciento veinticinco centímetros cuadrados, repartidos en dos mitades iguales, arriba y abajo; el volumen es veinticinco menos ocho, diecisiete metros cúbicos; y como no pasa de treinta, la ventilación puede ser directa o indirecta. Si añades una plancha de veinte, llegas a cuarenta y cinco kilovatios: doscientos veinticinco centímetros cuadrados repartidos, treinta y siete metros cúbicos de volumen, y aquí sí, por pasar de treinta, la ventilación tiene que ser directa, con sistema de corte por fallo y electroválvula de rearme manual colocada fuera del local. Más potencia, más exigencia."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Volumen mínimo",
    "titulo": "kW − 8, con suelo de 8 m³",
@@ -105,6 +270,40 @@
    ],
    "img_brief": "spacious kitchen with gas appliances",
    "notas": "N1: ¿Cuánto volumen mínimo pide un local con una cocina de gas?\nN2: Depende de la potencia y del tipo de aparato. Para aparatos tipo A de cocción o gasodomésticos, hasta dieciséis kilovatios se piden ocho metros cúbicos fijos. Por encima de dieciséis, la cuenta es el número de kilovatios menos ocho, en metros cúbicos: por ejemplo, veinticinco kilovatios dan diecisiete metros cúbicos; cuarenta y cinco kilovatios, treinta y siete. Para aparatos de calefacción directa la fórmula es otra: potencia por once, con un mínimo de quince metros cúbicos. Y si hay de los dos tipos, calculas cada volumen y los sumas. Ojo a lo importante: los aparatos estancos y los de circuito abierto conducido no piden volumen mínimo, porque no vierten sus humos al local. El volumen es para los que respiran y sueltan en la propia estancia."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Volumen mínimo",
+   "titulo": "Volumen mínimo con aparatos tipo A",
+   "headers": [
+    "Aparatos",
+    "Potencia",
+    "Volumen"
+   ],
+   "rows": [
+    [
+     "Aparatos de cocción o gasodomésticos",
+     "hasta 16 kW",
+     "8 m³. En edificios construidos, entre 6 y 8 m³ si se incrementa un 50 % la ventilación."
+    ],
+    [
+     "Aparatos de cocción o gasodomésticos",
+     "> 16 kW",
+     "kW − 8 (en m³)"
+    ],
+    [
+     "Aparatos de calefacción directa",
+     "—",
+     "V (m³) = Potencia (kW) × 11 (mínimo 15 m³)"
+    ],
+    [
+     "Cocción/gasodomésticos y calefacción directa",
+     "—",
+     "Se calculan los dos volúmenes por separado y se suman."
+    ]
+   ],
+   "nota": "Volumen bruto mínimo del local según el aparato tipo A; los estancos y conducidos no piden volumen porque no vierten humos al local.",
+   "notas": "N1: ¿Cuánto volumen mínimo pide una cocina de gas?\nN2: La tabla lo da según el aparato tipo A. Cocción o gasodomésticos hasta dieciséis kilovatios, ocho metros cúbicos fijos; por encima, la cuenta es kilovatios menos ocho, así que veinticinco dan diecisiete y cuarenta y cinco dan treinta y siete. Calefacción directa, potencia por once, con un mínimo de quince metros cúbicos. Y si hay de los dos tipos, calculas cada volumen y los sumas. En edificio ya construido puedes bajar entre seis y ocho metros cúbicos si incrementas un cincuenta por ciento la ventilación. Recuerda: los estancos y conducidos no piden volumen, porque no sueltan humos al local. Ejemplo de obra: una cocina con una encimera de doce kilovatios pide ocho metros cúbicos de local."
   },
   {
    "tipo": "contenido",
@@ -146,6 +345,60 @@
    "notas": "N1: ¿Qué diferencia hay entre patio de ventilación y patio de evacuación?\nN2: No es lo mismo meter aire que sacar humos, y por eso hay dos patios con exigencias distintas. El patio de ventilación, que sirve para dar aire a los locales, pide poco: una superficie mínima de tres metros cuadrados, con el lado menor de al menos un metro, y si está techado por arriba, tiene que dejar dos metros cuadrados libres de comunicación con el exterior. El patio de evacuación es donde desembocan los humos de aparatos conducidos, calderas y calentadores, y pide más: la superficie sale de multiplicar cero coma cinco metros cuadrados por el número de locales, con un mínimo de cuatro metros cuadrados, y si está techado, tiene que dejar libre el veinticinco por ciento de su sección. Y cuidado con el error clásico: ese número, ene te, son los locales que pueden tener aparatos conducidos, no las ventanas ni las puertas que dan al patio. Cuenta habitaciones que sueltan humos, no huecos."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Patios de ventilación",
+   "titulo": "Patios de ventilación",
+   "headers": [
+    "Patio de ventilación",
+    "Superficie mínima",
+    "Lado menor",
+    "Techado libre mínimo"
+   ],
+   "rows": [
+    [
+     "Finca nueva",
+     "Mínimo 3 m²",
+     "1 m",
+     "S = 2 m²"
+    ],
+    [
+     "Finca ya construida",
+     "Mínimo 3 m² (si no hay entrada directa por conducto de 300 cm² en la parte inferior)",
+     "1 m",
+     "S = 2 m²"
+    ]
+   ],
+   "nota": "Dimensiones del patio que sirve para meter aire a los locales: 3 m² mínimo, lado menor 1 m y, si está techado, 2 m² libres al exterior.",
+   "notas": "N1: ¿Qué medidas pide un patio de ventilación?\nN2: Este patio sirve para meter aire a los locales. Pide poco: una superficie mínima de tres metros cuadrados, tanto en finca nueva como en ya construida, con el lado menor de al menos un metro, y si está techado por arriba, tiene que dejar dos metros cuadrados libres de comunicación con el exterior. En finca ya construida, el mínimo de tres metros cuadrados se pide cuando no es posible una entrada de aire directa por un conducto de trescientos centímetros cuadrados en la parte inferior. Ejemplo de obra: un patinillo de tres metros cuadrados con un metro de lado menor sirve como patio de ventilación."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Patios de evacuación",
+   "titulo": "Patios de evacuación de productos de la combustión",
+   "headers": [
+    "Patio de evacuación",
+    "Superficie mínima",
+    "Techado libre (S)",
+    "Observaciones"
+   ],
+   "rows": [
+    [
+     "Finca nueva (todo a cubierta)",
+     "No existe superficie mínima",
+     "No existe superficie mínima",
+     "No pueden evacuarse aparatos tipo B y C"
+    ],
+    [
+     "Finca ya construida",
+     "NT × 0,5 m² (mínimo 4 m²)",
+     "25 % de la superficie del patio",
+     "NT es el número de locales con aparatos B y C que desemboquen al patio. No cuentan ventanas ni puertas, solo locales."
+    ]
+   ],
+   "nota": "Patio por donde salen los humos de aparatos conducidos: superficie 0,5 m² por cada local (NT), mínimo 4 m². NT son locales, no ventanas.",
+   "notas": "N1: ¿En qué se diferencia el patio de evacuación?\nN2: Este es por donde salen los humos de los aparatos conducidos, calderas y calentadores, y pide más. En finca nueva no hay superficie mínima porque todo va a cubierta, y no pueden evacuar al patio aparatos tipo B ni C. En finca ya construida, la superficie sale de multiplicar cero coma cinco metros cuadrados por el número de locales, con un mínimo de cuatro metros cuadrados, y si está techado, deja libre el veinticinco por ciento de su sección. Ojo al error clásico: ene te son los locales que pueden tener aparatos conducidos, no las ventanas ni las puertas. Ejemplo de obra: ocho locales que desembocan dan ocho por cero coma cinco, cuatro metros cuadrados, que además es el mínimo."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "RITE · Evacuación de humos",
    "titulo": "Cambiar el aparato es aplicar el RITE",
@@ -159,6 +412,20 @@
    "notas": "N1: Si solo cambio una caldera vieja por otra, ¿tengo que cumplir la norma nueva?\nN2: Sí, y esta es una frase que cae en el examen: cambiar el aparato equivale a aplicar el RITE. Aunque la instalación sea antigua, en el momento en que sustituyes la caldera entras en las reglas actuales, al menos en la parte reformada. ¿Y qué exigen esas reglas? Que los productos de la combustión se evacúen a cubierta mediante conducto, con carácter general; solo se admite salida directa a fachada en viviendas unifamiliares o en edificios habitados donde se demuestre que no se puede llevar un conducto a cubierta. Que las calderas sean de condensación, de clase cinco de óxidos de nitrógeno, las menos contaminantes, y estancas. Y algo tajante: queda prohibido instalar nuevos calentadores atmosféricos de tiro natural en interiores, ni de estreno ni como recambio. La norma empuja hacia aparatos estancos, que cogen y sueltan el aire por conducto y no roban el aire del local."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Al sustituir una caldera antigua por una nueva, ¿qué exige el RITE para la caldera?",
+   "opciones": [
+    "Que sea de condensación, clase 5 de NOx y estanca",
+    "Que sea atmosférica de tiro natural",
+    "Que sea de tiro forzado y clase 3",
+    "Cualquiera que tenga marcado CE"
+   ],
+   "correcta": 0,
+   "porque": "Cambiar el aparato equivale a aplicar el RITE: caldera de condensación, clase 5 de NOx y estanca, con humos a cubierta y sin atmosféricos de tiro natural.",
+   "notas_p": "N1: Solo vas a cambiar una caldera vieja por otra. ¿Puedes poner cualquiera? ¿Qué te pide la norma?\nN2: Recuerda la frase de examen: cambiar el aparato es aplicar el reglamento nuevo, aunque la instalación sea antigua.",
+   "notas_r": "N1: ¿Por qué esa y no un atmosférico de recambio?\nN2: Porque al sustituir la caldera entras en las reglas actuales: condensación, clase cinco de óxidos de nitrógeno y estanca, con los humos a cubierta por conducto. Y queda prohibido montar nuevos calentadores atmosféricos de tiro natural en interior, ni de estreno ni como recambio."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Rendimientos · ErP",
    "titulo": "86 % o condensación",
@@ -170,6 +437,40 @@
    ],
    "img_brief": "modern condensing gas boiler wall",
    "notas": "N1: ¿Por qué prácticamente todas las calderas nuevas son de condensación?\nN2: Por rendimiento. La normativa europea de productos, la que hay que cumplir para conseguir el marcado CE, fija rendimientos mínimos. Para calderas de menos de setenta kilovatios, que son casi todas las de vivienda, pide del orden de un ochenta y seis por ciento o más, referido al poder calorífico superior del gas. Y ese ochenta y seis por ciento, en la práctica, solo se alcanza con tecnología de condensación, que es la que aprovecha también el calor del vapor de agua de los humos en vez de tirarlo por la chimenea. Por eso el RITE impone condensación en obra nueva: no es un capricho, es que un aparato normal no llega a ese rendimiento. Quédate con el número redondo: ochenta y seis por ciento mínimo, y eso significa caldera de condensación."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Rendimientos · RITE / ErP",
+   "titulo": "Rendimientos exigidos para P = 25 kW (condensación)",
+   "headers": [
+    "Escenario",
+    "RITE",
+    "ErP"
+   ],
+   "rows": [
+    [
+     "Obra nueva · Gas natural",
+     "82,1 %",
+     "86 %"
+    ],
+    [
+     "Obra nueva · Gasóleo",
+     "78,9 %",
+     "86 %"
+    ],
+    [
+     "Reforma · Gas natural",
+     "75,9 %",
+     "86 %"
+    ],
+    [
+     "Reforma · Gasóleo",
+     "78,9 %",
+     "86 %"
+    ]
+   ],
+   "nota": "Rendimiento mínimo según RITE y según la normativa europea ErP; el 86 % de la ErP en calderas pequeñas solo se logra con condensación.",
+   "notas": "N1: ¿Qué rendimiento hay que darle a una caldera pequeña?\nN2: La tabla compara, para una caldera de veinticinco kilovatios, lo que pide el reglamento de instalaciones térmicas y lo que pide la normativa europea de productos. Fíjate en la columna europea: en todos los escenarios, obra nueva o reforma, gas natural o gasóleo, exige ochenta y seis por ciento. Y ese ochenta y seis por ciento, en calderas de menos de setenta kilovatios, en la práctica solo lo alcanza la condensación, que aprovecha también el calor del vapor de agua de los humos. Por eso el reglamento impone condensación en obra nueva. Quédate con el número redondo: ochenta y seis por ciento mínimo, caldera de condensación."
   },
   {
    "tipo": "contenido",
@@ -224,6 +525,95 @@
    "notas": "N1: ¿Cómo se calcula la potencia de diseño de una vivienda?\nN2: Con una fórmula que tiene truco de simultaneidad. La potencia de diseño individual, la Piv, se calcula así: coges los dos aparatos de mayor consumo y entran enteros; el resto de aparatos entran a la mitad, divididos entre dos; sumas todo y lo multiplicas por uno coma diez, que es un coeficiente corrector. ¿Por qué los demás a la mitad? Porque no todos los aparatos de la casa tiran a tope a la vez; es simultaneidad. Y hay un suelo importantísimo: aunque la cuenta te dé menos, la Piv se toma como mínimo treinta kilovatios. Ese es el punto de partida para dimensionar la vivienda. Con esa potencia eliges el contador, que para una vivienda normal es el G cuatro, doméstico, que da hasta seis metros cúbicos por hora, y el regulador individual, que da igual si entra en media presión A o B, siempre sale a veinte milésimas de bar, baja presión, que es lo que piden los aparatos domésticos."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Certificado individual · IRG-3",
+   "titulo": "Correspondencia de contadores de membranas",
+   "headers": [
+    "Tipo",
+    "Máximo (Nm³/h)",
+    "Mínimo (Nm³/h)"
+   ],
+   "rows": [
+    [
+     "G-4 (doméstico)",
+     "6",
+     "0,04"
+    ],
+    [
+     "G-6",
+     "10",
+     "0,06"
+    ],
+    [
+     "G-16",
+     "25",
+     "0,16"
+    ],
+    [
+     "G-25",
+     "40",
+     "0,25"
+    ],
+    [
+     "G-40",
+     "65",
+     "0,40"
+    ],
+    [
+     "G-65",
+     "100",
+     "0,65"
+    ],
+    [
+     "G-100",
+     "160",
+     "1"
+    ],
+    [
+     "G-160",
+     "250",
+     "1,6"
+    ]
+   ],
+   "nota": "Caudal máximo y mínimo de cada modelo de contador de membranas; el G-4 es el contador típico de una vivienda.",
+   "notas": "N1: ¿Qué contador se pone en una vivienda normal?\nN2: La tabla da, para cada modelo de contador de membranas, su caudal máximo y mínimo en metros cúbicos normales por hora. El de casa es el ge cuatro, doméstico, que da hasta seis metros cúbicos hora. Según sube la demanda, subes de modelo: ge seis hasta diez, ge dieciséis hasta veinticinco, y así hasta el ge ciento sesenta, que llega a doscientos cincuenta. El mínimo importa para medir bien los consumos pequeños, como un piloto. Ejemplo de obra: para una vivienda con cocina, caldera y calentador, el ge cuatro basta; si es un local con mucha potencia, subes de modelo."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Certificado individual · IRG-3",
+   "titulo": "Presiones del regulador individual",
+   "headers": [
+    "MOP entrada",
+    "MOP salida"
+   ],
+   "rows": [
+    [
+     "0,05 a 0,4 bar (MP-A)",
+     "0,020 bar (BP)"
+    ],
+    [
+     "0,4 a 5 bar (MP-B)",
+     "0,020 bar (BP)"
+    ]
+   ],
+   "nota": "El regulador individual, entre en MP-A o MP-B, siempre da salida a 0,020 bar (baja presión), que es lo que piden los aparatos domésticos.",
+   "notas": "N1: ¿A qué presión entrega el regulador de una vivienda?\nN2: La tabla lo deja claro: da igual que el regulador individual coja media presión A, de cinco centésimas a cuatro décimas de bar, o media presión B, de cuatro décimas a cinco bar; a la salida siempre entrega veinte milésimas de bar, que es baja presión, la que piden los aparatos domésticos. No lo confundas con el regulador común, que sale a otra presión. Ejemplo de obra: si a la vivienda le llega media presión B, el regulador individual la baja hasta baja presión antes de los aparatos."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál es la potencia de diseño individual (Piv) mínima de una vivienda?",
+   "opciones": [
+    "30 kW",
+    "20 kW",
+    "16 kW",
+    "40 kW"
+   ],
+   "correcta": 0,
+   "porque": "Aunque la fórmula dé menos, la Piv se toma como mínimo 30 kW; es el suelo para dimensionar la instalación individual.",
+   "notas_p": "N1: Calculas la potencia de diseño de una vivienda y te sale un número bajo. Pero hay un suelo que no se baja. ¿Cuál es?\nN2: Es la potencia mínima de partida para dimensionar cualquier vivienda, aunque tenga pocos aparatos.",
+   "notas_r": "N1: ¿Por qué treinta y no lo que dé la cuenta?\nN2: Porque la norma fija un mínimo: aunque la fórmula, con los dos aparatos mayores enteros y el resto a la mitad por uno coma diez, dé menos, la potencia de diseño individual se toma como mínimo treinta kilovatios. Es el suelo para no quedarte corto al dimensionar la instalación."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Certificado común · IRG-2",
    "titulo": "La simultaneidad baja con más vecinos",
@@ -235,6 +625,247 @@
    ],
    "img_brief": "centralized gas meter battery in building",
    "notas": "N1: ¿Por qué la instalación común no se dimensiona sumando la potencia de todas las viviendas?\nN2: Porque sería absurdo pensar que todos los vecinos van a consumir a tope en el mismo instante. Eso es la simultaneidad. La potencia de diseño de la comunitaria, la Pc, se calcula aplicando un factor de simultaneidad, la ese, que baja cuanto más viviendas hay: en una vivienda es uno, y va bajando hasta quedarse en torno a quince o treinta y cinco centésimas cuando pasas de treinta viviendas. Hay dos columnas: la ese uno, cuando no hay calefacción individual, baja más rápido; y la ese dos, cuando sí hay calefacción individual, baja más despacio, porque las calderas de todos sí coinciden en las mañanas frías de invierno. El caudal de diseño sale de dividir esa potencia entre el poder calorífico superior. Y no confundas los reguladores: el común coge media presión B, de cuatro décimas a cinco bar, y la baja a media presión A o a baja presión, mientras que el individual salía a veinte milésimas. Cada uno a lo suyo."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Certificado común · IRG-2",
+   "titulo": "Modelos de armario de regulación y caudal",
+   "headers": [
+    "Modelo de armario",
+    "Caudal nominal (Nm³/h)"
+   ],
+   "rows": [
+    [
+     "A-6",
+     "6"
+    ],
+    [
+     "A-10",
+     "10"
+    ],
+    [
+     "A-25 / E-25",
+     "25"
+    ],
+    [
+     "A-50 / E-50",
+     "50"
+    ],
+    [
+     "A-75",
+     "75"
+    ],
+    [
+     "A-100",
+     "100"
+    ]
+   ],
+   "nota": "Cada modelo de armario de regulación con su caudal nominal; se elige según el caudal de diseño de la comunidad.",
+   "notas": "N1: ¿Cómo se elige el armario de regulación de un edificio?\nN2: La tabla asocia cada modelo de armario con su caudal nominal en metros cúbicos normales por hora: el a seis da seis, el a diez da diez, y así hasta el a cien, que da cien. Se elige según el caudal de diseño de la instalación común, que sale de la potencia con su simultaneidad dividida entre el poder calorífico. Ejemplo de obra: si la comunidad necesita un caudal de veinte metros cúbicos hora, coges el modelo de veinticinco, el inmediato superior, nunca uno que se quede corto."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Certificado común · IRG-2",
+   "titulo": "Presiones del regulador común",
+   "headers": [
+    "MOP entrada",
+    "MOP salida"
+   ],
+   "rows": [
+    [
+     "0,4 a 5 bar (MP-B)",
+     "0,055 bar (MP-A)"
+    ],
+    [
+     "0,4 a 5 bar (MP-B)",
+     "0,021 bar (BP)"
+    ]
+   ],
+   "nota": "El regulador común entra en MP-B y baja a MP-A o a baja presión, según el diseño; no confundir con el individual, que sale a 0,020 bar.",
+   "notas": "N1: ¿A qué presión trabaja el regulador de la instalación común?\nN2: La tabla lo dice: el regulador común coge media presión B, de cuatro décimas a cinco bar, y la baja a media presión A, cincuenta y cinco milésimas, o a baja presión, veintiuna milésimas, según cómo esté diseñado el edificio. No lo confundas con el regulador individual, que salía a veinte milésimas. Cada uno a lo suyo. Ejemplo de obra: en un edificio con montante en media presión A, el regulador común deja media presión A en el montante, y luego cada regulador individual la baja a baja presión."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Certificado común · IRG-2",
+   "titulo": "Factores de simultaneidad S1 y S2 (1 a 16 viviendas)",
+   "headers": [
+    "Núm. viviendas",
+    "S1",
+    "S2"
+   ],
+   "rows": [
+    [
+     "1",
+     "1,00",
+     "1,00"
+    ],
+    [
+     "2",
+     "0,70",
+     "0,88"
+    ],
+    [
+     "3",
+     "0,55",
+     "0,79"
+    ],
+    [
+     "4",
+     "0,46",
+     "0,72"
+    ],
+    [
+     "5",
+     "0,40",
+     "0,67"
+    ],
+    [
+     "6",
+     "0,36",
+     "0,63"
+    ],
+    [
+     "7",
+     "0,33",
+     "0,59"
+    ],
+    [
+     "8",
+     "0,30",
+     "0,56"
+    ],
+    [
+     "9",
+     "0,28",
+     "0,54"
+    ],
+    [
+     "10",
+     "0,26",
+     "0,52"
+    ],
+    [
+     "11",
+     "0,25",
+     "0,50"
+    ],
+    [
+     "12",
+     "0,24",
+     "0,48"
+    ],
+    [
+     "13",
+     "0,23",
+     "0,47"
+    ],
+    [
+     "14",
+     "0,22",
+     "0,46"
+    ],
+    [
+     "15",
+     "0,21",
+     "0,45"
+    ],
+    [
+     "16",
+     "0,21",
+     "0,44"
+    ]
+   ],
+   "nota": "Factor de simultaneidad según el número de viviendas: S1 sin calefacción individual, S2 con calefacción. Cuantas más viviendas, más baja el factor.",
+   "notas": "N1: ¿Por qué la instalación común no se dimensiona sumando todas las viviendas a lo bruto?\nN2: Porque no todos los vecinos consumen a tope a la vez; eso es la simultaneidad. Esta tabla da el factor según el número de viviendas, de una a dieciséis. Fíjate en el patrón: con una vivienda el factor es uno; con dos ya baja, y así va cayendo. Hay dos columnas: la ese uno, cuando no hay calefacción individual, que baja más rápido; y la ese dos, con calefacción individual, que baja más despacio, porque las calderas de todos sí coinciden en las mañanas frías. Ejemplo de obra: en un edificio de diez viviendas sin calefacción individual aplicas cero coma veintiséis; con calefacción individual, cero coma cincuenta y dos."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Certificado común · IRG-2",
+   "titulo": "Factores de simultaneidad S1 y S2 (17 viviendas en adelante)",
+   "headers": [
+    "Núm. viviendas",
+    "S1",
+    "S2"
+   ],
+   "rows": [
+    [
+     "17",
+     "0,20",
+     "0,43"
+    ],
+    [
+     "18",
+     "0,19",
+     "0,42"
+    ],
+    [
+     "19",
+     "0,19",
+     "0,41"
+    ],
+    [
+     "20",
+     "0,19",
+     "0,41"
+    ],
+    [
+     "21",
+     "0,18",
+     "0,40"
+    ],
+    [
+     "22",
+     "0,18",
+     "0,39"
+    ],
+    [
+     "23",
+     "0,18",
+     "0,39"
+    ],
+    [
+     "24",
+     "0,17",
+     "0,38"
+    ],
+    [
+     "25",
+     "0,17",
+     "0,38"
+    ],
+    [
+     "26",
+     "0,17",
+     "0,38"
+    ],
+    [
+     "27",
+     "0,16",
+     "0,37"
+    ],
+    [
+     "28",
+     "0,16",
+     "0,37"
+    ],
+    [
+     "29",
+     "0,16",
+     "0,36"
+    ],
+    [
+     "30",
+     "0,16",
+     "0,36"
+    ],
+    [
+     "Más de 30",
+     "0,15",
+     "0,35"
+    ]
+   ],
+   "nota": "Continuación de la tabla: a partir de 30 viviendas el factor se estabiliza en 0,15 (S1) y 0,35 (S2).",
+   "notas": "N1: ¿Y cuando el edificio tiene muchas viviendas?\nN2: Segunda parte de la tabla, de diecisiete viviendas en adelante. El factor sigue bajando, pero cada vez más despacio, hasta que a partir de treinta viviendas se queda plano: cero coma quince sin calefacción individual y cero coma treinta y cinco con calefacción individual. La idea de fondo: cuantos más vecinos, menos probable es que todos abran el gas en el mismo instante, así que el factor baja; pero llega un punto en que ya no baja más. Ejemplo de obra: un bloque grande de cuarenta viviendas se dimensiona con cero coma quince o cero coma treinta y cinco, según lleve o no calefacción individual."
   },
   {
    "tipo": "cierre",

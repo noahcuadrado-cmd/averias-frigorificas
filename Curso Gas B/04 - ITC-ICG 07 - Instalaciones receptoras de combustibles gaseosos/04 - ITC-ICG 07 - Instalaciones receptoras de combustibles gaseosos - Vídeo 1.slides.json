@@ -103,6 +103,20 @@
    "notas": "N1: ¿Cuándo puedo sacar los humos por la pared en vez de por el tejado?\nN2: Solo en dos casos pequeños y seguros, y estas dos cifras son de las estrella. Uno: aparatos estancos o de tiro forzado con potencia igual o menor de setenta kilovatios. Dos: aparatos de tiro natural que sirvan únicamente para agua caliente sanitaria, con potencia igual o menor de veinticuatro con cuatro kilovatios. Fíjate en la lógica: al tiro natural, que es el más primitivo, solo se le deja si es exclusivo de agua caliente y muy pequeño; a los estancos y de tiro forzado, que controlan mejor los humos, se les deja hasta setenta. Y una coletilla que se repite: sin perjuicio del RITE, que significa que aunque el gas te lo permita, el reglamento de calefacción puede poner condiciones extra. No se contradicen, se suman."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Hasta qué potencia puede un aparato estanco o de tiro forzado evacuar los humos a fachada?",
+   "opciones": [
+    "24,4 kW",
+    "70 kW",
+    "2.000 kW",
+    "5 kW"
+   ],
+   "correcta": 1,
+   "porque": "Los estancos y de tiro forzado, más seguros, pueden salir a fachada hasta setenta kilovatios; el tiro natural de solo agua caliente se queda en veinticuatro con cuatro.",
+   "notas_p": "N1: Aquí va una de las cifras estrella del vídeo. Un aparato estanco o de tiro forzado quiere sacar los humos por la pared en lugar de por el tejado. ¿Hasta qué potencia se lo permiten?\nN2: Piensa que el estanco y el de tiro forzado son los que mejor controlan sus humos, así que el reglamento les da más margen que al tiro natural. Una de las opciones es la del tiro natural, no la mezcles.",
+   "notas_r": "N1: ¿Por qué setenta y no otra?\nN2: Porque la salida directa a fachada se reserva a aparatos estancos o de tiro forzado de potencia igual o menor de setenta kilovatios. La cifra de veinticuatro con cuatro es la trampa: esa es solo para el tiro natural que hace únicamente agua caliente. El truco para no fallar: más control sobre los humos, más potencia permitida; setenta para los seguros, veinticuatro con cuatro para el primitivo."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 2 · Tipos de aparato",
    "titulo": "Estanco, tiro forzado, tiro natural",
@@ -125,6 +139,30 @@
    ],
    "img_brief": "interior ventilation courtyard of apartment building",
    "notas": "N1: ¿Qué tamaño tiene que tener el patio de ventilación?\nN2: Depende de si el edificio es de siempre o de obra nueva, y son dos fórmulas que no debes mezclar. En un edificio ya existente, la superficie en planta del patio tiene que ser al menos cero coma cinco por ene te, y nunca menos de cuatro metros cuadrados. En obra nueva se exige el doble, uno por ene te, y siempre más de seis metros cuadrados. ¿Qué es ese ene te? Simplemente el número de locales o viviendas que tiran sus humos a ese patio; cuantos más aparatos desembocan, más grande tiene que ser. La idea de fondo: en obra nueva, como se diseña desde cero, se pide más holgura. Un patio corto se convierte en una trampa de gases donde los aparatos no tiran y se acaban apagando."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 2 · Patios de ventilación",
+   "titulo": "Superficie mínima del patio de ventilación",
+   "headers": [
+    "Situación",
+    "Superficie mínima en planta",
+    "Mínimo absoluto"
+   ],
+   "rows": [
+    [
+     "Patio en edificio existente",
+     "0,5 × NT",
+     "4 m²"
+    ],
+    [
+     "Patio en edificio de nueva edificación",
+     "1 × NT",
+     "mayor que 6 m²"
+    ]
+   ],
+   "nota": "NT es el número de locales que echan sus humos al patio: cuantos más, mayor debe ser.",
+   "notas": "N1: ¿Qué superficie mínima tiene que tener un patio de ventilación?\nN2: Esta tabla te da las dos fórmulas que no debes mezclar. En la columna de la izquierda está la situación, en el centro la superficie mínima en planta y a la derecha el mínimo absoluto que nunca puedes bajar. Primera fila, patio de un edificio ya existente: la superficie tiene que ser al menos cero coma cinco por ene te, y nunca menos de cuatro metros cuadrados. Segunda fila, patio de obra nueva: se exige el doble, uno por ene te, y siempre más de seis metros cuadrados. Ese ene te es el número de locales o viviendas que tiran sus humos a ese patio. Ejemplo de obra: si a un patio de un edificio nuevo desembocan ocho viviendas, uno por ocho son ocho metros cuadrados de superficie mínima. La idea de fondo: en obra nueva se pide más holgura porque se diseña desde cero."
   },
   {
    "tipo": "contenido",
@@ -151,6 +189,20 @@
    "notas": "N1: ¿Qué pasa cuando la caldera es muy grande?\nN2: Ata este cabo, que el número mágico son setenta kilovatios. Por encima de setenta, una caldera de calefacción o de agua caliente ya no es un aparato doméstico cualquiera: es maquinaria seria que tiene que ir en una sala de máquinas con las condiciones de la UNE sesenta mil seiscientos uno. Lo mismo vale para los equipos de llama directa de refrigeración por absorción y para los de generación eléctrica o cogeneración, si juntos pasan de setenta. Y ojo a la palabra conjunta: las potencias se suman. Tres equipos de treinta kilovatios trabajando juntos son noventa, así que pasan de setenta y toca sala de máquinas. Truco: sesenta mil seiscientos uno igual a salas de calderas. Por debajo de setenta, la norma general es la sesenta mil seiscientos setenta, que vemos ahora."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Tres equipos de gas de 30 kW trabajan juntos. ¿Qué exige la norma?",
+   "opciones": [
+    "Nada especial, cada uno baja de 70 kW",
+    "Sala de máquinas conforme a UNE 60601",
+    "Salida obligatoria a fachada",
+    "Proyecto según UNE 60620"
+   ],
+   "correcta": 1,
+   "porque": "La potencia se suma: tres por treinta son noventa kilovatios, se pasa de setenta y toca sala de máquinas con UNE 60601.",
+   "notas_p": "N1: Tres equipos de treinta kilovatios cada uno, funcionando a la vez. ¿Hay que hacer algo especial?\nN2: La palabra clave es conjunta. Fíjate en si las potencias se miran por separado o se suman. Ahí está el truco de la pregunta.",
+   "notas_r": "N1: ¿Por qué sala de máquinas?\nN2: Porque la potencia útil nominal es conjunta, o sea que se suma: treinta más treinta más treinta son noventa kilovatios. Al pasar de setenta, deja de ser cosa doméstica y exige sala de máquinas con la UNE sesenta mil seiscientos uno. La trampa era mirar cada equipo por separado y ver treinta; pero si trabajan juntos, mandan los noventa."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 2 · Norma según presión",
    "titulo": "La frontera de los 5 bar",
@@ -161,6 +213,41 @@
    ],
    "img_brief": "gas pressure regulator and gauge",
    "notas": "N1: ¿Cómo sé qué norma técnica tengo que seguir?\nN2: Lo decide la presión máxima de operación, y esta es de las preguntas más repetidas de todo el Gas B. Chuleta: hasta cinco bar, sigues la UNE sesenta mil seiscientos setenta, la de toda la vida para instalaciones receptoras normales; por encima de cinco bar, la UNE sesenta mil seiscientos veinte, la de alta presión. Como instalador de categoría be trabajarás casi siempre con la seiscientos setenta. Esa presión máxima de operación la verás escrita como eme o pe, del inglés, y es la presión más alta a la que la instalación trabaja de forma normal y continua; no la confundas con la de prueba ni con la de diseño. Memoriza el par: seiscientos setenta es baja presión hasta cinco bar; seiscientos veinte es alta presión por encima de cinco."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 2 · Norma según presión",
+   "titulo": "Norma UNE según la presión máxima de operación",
+   "headers": [
+    "Presión máxima de operación (MOP)",
+    "Norma que aplica"
+   ],
+   "rows": [
+    [
+     "Hasta 5 bar",
+     "UNE 60670"
+    ],
+    [
+     "Superior a 5 bar",
+     "UNE 60620"
+    ]
+   ],
+   "nota": "La MOP es la presión más alta a la que la instalación trabaja de forma continua y normal.",
+   "notas": "N1: ¿Qué norma técnica sigo según la presión?\nN2: Esta tabla resuelve una de las preguntas más repetidas de todo el Gas B. A la izquierda tienes la presión máxima de operación, la que en la normativa verás como eme o pe, y a la derecha la norma que te toca seguir. Primera fila: hasta cinco bar, la UNE sesenta mil seiscientos setenta, la de toda la vida para instalaciones receptoras normales. Segunda fila: por encima de cinco bar, la UNE sesenta mil seiscientos veinte, la de alta presión. Ejemplo de obra: una instalación doméstica que recibe gas a un bar va por la seiscientos setenta; como categoría be trabajarás casi siempre con esa. Memoriza el par y no falles la frontera de los cinco bar."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Una instalación receptora trabaja a 6 bar. ¿Qué norma UNE le corresponde?",
+   "opciones": [
+    "UNE 60670",
+    "UNE 60601",
+    "UNE 60620",
+    "UNE 60310"
+   ],
+   "correcta": 2,
+   "porque": "Por encima de cinco bar manda la UNE 60620, la de alta presión; hasta cinco bar sería la 60670.",
+   "notas_p": "N1: Seis bar, por encima de la raya. ¿Qué norma toca?\nN2: Acuérdate de la frontera de los cinco bar que acabamos de ver en la tabla. Dos de las opciones son normas que ni siquiera van de esto; céntrate en el par de la presión.",
+   "notas_r": "N1: ¿Por qué la seiscientos veinte?\nN2: Porque seis bar es superior a cinco, y por encima de cinco bar manda la UNE sesenta mil seiscientos veinte, la de alta presión. La seiscientos setenta se habría quedado corta, es para hasta cinco bar. Las otras dos, la seiscientos uno de salas de máquinas y la trescientos diez de acometidas, son de otra cosa. Truco: pasas de cinco, subes de norma."
   },
   {
    "tipo": "contenido",

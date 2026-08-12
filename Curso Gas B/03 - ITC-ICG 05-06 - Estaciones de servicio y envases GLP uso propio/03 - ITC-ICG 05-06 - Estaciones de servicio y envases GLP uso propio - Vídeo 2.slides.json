@@ -126,6 +126,49 @@
    "notas": "N1: El cuadro de distancias me agobia. ¿Hay forma de memorizarlo?\nN2: Sí, ordénalo de más peligro a menos, que es de más distancia a menos. Lo que da fuego de verdad, los hogares y otras fuentes de calor, es lo más peligroso, así que lo más lejos: un metro y medio. Luego, las tomas de corriente, los enchufes, a medio metro, porque un enchufe puede chispear justo al conectar o desconectar algo. Y lo más cerca que se permite, treinta centímetros, para los hornillos, los interruptores y los conductores eléctricos. Uno y medio, medio, treinta centímetros. Y dos trampillas de reducción que caen: si pones una protección contra la radiación, una pantalla sólida y eficaz de material casi incombustible, el hogar puede acercarse de un metro y medio a medio metro, y el hornillo de treinta a diez centímetros. Ese material de la pantalla tiene una clase concreta de reacción al fuego, prácticamente incombustible."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 2.1 · Cuadro 1",
+   "titulo": "Cuadro 1 · Distancias con envases ≤ 15 kg",
+   "headers": [
+    "Elemento",
+    "Distancia (m)"
+   ],
+   "rows": [
+    [
+     "Hogares para combustibles sólidos y líquidos y otras fuentes de calor",
+     "1,5 (1)"
+    ],
+    [
+     "Hornillos y elementos de calefacción",
+     "0,3 (2)"
+    ],
+    [
+     "Interruptores y conductores eléctricos",
+     "0,3"
+    ],
+    [
+     "Tomas de corriente",
+     "0,5"
+    ]
+   ],
+   "nota": "(1) Con protección antirradiación A2-s3,d0, baja a 0,5 m. (2) Con protección, baja a 0,10 m.",
+   "notas": "N1: ¿Qué distancia mínima hay que dejar entre las bombonas pequeñas y cada elemento?\nN2: Esta tabla ordena las distancias según el peligro. Fila a fila: los hogares y otras fuentes de calor, lo más peligroso, a un metro y medio; los hornillos y elementos de calefacción, a treinta centímetros; los interruptores y conductores eléctricos, también a treinta centímetros; y las tomas de corriente, a medio metro, porque un enchufe puede chispear al conectar. Las dos llamadas son trampillas de reducción: con una protección contra la radiación de material casi incombustible, el hogar baja de un metro y medio a medio metro, y el hornillo de treinta a diez centímetros. Ejemplo de obra: si la cocina te obliga a arrimar la bombona a la campana, pones la pantalla y ganas ese margen."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Con envases ≤ 15 kg, ¿a qué distancia mínima va un hogar o fuente de calor?",
+   "opciones": [
+    "0,3 m",
+    "0,5 m",
+    "1,5 m",
+    "3 m"
+   ],
+   "correcta": 2,
+   "porque": "El hogar es lo más peligroso del Cuadro 1: metro y medio, reducible a medio metro solo con protección antirradiación.",
+   "notas_p": "N1: A ver el Cuadro 1 fresquito. El elemento más peligroso, un hogar o fuente de calor, ¿cuánto lo separas de la bombona?\nN2: Pista: es la distancia mayor de la tabla, la de lo que da fuego de verdad.",
+   "notas_r": "N1: ¿Por qué metro y medio?\nN2: Porque en envases de hasta quince kilos el hogar es lo que más lejos se pone, un metro y medio, y solo baja a medio metro si intercalas una protección antirradiación. Treinta centímetros son los hornillos, interruptores y conductores; medio metro las tomas de corriente; y tres metros ya es cosa del Cuadro 2 de los envases grandes. El truco: más peligro, más metros."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 2.2 · Más de 15 kg",
    "titulo": "Envases grandes: hasta 1.000 kg",
@@ -163,6 +206,20 @@
    "notas": "N1: ¿Y la única forma de tenerlos dentro cuál es?\nN2: Hay una sola puerta, y es estrecha. Los envases grandes pueden ir en el interior del local únicamente si el contenido total de GLP no pasa de setenta kilos, y además el local es grande y está muy bien ventilado. En concreto: volumen superior a mil metros cúbicos, superficie mínima de ciento cincuenta metros cuadrados, huecos de ventilación con una superficie libre de al menos una quinceava parte de la superficie del local, y sirviendo cualquier abertura permanente, puertas o ventanas, que llegue a ras de suelo, otra vez porque el gas se posa abajo. Y encima, protección contra incendios: dos extintores de una eficacia concreta, veintiuno A, ciento trece B, cerca de los envases y en sitio de fácil acceso. Memoriza los setenta kilos como la frontera dentro o fuera para los envases de más de quince kilos. Si se pasa de setenta, fuera sí o sí."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Envases > 15 kg dentro del local: ¿cuál es el contenido total máximo de GLP?",
+   "opciones": [
+    "300 kg",
+    "70 kg",
+    "350 kg",
+    "1.000 kg"
+   ],
+   "correcta": 1,
+   "porque": "Solo se pueden tener dentro si el contenido total no pasa de setenta kilos y el local es grande y bien ventilado.",
+   "notas_p": "N1: Los envases grandes van fuera por defecto. Para colarlos dentro del local, ¿qué tope de gas no puedes superar?\nN2: Pista: no lo confundas con los topes de almacenamiento de trescientos o mil, ni con el disparador de los extintores; es la frontera dentro o fuera.",
+   "notas_r": "N1: ¿Por qué setenta?\nN2: Porque la única puerta para tener envases de más de quince kilos dentro del local es que el contenido total no pase de setenta kilos, y además el local sea grande, más de mil metros cúbicos y ciento cincuenta metros cuadrados, bien ventilado y con dos extintores. Trescientos y mil son topes de almacenamiento según el tamaño del envase; trescientos cincuenta es cuándo pones extintores en la caseta. La frontera dentro o fuera es setenta."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 2.2.3 · La caseta",
    "titulo": "Dos rejillas y suelo en pendiente",
@@ -185,6 +242,57 @@
    ],
    "img_brief": "gas caseta enclosure next to building drain",
    "notas": "N1: El segundo cuadro de distancias tiene muchas columnas. ¿Cómo lo leo sin agobio?\nN2: Con dos ideas y ya está. Idea una: cuanto más gas, más distancia. Por eso el cuadro separa según el contenido total, hasta setenta kilos o por encima, y cuando pasas de setenta las distancias crecen. Por ejemplo, a un hogar se está a más de metro y medio hasta setenta kilos, pero a más de tres metros por encima. Idea dos: la caseta protege, así que a veces la distancia baja. Fíjate en las alcantarillas, desagües y aberturas a sótanos: sin caseta necesitas metro y medio, pero con caseta te basta medio metro, porque la caseta ya hace de barrera y evita que el gas se cuele por esos huecos hacia abajo. En cambio, para los hogares y los motores, la caseta no rebaja nada, siguen lejos. La chuleta: más kilos, más metros; y la caseta recorta hacia desagües y sótanos, pero no hacia fuegos ni motores."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 2.2.3 · Cuadro 2",
+   "titulo": "Cuadro 2 · Distancias con envases > 15 kg",
+   "headers": [
+    "Elemento",
+    "Hasta 70 kg · Sin caseta",
+    "Hasta 70 kg · Con caseta",
+    "Superior a 70 kg"
+   ],
+   "rows": [
+    [
+     "Hogares de cualquier tipo",
+     "> 1,5",
+     "> 1,5",
+     "> 3"
+    ],
+    [
+     "Interruptores y enchufes eléctricos (1)",
+     "> 0,5",
+     "> 0,5",
+     "> 1,5"
+    ],
+    [
+     "Conductores eléctricos (1)",
+     "> 0,3",
+     "> 0,3",
+     "> 1"
+    ],
+    [
+     "Motores eléctricos y de explosión (1)(2)",
+     "> 1,5",
+     "> 1,5",
+     "> 3"
+    ],
+    [
+     "Registro de alcantarillas, desagües, etc.",
+     "> 1,5",
+     "> 0,5",
+     "> 2"
+    ],
+    [
+     "Aberturas a sótanos",
+     "> 1,5",
+     "> 0,5",
+     "> 2"
+    ]
+   ],
+   "nota": "Más GLP, más metros; la caseta recorta hacia desagües y sótanos. Extintores si se pasa de 350 kg. (1) Material eléctrico no antiexplosivo. (2) Motores móviles de vehículos no cuentan.",
+   "notas": "N1: ¿Cómo se leen tantas columnas de distancias sin agobiarse?\nN2: Con dos ideas. Primera: cuanto más gas, más distancia; por eso la última columna, la de más de setenta kilos, siempre pide más metros. Segunda: la caseta protege, así que a veces recorta. Míralo fila a fila: los hogares se quedan a más de metro y medio hasta setenta kilos y a más de tres por encima, y la caseta no rebaja nada; igual pasa con los motores. Pero fíjate en las dos últimas filas, alcantarillas y aberturas a sótanos: sin caseta piden más de metro y medio, y con caseta bastan más de medio metro, porque la caseta hace de barrera. Ejemplo de obra: si tienes un sumidero cerca, ponerlos en caseta te deja arrimar los envases. Y recuerda: si el contenido pasa de trescientos cincuenta kilos, dos extintores fuera de la caseta."
   },
   {
    "tipo": "contenido",
@@ -233,6 +341,20 @@
    ],
    "img_brief": "pressure gauge testing gas pipe installation",
    "notas": "N1: ¿Qué es eso de la prueba de estanquidad y qué números lleva?\nN2: Estanquidad significa que no se escape ni una burbuja de gas por ningún lado. Y antes de dar servicio, la empresa instaladora comprueba justo eso en las canalizaciones. Los tres números que caen fijo: se prueba a una presión de una vez y media la presión de operación, es decir, la presión normal de trabajo multiplicada por uno coma cinco, para tener margen de seguridad; se mantiene durante diez minutos; y se hace con aire, con gas inerte o con GLP en fase gaseosa. Si te dan dos veces la presión, o media hora, es falso: aquí es una vez y media y diez minutos. Además, si la prueba se hace con GLP, hay precauciones extra: prohibido fumar, evitar puntos de ignición, y algo muy de oficio, purgar y soplar las canalizaciones antes de reparar, o sea sacar todo el gas y limpiar con aire o inerte para que no quede GLP dentro cuando entre la herramienta. Con resultado positivo, la empresa instaladora emite el certificado de instalación."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "La prueba de estanquidad de las canalizaciones se hace a...",
+   "opciones": [
+    "2 veces la presión de operación, 30 minutos",
+    "1,5 veces la presión de operación, 10 minutos",
+    "1,5 veces la presión de operación, 30 minutos",
+    "2 veces la presión de operación, 10 minutos"
+   ],
+   "correcta": 1,
+   "porque": "Los tres datos fijos: una vez y media la presión de operación, diez minutos, con aire, gas inerte o GLP en fase gaseosa.",
+   "notas_p": "N1: Números de la prueba de estanquidad. ¿Cuánta presión y cuánto tiempo?\nN2: Pista: la presión se multiplica por una vez y media, no por dos; y el tiempo es corto.",
+   "notas_r": "N1: ¿Por qué la segunda?\nN2: Porque la prueba es a una vez y media la presión de operación durante diez minutos, con aire, gas inerte o GLP en fase gaseosa. Si te ofrecen dos veces la presión o media hora, es falso. El truco: vez y media y diez minutos, ni más presión ni más tiempo."
   },
   {
    "tipo": "contenido",

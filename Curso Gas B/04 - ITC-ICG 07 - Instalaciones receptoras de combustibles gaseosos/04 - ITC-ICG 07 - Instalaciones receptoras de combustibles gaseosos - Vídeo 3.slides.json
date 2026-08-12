@@ -78,6 +78,45 @@
    "notas": "N1: ¿La inspección incluye el aparato o solo las tuberías?\nN2: Depende de la potencia, y este es el detalle que más se pregunta. En instalaciones de hasta setenta kilovatios, la inspección va desde la llave de usuario hasta los aparatos de gas, incluidos; es decir, el aparato sí entra. En instalaciones centralizadas de calefacción o de más de setenta kilovatios, va desde la llave de edificio hasta la conexión de los aparatos, pero excluidos; el aparato ya no entra. Y en instalaciones de más de cinco bar, desde la llave de acometida, aparatos también excluidos. La regla para no fallar: cuanto más grande es la instalación, más atrás empieza la inspección, de usuario a edificio a acometida, y el aparato se queda fuera. En las pequeñas domésticas, el aparato sí se mira."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 4.1 · Alcance",
+   "titulo": "Alcance de la inspección según la potencia",
+   "headers": [
+    "Tipo de instalación",
+    "Alcance de la inspección"
+   ],
+   "rows": [
+    [
+     "Hasta 70 kW de potencia instalada",
+     "De la llave de usuario a los aparatos, incluidos"
+    ],
+    [
+     "Centralizadas de calefacción y de más de 70 kW",
+     "De la llave de edificio a la conexión de los aparatos, excluidos"
+    ],
+    [
+     "MOP superior a 5 bar (cualquier potencia)",
+     "De la llave de acometida a la conexión de los aparatos, excluidos"
+    ]
+   ],
+   "nota": "Cuanto mayor es la instalación, más atrás empieza la inspección y el aparato se queda fuera.",
+   "notas": "N1: ¿Hasta dónde llega la inspección y el aparato entra o no?\nN2: Esta tabla recoge el detalle que más se pregunta. A la izquierda el tipo de instalación, a la derecha desde dónde y hasta dónde inspecciona, fijándote en si el aparato queda incluido o excluido. Primera fila, hasta setenta kilovatios: va de la llave de usuario a los aparatos, incluidos; el aparato sí entra. Segunda fila, centralizadas o de más de setenta: de la llave de edificio a la conexión de los aparatos, excluidos; el aparato ya no entra. Tercera fila, más de cinco bar sea cual sea la potencia: de la llave de acometida a la conexión, también excluidos. Ejemplo de obra: en un piso con una caldera de veinticuatro kilovatios el inspector revisa hasta la propia caldera; en una calefacción central de bloque se queda en la conexión y no toca los aparatos. La regla: cuanto más grande, más atrás empieza y el aparato fuera."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "En una instalación de hasta 70 kW, ¿el aparato de gas entra en la inspección?",
+   "opciones": [
+    "No, siempre queda excluido",
+    "Sí, la inspección lo incluye",
+    "Solo si trabaja a más de 5 bar",
+    "Solo en instalaciones centralizadas"
+   ],
+   "correcta": 1,
+   "porque": "Hasta setenta kilovatios la inspección va de la llave de usuario a los aparatos, incluidos; el aparato sí se mira.",
+   "notas_p": "N1: Instalación pequeña, de hasta setenta kilovatios. ¿El inspector revisa también el aparato o solo las tuberías?\nN2: Acuérdate de la regla de la tabla: cuanto más grande la instalación, más se aleja el aparato de la inspección. Aquí estamos en la pequeña, la doméstica.",
+   "notas_r": "N1: ¿Por qué sí entra?\nN2: Porque en las instalaciones de hasta setenta kilovatios la inspección llega desde la llave de usuario hasta los aparatos, incluidos; el aparato se mira. El aparato solo queda excluido cuando la instalación es grande, de más de setenta o centralizada, o de más de cinco bar. Truco: en lo pequeño y doméstico, el aparato dentro; en lo grande, fuera."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.1 · Contenido",
    "titulo": "Qué se mira en la inspección",
@@ -154,6 +193,20 @@
    "notas": "N1: ¿Qué diferencia hay entre una anomalía principal y una secundaria?\nN2: Es cuestión de gravedad. Una anomalía principal es grave: si no se puede corregir en el momento, se interrumpe el suministro y se precinta la parte de la instalación o el aparato afectado. Y grábate esto: todas las fugas se consideran anomalía principal, sin excepción. Una anomalía secundaria es menos grave: en lugar de cortar, se da un plazo para arreglarla, por ejemplo quince días hábiles si es una falta de estanquidad secundaria. Para volver a dar gas después de resolver una principal, la empresa instaladora emite un certificado de subsanación y hace el desprecintado. Asócialo: principal, precinto y corte; secundaria, plazo. Y la reina de las principales, siempre, la fuga."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Durante una inspección se detecta una fuga de gas. ¿Cómo se clasifica?",
+   "opciones": [
+    "Anomalía secundaria, con plazo de quince días",
+    "Anomalía principal: corte y precinto",
+    "Defecto leve, se anota y nada más",
+    "Depende de la potencia de la instalación"
+   ],
+   "correcta": 1,
+   "porque": "Todas las fugas se consideran anomalía principal; si no se corrige en el acto, se corta el suministro y se precinta.",
+   "notas_p": "N1: Aparece una fuga de gas en la inspección. ¿Es cosa leve con plazo o cosa grave de cortar en el acto?\nN2: Hay una frase tajante en la norma sobre las fugas que no admite excepciones. Piensa en lo que pasaría si dejases una fuga con un plazo de quince días.",
+   "notas_r": "N1: ¿Por qué principal?\nN2: Porque todas las fugas detectadas se consideran siempre anomalía principal, sin excepción. Y una anomalía principal que no se puede corregir en el momento obliga a interrumpir el suministro y precintar la parte afectada. La opción de los quince días es la trampa: ese plazo es para las secundarias por falta de estanquidad, no para una fuga. Truco: fuga, siempre principal, siempre corte."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 4.2 · Revisión",
    "titulo": "Revisión: fuera de la red",
@@ -164,6 +217,27 @@
    ],
    "img_brief": "LPG storage tank in garden of house",
    "notas": "N1: Y la revisión, ¿en qué se diferencia en la práctica?\nN2: La revisión es para las instalaciones que no están conectadas a una red de distribución: las que van con un depósito propio de gases del petróleo o con bombonas. Aquí no hay distribuidor por detrás, así que es el titular, o en su defecto el usuario, quien tiene que encargar la revisión a una empresa instaladora de gas, según la ITC-ICG cero nueve. Se hace cada cinco años, igual que la inspección, y comprueba prácticamente lo mismo. Dos diferencias que caen en examen: la revisión se hace coincidir con la revisión del depósito o los envases que alimentan la instalación, para hacerlo todo de una vez, y añade una comprobación extra que vemos ahora, la protección catódica."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 4.2 · Revisión",
+   "titulo": "Alcance de la revisión según la potencia",
+   "headers": [
+    "Potencia instalada",
+    "Alcance de la revisión"
+   ],
+   "rows": [
+    [
+     "Inferior o igual a 70 kW",
+     "De la llave de usuario a los aparatos, incluidos"
+    ],
+    [
+     "Superior a 70 kW",
+     "De la llave de usuario a la llave de conexión de los aparatos, excluidos"
+    ]
+   ],
+   "nota": "La revisión es para instalaciones sin red (depósito o bombonas) y también se mide por los 70 kW.",
+   "notas": "N1: ¿Y en la revisión, hasta dónde se llega?\nN2: Esta tabla es la gemela de la inspección, pero para las instalaciones sin red, las de depósito propio o bombonas. A la izquierda la potencia instalada, a la derecha el alcance. Primera fila, hasta setenta kilovatios inclusive: de la llave de usuario a los aparatos, incluidos; el aparato entra. Segunda fila, más de setenta: de la llave de usuario a la llave de conexión de los aparatos, excluidos; el aparato ya no entra. Fíjate en que aquí las dos filas arrancan en la llave de usuario, a diferencia de la inspección de las grandes, que empezaba en la llave de edificio o de acometida. Ejemplo de obra: un chalé con depósito de gases del petróleo y una caldera de treinta kilovatios se revisa hasta la propia caldera, aparato incluido."
   },
   {
    "tipo": "contenido",
@@ -225,6 +299,53 @@
    ],
    "img_brief": "set of official technical forms on table",
    "notas": "N1: ¿Cómo me aprendo los cinco modelos sin volverme loco?\nN2: No los memorices a lo bruto; míralos por parejas con una lógica. Los tres primeros, del uno erre ge uno al tres, son certificados de instalación, del montaje: el uno es la acometida interior, el dos la instalación común y el tres la individual. Los dos últimos, el cuatro y el cinco, son certificados de revisión periódica de instalaciones no alimentadas desde red, es decir, de depósito propio: el cuatro para individuales y el cinco para comunes. Fíjate en un detalle que se pregunta: los certificados de inspección de las instalaciones de red no tienen número erre ge; de esos, el anexo solo fija la información mínima. O sea, con número erre ge están el montaje y la revisión sin red; la inspección de red va sin número."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Anexo · Impresos",
+   "titulo": "Los cinco modelos de impreso IRG",
+   "headers": [
+    "Código",
+    "Documento"
+   ],
+   "rows": [
+    [
+     "IRG-1",
+     "Certificado de acometida interior de gas"
+    ],
+    [
+     "IRG-2",
+     "Certificado de instalación común de gas"
+    ],
+    [
+     "IRG-3",
+     "Certificado de instalación individual de gas"
+    ],
+    [
+     "IRG-4",
+     "Certificado de revisión periódica de instalaciones individuales y aparatos no alimentados desde redes"
+    ],
+    [
+     "IRG-5",
+     "Certificado de revisión periódica de instalaciones comunes no alimentadas desde redes"
+    ]
+   ],
+   "nota": "Del uno al tres son de instalación (montaje); el cuatro y el cinco, de revisión sin red.",
+   "notas": "N1: ¿Qué es cada modelo erre ge y cómo no confundirlos?\nN2: Esta tabla te da los cinco impresos con su significado. A la izquierda el código, a la derecha qué certifica. Míralos por parejas. Los tres primeros son de instalación, del montaje: el uno es la acometida interior, el dos la instalación común y el tres la individual. Los dos últimos son de revisión periódica de instalaciones no alimentadas desde red, o sea de depósito propio: el cuatro para individuales y el cinco para comunes. Fíjate en un detalle que se pregunta: los certificados de inspección de las instalaciones de red no tienen número erre ge, solo información mínima. Ejemplo de obra: cuando pruebas la acometida interior de un edificio, el papel que rellenas es el uno erre ge guion uno; cuando revisas el depósito de un chalé, el uno erre ge guion cuatro."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué modelo certifica la revisión periódica de una instalación individual de depósito propio?",
+   "opciones": [
+    "IRG-1",
+    "IRG-3",
+    "IRG-4",
+    "IRG-5"
+   ],
+   "correcta": 2,
+   "porque": "El IRG-4 es la revisión periódica de instalaciones individuales y aparatos no alimentados desde red; el IRG-5 es el de las comunes.",
+   "notas_p": "N1: Un chalé con depósito propio, instalación individual, pasa su revisión periódica. ¿Qué modelo se firma?\nN2: Recuerda las parejas de la tabla: del uno al tres son de montaje, el cuatro y el cinco de revisión sin red. Y entre esos dos, uno es para individuales y otro para comunes.",
+   "notas_r": "N1: ¿Por qué el cuatro?\nN2: Porque el uno erre ge guion cuatro es el certificado de revisión periódica de instalaciones individuales y aparatos no alimentados desde red, justo el caso del depósito propio en una vivienda. El cinco sería si fuese la instalación común del edificio. El uno y el tres son de instalación, de montaje, no de revisión. Truco: revisión sin red e individual, el cuatro; común, el cinco."
   },
   {
    "tipo": "contenido",

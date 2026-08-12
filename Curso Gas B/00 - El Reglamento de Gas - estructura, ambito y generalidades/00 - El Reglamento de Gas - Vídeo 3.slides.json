@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["24", "horas para avisar del accidente"],
-    ["7", "días para el informe completo"],
-    ["4", "clases de accidente"]
+    [
+     "24",
+     "horas para avisar del accidente"
+    ],
+    [
+     "7",
+     "días para el informe completo"
+    ],
+    [
+     "4",
+     "clases de accidente"
+    ]
    ],
    "notas": "N1: ¿Qué tres números tengo que llevarme grabados de este vídeo?\nN2: Estos tres se preguntan y hay que soltarlos sin dudar. Veinticuatro horas es el plazo máximo que tiene el suministrador para avisar a la Comunidad Autónoma cuando hay un accidente con daños importantes o víctimas. Siete días es el plazo para remitir después el informe completo. Y cuatro son las clases de accidente que el Reglamento lista como conjunto cerrado: deflagración, explosión, intoxicación e incendio. El truco para no cambiar el orden de los plazos es muy sencillo, y lo repetiremos: primero llamas, en veinticuatro horas, y luego escribes, en siete días."
   },
@@ -32,6 +41,20 @@
    "notas": "N1: La instalación hay que mantenerla, pero ¿de quién es esa obligación?\nN2: Del titular, el dueño, y en su defecto del usuario, quien la gasta. Que no te confunda que tú seas el que va con las herramientas: la obligación legal de mantener no es del instalador ni de la compañía. Ellos ayudan y recomiendan, pero el que responde de que la instalación esté permanentemente en disposición de servicio, con su nivel de seguridad, es el dueño. La comparación que lo deja clavado: es como el coche. El taller te lo arregla, pero el que está obligado a llevarlo a la revisión y a mantenerlo eres tú, el propietario. Tu papel como gasista es ejecutar el mantenimiento cuando te llaman y advertir por escrito de lo que veas; la responsabilidad última de conservarlo en buen estado es del titular."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿De quién es la obligación de mantener la instalación en buen estado?",
+   "opciones": [
+    "De la empresa instaladora",
+    "Del titular y, en su defecto, del usuario",
+    "Del distribuidor de gas",
+    "Del organismo de control"
+   ],
+   "correcta": 1,
+   "porque": "La obligación de mantenimiento es del titular y, en su defecto, del usuario; el instalador ejecuta y aconseja, pero no responde por él.",
+   "notas_p": "N1: Que tú vayas con las herramientas no te hace el obligado. ¿De quién es el deber de mantener?\nN2: Piénsalo como el coche: el taller lo arregla, pero ¿quién debe llevarlo a revisión?",
+   "notas_r": "N1: ¿Por qué el titular?\nN2: Porque la ley pone el deber de conservación en el dueño y, si no, en quien usa la instalación. El instalador y la compañía ayudan y recomiendan, pero la responsabilidad última de que esté en disposición de servicio es del titular."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Artículo 7.2 · La pregunta estrella",
    "titulo": "¿Inspección o revisión?",
@@ -43,6 +66,20 @@
    ],
    "img_brief": "gas distribution pipeline street valve",
    "notas": "N1: Esta es LA pregunta del tema. ¿Cómo distingo inspección de revisión?\nN2: Buena noticia: se resuelve con una sola pregunta. Pregúntate si la instalación está conectada a la red de distribución, es decir, a la tubería de la compañía que pasa por la calle. Si la respuesta es sí, gas natural de ciudad o GLP de red, entonces es inspección. Si la respuesta es no, por ejemplo un depósito de GLP propio en un chalé o unas bombonas, entonces es revisión. Y una segunda regla que gana cualquier empate: si la ley obliga a que venga un organismo de control, es inspección siempre, sin discusión. Chuleta mental para toda la vida: conectada a red, inspección; por tu cuenta, revisión. Con esta sola pregunta resuelves todas las cuestiones de este bloque, que en el examen son muchas y parecen difíciles hasta que tienes la clave."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué determina si un control periódico es inspección o revisión?",
+   "opciones": [
+    "El tamaño de la vivienda",
+    "Si la instalación está conectada a la red de distribución",
+    "La antigüedad de la instalación",
+    "El tipo de aparato instalado"
+   ],
+   "correcta": 1,
+   "porque": "Conectada a la red de distribución es inspección; por tu cuenta, sin red, revisión. Y si obliga organismo de control, inspección siempre.",
+   "notas_p": "N1: La pregunta estrella del tema. ¿Con qué se decide inspección o revisión?\nN2: Solo necesitas hacerte una pregunta, la de la tubería de la calle.",
+   "notas_r": "N1: ¿Por qué la conexión a la red?\nN2: Porque un fallo en una instalación de red afecta a muchos, así que la vigila alguien habilitado ajeno: eso es inspección. Lo privado, tu depósito, es revisión. Y si la ley obliga a organismo de control, gana esa regla: inspección siempre."
   },
   {
    "tipo": "contenido",
@@ -153,6 +190,20 @@
    ],
    "img_brief": "emergency gas leak warning scene",
    "notas": "N1: Ante un accidente grave, ¿qué protocolo y qué plazos?\nN2: Dos plazos que caen siempre juntos, así que apréndelos en pareja. Cuando un accidente causa daños importantes o víctimas, el suministrador lo notifica a la Comunidad Autónoma lo antes posible y en no más de veinticuatro horas; y después remite un informe completo en un plazo máximo de siete días. El truco para no cambiarlos: primero llamo, veinticuatro horas, luego escribo, siete días. Y memoriza las cuatro clases de accidente como lista cerrada: deflagración, explosión, intoxicación e incendio. Un matiz que te da puntos: deflagración y explosión no son lo mismo. En la deflagración el frente de llama avanza más despacio que el sonido, es un fogonazo rápido; en la explosión avanza más rápido que el sonido y es mucho más destructiva. En gas doméstico lo habitual es la deflagración, pero el Reglamento las lista por separado."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Ante un accidente grave, ¿qué plazos debe cumplir el suministrador?",
+   "opciones": [
+    "Veinticuatro horas para avisar y siete días para el informe",
+    "Siete días para avisar y treinta para el informe",
+    "Cuarenta y ocho horas para avisar y quince para el informe",
+    "Aviso inmediato y el informe en veinticuatro horas"
+   ],
+   "correcta": 0,
+   "porque": "Primero se llama, en no más de veinticuatro horas, y luego se escribe el informe, en un máximo de siete días.",
+   "notas_p": "N1: Dos plazos que van en pareja. ¿Cuáles son ante un accidente grave?\nN2: El truco es el orden: primero llamas, luego escribes.",
+   "notas_r": "N1: ¿Por qué esos plazos?\nN2: Porque lo urgente es avisar cuanto antes, en no más de veinticuatro horas, y el informe detallado puede esperar un poco, hasta siete días. Recuerda además las cuatro clases cerradas: deflagración, explosión, intoxicación e incendio."
   },
   {
    "tipo": "contenido",

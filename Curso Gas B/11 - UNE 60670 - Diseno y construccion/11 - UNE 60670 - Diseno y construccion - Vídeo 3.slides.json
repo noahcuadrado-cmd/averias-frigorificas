@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["8", "llaves distintas en la cadena de corte"],
-    ["5", "cm² de ventilación del armario de regulación"],
-    ["4,8", "m³/h: frontera del conjunto de regulación"]
+    [
+     "8",
+     "llaves distintas en la cadena de corte"
+    ],
+    [
+     "5",
+     "cm² de ventilación del armario de regulación"
+    ],
+    [
+     "4,8",
+     "m³/h: frontera del conjunto de regulación"
+    ]
    ],
    "notas": "N1: ¿Qué tres cifras me anclan el vídeo?\nN2: Tres números que vas a usar. Uno, la cadena de corte tiene ocho llaves distintas, cada una con su nombre y su sitio: acometida, edificio, montante, usuario, contador, vivienda, aparato y regulador. Dos, el cinco: cinco centímetros cuadrados es la ventilación mínima del armario de regulación y también la del regulador con válvula de alivio por dentro. Y tres, el cuatro coma ocho: por debajo de cuatro coma ocho metros cúbicos por hora, un regulador no se considera conjunto de regulación. Con estos tres números tienes las anclas del vídeo."
   },
@@ -42,6 +51,20 @@
    ],
    "img_brief": "gas pressure regulator valve",
    "notas": "N1: ¿Cómo se regula el gas natural?\nN2: Con un sistema que se vuelve más exigente cuanta más presión entra, y esto es puro sentido de la seguridad. La segunda familia es el gas natural. Fíjate en la escalera. En lo más alto, de más de ciento cincuenta milibares hasta cinco bar, pides lo máximo: regulador, más una seguridad por máxima presión, más una seguridad por mínima. En el tramo medio, de más de cincuenta hasta ciento cincuenta milibares, regulador más seguridad por mínima. Y en lo más bajo, hasta cincuenta milibares, pones regulador solo si hace falta bajar la presión, y la seguridad por mínima solo si la presión pasa de veinticinco milibares; por debajo, se consulta a la compañía. ¿Por qué cuanta más presión más aparatos de seguridad? Porque una presión alta que se descontrola hace más daño: puede reventar membranas y estropear aparatos. La seguridad por máxima corta si la presión sube demasiado; la de mínima protege si se cae. Cuanto más arriba, más red de seguridad."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "En gas natural con MOP superior a 150 mbar y hasta 5 bar, ¿qué sistema de regulación exige la norma?",
+   "opciones": [
+    "Solo regulador de presión",
+    "Regulador más válvula de seguridad por mínima",
+    "Regulador más válvula de seguridad por máxima y por mínima",
+    "Solo válvula de seguridad por máxima presión"
+   ],
+   "correcta": 2,
+   "porque": "En el tramo de mayor presión se exige lo máximo: regulador más seguridad por máxima presión más seguridad por mínima presión.",
+   "notas_p": "N1: En gas natural, cuanta más presión de entrada, más seguridades. En el tramo más alto, de más de ciento cincuenta milibares hasta cinco bar, ¿qué te pide la norma?\nN2: Piensa en la escalera de seguridad: arriba del todo se exige el paquete completo. ¿Cuántas seguridades caben además del regulador?",
+   "notas_r": "N1: ¿Por qué las dos seguridades?\nN2: Porque en el tramo más alto de presión una avería hace más daño, puede reventar membranas y estropear aparatos, así que se exige el paquete completo: regulador más seguridad por máxima presión más seguridad por mínima. El truco para no fallar: es la única banda que lleva la seguridad por máxima; en el tramo medio, de cincuenta a ciento cincuenta, ya solo regulador más mínima, y por debajo de cincuenta, regulador si hace falta y mínima solo si pasa de veinticinco."
   },
   {
    "tipo": "contenido",
@@ -102,6 +125,20 @@
    ],
    "img_brief": "gas service valve on street pavement",
    "notas": "N1: ¿Cuándo hace falta llave de edificio?\nN2: Empecemos por la de acometida: esa se instala siempre, es la que da inicio a la instalación receptora, y dónde va lo decide la compañía distribuidora, accesible desde la vía pública para ella y para los bomberos o la policía. Ahora, la de edificio no siempre hace falta. Solo se pone cuando la acometida interior, el tramo entre la llave de acometida y la fachada, es larga: veinticinco metros si el tubo va visto, o solo cuatro metros si va enterrado. ¿Por qué tan poco si va enterrado? Porque una fuga enterrada es mucho más difícil de detectar y de cerrar, así que la norma quiere una llave más cerca. También se pone la de edificio cuando la acometida da a más de un edificio. Y si la acometida es corta, no hace falta: la propia llave de acometida ya hace ese papel de cierre general."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cuándo es obligatorio instalar llave de edificio por longitud de la acometida interior?",
+   "opciones": [
+    "Vista de 25 m o más, o enterrada de 4 m o más",
+    "Vista de 4 m o más, o enterrada de 25 m o más",
+    "Siempre, sea cual sea la longitud",
+    "Solo si la acometida supera los 50 m"
+   ],
+   "correcta": 0,
+   "porque": "Se exige llave de edificio con acometida interior vista de 25 m o más, o enterrada de 4 m o más; la enterrada obliga antes por ser más difícil de detectar.",
+   "notas_p": "N1: La llave de edificio no siempre hace falta. ¿A partir de qué longitud de acometida interior es obligatoria?\nN2: Son dos cifras, una para vista y otra para enterrada. Y ojo, la enterrada obliga mucho antes. ¿Sabrías decir cuál va con cuál?",
+   "notas_r": "N1: ¿Por qué la enterrada obliga con solo cuatro metros?\nN2: Porque una fuga enterrada es mucho más difícil de detectar y de cerrar que una vista, así que la norma quiere una llave de corte más cerca. Por eso: vista, veinticinco metros o más; enterrada, cuatro metros o más. El truco para no fallar es no cruzar las cifras: el número grande, veinticinco, va con lo visto, que se ve y se controla; el pequeño, cuatro, con lo enterrado, que no se ve."
   },
   {
    "tipo": "contenido",
@@ -174,6 +211,20 @@
    ],
    "img_brief": "brass gas ball valve close up",
    "notas": "N1: ¿Puede una misma llave hacer de varias?\nN2: Sí, para ahorrar material, una misma llave puede cumplir la función de varias, pero solo si reúne todos los requisitos que se exigen a cada una de ellas. Ahora bien, graba dos prohibiciones que caen fijo en el examen. La primera: la llave de vivienda nunca puede hacer de llave de aparato. ¿Por qué? Porque si fueran la misma, no podrías aislar un solo aparato sin dejar toda la casa sin gas, y se perdería el sentido de tener una llave por aparato. La segunda: la llave que viene incorporada en un regulador no puede hacer de llave de usuario, salvo una excepción muy concreta, la de las instalaciones con envase de gas licuado de hasta quince kilos, donde si el regulador lleva corte incorporado, ese sí puede hacer de llave de usuario. Fuera de esos dos límites, el multiuso está permitido. Dos noes que memorizar: vivienda no es aparato, y regulador no es usuario salvo bombona pequeña."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Según la norma, ¿cuál de estas combinaciones de funciones NUNCA se permite?",
+   "opciones": [
+    "Que la llave de contador haga de llave de usuario",
+    "Que la llave de vivienda haga de llave de aparato",
+    "Que una llave ejerza varias funciones si cumple todos los requisitos",
+    "Que el corte del regulador de un envase de GLP ≤ 15 kg haga de llave de usuario"
+   ],
+   "correcta": 1,
+   "porque": "La norma prohíbe expresamente que la llave de vivienda haga la función de llave de aparato; las otras combinaciones sí se admiten.",
+   "notas_p": "N1: Dos noes que caen fijo. De estas cuatro combinaciones de llaves, ¿cuál está prohibida siempre?\nN2: Recuerda que el multiuso se permite si una llave cumple todo lo exigido, pero hay una pareja que la norma prohíbe en todos los casos.",
+   "notas_r": "N1: ¿Por qué la vivienda no puede hacer de aparato?\nN2: Porque si fueran la misma llave, no podrías cortar el gas de un solo aparato sin dejar toda la casa sin gas, y se perdería el sentido de tener una llave por aparato. Las otras tres sí se permiten: el contador puede hacer de usuario en centralizaciones, una llave puede ser multifunción si cumple todo, y en envases de gas licuado de hasta quince kilos el corte del regulador sí puede hacer de llave de usuario. El único no rotundo aquí es vivienda hace de aparato."
   },
   {
    "tipo": "contenido",

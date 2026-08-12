@@ -33,6 +33,30 @@
    "notas": "N1: ¿Qué es eso de nombrar un tramo 'por su MOP'?\nN2: Vamos despacio, que esto es la base de todo el vídeo. MOP, ya lo sabes, es la presión máxima a la que trabaja un tramo. Pues la norma agrupa las instalaciones en cinco escalones según esa presión, y a cada escalón le pone nombre por su valor de arriba. Un ejemplo lo aclara: un tramo que va de cero coma cuatro a dos bar se llama 'MOP dos', porque dos es su techo. Los cinco cortes que tienes que grabar, de mayor a menor, son cinco, dos, cero coma cuatro, cero coma quince y cero coma cero cinco bar. Imagínatelo como una escalera de cinco peldaños. ¿Por qué es tan importante? Porque casi todo lo que viene después, los reguladores, las tomas de presión, las válvulas, se elige mirando en qué peldaño estás. Sabiendo la escalera, colocas cualquier pieza."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Diseño · Tramos de presión",
+   "titulo": "Denominación de los tramos por su MOP",
+   "headers": ["Presión del tramo (bar)", "Denominación"],
+   "rows": [
+    ["2 < MOP ≤ 5", "MOP 5"],
+    ["0,4 < MOP ≤ 2", "MOP 2"],
+    ["0,15 < MOP ≤ 0,4", "MOP 0,4"],
+    ["0,05 < MOP ≤ 0,15", "MOP 0,15"],
+    ["MOP ≤ 0,05", "MOP 0,05"]
+   ],
+   "nota": "La MOP es la presión máxima de operación del tramo; cada escalón se nombra por su valor superior.",
+   "notas": "N1: ¿Cómo se lee esta escalera de presiones y para qué la usamos?\nN2: Es la herramienta que abre todo el vídeo, así que vamos despacio. La columna de la izquierda te dice el rango de presión en el que trabaja el tramo, y la de la derecha el nombre que le pone la norma. La clave está en fijarte en que cada escalón se nombra por su valor de arriba. Fila a fila, de mayor a menor: un tramo entre dos y cinco bar se llama eme-o-pe cinco; entre cero coma cuatro y dos, eme-o-pe dos; entre cero coma quince y cero coma cuatro, eme-o-pe cero coma cuatro; entre cero coma cero cinco y cero coma quince, eme-o-pe cero coma quince; y hasta cero coma cero cinco, eme-o-pe cero coma cinco. Ejemplo de obra: si mides en un tramo una presión de uno coma cinco bar, cae en el peldaño de cero coma cuatro a dos, así que ese tramo es eme-o-pe dos. Con esta tabla en la cabeza colocas cualquier regulador, válvula o toma de presión en su sitio."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Un tramo que trabaja a una MOP de 1,5 bar, ¿cómo se denomina a efectos de diseño?",
+   "opciones": ["MOP 0,4", "MOP 2", "MOP 5", "MOP 1,5"],
+   "correcta": 1,
+   "porque": "1,5 bar cae en el escalón 0,4 < MOP ≤ 2, que se nombra por su valor superior: MOP 2. El nombre no es la presión exacta del tramo, sino el techo del escalón.",
+   "notas_p": "N1: Recién vista la tabla, vamos a estrenarla. Un tramo que trabaja a uno coma cinco bar, ¿qué denominación le toca?\nN2: Busca en qué peldaño de la escalera cae ese valor, y recuerda que el escalón se nombra por su número de arriba.",
+   "notas_r": "N1: ¿Por qué eme-o-pe dos y no eme-o-pe uno coma cinco?\nN2: Porque uno coma cinco está entre cero coma cuatro y dos, y ese escalón se llama por su techo, que es dos. El nombre nunca es la presión exacta del tramo, sino el valor superior del peldaño. Por eso 'eme-o-pe uno coma cinco' ni siquiera existe."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Elementos · Tallos",
    "titulo": "El tallo: de la calle a la casa",
@@ -98,6 +122,15 @@
    "notas": "N1: ¿Para qué dos válvulas de seguridad distintas?\nN2: Porque vigilan peligros opuestos, y por eso les llamo los dos guardianes. La válvula de mínima corta el paso cuando la presión baja demasiado; y que la presión caiga de repente suele ser mala señal, indicio de una fuga aguas abajo o de que se acabó el gas. Las de caudal pequeño, hasta cuatro coma ocho metros cúbicos por hora, van por la norma sesenta mil cuatrocientos tres. La válvula de máxima hace lo contrario: corta cuando la presión sube de más, típicamente porque un regulador ha fallado. Y aquí dos detalles que caen en examen: la de máxima es siempre de rearme manual, es decir, no se rearma sola; obliga a que alguien vaya, mire por qué saltó y la reponga a mano, para que nadie ignore el problema. Y sus tornillos de tarado van precintados, para que nadie los toque. Truco de obra: si el cliente dice 'el gas se me corta solo', antes de culpar al aparato, mira si ha saltado un guardián; ahí puede estar la fuga."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "La válvula de seguridad por máxima presión debe ser siempre...",
+   "opciones": ["De rearme automático", "De rearme manual", "De accionamiento eléctrico", "De tarado sin precintar"],
+   "correcta": 1,
+   "porque": "La de máxima es siempre de rearme manual: obliga a que alguien acuda, vea por qué saltó y la reponga a mano; además, sus elementos de tarado van precintados.",
+   "notas_p": "N1: Hablemos de los dos guardianes. La válvula de máxima presión, ¿cómo se rearma cuando salta?\nN2: Piensa en para qué salta: si la presión ha subido de más, ¿te interesa que se reponga sola sin que nadie mire qué ha pasado?",
+   "notas_r": "N1: ¿Por qué manual y no automática?\nN2: Porque si se rearmara sola, nadie se enteraría de que hubo un problema de presión. Al ser de rearme manual, obliga a que alguien vaya, mire por qué saltó y lo resuelva. Y sus tornillos de tarado van precintados para que nadie los toque."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Elementos · Contadores",
    "titulo": "Cuatro tipos de contador",
@@ -161,6 +194,15 @@
    ],
    "img_brief": "corrugated stainless steel meter connector",
    "notas": "N1: ¿Por qué tanto énfasis con los cero coma ochenta metros del contador?\nN2: Porque es un dato que cae con número exacto, de los que valen un punto entero en el examen. El flexible que conecta el contador es de acero inoxidable corrugado con conexiones roscadas, ese tubo metálico en forma de acordeón, y va por la norma sesenta mil setecientos trece. Se considera parte de la instalación receptora, y tiene un tope claro de longitud: no puede pasar de cero coma ochenta metros, ochenta centímetros. ¿Por qué un límite? Porque un flexible largo cuelga, se mueve, sufre y acaba fallando; cuanto más corto, más seguro. Y aquí el error que buscan: no lo confundas con los flexibles que conectan un aparato o una bombona de GLP, cuyas longitudes están en la parte siete y son otras. Para el contador, la cifra mágica es cero coma ochenta metros como mucho."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál es la longitud máxima del tubo flexible que conecta el contador de gas?",
+   "opciones": ["0,50 m", "0,80 m", "1,00 m", "1,50 m"],
+   "correcta": 1,
+   "porque": "El flexible de acero inoxidable corrugado del contador (UNE 60713) no puede pasar de 0,80 m; un flexible más largo cuelga, se mueve y acaba fallando.",
+   "notas_p": "N1: Dato de cifra exacta, de los que valen un punto entero. ¿Cuánto puede medir como mucho el flexible del contador?\nN2: Es un número redondo por debajo del metro; piensa en ochenta centímetros.",
+   "notas_r": "N1: ¿Por qué se limita esa longitud?\nN2: Porque un flexible largo cuelga, se mueve, sufre y termina fallando; cuanto más corto, más seguro. El tope es cero coma ochenta metros. Y no lo confundas con los flexibles de aparato o de bombona, que tienen sus propias longitudes en la parte siete."
   },
   {
    "tipo": "contenido",

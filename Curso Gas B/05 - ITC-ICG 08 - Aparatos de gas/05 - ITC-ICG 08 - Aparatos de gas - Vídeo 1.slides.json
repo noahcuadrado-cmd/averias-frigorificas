@@ -45,6 +45,20 @@
    "notas": "N1: ¿A qué aparatos se les aplica cada parte de la norma?\nN2: Aquí hay que fijarse, porque tiene truco. La ITC tiene dos puertas. La parte de seguridad y certificación solo se aplica a los aparatos que no están cubiertos por una directiva europea propia. Pero la parte de documentación y puesta en marcha se aplica a todos los aparatos a gas, tengan CE o no. Regla mental: seguridad de fábrica, solo a los que no tienen directiva propia; arrancar el aparato en casa del cliente, a todos. Y una palabra importante: la puesta en marcha es verificar que el aparato funciona según los parámetros del fabricante en su ubicación e instalación definitivas. Es decir, no en el taller ni en la tienda, sino ya montado y conectado en su sitio, porque el tiro, la ventilación y la presión reales mandan. Un calentador que va fino en el mostrador puede darte llama amarilla, hollín y monóxido de carbono en un baño mal ventilado."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "La parte de documentación y puesta en marcha de la ITC-ICG 08, ¿a qué aparatos se aplica?",
+   "opciones": [
+    "Solo a los que no tienen directiva europea propia",
+    "A todos los aparatos a gas, tengan marcado CE o no",
+    "Solo a los aparatos que ya llevan marcado CE",
+    "Solo a los aparatos de uso industrial"
+   ],
+   "correcta": 1,
+   "porque": "La ITC tiene dos puertas: la seguridad y la certificación solo alcanzan a los aparatos sin directiva propia, pero la documentación y la puesta en marcha se aplican a todos.",
+   "notas_p": "N1: Vamos con una de las trampas favoritas del examen sobre las dos puertas de la ITC.\nN2: Recuerda la regla mental: seguridad de fábrica solo a unos; arrancar el aparato en casa del cliente, a todos. ¿Cuál de las dos era la universal?",
+   "notas_r": "N1: ¿Por qué la be?\nN2: Porque la seguridad y la certificación solo se exigen a los aparatos que no van por una directiva europea propia; en cambio, la documentación y la puesta en marcha alcanzan a todos, lleven o no marcado ce. El truco para no fallar: si la opción dice a todos, casi siempre habla de documentación y puesta en marcha."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 2 · Comercialización",
    "titulo": "Qué aparatos pueden venderse",
@@ -143,6 +157,20 @@
    ],
    "img_brief": "quality control inspection factory",
    "notas": "N1: ¿Cómo demuestra un aparato que es de fiar?\nN2: Vamos por partes. Primero, qué tiene que cumplir: el orden manda. Se busca la norma española UNE, la UNE-EN o la europea EN que le aplique; y solo si no existe ninguna, se recurre a las prescripciones de seguridad del anexo tres. Es la misma lógica de todo el Reglamento: la norma técnica primero, y las reglas propias de la ITC como red de seguridad. Segundo, cómo se certifica: hay dos caminos, no tres sueltos. El camino de la serie, que es examen de tipo, la a, más verificación de la producción, la b. O el camino de la pieza única, la verificación por unidad, la c. La fórmula que tienes que memorizar es a más b, o bien c. Los detalles de cada procedimiento están en el anexo uno, y los desmenuzamos en el vídeo tres."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué fórmula resume los procedimientos válidos para certificar un aparato?",
+   "opciones": [
+    "A y B a la vez, siempre las dos juntas",
+    "A más B, o bien C como alternativa",
+    "Solo C, en todos los casos posibles",
+    "B o C, pero nunca la A"
+   ],
+   "correcta": 1,
+   "porque": "Se somete al examen de tipo (a) más una verificación de la producción (b); o, alternativamente, a la verificación por unidad (c).",
+   "notas_p": "N1: Una fórmula corta que hay que llevar grabada a fuego.\nN2: Recuerda que hay dos caminos: el de la serie y el de la pieza única. ¿Cómo se escribía todo en una sola línea?",
+   "notas_r": "N1: ¿Por qué la be?\nN2: Porque hay dos caminos, no tres sueltos: examen de tipo más verificación de la producción para la serie, o bien verificación por unidad para la pieza única. El truco: la a nunca va sola, siempre la acompaña la be; y la ce es la alternativa completa por sí misma."
   },
   {
    "tipo": "contenido",

@@ -42,6 +42,45 @@
    "notas": "N1: ¿Por qué hay que separar el tubo de gas tres centímetros de todo lo demás?\nN2: Vamos a por la chuleta y luego el porqué. La chuleta es fácil: tres centímetros de separación entre la tubería de gas y las conducciones de agua, de electricidad, de vapor, las chimeneas y el suelo, y da igual que vayan en paralelo o que se crucen. La única casilla que no aplica es el suelo en cruce, porque un tubo no cruza el suelo. ¿Y el porqué? Si pegas el tubo de gas a una eléctrica, tienes un cable calentándose al lado del gas; si lo pegas a una tubería de agua caliente o de vapor, tienes humedad y calor, que es corrosión asegurada. Corrosión y punto caliente terminan en fuga, y encima en un sitio donde no vas a mirar. Respetarlo es baratísimo al montar; repararlo luego es carísimo. Y si en un rincón no llegas, no lo dejes pegado: protege el tubo según la norma."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Trazado de tuberías",
+   "titulo": "Distancias mínimas de una tubería de gas vista",
+   "headers": [
+    "Elemento",
+    "Curso paralelo",
+    "Cruce"
+   ],
+   "rows": [
+    [
+     "Conducción de agua",
+     "3 cm",
+     "3 cm"
+    ],
+    [
+     "Conducción eléctrica",
+     "3 cm",
+     "3 cm"
+    ],
+    [
+     "Conducción de vapor",
+     "3 cm",
+     "3 cm"
+    ],
+    [
+     "Chimeneas",
+     "3 cm",
+     "3 cm"
+    ],
+    [
+     "Suelo",
+     "3 cm",
+     "—"
+    ]
+   ],
+   "nota": "Separación mínima del tubo de gas a otras conducciones: 3 cm en todo, en paralelo y en cruce; suelo en cruce no aplica.",
+   "notas": "N1: ¿Cuánto hay que separar el tubo de gas de las demás conducciones?\nN2: La chuleta es sencilla: tres centímetros de separación a agua, electricidad, vapor, chimeneas y suelo, y da igual que vayan en paralelo o que se crucen. La única casilla vacía es suelo en cruce, porque un tubo no cruza el suelo. ¿El porqué? Pegar el gas a una eléctrica o a una tubería de agua caliente trae corrosión y puntos calientes, que acaban en fuga justo donde no vas a mirar. Y si en un rincón no llegas a los tres centímetros, no lo dejes pegado: protege el tubo según la norma. Ejemplo de obra: al cruzar un tubo de gas sobre una bajante de agua, deja al menos esos tres centímetros o mete una protección."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Trazado de tuberías",
    "titulo": "Por dónde no pasa el tubo de gas",
@@ -68,6 +107,20 @@
    "notas": "N1: ¿Cuándo uso soldadura blanda y cuándo fuerte?\nN2: Regla de bolsillo: la frontera es la presión. Hasta cinco centésimas de bar, que es baja presión, vale soldadura blanda. Por encima de esa cifra, soldadura fuerte. ¿Por qué? Porque la soldadura fuerte aguanta más temperatura y da más garantía mecánica; a más presión, más te juegas en cada unión. Y hay dos escenarios serios donde pides fuerte aunque sea baja presión: los aparcamientos cerrados, donde una fuga se acumula con coches y arranques, y las cocinas con aparatos de cocción tipo A cuya suma pase de treinta kilovatios, que mueven mucho gas. En esos dos sitios, fuerte siempre. Piénsalo así: cuando el escenario es más peligroso, subes el nivel de la unión, aunque la presión sea baja."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Por encima de qué presión se exige soldadura fuerte en tubería de cobre?",
+   "opciones": [
+    "0,05 bar",
+    "0,5 bar",
+    "5 bar",
+    "0,4 bar"
+   ],
+   "correcta": 0,
+   "porque": "La frontera es 0,05 bar: hasta ahí, soldadura blanda; por encima, fuerte. Además, siempre fuerte en aparcamientos cerrados y cocinas tipo A de más de 30 kW.",
+   "notas_p": "N1: La frontera entre soldadura blanda y fuerte es una cifra pequeña de presión. ¿Cuál es?\nN2: Es la misma cifra que separa la baja presión del resto; piensa en centésimas de bar.",
+   "notas_r": "N1: ¿Por qué esa presión?\nN2: Porque la soldadura fuerte aguanta más temperatura y da más garantía, y por encima de cinco centésimas de bar te juegas más en cada unión. Y no olvides los dos sitios donde siempre pides fuerte aunque sea baja presión: aparcamientos cerrados y cocinas de tipo A que pasen de treinta kilovatios."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Materiales y normas",
    "titulo": "Cada material, con su norma UNE",
@@ -79,6 +132,79 @@
    ],
    "img_brief": "different metal pipes copper and steel",
    "notas": "N1: ¿Me tengo que aprender de memoria las quince normas de la tabla?\nN2: Tranquilo, nadie te pide recitar quince normas con su número exacto. Lo que sí tienes que reconocer son las de siempre, las que aparecen una y otra vez. El cobre va con la UNE E-N mil cincuenta y siete. El multicapa, con la UNE cincuenta y tres mil ocho. El corrugado inoxidable hasta medio bar, con la UNE E-N quince mil doscientos sesenta y seis. Las llaves pequeñas, de diámetro menor de cincuenta, con la UNE E-N trescientos treinta y uno. El centralizador de contadores, con la UNE sesenta mil cuatrocientos noventa. Y el polietileno, con la UNE E-N mil quinientos cincuenta y cinco. Fíjate en un detalle que cae: las citamos sin año. Así lo manda el Reglamento; el listado completo con los años concretos vive en una instrucción técnica aparte. Lo importante no es empollar, es saber que cada material tiene su norma y dónde buscarla."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Materiales y normas",
+   "titulo": "Materiales de tubería y su norma UNE",
+   "headers": [
+    "Material / elemento",
+    "Norma UNE"
+   ],
+   "rows": [
+    [
+     "Tubo de cobre recocido",
+     "UNE-EN 1057"
+    ],
+    [
+     "Tubo corrugado inoxidable hasta 0,5 bar",
+     "UNE-EN 15266"
+    ],
+    [
+     "Tubo multicapa (press-fitting, anillo corredizo, push-fitting)",
+     "UNE 53008 partes 1 y 2"
+    ],
+    [
+     "Tubo de acero inoxidable para press-fitting (pared ≥ 1 mm)",
+     "UNE-EN 10312"
+    ],
+    [
+     "Tubería de cobre",
+     "UNE-EN 1057"
+    ],
+    [
+     "Accesorios de cobre",
+     "UNE-EN 1254-1"
+    ],
+    [
+     "Accesorios press-fitting",
+     "PNE-prEN 1254-7"
+    ],
+    [
+     "Tubería de acero con soldadura longitudinal",
+     "UNE 36894"
+    ],
+    [
+     "Tubería de acero sin soldadura",
+     "UNE 19040, UNE 19041, UNE 19046"
+    ],
+    [
+     "Soporte de contador (exteriores)",
+     "UNE 60495 partes 1 y 2"
+    ],
+    [
+     "Centralizador de contadores",
+     "UNE 60490"
+    ],
+    [
+     "Contadores (paredes deformables)",
+     "UNE-EN 1359 y UNE 60510"
+    ],
+    [
+     "Dispositivos de corte Dn < 50",
+     "UNE-EN 331"
+    ],
+    [
+     "Dispositivos de corte 50 < Dn < 100",
+     "UNE 60708"
+    ],
+    [
+     "Polietileno (PE)",
+     "UNE-EN 1555-1"
+    ]
+   ],
+   "nota": "Cada material con su norma de referencia; no hay que memorizarlas todas, sí reconocer las de siempre. Se citan sin año (el listado con años va en la ITC-ICG 11).",
+   "notas": "N1: ¿Me tengo que aprender las quince normas de memoria?\nN2: No, nadie te pide recitarlas. Sí tienes que reconocer las de siempre: cobre, con la une e-ene mil cincuenta y siete; multicapa, con la une cincuenta y tres mil ocho; corrugado inoxidable hasta medio bar, con la une e-ene quince mil doscientos sesenta y seis; llaves pequeñas, de diámetro menor de cincuenta, con la une e-ene trescientos treinta y uno; centralizador, con la une sesenta mil cuatrocientos noventa; y polietileno, con la une e-ene mil quinientos cincuenta y cinco. Fíjate en un detalle que cae: se citan sin año, así lo manda el reglamento; el listado con los años concretos vive en una instrucción técnica aparte. Ejemplo de obra: si montas un tramo enterrado de polietileno, el material debe cumplir su norma; un tubo sin homologar es lo primero que salta en la inspección."
   },
   {
    "tipo": "contenido",
@@ -105,6 +231,20 @@
    ],
    "img_brief": "press fitting pipe connection tool",
    "notas": "N1: Si uno un tubo de acero inoxidable con uno de cobre, ¿pasa algo?\nN2: Puede pasar, y por eso hay una regla. Cuando juntas dos metales distintos y hay algo de humedad, se genera corrosión galvánica: es como una pila diminuta que se va comiendo la unión con el tiempo hasta que gotea gas. Para evitarlo, la unión de inoxidable con cobre se hace con un manguito de cuproníquel, que hace de árbitro entre los dos metales. La regla es sencilla: iguales con su mismo metal, inox con inox y cobre con cobre; y distintos, inox con cobre, con manguito de cuproníquel. Además, para unir por press-fitting los tubos deben tener el mismo diámetro exterior, pared mínima de un milímetro, y el inoxidable tiene que ser de la serie dos, que es la homologada para gas. Y algo muy útil: el press-fitting vale dentro y fuera hasta cinco bar, y sustituye a la soldadura fuerte por capilaridad."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Para unir un tubo de acero inoxidable con uno de cobre, ¿qué manguito se emplea?",
+   "opciones": [
+    "De cuproníquel (CuNi)",
+    "De cobre",
+    "De acero inoxidable",
+    "De latón"
+   ],
+   "correcta": 0,
+   "porque": "El manguito CuNi hace de árbitro entre los dos metales y evita la corrosión galvánica; iguales se unen con su mismo metal, distintos con CuNi.",
+   "notas_p": "N1: Juntas un tubo de inoxidable con uno de cobre. Si no eliges bien la unión, aparece corrosión. ¿Qué manguito usas?\nN2: Es un metal intermedio que hace de árbitro entre los dos; piensa en cobre más níquel.",
+   "notas_r": "N1: ¿Por qué el de cuproníquel?\nN2: Porque dos metales distintos con humedad forman una pila que se come la unión, la corrosión galvánica. El cuproníquel media entre ambos y la evita. Regla: iguales con su mismo metal, inox con cobre, con cuproníquel."
   },
   {
    "tipo": "contenido",
@@ -159,6 +299,45 @@
    "notas": "N1: ¿Qué espesores hay que recordar de las vainas y conductos?\nN2: Dos espesores que caen fijo. Cuando el conducto es de obra, o sea de albañilería, el espesor mínimo son cinco centímetros. Cuando el conducto es de acero, el mínimo es un milímetro y medio. Y hay una condición extra en los casos delicados, que son los sótanos y la ventilación: ahí el material tiene que garantizar la estanqueidad, porque no quieres que el gas se escape del conducto al recinto que atraviesa. Un par de detalles finos: si la vaina es metálica, no puede estar en contacto ni con las estructuras metálicas del edificio ni con otras tuberías, para que no se genere corrosión por contacto, y tiene que ser compatible con el material del tubo. Y cuando su función es ventilar, la vaina tiene que respirar por sus dos extremos al exterior; si solo respira por uno, el otro va sellado al propio tubo, para que el gas solo pueda salir por la boca buena."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Vainas y conductos",
+   "titulo": "Material de vainas y conductos según su función",
+   "headers": [
+    "Función",
+    "Material de vainas",
+    "Material de conductos"
+   ],
+   "rows": [
+    [
+     "Protección mecánica de tuberías",
+     "Materiales metálicos (acero, cobre, etc.)",
+     "Acero, espesor mínimo 1,5 mm; de obra, espesor mínimo 5 cm; u otros de similar resistencia mecánica"
+    ],
+    [
+     "Acceso a armarios de regulación y contadores",
+     "Materiales metálicos (acero, cobre, etc.)",
+     "Materiales metálicos (acero, cobre, etc.), espesor mínimo 1,5 mm"
+    ],
+    [
+     "Tuberías situadas en el suelo o subsuelo",
+     "Materiales metálicos (acero, cobre, etc.)",
+     "De obra, espesor mínimo 5 cm"
+    ],
+    [
+     "Ventilación de tuberías (resto de casos) (*)",
+     "Materiales metálicos (acero, cobre, etc.)",
+     "Metálicos, u otros con rigidez anular ≥ 3 veces su diámetro (PVC, PC, PP según UNE-EN 61386-24)"
+    ],
+    [
+     "Ventilación de tuberías en sótanos (*)",
+     "De obra",
+     "Materiales que aseguren la estanqueidad"
+    ]
+   ],
+   "nota": "Con qué material va cada vaina y conducto según su función; (*) el material debe asegurar la estanqueidad. De obra, mínimo 5 cm; de acero, mínimo 1,5 mm.",
+   "notas": "N1: ¿De qué material va cada vaina y cada conducto?\nN2: La tabla cruza la función con el material. Quédate con dos espesores que caen: cuando el conducto es de obra, mínimo cinco centímetros; cuando es de acero, mínimo un milímetro y medio. Las vainas suelen ser metálicas, salvo en sótanos, donde el conducto es de obra. Y ojo al asterisco: en ventilación y en sótanos el material tiene que asegurar la estanqueidad, porque ahí no quieres que el gas se escape del conducto al recinto. Para ventilación también valen plásticos rígidos que mantengan la forma, al menos tres veces su diámetro de radio de curvatura. Ejemplo de obra: para proteger un tubo en un garaje usas vaina metálica; si lo empotras en el suelo, conducto de obra de cinco centímetros como mínimo."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Prueba de estanqueidad",
    "titulo": "El examen final del tubo",
@@ -185,6 +364,64 @@
    "notas": "N1: ¿De qué depende el tiempo que hay que mantener la prueba?\nN2: Depende de la presión de la instalación y de su tamaño. Quédate primero con la escalera de tiempos base, de más a menos presión: de dos a cinco bar, sesenta minutos; de cuatro décimas a dos bar, treinta minutos; de cinco centésimas a cuatro décimas, treinta minutos; y baja presión, hasta cinco centésimas, quince minutos. Sobre esa base hay recortes cuando el tramo es corto: una instalación individual de menos de veinte metros baja a treinta minutos en alta; menos de quince metros, quince minutos; menos de diez metros, diez minutos. Y al revés: cuando la instalación es grande, de mucho caudal, la prueba se dispara a seis horas o veinticuatro horas, y entonces hay que registrar la presión y la temperatura, porque el propio calor cambia la presión y hay que descontarlo. Más presión y más tamaño, más tiempo de prueba."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Prueba de estanqueidad",
+   "titulo": "Presiones de prueba y tiempos (UNE 60670-8)",
+   "headers": [
+    "MOP (bar)",
+    "Presión de prueba P (bar)",
+    "q ≤ 150 m³(n)/h",
+    "150 < q ≤ 600 m³(n)/h",
+    "q > 600 m³(n)/h"
+   ],
+   "rows": [
+    [
+     "2 < MOP ≤ 5",
+     "> 7",
+     "60 min",
+     "6 h, con registro de P y T",
+     "24 h, con registro de P y T"
+    ],
+    [
+     "0,4 < MOP ≤ 2",
+     "> 3,5",
+     "30 min",
+     "6 h, con registro de P y T",
+     "24 h, con registro de P y T"
+    ],
+    [
+     "0,05 < MOP ≤ 0,4",
+     "> 1",
+     "30 min (15 min si tramo < 15 m)",
+     "6 h, con registro de P y T",
+     "24 h, con registro de P y T"
+    ],
+    [
+     "MOP ≤ 0,05",
+     "> 0,1",
+     "15 min (10 min si tramo < 10 m)",
+     "6 h, con registro de P y T",
+     "24 h, con registro de P y T"
+    ]
+   ],
+   "nota": "MOP es la presión máxima de operación. La tabla da la presión y el tiempo de prueba según la MOP y el caudal; a más presión y más caudal, más tiempo.",
+   "notas": "N1: ¿Cuánto tiempo hay que mantener la prueba de estanqueidad?\nN2: Depende de la presión y del tamaño de la instalación. Eme o pe es la presión máxima de operación, la de trabajo. Quédate con la escalera de tiempos base, de más a menos presión: de dos a cinco bar, sesenta minutos; de cuatro décimas a dos bar, treinta minutos; de cinco centésimas a cuatro décimas, treinta minutos, que bajan a quince si el tramo es menor de quince metros; y baja presión, hasta cinco centésimas, quince minutos, que bajan a diez si el tramo es menor de diez metros. La presión de prueba siempre es mayor que la de trabajo: por ejemplo, más de siete bar cuando la operación es de dos a cinco. Y cuando la instalación es grande, de más de ciento cincuenta metros cúbicos hora, la prueba se dispara a seis o veinticuatro horas registrando presión y temperatura. Ejemplo de obra: una individual de baja presión de menos de diez metros la pruebas diez minutos."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál es el tiempo base de prueba de estanqueidad para una MOP de 2 a 5 bar con caudal bajo (q ≤ 150 m³(n)/h)?",
+   "opciones": [
+    "60 min",
+    "30 min",
+    "15 min",
+    "6 h"
+   ],
+   "correcta": 0,
+   "porque": "Es el tramo de mayor presión de la tabla, así que pide el tiempo base más largo: 60 minutos. Los tramos de mucho caudal ya se van a 6 o 24 horas con registro.",
+   "notas_p": "N1: Vamos con la escalera de tiempos. Para la presión más alta de la tabla, de dos a cinco bar, y caudal bajo, ¿cuánto tiempo mantienes la prueba?\nN2: A más presión, más tiempo; es el escalón más alto de todos.",
+   "notas_r": "N1: ¿Por qué sesenta minutos?\nN2: Porque es el tramo de mayor presión, y cuanta más presión, más tiempo de prueba para cazar una microfuga. La escalera base es sesenta, treinta, treinta y quince minutos de más a menos presión; y los caudales grandes se van a seis o veinticuatro horas con registro."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Prueba bien hecha",
    "titulo": "Manómetro fino y aparatos desmontados",
@@ -196,6 +433,31 @@
    ],
    "img_brief": "U tube water column manometer",
    "notas": "N1: ¿Puedo usar cualquier manómetro para la prueba?\nN2: No, el manómetro se elige según la presión que vas a medir, no a ojo. Dos ideas prácticas. Primera: la aguja debe trabajar entre el treinta y cinco y el setenta y cinco por ciento de la escala; ni pegada al cero ni al tope, porque en los extremos el manómetro miente. Y a más presión, esfera más grande y clase más fina, que quiere decir más preciso. En baja presión de verdad, el rey sigue siendo la columna de agua en forma de U: es barata, fiable y no tiene trampa. Segunda idea, muy importante: si en el tramo hay aparatos delicados, como electroválvulas, cartuchos de filtro o manómetros finos, la presión de prueba, que es alta, los puede reventar. Así que se desmontan, se prueba el tubo desnudo, y luego se vuelven a montar y se comprueba la estanqueidad a la presión de trabajo, la MOP, no a la de prueba. El tubo se prueba fuerte; los aparatos delicados, a su presión. Y siempre, además, se mira cada soldadura: tiene que verse el material de aportación y las roscas bien apretadas."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Prueba de estanqueidad",
+   "titulo": "Rango del manómetro (toma tipo «peterson»)",
+   "headers": [
+    "Tipo de presión",
+    "Rango del manómetro"
+   ],
+   "rows": [
+    [
+     "MPA",
+     "0 bar a 1,6 bar"
+    ],
+    [
+     "MPB (0,4 < MOP ≤ 2 bar)",
+     "0 bar a 6 bar"
+    ],
+    [
+     "MPB (2 < MOP ≤ 5 bar)",
+     "0 bar a 10 bar"
+    ]
+   ],
+   "nota": "Qué rango de manómetro toca según la presión de la instalación; con el manómetro equivocado la lectura miente y puedes dar por buena una fuga.",
+   "notas": "N1: ¿Qué manómetro elijo según la presión?\nN2: La tabla te da el rango del manómetro según el tipo de presión. Para media presión A, un manómetro de cero a uno coma seis bar; para media presión B de cuatro décimas a dos bar, de cero a seis bar; y para media presión B de dos a cinco bar, de cero a diez bar. La idea de fondo: el manómetro tiene que estar en su rango para que la aguja trabaje en su zona buena, ni pegada al cero ni al tope, donde miente. Ejemplo de obra: si pruebas un tramo de media presión B de cinco bar, coges el manómetro de cero a diez, no el de baja, que se te iría de escala."
   },
   {
    "tipo": "cierre",

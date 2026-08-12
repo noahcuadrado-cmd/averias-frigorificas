@@ -82,6 +82,20 @@
    "notas": "N1: ¿Cómo se comprueba que la placa aguanta con el tiempo?\nN2: No te compliques, porque todo apunta a la misma norma. La indelebilidad de los caracteres, la resistencia a la corrosión cuando la placa es metálica, y la adherencia cuando es adhesiva, se verifican con la UNE sesenta mil setecientos cincuenta. La lógica de fondo es simple: la placa tiene que durar tanto como el aparato, aunque la froten, se moje o se caliente. Y por eso la norma exige que, tras todos los ensayos, los caracteres sigan legibles, la placa no se haya deformado y no se despegue fácilmente. De poco sirve un DNI que se borra al segundo año."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Con qué norma se verifican la indelebilidad, la corrosión y la adherencia de la placa de características?",
+   "opciones": [
+    "UNE 60670-7",
+    "UNE 60750",
+    "UNE-EN ISO 9001",
+    "UNE-EN 437"
+   ],
+   "correcta": 1,
+   "porque": "Toda la placa (indelebilidad de los caracteres, resistencia a la corrosión y adherencia) se comprueba con la UNE 60750.",
+   "notas_p": "N1: Una sola norma resume toda la placa.\nN2: No te dejes liar por otras normas del tema. Piensa en la que garantiza que el marcado no se borra, no se corroe y no se despega.",
+   "notas_r": "N1: ¿Por qué esa norma?\nN2: Porque la ITC remite las tres cualidades de la placa, indelebilidad, corrosión y adherencia, a la misma norma, la une sesenta mil setecientos cincuenta. El truco: la parte siete es de conexión, la nueve mil uno es de calidad y la cuatrocientos treinta y siete es de gases; la de la placa es la sesenta mil setecientos cincuenta."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Anexo 3 · Campo de aplicación",
    "titulo": "La red de seguridad",
@@ -142,6 +156,20 @@
    ],
    "img_brief": "gas pipe pressure test gauge",
    "notas": "N1: ¿Dónde se prueba que el aparato no tiene fugas?\nN2: Ojo al tramo exacto, porque el examen lo pregunta. Se comprueba la estanquidad del circuito de gas entre la llave del aparato y el quemador, a la presión máxima de utilización. Y además, que no existe fuga interior a través de las válvulas de corte, es decir, que cuando están cerradas no dejan pasar ni una burbuja de gas. Estanquidad, traducido, es que el gas no se escape por ningún lado. Es la garantía de que el aparato retiene el gas tanto por fuera como por dentro; esta es la prueba que caza las fugas."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿En qué tramo se comprueba la estanquidad del aparato en la prueba del anexo 3?",
+   "opciones": [
+    "Entre el contador y la llave de acometida",
+    "Entre la llave del aparato y el quemador",
+    "En toda la instalación receptora de la vivienda",
+    "Solo en el conducto de evacuación de humos"
+   ],
+   "correcta": 1,
+   "porque": "La prueba comprueba la estanquidad del circuito de gas entre la llave del aparato y el quemador, a la presión máxima de utilización, y que las válvulas de corte no tengan fuga interior.",
+   "notas_p": "N1: Un tramo muy concreto que el examen pregunta tal cual.\nN2: Piensa en el circuito interno del aparato, no en la instalación de la casa. ¿Dónde empieza y dónde acaba ese tramo?",
+   "notas_r": "N1: ¿Por qué ese tramo?\nN2: Porque la prueba de estanquidad va entre la llave del aparato y el quemador, a presión máxima de utilización, y además comprueba que las válvulas de corte no dejen fuga interior. El truco: es el circuito de gas dentro del aparato, no la instalación receptora entera."
   },
   {
    "tipo": "contenido",

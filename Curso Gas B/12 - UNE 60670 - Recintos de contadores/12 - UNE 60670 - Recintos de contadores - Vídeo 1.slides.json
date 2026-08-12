@@ -65,6 +65,20 @@
    "notas": "N1: ¿Por qué unos gases pueden ir más abajo que otros?\nN2: Todo depende de si el gas flota o pesa. El gas natural es más ligero que el aire: si se escapa, sube hacia arriba, así que arriba es fácil de ventilar. Por eso no lo bajamos por debajo del semisótano. El GLP, que es el butano y el propano, es más pesado que el aire: si se escapa, se arrastra por el suelo y se acumula en el hueco más bajo que encuentre, formando una bolsa peligrosa. Por eso con GLP no bajamos por debajo del nivel de la planta baja. La chuleta que te llevas es sencilla: ligero puede llegar al semisótano; pesado, solo de planta baja hacia arriba. Ejemplo real: un contador de butano en un sótano es un fallo grave, porque una fuga se quedaría estancada abajo esperando una chispa."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Hasta qué nivel se puede situar un contador de GLP (butano o propano)?",
+   "opciones": [
+    "No por debajo de la planta baja",
+    "No por debajo del semisótano",
+    "No por debajo del primer sótano",
+    "En cualquier nivel si hay ventilación"
+   ],
+   "correcta": 0,
+   "porque": "El GLP es más denso que el aire: si escapa se arrastra por el suelo y se acumula en los niveles bajos, por eso no puede bajar de la planta baja.",
+   "notas_p": "N1: Vamos con una pregunta que cae fijo. Tenemos un contador de butano o propano, o sea GLP. ¿Hasta qué altura del edificio nos deja bajarlo la norma?\nN2: Piensa en cómo se comporta ese gas si se escapa. ¿Flota o se arrastra? Ahí está la clave de la respuesta.",
+   "notas_r": "N1: ¿Por qué la planta baja y no el semisótano?\nN2: Porque el GLP pesa más que el aire. Si hay una fuga, no sube: se derrama por el suelo y se acumula en el hueco más bajo que encuentre, formando una bolsa que a la mínima chispa deflagra. Por eso con gas pesado no bajamos del nivel de la planta baja. El truco para no fallar: ligero, como el gas natural, puede llegar al semisótano; pesado, solo de planta baja hacia arriba."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Generalidades",
    "titulo": "Solo para gas y a la vista",
@@ -209,6 +223,78 @@
    "notas": "N1: ¿Hay que memorizar las superficies de la tabla?\nN2: Al menos las de referencia, sí. Quédate con estas: el local técnico, ese cuarto de contadores en el que entra una persona, ventila con doscientos centímetros cuadrados arriba y abajo. Un armario pequeño, de hasta dos contadores, con solo cinco centímetros cuadrados; pero si tiene más de dos contadores, sube a cincuenta si es exterior, o a doscientos si es interior. Y el conducto técnico, ciento cincuenta. Caso especial muy preguntado: si el recinto está en un semisótano, la puerta tiene que ser estanca, la superficie de ventilación se aumenta un cincuenta por ciento, y no se permite la ventilación indirecta. En semisótano, todo más exigente, porque estás bajo el nivel del suelo."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Ventilación · tabla 1",
+   "titulo": "Superficies mínimas de ventilación",
+   "headers": [
+    "Recinto",
+    "Superior directa",
+    "Superior indirecta",
+    "Inferior directa",
+    "Inferior indirecta"
+   ],
+   "rows": [
+    [
+     "Local técnico (cuarto de contadores)",
+     "200 cm²",
+     "No se permite",
+     "200 cm²",
+     "200 cm² (*)"
+    ],
+    [
+     "Armario exterior · N ≤ 2 contadores",
+     "5 cm²",
+     "–",
+     "5 cm²",
+     "–"
+    ],
+    [
+     "Armario exterior · más de 2 contadores",
+     "50 cm²",
+     "–",
+     "50 cm²",
+     "–"
+    ],
+    [
+     "Armario interior · N ≤ 2 contadores",
+     "5 cm²",
+     "5 cm² (*)",
+     "5 cm²",
+     "5 cm² (*)"
+    ],
+    [
+     "Armario interior · más de 2 contadores",
+     "200 cm²",
+     "No se permite",
+     "200 cm²",
+     "200 cm² (*)"
+    ],
+    [
+     "Conducto técnico",
+     "150 cm²",
+     "No se permite",
+     "150 cm²",
+     "150 cm² (*)"
+    ]
+   ],
+   "nota": "Superficie libre mínima de las bocas de ventilación de cada tipo de recinto; el guion (–) es que no aplica y el asterisco marca la indirecta, prohibida con gas ligero en semisótano.",
+   "notas": "N1: ¿Cuánta rejilla necesita cada recinto para ventilar bien?\nN2: Esta es la tabla uno, la que fija la superficie libre mínima de las aberturas de ventilación según el tipo de recinto. Se lee por filas. El local técnico, el cuarto en el que entra una persona, pide doscientos centímetros cuadrados arriba y otros doscientos abajo, siempre de forma directa. El armario exterior pequeño, de hasta dos contadores, con solo cinco centímetros cuadrados arriba y abajo; y si tiene más de dos contadores, sube a cincuenta. El armario interior de hasta dos contadores, cinco arriba y cinco abajo, y aquí sí se admite la indirecta; pero con más de dos contadores salta a doscientos y ya no se permite indirecta. Y el conducto técnico, ciento cincuenta arriba y abajo. Fíjate en las dos columnas de indirecta: donde pone que no se permite, esa boca tiene que dar sí o sí al exterior. Ejemplo de obra: para un cuarto de contadores de un bloque, dos rejillas de doscientos centímetros cuadrados, una a ras de suelo y otra pegada al techo."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Un local técnico (cuarto de contadores), ¿qué superficie mínima de ventilación directa necesita arriba y abajo?",
+   "opciones": [
+    "200 cm² arriba y 200 cm² abajo",
+    "5 cm² arriba y 5 cm² abajo",
+    "50 cm² arriba y 50 cm² abajo",
+    "150 cm² arriba y 150 cm² abajo"
+   ],
+   "correcta": 0,
+   "porque": "Según la tabla 1, el local técnico exige 200 cm² de superficie libre directa tanto en la abertura superior como en la inferior.",
+   "notas_p": "N1: Acabamos de ver la tabla, así que vamos a fijarla. Un local técnico, ese cuarto de contadores en el que entra una persona: ¿cuánta superficie de ventilación directa necesita arriba y abajo?\nN2: Repasa la primera fila de la tabla. Es el recinto más grande, así que pide de las cifras más altas de la lista.",
+   "notas_r": "N1: ¿Por qué doscientos y no cinco o cincuenta?\nN2: Porque cinco y cincuenta son los valores de los armarios, que son cajas pequeñas; y ciento cincuenta es el del conducto técnico. El local técnico, al ser un cuarto en el que se trabaja dentro, necesita las dos bocas de doscientos centímetros cuadrados cada una, arriba y abajo, y siempre directas. El truco: asocia cada recinto a su número, y recuerda que el cuarto de contadores es el más exigente."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Conducciones ajenas",
    "titulo": "Invitados no deseados",
@@ -243,6 +329,20 @@
    ],
    "img_brief": "gas meter near kitchen stove",
    "notas": "N1: Si el contador acaba en la cocina, ¿qué distancias respeto?\nN2: Estas son de las cifras que más caen, grábatelas. El totalizador, la ruedecita de lectura, a un metro con setenta como máximo, para leerlo de pie sin subirte a nada. Cuarenta centímetros de separación entre el contador y los fuegos de la cocina, porque el calor directo de la llama envejece y deforma el contador y sus juntas, y a la larga eso es una fuga. Veinte centímetros respecto a mecanismos eléctricos, es decir enchufes, interruptores y puntos de luz, y también respecto a calderas y calentadores, porque una chispa junto a una posible fuga es una explosión esperando. Y si el local tiene poca ventilación, se le exige una abertura permanente de cinco centímetros cuadrados: arriba para gas ligero, abajo para gas pesado."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿A qué distancia mínima de los fuegos de la cocina debe quedar el contador, si no se coloca pantalla?",
+   "opciones": [
+    "40 cm",
+    "20 cm",
+    "15 cm",
+    "75 cm"
+   ],
+   "correcta": 0,
+   "porque": "El calor directo de los fuegos envejece y deforma el contador y sus juntas; por eso se exigen 40 cm, salvo que se intercale una pantalla de protección.",
+   "notas_p": "N1: Contador dentro de la cocina. Si no ponemos ninguna pantalla, ¿a qué distancia mínima de los fuegos tiene que quedar?\nN2: Cuidado, que hay varias distancias parecidas rondando este tema. Esta es la del calor de la llama, la más grande de todas.",
+   "notas_r": "N1: ¿Por qué cuarenta y no veinte?\nN2: Ojo con no confundirlas. Los veinte centímetros son para los enchufes, interruptores y las calderas o calentadores. Los quince son el borde inferior de la rejilla con gas pesado. Y el setenta y cinco es el volumen del local para la excepción de baños. La distancia a los fuegos de la cocina son cuarenta centímetros, porque el calor directo deforma y envejece el contador y sus juntas, y eso acaba en fuga. Si no llegas a esa distancia, intercalas una pantalla de protección, que puede ser el lateral de un mueble."
   },
   {
    "tipo": "contenido",

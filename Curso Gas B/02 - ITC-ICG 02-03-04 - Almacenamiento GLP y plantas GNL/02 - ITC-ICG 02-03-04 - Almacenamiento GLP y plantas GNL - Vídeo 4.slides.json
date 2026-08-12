@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["1.000 m³", "tope de una planta satélite"],
-    ["300", "frontera de la fórmula V × P"],
-    ["15 días", "hábiles para comunicar"]
+    [
+     "1.000 m³",
+     "tope de una planta satélite"
+    ],
+    [
+     "300",
+     "frontera de la fórmula V × P"
+    ],
+    [
+     "15 días",
+     "hábiles para comunicar"
+    ]
    ],
    "notas": "N1: Dame las tres cifras que no puedo fallar.\nN2: Tres números, y son de los que caen. El primero: mil metros cúbicos es el techo de una planta satélite de GNL; por encima de eso ya no es una planta satélite a estos efectos. El segundo: trescientos es la frontera de la fórmula uve por pe, volumen por presión, que decide quién puede hacer los controles. Y el tercero: quince días hábiles es el plazo para comunicar la puesta en servicio a la Comunidad Autónoma, y ojo, hábiles, no naturales. Mil, trescientos y quince días hábiles: apúntalos."
   },
@@ -57,6 +66,20 @@
    ],
    "img_brief": "cryogenic pipes valves industrial",
    "notas": "N1: ¿Por qué no puede montar esto el mismo instalador que hace los depósitos de GLP?\nN2: Por el frío. El GNL está a unos ciento sesenta grados bajo cero, es criogénico, y trabajarlo exige formación y materiales específicos: un material normal se volvería frágil como el cristal a esa temperatura. Por eso el montaje y el mantenimiento no los hace una empresa instaladora de gas corriente, sino una empresa especializada en trabajos criogénicos y equipos a presión, el especialista criogénico. Y la clasificación de la planta se hace según la norma UNE sesenta mil doscientos diez. Grábate la cadena entera para no confundirla con el GLP: GNL, norma UNE sesenta mil doscientos diez, especialista criogénico. Compárala con el depósito de GLP del vídeo anterior: allí era UNE sesenta mil doscientos cincuenta y empresa instaladora de gas."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Quién debe montar y mantener una planta satélite de GNL?",
+   "opciones": [
+    "Una empresa instaladora de gas normal",
+    "Un especialista en trabajos criogénicos",
+    "Cualquier titular con carné de Gas B",
+    "El organismo de control"
+   ],
+   "correcta": 1,
+   "porque": "El GNL está a unos -160 °C: exige una empresa especializada en trabajos criogénicos, no un instalador corriente.",
+   "notas_p": "N1: El GNL va muy frío. ¿Quién puede trabajarlo?\nN2: Piensa en que a esa temperatura un material normal se vuelve frágil como el cristal.",
+   "notas_r": "N1: ¿Por qué el criogénico y no un instalador cualquiera?\nN2: Porque el gas natural licuado está a unos ciento sesenta grados bajo cero, y trabajarlo pide formación y materiales especiales. Por eso lo monta y lo mantiene el especialista criogénico, y la norma de referencia es la une sesenta mil doscientos diez. La cadena para no confundirla con el GLP: gas natural licuado, norma sesenta mil doscientos diez, especialista criogénico."
   },
   {
    "tipo": "contenido",
@@ -135,6 +158,20 @@
    ],
    "img_brief": "pressure gauge cryogenic tank",
    "notas": "N1: ¿Cada cuánto se controla la planta y quién puede hacerlo?\nN2: El control periódico general es cada cinco años, con las pruebas y verificaciones de la norma. Y quién puede realizarlo depende de una fórmula muy sencilla, uve por pe: multiplicas el volumen geométrico en metros cúbicos por la presión máxima de trabajo en bares. Si el resultado es trescientos o menos, el control lo puede hacer gente de la casa: el especialista criogénico, el servicio de mantenimiento del propio usuario, o un organismo de control. Pero si el resultado pasa de trescientos, entonces tiene que venir sí o sí un organismo de control independiente. La lógica: cuanto más grande y más presión, más ojos externos exige. Retén el número trescientos, y que el resultado del control va en un certificado por cuadriplicado: usuario, titular, órgano competente y el propio agente."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "En el control de una planta de GNL, si V × P supera 300, ¿quién debe hacerlo?",
+   "opciones": [
+    "El propio usuario",
+    "El especialista criogénico",
+    "Obligatoriamente un organismo de control",
+    "No hace falta ningún control"
+   ],
+   "correcta": 2,
+   "porque": "Con V × P mayor de 300 el control lo tiene que hacer sí o sí un organismo de control independiente.",
+   "notas_p": "N1: Multiplica volumen por presión. Si pasa de trescientos, ¿quién controla?\nN2: Cuanto más grande y más presión, más ojos externos exige.",
+   "notas_r": "N1: ¿Por qué el organismo de control?\nN2: Porque la fórmula uve por pe mide el riesgo: si el volumen por la presión pasa de trescientos, la planta es lo bastante seria como para exigir un organismo de control independiente. Si es trescientos o menos, vale gente de la casa, el especialista criogénico o el propio usuario. El número que decide es el trescientos."
   },
   {
    "tipo": "contenido",

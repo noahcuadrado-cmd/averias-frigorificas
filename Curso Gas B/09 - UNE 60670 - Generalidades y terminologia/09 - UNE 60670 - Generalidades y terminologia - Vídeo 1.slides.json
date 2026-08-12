@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["13", "partes que forman la norma"],
-    ["5 bar", "presión máxima de operación"],
-    ["3", "clases según el suministro"]
+    [
+     "13",
+     "partes que forman la norma"
+    ],
+    [
+     "5 bar",
+     "presión máxima de operación"
+    ],
+    [
+     "3",
+     "clases según el suministro"
+    ]
    ],
    "notas": "N1: ¿Y estos tres números para qué me sirven?\nN2: Son las tres perchas donde vas a colgar todo el vídeo. La primera: la norma no es un folleto, son trece partes, como un manual de trece capítulos. La segunda: solo se aplica cuando la presión no pasa de cinco bar; por encima de eso ya juegas en otra liga. Y la tercera: según cómo te llegue el gas, hay tres clases de instalación. Si al acabar recuerdas estos tres números, ya has entendido de qué va la norma."
   },
@@ -44,6 +53,71 @@
    ],
    "img_brief": "stack of technical standard manuals on desk",
    "notas": "N1: ¿Y me tengo que aprender las trece de memoria?\nN2: No, tranquilo. Pero sí saber que existen y para qué sirve cada bloque, porque en obra vas directo a la que necesitas sin perder la mañana buscando. Imagina un manual gordo con trece capítulos. Los dos primeros son la introducción: la parte uno, generalidades, que es esta, y la parte dos, el diccionario de términos. Esos dos te colocan todo. De la tres a la trece está el detalle: tuberías, diseño, contadores, ventilación, pruebas, puesta en servicio, revisiones. Regla práctica: dominas primero la uno y la dos, y las demás las consultas cuando toca."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "UNE 60670 · Estructura",
+   "titulo": "Las 13 partes de la norma",
+   "headers": [
+    "Parte",
+    "Contenido"
+   ],
+   "rows": [
+    [
+     "1",
+     "Generalidades"
+    ],
+    [
+     "2",
+     "Terminología"
+    ],
+    [
+     "3",
+     "Tuberías, elementos, accesorios y sus uniones"
+    ],
+    [
+     "4",
+     "Diseño y construcción"
+    ],
+    [
+     "5",
+     "Recintos destinados a la instalación de contadores de gas"
+    ],
+    [
+     "6",
+     "Requisitos de configuración, ventilación y evacuación de los productos de la combustión en los locales destinados a contener los aparatos a gas"
+    ],
+    [
+     "7",
+     "Requisitos de instalación y conexión de los aparatos a gas"
+    ],
+    [
+     "8",
+     "Pruebas de estanquidad para la entrega de la instalación receptora"
+    ],
+    [
+     "9",
+     "Pruebas previas al suministro y puesta en servicio"
+    ],
+    [
+     "10",
+     "Comprobaciones para la puesta en marcha de los aparatos de gas o tras su adecuación por cambio de familia de gas"
+    ],
+    [
+     "11",
+     "Operaciones en instalaciones receptoras en servicio"
+    ],
+    [
+     "12",
+     "Criterios técnicos básicos para el control periódico de las instalaciones receptoras en servicio"
+    ],
+    [
+     "13",
+     "Criterios técnicos básicos para el control periódico de los aparatos a gas de las instalaciones receptoras en servicio"
+    ]
+   ],
+   "nota": "Cada parte es un capítulo de la norma: la 1 y la 2 son el mapa, y de la 3 a la 13 va el detalle técnico.",
+   "notas": "N1: ¿Hace falta aprenderse las trece partes de memoria?\nN2: No, tranquilo, pero sí saber qué hay en cada bloque para ir directo a lo que necesitas. Léela como un manual de trece capítulos. Las dos primeras te colocan todo: la parte uno, generalidades, y la parte dos, el diccionario. De la tres a la trece está el detalle técnico: tuberías, diseño, contadores, ventilación, pruebas, puesta en servicio y control periódico. Truco de obra fila a fila: pruebas de estanquidad para entregar, parte ocho; puesta en servicio, parte nueve; control periódico, la doce para la instalación y la trece para los aparatos. Ejemplo: te preguntan dónde se tratan las pruebas de estanquidad y respondes parte ocho sin dudar."
   },
   {
    "tipo": "contenido",
@@ -96,6 +170,20 @@
    "notas": "N1: ¿Cualquier tubo de gas es una instalación receptora?\nN2: No, y esto es clave. Tienen que darse tres condiciones a la vez, como las tres patas de un taburete: si falta una, se cae. Una, que use un gas de los normalizados, de las familias reconocidas en la norma UNE-EN cuatrocientos treinta y siete. Dos, que la presión máxima de operación no pase de cinco bar. Y tres, que esté hecha para dar servicio a aparatos de gas, sea una cocina, una caldera o un calentador. Regla de bolsillo: gas normalizado, poca presión y para dar de comer a aparatos. Si se cumplen las tres, es instalación receptora; si falla una, no lo es a efectos de esta norma."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Cuándo es una instalación una 'instalación receptora' según la UNE 60670?",
+   "opciones": [
+    "Cuando usa gas de familia normalizada, MOP ≤ 5 bar y sirve a aparatos de gas",
+    "Cuando la presión supera los 5 bar y hay varios aparatos conectados",
+    "Siempre que haya una bombona conectada a un aparato móvil",
+    "Cuando la instalación es de gas natural, sea cual sea la presión"
+   ],
+   "correcta": 0,
+   "porque": "Deben darse las tres condiciones a la vez: gas de familia normalizada, MOP no superior a 5 bar y destino a aparatos de gas.",
+   "notas_p": "N1: Va la primera, y con truco: ¿qué hace que un montaje sea de verdad instalación receptora?\nN2: Piensa en las tres patas de un taburete; si falta una, se cae. Gas normalizado, poca presión y para dar de comer a aparatos.",
+   "notas_r": "N1: ¿Por qué la A?\nN2: Porque las tres condiciones van juntas: gas de una familia reconocida, presión máxima de operación no superior a cinco bar y servir a aparatos de gas. Si falla una sola, ya no es instalación receptora a efectos de la norma. El truco para no fallar: gas normalizado, poca presión y para aparatos."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Definición · Excepciones",
    "titulo": "Qué NO es instalación receptora",
@@ -119,6 +207,45 @@
    ],
    "img_brief": "outdoor LPG storage tank in garden",
    "notas": "N1: ¿Y por qué importa de dónde venga el gas?\nN2: Porque cambia con quién hablas y dónde empieza lo tuyo. Hay tres clases. Canalizado: el gas llega por una red de distribución, como el agua del grifo; ahí el gas y la llave de acometida los pone la compañía distribuidora. Granel: el gas está en un depósito fijo en la parcela, o en envases grandes de más de quince kilos; tu punto de partida es la salida del depósito. Y envases: bombonas pequeñas de menos de quince kilos; empiezas en el regulador acoplado a la bombona. No es una etiqueta de adorno: equivocarte de clase es equivocarte de interlocutor y del punto donde arranca tu instalación."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Clasificación · Suministro",
+   "titulo": "Las tres clases de suministro",
+   "headers": [
+    "Clase",
+    "Origen del gas"
+   ],
+   "rows": [
+    [
+     "Canalizado",
+     "Suministradas desde una red de distribución"
+    ],
+    [
+     "Granel",
+     "Suministradas desde depósitos de GLP fijos (granel) o envases de carga unitaria superior a 15 kg"
+    ],
+    [
+     "Envases",
+     "Suministradas desde envases de GLP de carga unitaria inferior a 15 kg"
+    ]
+   ],
+   "nota": "Clasifica la instalación según cómo llega el gas: por red (canalizado), desde depósito fijo o envase grande (granel) o desde bombonas pequeñas (envases).",
+   "notas": "N1: ¿Por qué me importa de dónde viene el gas?\nN2: Porque cambia con quién hablas y dónde empieza lo tuyo. Léela fila a fila. Canalizado: el gas llega por una red de distribución, como el agua del grifo, y ahí el gas y la llave de acometida los pone la distribuidora. Granel: el gas está en un depósito fijo en la parcela, o en envases grandes de más de quince kilos, y tu punto de partida es la salida del depósito. Envases: bombonas pequeñas de menos de quince kilos, y arrancas en el regulador acoplado a la bombona. Ejemplo de obra: un chalé con depósito de GLP en el jardín es granel, no canalizado; equivocar la clase es equivocar el interlocutor."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Un depósito fijo de GLP en la parcela, ¿a qué clase de suministro corresponde?",
+   "opciones": [
+    "Canalizado",
+    "Granel",
+    "Envases",
+    "Intemperie"
+   ],
+   "correcta": 1,
+   "porque": "El suministro desde depósitos fijos de GLP, o desde envases de carga superior a 15 kg, es de clase granel.",
+   "notas_p": "N1: Fácil de confundir: el depósito de GLP del jardín, ¿qué clase es?\nN2: Pista: no llega por red, y tampoco es una bombona pequeña. ¿Dónde encaja?",
+   "notas_r": "N1: ¿Por qué granel?\nN2: Porque granel es el suministro desde depósitos fijos de GLP o desde envases de carga superior a quince kilos. Canalizado sería por red de distribución, y envases serían las bombonas pequeñas por debajo de quince kilos. El truco: depósito fijo o envase grande, siempre granel."
   },
   {
    "tipo": "contenido",
@@ -157,6 +284,20 @@
    ],
    "img_brief": "technician filling installation certificate paperwork",
    "notas": "N1: Y saber si es receptora o no, ¿para qué me sirve en el día a día?\nN2: Para lo más importante: decide si hay papeleo o no. En cuanto hay tubería fija, varios aparatos o más carga de gas, ya es instalación receptora, y eso obliga a un certificado de instalación, lo que todos llamamos el boletín, en los modelos oficiales tipo I R G. Ese papel lo firma la empresa instaladora habilitada de categoría B, la tuya, y se entrega a la empresa distribuidora, con copia para el titular. Sin ese documento, la distribuidora no da gas. La chapuza típica es justo esa: una instalación fija montada como si fuera camping-gas, sin boletín y sin prueba de estanquidad. Ahí tienes la fuga esperando a pasar."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "En una instalación receptora nueva, ¿qué documento exige la distribuidora para dar suministro?",
+   "opciones": [
+    "El certificado o boletín firmado por la empresa instaladora de categoría B",
+    "Una autorización previa del ayuntamiento del municipio",
+    "La factura de compra de la caldera y los aparatos",
+    "El manual de instrucciones del fabricante del aparato"
+   ],
+   "correcta": 0,
+   "porque": "Toda instalación receptora obliga a un certificado firmado por la empresa habilitada de categoría B; sin él, la distribuidora no da gas.",
+   "notas_p": "N1: Última del vídeo: acabas la instalación y... ¿qué papel te pide la distribuidora?\nN2: Pista: es el documento que firma tu empresa habilitada y sin el cual no entra gas.",
+   "notas_r": "N1: ¿Por qué la A?\nN2: Porque toda instalación receptora obliga a un certificado de instalación, el boletín, que firma la empresa instaladora habilitada de categoría B y se entrega a la distribuidora, con copia para el titular. Sin ese documento no hay suministro. El truco: si es receptora, hay boletín, y lo firma tu empresa, no el ayuntamiento ni el fabricante."
   },
   {
    "tipo": "cierre",

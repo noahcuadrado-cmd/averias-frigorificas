@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["70 kW", "límite de la instalación individual"],
-    ["6 meses", "plazo de las anomalías secundarias"],
-    ["15 días", "fuga secundaria: corregir antes"]
+    [
+     "70 kW",
+     "límite de la instalación individual"
+    ],
+    [
+     "6 meses",
+     "plazo de las anomalías secundarias"
+    ],
+    [
+     "15 días",
+     "fuga secundaria: corregir antes"
+    ]
    ],
    "notas": "N1: ¿Qué pintan estos tres números en el vídeo?\nN2: Marcan las tres ideas fuerza. Setenta kilovatios es la frontera que separa la instalación individual pequeña, la de este vídeo, de la grande que veremos en el siguiente. Seis meses es el plazo general que tiene el usuario para corregir una anomalía secundaria, esas que no obligan a cortar el gas. Y quince días es la excepción: cuando esa secundaria es una fuga, el plazo se acorta a menos de quince días naturales. Con estos tres números ya intuyes la lógica del control periódico: clasificar el defecto y ponerle un plazo o cortar."
   },
@@ -82,6 +91,20 @@
    "notas": "N1: ¿Cuánto tiempo tiene el usuario para arreglar una anomalía secundaria?\nN2: Como norma general, un máximo de seis meses. La anomalía no es urgente, el gas puede seguir, pero no se puede eternizar: seis meses y corregida. Ahora bien, hay una excepción muy importante. Si la anomalía secundaria es una falta de estanquidad, es decir, una fuga considerada secundaria, ese plazo se acorta muchísimo: hay que corregirla en el menor tiempo posible y siempre en un plazo inferior a quince días naturales.\nN1: ¿Por qué la fuga baja tanto el plazo?\nN2: Porque una fuga, aunque sea pequeña, es gas escapando, y eso no admite medio año de espera. Quédate con la chuleta completa: principal, ya o corto; secundaria, seis meses; y si la secundaria es una fuga, menos de quince días naturales. Fíjate que hablamos de días naturales, que cuentan fines de semana y festivos, no días laborables. Estos tres plazos caen fijo en el examen."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Una anomalía secundaria consistente en una falta de estanquidad (fuga). ¿En qué plazo debe corregirse?",
+   "opciones": [
+    "En un máximo de seis meses",
+    "En menos de quince días naturales",
+    "En el mismo acto o se corta",
+    "En un plazo de un año"
+   ],
+   "correcta": 1,
+   "porque": "La secundaria general tiene seis meses, pero si es una fuga el plazo baja a menos de quince días naturales.",
+   "notas_p": "N1: De plazos, que son de examen seguro. Una anomalía secundaria, pero que resulta ser una fuga. ¿Cuánto margen hay?\nN2: Recuerda que la fuga siempre aprieta el plazo, aunque se considere secundaria.",
+   "notas_r": "N1: ¿Por qué quince días y no seis meses?\nN2: Porque una fuga, aunque sea secundaria, es gas escapando, y eso no admite medio año de espera. Chuleta completa: principal, ya o se corta; secundaria general, seis meses; secundaria que es fuga, menos de quince días naturales, que cuentan fines de semana y festivos."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Parte 12 · Apartado 3",
    "titulo": "Individuales ≤ 70 kW",
@@ -118,6 +141,20 @@
    ],
    "img_brief": "gas water heater in bathroom hazard",
    "notas": "N1: ¿Por qué no puede haber un calentador en el baño o en el dormitorio?\nN2: Esta es de las anomalías más preguntadas y de las que más matan, así que atención. Un aparato de tipo A o de tipo B, que son los que cogen el aire del propio local o evacuan los humos a él, no puede estar en un dormitorio ni en un baño, ducha o aseo. ¿La razón? Son estancias donde duermes o te encierras con la puerta cerrada. Si el aparato falla y suelta monóxido de carbono, ahí te intoxica sin que te des cuenta, porque estás dormido o aislado. Es intoxicación por CO esperando a pasar.\nN1: ¿Y los aparatos estancos, los tipo C?\nN2: Esos sí pueden, y esa es la clave. Un tipo C es estanco: coge el aire de fuera y echa los humos fuera, no intercambia aire con el cuarto. Como no respira el aire de la habitación ni le suelta humos, no hay riesgo de intoxicación por ese lado. Por eso la caldera estanca moderna sí puede ir en un baño y el viejo calentador de tiro natural no. Esta anomalía es principal: si te la encuentras, se corta. Y para no perderte, en el siguiente slide repasamos rápido los tipos de aparato."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué tipo de aparato de gas SÍ puede instalarse en un cuarto de baño?",
+   "opciones": [
+    "Un aparato de tipo A",
+    "Un aparato de tipo B de tiro natural",
+    "Un aparato de tipo C, estanco",
+    "Ninguno, está prohibido cualquiera"
+   ],
+   "correcta": 2,
+   "porque": "El tipo C es estanco: coge el aire de fuera y echa los humos fuera, sin intercambiar aire con el local, así que no intoxica.",
+   "notas_p": "N1: Una de las que más caen y más matan. ¿Qué aparato puede ir en un baño o un dormitorio?\nN2: Piensa en cuál no respira el aire de la habitación ni le suelta humos.",
+   "notas_r": "N1: ¿Por qué el tipo C sí y los otros no?\nN2: Porque el tipo C es estanco: toma el aire del exterior y expulsa los humos al exterior, no toca el aire del cuarto. El tipo A y el tipo B respiran con el local, y en un sitio cerrado donde duermes o te encierras el monóxido te intoxica sin que te des cuenta. Por eso la caldera estanca moderna sí puede ir en un baño y el viejo calentador de tiro natural no."
   },
   {
    "tipo": "contenido",
@@ -168,6 +205,20 @@
    ],
    "img_brief": "small kitchen gas water heater ventilation grille",
    "notas": "N1: ¿Qué más cuenta como principal en una vivienda?\nN2: Tres casos más. La IPa seis: que un extractor mecánico, una campana de cocina o un aparato con ayuda a la evacuación estén conectados a la misma chimenea por donde salen los humos de un aparato de tipo B de tiro natural; el extractor le roba el tiro y puede devolver los humos. La IPa siete: un aparato de tipo B en un local de volumen igual o menor de ocho metros cúbicos que no tenga ventilación suficiente. Y la IPa ocho: llaves de aparato sin conectar que no estén cerradas, bloqueadas, precintadas y taponadas; si la llave no es bloqueable, al menos cerrada, precintada y taponada.\nN1: ¿Por qué esos ocho metros cúbicos son la frontera?\nN2: Fíjate en el detalle finísimo, que cae en el examen. Un tipo B mal ventilado es anomalía principal, que corta, si el local es pequeño, de ocho metros cúbicos o menos; y solo secundaria si el local es grande, de más de ocho. La lógica es clarísima: en un cuartito pequeño y mal ventilado, el monóxido se acumula deprisa y mata; en uno grande hay más margen de aire. Mismo defecto, distinta gravedad según el volumen. Ese ocho es un número de oro."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Un aparato de tipo B mal ventilado en un local de ocho metros cúbicos o menos es una anomalía…",
+   "opciones": [
+    "Secundaria, con seis meses de plazo",
+    "Principal, se corta el suministro",
+    "Sin importancia, solo recomendación",
+    "Principal solo si además hay fuga"
+   ],
+   "correcta": 1,
+   "porque": "En local pequeño (volumen igual o menor de ocho metros cúbicos) el monóxido se acumula deprisa, así que es principal y se corta.",
+   "notas_p": "N1: Del número de oro del vídeo. Tipo B mal ventilado en un cuartito de ocho metros cúbicos o menos. ¿Principal o secundaria?\nN2: Fíjate en el volumen del local: pequeño y mal ventilado no perdona.",
+   "notas_r": "N1: ¿Por qué principal en el local pequeño?\nN2: Porque en un cuartito de ocho metros cúbicos o menos, mal ventilado, el monóxido se acumula deprisa y mata; por eso es principal y se corta. Si el local fuera grande, de más de ocho, el mismo defecto sería solo secundario. Mismo defecto, distinta gravedad según el volumen."
   },
   {
    "tipo": "contenido",

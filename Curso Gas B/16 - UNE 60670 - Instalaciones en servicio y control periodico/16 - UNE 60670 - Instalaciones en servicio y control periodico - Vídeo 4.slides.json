@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["50 ppm", "CO-ambiente: por encima, grave"],
-    ["1000 ppm", "CO en el conducto: no higiénica"],
-    ["18 meses", "calibración del analizador"]
+    [
+     "50 ppm",
+     "CO-ambiente: por encima, grave"
+    ],
+    [
+     "1000 ppm",
+     "CO en el conducto: no higiénica"
+    ],
+    [
+     "18 meses",
+     "calibración del analizador"
+    ]
    ],
    "notas": "N1: ¿Qué significan estas cifras?\nN2: Son los tres números que gobiernan el vídeo. Cincuenta ppm es el límite del CO en el aire del local, el CO-ambiente: por encima de cincuenta partes por millón, la cosa es grave, principal. Mil ppm es el límite del CO medido dentro del conducto de humos del aparato, el CO de los productos de la combustión: si lo supera, la combustión es no higiénica, principal. Y dieciocho meses es cada cuánto, como máximo, hay que calibrar el analizador de combustión, tu aparato de medida. Ojo a no mezclar los dos primeros: cincuenta es del aire del local, mil es de dentro del conducto. Son medidas distintas en sitios distintos."
   },
@@ -72,6 +81,20 @@
    "notas": "N1: ¿Por qué se mide con todo cerrado?\nN2: Porque queremos ver el caso más desfavorable, el peor escenario. Si midieras con las ventanas abiertas, el aire limpio diluiría el monóxido y te daría una lectura falsamente buena. Por eso la medida del CO-ambiente se hace con puertas y ventanas cerradas y con la campana extractora, si existe, apagada. Así compruebas qué pasa cuando la familia tiene la cocina cerrada en invierno, que es cuando de verdad hay riesgo.\nN1: ¿Y dónde pongo la sonda y cuánto espero?\nN2: La colocas aproximadamente a un metro del aparato y a un metro con ochenta de altura, que es más o menos la altura de la cara de una persona, porque es el aire que se respira. Pones el aparato en marcha en régimen estacionario y, en los tipo B y C, a la máxima potencia. Dejas pasar cinco minutos desde el arranque y entonces lees. Si el local tiene varios aparatos de tipo B, C o vitrocerámicas de fuegos cubiertos, los enciendes todos a la vez y compruebas de forma conjunta, y luego determinas cuál es el que produce el exceso. Las cifras a retener: un metro del aparato, uno con ochenta de altura, cinco minutos."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿En qué condiciones se mide el CO-ambiente de un local?",
+   "opciones": [
+    "Con puertas y ventanas abiertas y campana encendida",
+    "Con puertas y ventanas cerradas y campana apagada",
+    "Solo con la ventana del baño abierta",
+    "Da igual, la lectura no cambia"
+   ],
+   "correcta": 1,
+   "porque": "Se mide en el caso más desfavorable: puertas y ventanas cerradas y campana apagada, para no diluir el monóxido con aire limpio.",
+   "notas_p": "N1: De procedimiento fino. ¿Con qué condiciones de puertas, ventanas y campana se mide el CO del aire del local?\nN2: Piensa en cuándo hay de verdad riesgo: ¿con la casa abierta o cerrada?",
+   "notas_r": "N1: ¿Por qué con todo cerrado?\nN2: Porque queremos el peor escenario. Con las ventanas abiertas, el aire limpio diluiría el monóxido y te daría una lectura falsamente buena. Cerrado y con la campana apagada compruebas qué pasa cuando la familia tiene la cocina cerrada en invierno, que es cuando hay riesgo de verdad."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Parte 13 · AP-2 y AP-3",
    "titulo": "Combustión no higiénica y falta de AS",
@@ -122,6 +145,20 @@
    ],
    "img_brief": "digital gas analyzer display ppm reading",
    "notas": "N1: Se me juntan los números. ¿Me los ordenas?\nN2: Vamos a poner orden, que son dos escaleras que no puedes mezclar. Primera, el CO-ambiente, el del aire del local: hasta quince partes por millón está bien; entre quince y cincuenta es moderado, secundario, la AS uno o la AS dos; y por encima de cincuenta es grave, principal, la AP uno o la AP cuatro. Si en vez de monóxido mides dióxido de carbono ambiente, la misma escalera con otras cifras: hasta dos mil quinientos bien, entre dos mil quinientos y cinco mil moderado, más de cinco mil grave.\nN1: ¿Y la del conducto?\nN2: Esa es la segunda escalera, el CO en los productos de la combustión, medido dentro del conducto: hasta quinientas partes por millón es correcto; entre quinientas y mil es combustión deficiente, secundaria, la AS seis; y por encima de mil es combustión no higiénica, principal, la AP dos. La chuleta que lo resume todo: cincuenta es la del aire del local; quinientas y mil son las del conducto. Si tienes esos tres números, cincuenta, quinientas y mil, colocas cualquier medida en su sitio."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Mil partes por millón de CO. ¿A qué medida corresponde ese límite?",
+   "opciones": [
+    "Al CO del aire del local (CO-ambiente)",
+    "Al CO medido dentro del conducto de humos",
+    "Al dióxido de carbono ambiente",
+    "Al oxígeno de la vena de humos"
+   ],
+   "correcta": 1,
+   "porque": "Mil partes por millón es el límite del CO dentro del conducto (combustión no higiénica); en el aire del local la frontera grave es cincuenta.",
+   "notas_p": "N1: La trampa estrella del vídeo. Mil partes por millón de monóxido: ¿de dónde es ese número?\nN2: No confundas el aire del local con lo que hay dentro del tubo de humos.",
+   "notas_r": "N1: ¿Por qué del conducto y no del aire del local?\nN2: Porque son dos escaleras distintas que no puedes mezclar. Cincuenta es el CO-ambiente, el del aire del local. Quinientas y mil son el CO dentro del conducto de humos: por encima de mil, combustión no higiénica, principal. Ten clavados los tres números y colocas cualquier medida en su sitio."
   },
   {
    "tipo": "contenido",
@@ -186,6 +223,20 @@
    ],
    "img_brief": "combustion analyzer calibration laboratory certificate",
    "notas": "N1: ¿Cada cuánto hay que revisar el analizador?\nN2: Aquí vuelven los dieciocho meses, igual que el detector de fugas de la Parte once. El analizador de combustión debe someterse a una comprobación periódica por el fabricante o por un laboratorio acreditado según la Norma UNE-EN ISO/IEC diecisiete mil veinticinco, en ningún caso en periodos superiores a dieciocho meses. De esa comprobación se deja evidencia mediante un certificado en el que figuran las botellas patrón utilizadas, esos gases de referencia con concentración conocida con los que se ajusta el aparato.\nN1: ¿Y cuánto guardo esos papeles?\nN2: La empresa responsable del personal que hace el control debe guardar registro documental de esas comprobaciones durante cinco años. Y hay un requisito más de precisión: la incertidumbre de la calibración no debe superar el más menos cinco por ciento. Junta las cuatro cifras del anexo A, que caen tal cual: dieciocho meses de calibración, cinco años de registro, más menos cinco por ciento de incertidumbre y once milímetros del orificio de toma. Un analizador descalibrado te da una medida falsa y firmas como bueno un aparato peligroso; por eso es, literalmente, tu testigo, y hay que cuidarlo."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cada cuánto tiempo, como máximo, hay que calibrar el analizador de combustión?",
+   "opciones": [
+    "Cada seis meses",
+    "Cada doce meses",
+    "Cada dieciocho meses",
+    "Cada cinco años"
+   ],
+   "correcta": 2,
+   "porque": "El analizador se comprueba, por el fabricante o laboratorio acreditado, en periodos nunca superiores a dieciocho meses.",
+   "notas_p": "N1: De cifras del anexo, que caen tal cual. ¿Cada cuánto se calibra el analizador de combustión?\nN2: Es el mismo plazo que ya viste para el detector de fugas de la parte once.",
+   "notas_r": "N1: ¿Por qué dieciocho meses?\nN2: Porque un analizador descalibrado te da una medida falsa y firmarías como bueno un aparato peligroso. Por eso se comprueba, por el fabricante o por un laboratorio acreditado, en periodos que nunca superen los dieciocho meses. No lo confundas con los cinco años, que es cuánto se guarda el registro documental."
   },
   {
    "tipo": "contenido",

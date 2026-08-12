@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["13", "partes que forman la UNE 60670"],
-    ["5 bar", "MOP máxima que regula la norma"],
-    ["110 mbar", "tope del último tramo al aparato"]
+    [
+     "13",
+     "partes que forman la UNE 60670"
+    ],
+    [
+     "5 bar",
+     "MOP máxima que regula la norma"
+    ],
+    [
+     "110 mbar",
+     "tope del último tramo al aparato"
+    ]
    ],
    "notas": "N1: ¿Por qué me enseñas primero estos tres números?\nN2: Porque son las tres estacas donde vas a atar todo lo demás. Trece partes: la UNE seiscientos setenta no es un solo libro, son trece cuadernillos, y el nuestro es el ocho. Cinco bar: es la presión máxima de operación por debajo de la cual manda esta norma; por encima ya es otra historia. Y ciento diez milibares: es el tope suave con el que se comprueba el último metro, el tramo que va de la llave del aparato al propio aparato, porque ahí no puedes meter presiones altas sin destrozarlo. Quédate con ellos, que los repetiremos."
   },
@@ -72,6 +81,20 @@
    "notas": "N1: ¿Con qué relleno la tubería para probarla?\nN2: Solo con aire o con un gas inerte, que casi siempre es nitrógeno. Y ahora el porqué, que es lo que se te tiene que quedar. Con el propio gas combustible no, jamás: estarías metiendo una atmósfera explosiva a presión alta en la tubería, una bomba. Y con agua u otro líquido tampoco: te quedaría humedad dentro, y esa humedad luego corroe el metal, forma tapones o se te hiela en el regulador cuando aprieta el frío. El aire o el nitrógeno entran secos, prueban, y salen sin dejar rastro.\nN1: ¿La pruebo entera de una vez?\nN2: Como te venga mejor: puedes probar por tramos o toda la instalación de golpe. Y ojo, el resultado hay que documentarlo por escrito según la ley; no vale con decir de palabra que salió bien. Ese papel es parte de lo que entregas."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Con qué se realiza la prueba de estanquidad de entrega?",
+   "opciones": [
+    "Con el propio gas combustible de la red",
+    "Con aire o un gas inerte como el nitrógeno",
+    "Con agua a la presión de prueba",
+    "Con una mezcla de aire y gas natural"
+   ],
+   "correcta": 1,
+   "porque": "La prueba se hace solo con aire o gas inerte: el gas combustible sería explosivo y el agua dejaría humedad dentro de la tubería.",
+   "notas_p": "N1: Vamos con una que cae fijo. ¿Con qué llenas la tubería para probarla?\nN2: Piensa en qué no dejaría rastro ni peligro dentro del tubo. Descarta lo explosivo y lo que deje humedad.",
+   "notas_r": "N1: ¿Por qué la be?\nN2: Solo aire o gas inerte, casi siempre nitrógeno. El propio gas metería una atmósfera explosiva a presión alta, y el agua u otro líquido dejaría humedad que luego corroe o hiela el regulador. El truco: entra seco, prueba y sale sin rastro."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Generalidades",
    "titulo": "El orden de las llaves",
@@ -109,6 +132,64 @@
    ],
    "img_brief": "engineer reading pressure test manometer",
    "notas": "N1: Esta tabla parece la más importante, ¿cómo la memorizo?\nN2: Es la joya del vídeo, sí, y tiene un patrón muy fácil: a más presión de trabajo, más presión de prueba y más tiempo. Fíjate primero en las presiones de prueba, de mayor a menor operación: siete, tres coma cinco, uno, y cero coma uno bar. Cuatro escalones. Ahora los tiempos para el caso normal, que es caudal pequeño, hasta ciento cincuenta metros cúbicos por hora: sesenta, treinta, treinta y quince minutos. Fíjate que los dos de en medio coinciden en treinta.\nN1: ¿Y si el caudal es grande?\nN2: Entonces el tiempo ya no depende de la presión, sino solo del caudal. Si el caudal está entre ciento cincuenta y seiscientos metros cúbicos por hora, seis horas. Si es de seiscientos para arriba, veinticuatro horas. Y en los dos casos, siempre con registro de presión y de temperatura, porque en pruebas tan largas la temperatura cambia sí o sí y hay que poder descontar su efecto. Resumen cantado: presiones siete, tres y medio, uno, cero uno; tiempos sesenta, treinta, treinta, quince; y para caudales gordos, seis o veinticuatro horas registrando."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Tabla 1 · UNE 60670-8",
+   "titulo": "Presión y tiempo de prueba según la MOP",
+   "headers": [
+    "MOP (bar)",
+    "Presión de prueba P (bar)",
+    "q ≤ 150 m³(n)/h",
+    "150 < q < 600 m³(n)/h",
+    "q ≥ 600 m³(n)/h"
+   ],
+   "rows": [
+    [
+     "2 < MOP ≤ 5",
+     "≥ 7 (nota 1)",
+     "60 min (nota 1)",
+     "6 h, con registro de presión y temperatura",
+     "24 h, con registro de presión y temperatura"
+    ],
+    [
+     "0,4 < MOP ≤ 2",
+     "≥ 3,5 (nota 2)",
+     "30 min (nota 2)",
+     "6 h, con registro de presión y temperatura",
+     "24 h, con registro de presión y temperatura"
+    ],
+    [
+     "0,05 < MOP ≤ 0,4",
+     "≥ 1 (nota 2)",
+     "30 min (nota 2)",
+     "6 h, con registro de presión y temperatura",
+     "24 h, con registro de presión y temperatura"
+    ],
+    [
+     "MOP ≤ 0,05",
+     "≥ 0,1 (nota 3)",
+     "15 min (nota 3)",
+     "6 h, con registro de presión y temperatura",
+     "24 h, con registro de presión y temperatura"
+    ]
+   ],
+   "nota": "A más presión de trabajo (MOP), más presión y más tiempo de prueba; con caudal grande manda el caudal, no la MOP.",
+   "notas": "N1: Si te dan una MOP de cinco bar y caudal pequeño, ¿a qué presión y cuánto tiempo pruebas?\nN2: Esta tabla decide la presión y el tiempo de la prueba de estanquidad, y se lee por filas de mayor a menor presión de operación. Primera fila, de dos a cinco bar: pruebas a siete bar como mínimo y mantienes sesenta minutos si el caudal es pequeño. Segunda, de cero coma cuatro a dos bar: tres coma cinco bar y treinta minutos. Tercera, de cero coma cero cinco a cero coma cuatro bar: un bar y treinta minutos. Cuarta, hasta cero coma cero cinco bar: cero coma uno bar y quince minutos. Las dos últimas columnas mandan cuando el caudal es grande, sin importar la MOP: seis horas si está entre ciento cincuenta y seiscientos metros cúbicos por hora, y veinticuatro horas de seiscientos en adelante, siempre con registro de presión y temperatura. Ejemplo de obra: una individual a cinco bar con poco caudal, pruebas a siete bar y cronometras sesenta minutos desde la primera lectura."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "MOP de cinco bar y caudal pequeño: ¿qué presión y tiempo de prueba aplicas?",
+   "opciones": [
+    "Siete bar durante sesenta minutos",
+    "Cinco bar durante treinta minutos",
+    "Tres coma cinco bar durante sesenta minutos",
+    "Siete bar durante veinticuatro horas"
+   ],
+   "correcta": 0,
+   "porque": "En el rango de dos a cinco bar la presión de prueba es de al menos siete bar y el tiempo con caudal pequeño es de sesenta minutos.",
+   "notas_p": "N1: Casi seguro que cae. MOP de cinco bar, caudal pequeño: dime presión y tiempo.\nN2: Recuerda que la presión de prueba va por encima de la de trabajo, y que el caudal pequeño usa el tiempo de la primera columna.",
+   "notas_r": "N1: ¿Por qué la a?\nN2: Fila de dos a cinco bar: al menos siete bar de prueba y sesenta minutos con caudal pequeño. Ojo a la trampa de la de, veinticuatro horas es solo para caudales muy grandes. Y no confundas presión de prueba con la de operación: no pruebas a cinco, pruebas a siete."
   },
   {
    "tipo": "contenido",
@@ -174,6 +255,20 @@
    ],
    "img_brief": "gas meter regulator cabinet",
    "notas": "N1: Prueba y comprobación, ¿no es lo mismo?\nN2: No, y esta diferencia de palabras cae en el examen, así que afínala. La tubería se somete a una prueba de estanquidad, con presión elevada, la de la tabla. Pero el conjunto de regulación y los contadores no se prueban: solo se comprueban, y a su presión de operación, la normal de trabajo, usando un detector de gas, agua jabonosa o un método similar. Buscas burbujas en las uniones de entrada y de salida del regulador y del contador.\nN1: ¿Y por qué a ellos no se les mete la presión alta?\nN2: Porque son equipos calibrados y delicados, igual que los filtros y las electroválvulas de antes. Meterles la presión de prueba los estropearía o descalibraría. La regla mental que te vale para todo el vídeo: tubería, prueba a presión alta; regulador y contador, comprobación a presión de trabajo. Si te acuerdas de esa frase, tienes media pregunta ganada."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "El conjunto de regulación y los contadores, ¿cómo se verifican?",
+   "opciones": [
+    "Con la prueba de estanquidad a la presión de prueba alta",
+    "Se comprueban a la presión de operación con detector o agua jabonosa",
+    "No se verifican, van precintados de fábrica",
+    "Con agua a la presión máxima de operación"
+   ],
+   "correcta": 1,
+   "porque": "Regulación y contadores solo se comprueban a su presión de operación; la presión de prueba alta los estropearía por ser equipos calibrados.",
+   "notas_p": "N1: Diferencia de palabras que cae mucho. Regulación y contadores, ¿se prueban o se comprueban?\nN2: Fíjate en que son equipos calibrados y delicados. ¿Aguantarían la presión de prueba alta?",
+   "notas_r": "N1: ¿Por qué la be?\nN2: La tubería se prueba a presión alta, pero regulación y contadores solo se comprueban a su presión de trabajo, con detector o agua jabonosa. Meterles la presión de prueba los descalibraría. Frase para recordarlo: tubería, prueba; regulador y contador, comprobación."
   },
   {
    "tipo": "cierre",

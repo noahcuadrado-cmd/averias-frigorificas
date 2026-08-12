@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["13", "partes que componen la UNE 60670"],
-    ["7", "datos de partida que da la distribuidora"],
-    ["20", "velocidad máxima del gas, en m/s"]
+    [
+     "13",
+     "partes que componen la UNE 60670"
+    ],
+    [
+     "7",
+     "datos de partida que da la distribuidora"
+    ],
+    [
+     "20",
+     "velocidad máxima del gas, en m/s"
+    ]
    ],
    "notas": "N1: ¿Qué tres cifras resumen el vídeo?\nN2: Tres números que van a ser tus anclas. Uno, la norma completa son trece partes, y la que estudiamos es la cuatro, la de diseño y construcción. Dos, antes de calcular nada necesitas siete datos de partida, y no te los inventas: te los da por escrito la compañía distribuidora. Y tres, el gas nunca puede correr por el tubo a más de veinte metros por segundo, porque si va más rápido silba, vibra y arrastra suciedad. Si retienes estos tres números, ya tienes el esqueleto del vídeo montado."
   },
@@ -92,6 +101,45 @@
    "notas": "N1: ¿Qué es eso del grado de gasificación?\nN2: Es una etiqueta según la potencia que va a tener la instalación de una vivienda o local. Solo tienes que memorizar dos números: treinta y setenta kilovatios. Hasta treinta, grado uno; entre treinta y setenta, grado dos; por encima de setenta, grado tres. Nada más. La potencia, recuerda, es cuánto gas es capaz de quemar la instalación cuando está a tope. ¿Por qué importa el grado? Porque marca cómo tratas la instalación: cuanto más grande, más exigencias. Y guárdate bien el setenta, porque reaparece enseguida: las instalaciones de más de setenta kilovatios hay que individualizarlas, sacarlas aparte. El treinta y el setenta caen muchísimo, así que que no se te olviden."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 3.2 · Grado de gasificación",
+   "titulo": "Grado de gasificación de los locales",
+   "headers": [
+    "Grado",
+    "Potencia de diseño individual (Pi), en kW"
+   ],
+   "rows": [
+    [
+     "1",
+     "Pi ≤ 30"
+    ],
+    [
+     "2",
+     "30 < Pi ≤ 70"
+    ],
+    [
+     "3",
+     "Pi > 70"
+    ]
+   ],
+   "nota": "Pi es la potencia con la que se dota la vivienda o local; según ese valor, la instalación cae en uno de los tres grados.",
+   "notas": "N1: ¿En qué grado cae una vivienda según su potencia?\nN2: Esta tabla es la regla de los tres grados, y solo tienes que fijarte en dos cifras: treinta y setenta kilovatios. Se lee de arriba abajo. Primera fila: si la potencia de diseño de la instalación individual es igual o menor que treinta kilovatios, es grado uno, la vivienda normal. Segunda fila: si está por encima de treinta y hasta setenta, es grado dos. Tercera fila: si pasa de setenta, es grado tres, y eso obliga a individualizar la instalación, a sacarla aparte. Un ejemplo de obra: un piso con caldera y cocina que suma unos treinta kilovatios es grado uno; la caldera común de todo un bloque, que se va por encima de setenta, es grado tres. Guárdate el setenta, porque es la frontera que más cae."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Una instalación individual de 65 kW, ¿qué grado de gasificación tiene?",
+   "opciones": [
+    "Grado 1",
+    "Grado 2",
+    "Grado 3",
+    "No se le asigna grado"
+   ],
+   "correcta": 1,
+   "porque": "El grado 2 abarca las potencias por encima de 30 kW y hasta 70 kW, y 65 kW cae dentro de ese tramo.",
+   "notas_p": "N1: Vamos con una rápida. Tienes sobre la mesa una instalación de sesenta y cinco kilovatios. ¿Qué grado le pones?\nN2: Piensa en las dos cifras clave, treinta y setenta, y mira entre qué números cae el sesenta y cinco.",
+   "notas_r": "N1: ¿Por qué grado dos?\nN2: Porque el grado dos es el tramo que va por encima de treinta y hasta setenta kilovatios, y sesenta y cinco está justo ahí dentro. El truco para no fallar: si no pasa de setenta, todavía no es grado tres; y como supera los treinta, ya no es grado uno. Solo cuando se rebasa el setenta salta a grado tres y hay que individualizar."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.2 · Potencia de la vivienda",
    "titulo": "Los dos aparatos grandes, enteros",
@@ -128,6 +176,189 @@
    "notas": "N1: ¿Y cómo calculo lo que pide el edificio entero?\nN2: Sumando lo de todas las viviendas y locales que cuelgan de la misma acometida, incluidos los pisos que todavía no tienen instalación pero podrían tenerla. A las viviendas les aplicas un factor de simultaneidad, que se llama ese ene, y a los locales los sumas aparte. La clave del factor es puro sentido común: cuanto más grande es el edificio, menos probable es que todos usen el gas a la vez, así que el factor baja. Para una sola vivienda vale uno, esa sola puede tenerlo todo encendido; para más de treinta viviendas se queda en quince centésimas. Y una regla que cae fijo: existen dos factores, uno sin calefacción y otro con calefacción, y el de con calefacción siempre es mayor, porque la calefacción tira mucho gas y hace más probable que coincidan usándolo. Menos viviendas o con calefacción, factor más alto; muchas viviendas y sin calefacción, factor más bajo."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 3.3 · Factor de simultaneidad",
+   "titulo": "Factor de simultaneidad Sn (1 a 16 viviendas)",
+   "headers": [
+    "Nº viviendas",
+    "S1 (sin calefacción)",
+    "S2 (con calefacción)"
+   ],
+   "rows": [
+    [
+     "1",
+     "1,00",
+     "1,00"
+    ],
+    [
+     "2",
+     "0,70",
+     "0,88"
+    ],
+    [
+     "3",
+     "0,55",
+     "0,79"
+    ],
+    [
+     "4",
+     "0,46",
+     "0,72"
+    ],
+    [
+     "5",
+     "0,40",
+     "0,67"
+    ],
+    [
+     "6",
+     "0,36",
+     "0,63"
+    ],
+    [
+     "7",
+     "0,33",
+     "0,59"
+    ],
+    [
+     "8",
+     "0,30",
+     "0,56"
+    ],
+    [
+     "9",
+     "0,28",
+     "0,54"
+    ],
+    [
+     "10",
+     "0,26",
+     "0,52"
+    ],
+    [
+     "11",
+     "0,25",
+     "0,50"
+    ],
+    [
+     "12",
+     "0,24",
+     "0,48"
+    ],
+    [
+     "13",
+     "0,23",
+     "0,47"
+    ],
+    [
+     "14",
+     "0,22",
+     "0,46"
+    ],
+    [
+     "15",
+     "0,21",
+     "0,45"
+    ],
+    [
+     "16",
+     "0,21",
+     "0,44"
+    ]
+   ],
+   "nota": "S1 se usa cuando no hay calefacción individual y S2 cuando sí la hay; el factor multiplica la suma de potencias de las viviendas.",
+   "notas": "N1: ¿Cómo se lee esta tabla del factor de simultaneidad?\nN2: Primero cuentas cuántas viviendas cuelgan de la acometida y buscas esa fila. Luego eliges columna: la ese uno si el edificio no tiene calefacción individual, y la ese dos si la tiene. El número que sale es el factor por el que multiplicas la suma de las potencias de las viviendas. Fíjate en el patrón: cuantas más viviendas, más baja el factor, porque es menos probable que todos usen el gas a la vez. Para una vivienda vale uno entero; para dieciséis ya baja a veintiuna centésimas sin calefacción. Y una regla que cae fijo: la columna con calefacción siempre da un número mayor que la de sin calefacción, porque la calefacción tira mucho y hace más probable el uso simultáneo. Ejemplo: en un bloque de ocho viviendas sin calefacción, multiplicas la suma de potencias por treinta centésimas."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 3.3 · Factor de simultaneidad",
+   "titulo": "Factor de simultaneidad Sn (de 17 viviendas en adelante)",
+   "headers": [
+    "Nº viviendas",
+    "S1 (sin calefacción)",
+    "S2 (con calefacción)"
+   ],
+   "rows": [
+    [
+     "17",
+     "0,20",
+     "0,43"
+    ],
+    [
+     "18",
+     "0,19",
+     "0,42"
+    ],
+    [
+     "19",
+     "0,19",
+     "0,41"
+    ],
+    [
+     "20",
+     "0,19",
+     "0,41"
+    ],
+    [
+     "21",
+     "0,18",
+     "0,40"
+    ],
+    [
+     "22",
+     "0,18",
+     "0,39"
+    ],
+    [
+     "23",
+     "0,18",
+     "0,39"
+    ],
+    [
+     "24",
+     "0,17",
+     "0,38"
+    ],
+    [
+     "25",
+     "0,17",
+     "0,38"
+    ],
+    [
+     "26",
+     "0,17",
+     "0,38"
+    ],
+    [
+     "27",
+     "0,16",
+     "0,37"
+    ],
+    [
+     "28",
+     "0,16",
+     "0,37"
+    ],
+    [
+     "29",
+     "0,16",
+     "0,36"
+    ],
+    [
+     "30",
+     "0,16",
+     "0,36"
+    ],
+    [
+     "Más de 30",
+     "0,15",
+     "0,35"
+    ]
+   ],
+   "nota": "A partir de 30 viviendas el factor se estabiliza en su valor mínimo: 0,15 sin calefacción y 0,35 con calefacción.",
+   "notas": "N1: ¿Y qué pasa cuando el edificio es muy grande?\nN2: Esta es la segunda mitad de la tabla, de diecisiete viviendas en adelante. Se lee igual: buscas la fila por número de viviendas y eliges columna según haya o no calefacción. Lo importante de esta parte es el final: cuando pasas de treinta viviendas, el factor deja de bajar y se queda clavado en el mínimo, quince centésimas sin calefacción y treinta y cinco con calefacción. Da igual que sean treinta y una o doscientas viviendas: se usa siempre ese suelo. La razón es la misma de antes, en un edificio enorme es casi imposible que todos abran el gas a la vez, así que el factor no puede seguir bajando sin fin. Ejemplo: para una torre de cincuenta viviendas con calefacción, multiplicas por treinta y cinco centésimas."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.3 · Más de 70 kW",
    "titulo": "Lo grande va aparte",
@@ -162,6 +393,54 @@
    ],
    "img_brief": "blue gas flame burner close up",
    "notas": "N1: ¿Qué límites tengo que respetar al calcular?\nN2: Dos, y los dos entran en el examen casi seguro. El primero es la velocidad del gas dentro del tubo: no puede pasar de veinte metros por segundo. ¿Por qué? Porque si el gas corre demasiado rápido, silba, vibra y arrastra la suciedad del tubo hacia el aparato. El segundo son las presiones mínimas en la llave del aparato: el gas natural necesita al menos diecisiete milibares, el butano veinte, el propano cuarenta y dos coma cinco cuando va a cincuenta, y veinticinco cuando va a treinta y siete. ¿Por qué mínimas? Porque si al aparato le llega menos presión de la que marca la tabla, no funciona bien: la caldera modula a la baja o se apaga, el calentador no calienta. Y si le falta presión, casi siempre es porque el tubo se quedó corto de diámetro o el gas va demasiado rápido. Por eso estos dos topes mandan sobre todo el cálculo."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 3.5 · Criterios de cálculo",
+   "titulo": "Presión mínima de gas en la llave de aparato",
+   "headers": [
+    "Familia y grupo",
+    "Denominación del gas",
+    "Presión mínima en la llave (mbar)"
+   ],
+   "rows": [
+    [
+     "2H",
+     "Gas natural",
+     "17"
+    ],
+    [
+     "3B",
+     "Gas butano",
+     "20"
+    ],
+    [
+     "3P (50)",
+     "Gas propano",
+     "42,5"
+    ],
+    [
+     "3P (37)",
+     "Gas propano",
+     "25"
+    ]
+   ],
+   "nota": "Es la presión que como mínimo debe llegar a la entrada del aparato; por debajo de ella, el aparato no funciona bien.",
+   "notas": "N1: ¿Cuánta presión tiene que llegar como mínimo al aparato?\nN2: Esta tabla te da el suelo de presión en la llave del aparato según el gas, y se lee por filas. El gas natural, familia dos hache, necesita al menos diecisiete milibares. El butano, veinte. El propano tiene dos casos: cuando trabaja a cincuenta milibares de partida, en la llave del aparato necesita al menos cuarenta y dos coma cinco; y cuando trabaja a treinta y siete, necesita veinticinco. La idea es siempre la misma: si a la entrada del aparato llega menos presión que la de la tabla, el aparato no rinde, la caldera modula a la baja o se apaga y el calentador no calienta. Ejemplo de obra: si mides en la llave de una caldera de gas natural y no llegas a diecisiete milibares, la instalación está mal dimensionada o pierde demasiada carga por el camino."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál es la velocidad máxima admisible del gas dentro de la tubería?",
+   "opciones": [
+    "10 m/s",
+    "15 m/s",
+    "20 m/s",
+    "25 m/s"
+   ],
+   "correcta": 2,
+   "porque": "La norma fija que la velocidad del gas no debe superar los 20 m/s para evitar ruidos, vibraciones y arrastre de suciedad.",
+   "notas_p": "N1: Pregunta de las que caen fijo. ¿A qué velocidad como mucho puede circular el gas por el tubo?\nN2: Piensa en por qué se limita: si el gas corre demasiado, silba y arrastra suciedad. Es un número redondo.",
+   "notas_r": "N1: ¿Por qué veinte metros por segundo?\nN2: Porque la norma pone ese tope para que el gas no vaya tan rápido que empiece a silbar, a vibrar y a arrastrar la suciedad del tubo hasta el aparato. El truco para no fallar: es un número redondo y bajo, veinte, no lo confundas con presiones ni con potencias. Si en el cálculo te pasas de esa velocidad, tienes que subir el diámetro del tubo."
   },
   {
    "tipo": "contenido",

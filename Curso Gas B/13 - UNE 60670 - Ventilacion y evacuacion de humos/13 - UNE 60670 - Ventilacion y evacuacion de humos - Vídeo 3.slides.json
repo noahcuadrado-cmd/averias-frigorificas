@@ -89,6 +89,50 @@
    "notas": "N1: ¿De qué grosor tiene que ser el tubo de salida directa?\nN2: Depende de la potencia del aparato, y lo da la tabla tres. La idea: a más kilovatios, más humos, y por tanto más diámetro. Para aparatos pequeños, de hasta once coma cinco kilovatios, noventa milímetros; y va subiendo por escalones, ciento diez, ciento veinticinco, hasta ciento setenta y cinco milímetros para los más potentes, por encima de cuarenta y cinco kilovatios. Lo importante para el examen y la obra: el diámetro nunca puede ser inferior al de la tabla y nunca con reducciones. Un instalador que mete un tubo más fino del que toca «para que quepa» está ahogando la salida de humos: el aparato revocará. El diámetro lo manda el fabricante, y nunca por debajo de esa tabla."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Tiro natural · salida directa",
+   "titulo": "Diámetros mínimos del conducto (tabla 3)",
+   "headers": [
+    "Consumo nominal Qₙ (kW)",
+    "Diámetro interior mínimo (mm)",
+    "Puntuación mínima (tabla 4)"
+   ],
+   "rows": [
+    [
+     "Qₙ ≤ 11,5",
+     "90",
+     "+ 1"
+    ],
+    [
+     "11,5 < Qₙ ≤ 23,0",
+     "110",
+     "+ 1"
+    ],
+    [
+     "23,0 < Qₙ ≤ 30,7",
+     "125",
+     "+ 1"
+    ],
+    [
+     "30,7 < Qₙ ≤ 39,0",
+     "139",
+     "+ 1"
+    ],
+    [
+     "39,0 < Qₙ ≤ 45,0",
+     "150",
+     "+ 1"
+    ],
+    [
+     "Qₙ > 45,0",
+     "175",
+     "+ 1"
+    ]
+   ],
+   "nota": "A más kilovatios, más humos y más diámetro. Nunca por debajo de la tabla ni con reducciones; la puntuación final, siempre ≥ +1.",
+   "notas": "N1: ¿De qué diámetro tiene que ser el tubo de salida directa en tiro natural?\nN2: Lo da la tabla tres, según la potencia del aparato: a más kilovatios, más humos, y por tanto más diámetro. Para los pequeños, hasta once coma cinco kilovatios, noventa milímetros. Y va subiendo por escalones: ciento diez hasta veintitrés kilovatios, ciento veinticinco hasta treinta coma siete, ciento treinta y nueve hasta treinta y nueve, ciento cincuenta hasta cuarenta y cinco, y ciento setenta y cinco para los más potentes, por encima de cuarenta y cinco kilovatios. La regla de obra: el diámetro nunca por debajo del de la tabla y nunca con reducciones, porque estrechar el tubo ahoga la salida y el aparato revoca. Además, sea cual sea el escalón, la puntuación del conducto tiene que dar al menos más uno."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Tiro natural · puntuación",
    "titulo": "La puntuación del conducto (tabla 4)",
@@ -101,6 +145,55 @@
    "notas": "N1: ¿Qué es eso de la «puntuación» del conducto?\nN2: Es una forma ingeniosa de comprobar sobre el papel si el conducto va a tirar bien, antes de montarlo. Funciona como un juego de puntos. Ganar altura suma: cada centímetro que sube el conducto aporta cero coma uno puntos, porque la altura es lo que hace que los humos suban solos. Y cada codo o cada tramo horizontal resta, porque frenan los humos; un codo cerrado puede quitarte dos puntos, y la longitud recta también descuenta. El deflector del extremo resta un poco también. Al final, la suma tiene que dar al menos más uno. Idea corta: sube mucho y dobla poco. Un conducto vertical y corto aprueba de sobra; uno muy tumbado y lleno de codos suspende, y en obra eso es revoco y el aparato apagándose."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Tiro natural · puntuación",
+   "titulo": "Valoración de singularidades (tabla 4)",
+   "headers": [
+    "Singularidad",
+    "Valoración"
+   ],
+   "rows": [
+    [
+     "Cota total ganada por cualquier concepto (H, en cm)",
+     "+ 0,1 · H"
+    ],
+    [
+     "Codo > 45° y ≤ 90°, vertical → horizontal",
+     "− 2"
+    ],
+    [
+     "Codo ≤ 45°, vertical ascendente",
+     "− 1"
+    ],
+    [
+     "Codo > 45° y ≤ 90°, no vertical no ascendente",
+     "− 2"
+    ],
+    [
+     "Codo ≤ 45°, no vertical no ascendente",
+     "− 1"
+    ],
+    [
+     "Codo > 45° y ≤ 90°, horizontal → vertical",
+     "− 0,3"
+    ],
+    [
+     "Codo ≤ 45°, horizontal ascendente",
+     "− 0,1"
+    ],
+    [
+     "Longitud de los tramos rectos (L, en m)",
+     "− 0,5 · L"
+    ],
+    [
+     "Deflector (en tipo B, según UNE 60406)",
+     "− 0,3"
+    ]
+   ],
+   "nota": "Sumas todo: subir suma, codos y tramos rectos restan. El total debe quedar en ≥ +1 para que el conducto tire.",
+   "notas": "N1: ¿Cómo se puntúa si un conducto va a tirar bien?\nN2: Con la tabla cuatro, que es un juego de sumar y restar. Ganar altura suma: cero coma uno puntos por cada centímetro que sube el conducto, porque la altura es lo que empuja los humos hacia arriba. A partir de ahí, casi todo resta. Un codo cerrado, de más de cuarenta y cinco grados, que pase de vertical a horizontal, quita dos puntos; los codos suaves, de hasta cuarenta y cinco grados, restan menos, un punto o unas décimas. Cada metro de tramo recto resta medio punto, y el deflector del extremo, tres décimas. Sumas todo y el resultado tiene que dar al menos más uno. Ejemplo de obra: un conducto vertical y corto suma altura y apenas resta, aprueba de sobra; uno muy tumbado y con codos suspende, y eso en la práctica es revoco. La regla: sube mucho y dobla poco."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Tiro natural · distancias",
    "titulo": "Distancias del extremo",
@@ -111,6 +204,20 @@
    ],
    "img_brief": "flue terminal on exterior wall",
    "notas": "N1: ¿Y a qué distancia tiene que quedar la boca del tubo de las cosas de alrededor?\nN2: Aquí hay una regla mnemotécnica que te salva: al salir a fachada o patio, casi todas las distancias son cuarenta centímetros. Cuarenta a cualquier abertura permanente de ventilación, cuarenta a ventanas o puertas de otro local, cuarenta a paredes laterales externas, y cuarenta a cornisas y aleros. Solo cambian dos números: diez centímetros respecto al muro que el tubo atraviesa, y veinte centímetros a cualquier otro resalte de la fachada. Y una distancia grande: dos metros veinte respecto al suelo exterior, para que nadie meta la cara en los humos, salvo que salgan a tu propia zona privada. Todo esto se mide sin contar el deflector del extremo. Acercar la boca a una ventana es meterle los humos al vecino: mancha negra en la fachada y anomalía en la revisión."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "En una salida de tiro natural a fachada, ¿qué distancia se guarda respecto al muro que atraviesa?",
+   "opciones": [
+    "10 cm",
+    "20 cm",
+    "40 cm",
+    "220 cm"
+   ],
+   "correcta": 0,
+   "porque": "Casi todas las distancias del extremo son 40 cm, pero respecto al muro que atraviesa son 10 cm (y 20 cm a cualquier otro resalte).",
+   "notas_p": "N1: Chuleta de distancias del extremo. ¿Cuánto al muro que el tubo atraviesa?\nN2: Recuerda que casi todo es cuarenta, pero hay dos excepciones. Esta es una de ellas, la más pequeña.",
+   "notas_r": "N1: ¿Por qué diez?\nN2: Porque la regla mnemotécnica es «casi todo cuarenta, dos excepciones». Cuarenta centímetros a aberturas permanentes, a ventanas o puertas de otro local, a paredes laterales y a cornisas y aleros. Las dos que se salen: diez centímetros al muro que el tubo atraviesa, y veinte centímetros a cualquier otro resalte. Y aparte, dos metros veinte al suelo exterior. El truco: memoriza las dos excepciones, diez y veinte, y todo lo demás es cuarenta."
   },
   {
    "tipo": "contenido",
@@ -196,6 +303,20 @@
    ],
    "img_brief": "multiple flue pipes shared chimney",
    "notas": "N1: ¿Qué cosas no se pueden juntar en la misma chimenea?\nN2: Hay cuatro prohibiciones, todas de sentido común, y caen mucho. Una: no se mezclan aparatos de tiro natural y de tiro forzado en el mismo conducto vertical, porque el ventilador de uno revocaría los humos del otro hacia dentro. Dos: no se juntan aparatos de condensación y de no condensación, salvo que la chimenea sea especial, anticorrosión según la norma UNE ciento veintitrés mil uno, y se haga el cálculo de sección; es que el de condensación echa humos húmedos y ácidos que pudren un tubo normal. Tres: no se conecta a la chimenea del aparato ningún extractor ni campana de cocina, porque chuparían los humos. Y cuatro: no se mezcla el gas con humos de carbón o gasóleo; y si reaprovechas una chimenea vieja que llevó sólidos, antes la limpias y compruebas que tira. Cada una de estas mezclas es un caso real de revoco o de intoxicación."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál de estas conexiones a una misma chimenea está permitida sin requisitos especiales?",
+   "opciones": [
+    "Un aparato de tiro natural con otro de tiro forzado",
+    "Una campana de cocina con extracción mecánica",
+    "Dos aparatos de no condensación compatibles",
+    "Un aparato de gas con una caldera de gasóleo"
+   ],
+   "correcta": 2,
+   "porque": "No se mezclan tiro natural con forzado, ni condensación con no condensación, ni extractores o campanas, ni gas con líquidos o sólidos. Dos aparatos de no condensación compatibles sí pueden compartir chimenea.",
+   "notas_p": "N1: La lista de «no mezclar». De estas cuatro, ¿cuál sí se permite sin líos?\nN2: Tres son prohibiciones que caen siempre. Busca la que no rompe ninguna regla.",
+   "notas_r": "N1: ¿Por qué esa?\nN2: Porque las otras tres son prohibiciones de la norma: no se juntan tiro natural y tiro forzado en el mismo tubo vertical, porque el ventilador de uno revoca al otro; no se conecta una campana o un extractor a la chimenea del aparato, porque chuparía los humos; y no se mezcla el gas con gasóleo o carbón. En cambio, dos aparatos de no condensación compatibles sí pueden compartir chimenea. El truco: si en la opción aparece «tiro forzado con natural», «campana o extractor», «condensación con no condensación» o «gasóleo», es que no se puede."
   },
   {
    "tipo": "contenido",

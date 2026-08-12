@@ -54,6 +54,20 @@
    "notas": "N1: ¿Y cuándo me obligan a hacer un proyecto?\nN2: Aquí tienes que memorizar tres números y una regla de presión. Una instalación individual necesita proyecto si pasa de setenta kilovatios. Una instalación común, si pasa de dos mil. Una acometida interior, también si pasa de dos mil. Y por encima de todo manda la presión: si la instalación se alimenta de una red que trabaja a más de cinco bar, necesita proyecto siempre, sea cual sea el uso y la potencia. El truco: la individual salta antes, con setenta, porque es la pequeña; la común y la acometida aguantan hasta dos mil. Y añade dos casos más: cuando se usan técnicas o materiales nuevos, y cuando por sus características no se puede cumplir algún requisito sin bajar la seguridad. Saber esto te evita arrancar una obra que luego no se puede legalizar."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿A partir de qué potencia necesita proyecto una instalación individual?",
+   "opciones": [
+    "2.000 kW",
+    "70 kW",
+    "30 kW",
+    "24,4 kW"
+   ],
+   "correcta": 1,
+   "porque": "La individual, por ser la pequeña, salta con setenta kilovatios; la común y la acometida aguantan hasta dos mil.",
+   "notas_p": "N1: Instalación individual. ¿Cuántos kilovatios tiene que superar para obligarte a hacer proyecto?\nN2: Recuerda que la individual es la pequeña de la familia, así que salta antes que la común y la acometida. Una de las opciones es justo el listón de esas dos grandes, no las confundas.",
+   "notas_r": "N1: ¿Por qué setenta?\nN2: Porque una instalación individual necesita proyecto en cuanto pasa de setenta kilovatios. Los dos mil son el listón de la común y de la acometida interior, que son mayores. La lógica: la pequeña salta antes. Y por encima de todo, si la red da más de cinco bar, siempre hay proyecto, sea cual sea la potencia."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.2 · Ampliaciones",
    "titulo": "La regla del 30 %",
@@ -88,6 +102,20 @@
    ],
    "img_brief": "pressure gauge manometer on gas pipe test",
    "notas": "N1: ¿Qué prueba hay que hacer antes de entregar la instalación?\nN2: La prueba de estanquidad, que es la más importante. Estanquidad significa que la instalación no tiene fugas, que no se escapa ni una burbuja de gas por ninguna unión. Antes de entregar, tú, la empresa instaladora, tienes que probarlo, siguiendo la UNE sesenta mil seiscientos setenta guion ocho si es baja presión, o la UNE sesenta mil seiscientos veinte si es alta. Y el resultado positivo se hace constar en el certificado de instalación, o sea, queda por escrito y firmado. Recuerda un matiz del tema del reglamento: la prueba la hace quien monta; no la confundas con la inspección, que la hace un tercero distinto. Una estanquidad mal hecha acaba en olor a gas y, en lo grave, en una deflagración."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Quién realiza la prueba de estanquidad antes de entregar la instalación?",
+   "opciones": [
+    "El distribuidor",
+    "Un organismo de control independiente",
+    "La empresa instaladora",
+    "El usuario titular"
+   ],
+   "correcta": 2,
+   "porque": "La prueba de entrega la hace quien monta, es decir la empresa instaladora, y el resultado queda en el certificado de instalación.",
+   "notas_p": "N1: Antes de entregar la instalación hay que probar que no tiene fugas. ¿Quién hace esa prueba de estanquidad?\nN2: Piensa en el matiz del reglamento entre probar e inspeccionar. La prueba de entrega la hace quien ha montado; la inspección, en cambio, la hace un tercero. No mezcles los dos papeles.",
+   "notas_r": "N1: ¿Por qué la instaladora?\nN2: Porque la prueba de estanquidad de entrega la realiza la propia empresa instaladora, la que ha montado, siguiendo la UNE sesenta mil seiscientos setenta guion ocho en baja o la seiscientos veinte en alta, y el resultado favorable se hace constar en el certificado de instalación. El distribuidor aparece después, en la puesta en servicio; no lo confundas con la prueba de entrega. Truco: quien monta, prueba."
   },
   {
    "tipo": "contenido",
@@ -125,6 +153,20 @@
    ],
    "img_brief": "gas cooktop and boiler in home",
    "notas": "N1: ¿Por qué dices que solo uno de ellos habla de aparatos?\nN2: Porque de los tres certificados, solo el individual, el uno erre ge guion tres, tiene que listar los aparatos de consumo conectados o previstos, indicando su consumo calorífico nominal, es decir, cuántos kilovatios consume cada uno. Y tiene toda la lógica: es el único tramo que llega de verdad hasta los aparatos, dentro de la vivienda. El de la acometida y el de la común se quedan por el camino, en la entrada y en el montante, así que no tienen aparatos que listar. Truco para el examen: si una pregunta habla de listar aparatos y su potencia, piensa siempre en el individual."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál de los certificados de instalación lista los aparatos y su consumo?",
+   "opciones": [
+    "IRG-1, acometida interior",
+    "IRG-2, instalación común",
+    "IRG-3, instalación individual",
+    "Los tres por igual"
+   ],
+   "correcta": 2,
+   "porque": "Solo el individual, el IRG-3, llega hasta los aparatos dentro de la vivienda, así que es el único que los lista con su consumo nominal.",
+   "notas_p": "N1: Tres certificados, uno por tramo. ¿Cuál es el que tiene que listar los aparatos de consumo con sus kilovatios?\nN2: Piensa en cuál de los tres tramos llega de verdad hasta los aparatos dentro de la casa. Los otros dos se quedan por el camino, en la entrada y en el montante.",
+   "notas_r": "N1: ¿Por qué el individual?\nN2: Porque el uno erre ge guion tres, el de la instalación individual, es el único tramo que llega hasta los aparatos dentro de la vivienda; por eso es el único que los lista con su consumo calorífico nominal. El de la acometida y el de la común se quedan en la entrada y en el montante, sin aparatos que anotar. Truco: si la pregunta habla de listar aparatos y potencias, piensa siempre en el individual."
   },
   {
    "tipo": "contenido",

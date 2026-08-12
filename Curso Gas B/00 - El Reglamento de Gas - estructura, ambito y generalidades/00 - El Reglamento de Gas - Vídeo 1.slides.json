@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["9", "tipos de instalación regulados"],
-    ["3", "partes de la instalación receptora"],
-    ["24", "definiciones del artículo tercero"]
+    [
+     "9",
+     "tipos de instalación regulados"
+    ],
+    [
+     "3",
+     "partes de la instalación receptora"
+    ],
+    [
+     "24",
+     "definiciones del artículo tercero"
+    ]
    ],
    "notas": "N1: ¿Qué tres números me dan el esqueleto del vídeo?\nN2: Fíjate en estos tres y no te perderás. Nueve tipos de instalación que el Reglamento mete bajo su paraguas, desde la red de la calle hasta el aparato de tu cocina. Tres partes en las que se divide la instalación receptora, que es tu terreno del día a día. Y veinticuatro definiciones en el artículo tercero, que es, ni más ni menos, el diccionario del oficio. Si retienes estos tres bloques ya sabes qué se regula, cuál es tu zona de trabajo y con qué palabras se nombra todo. El resto del vídeo, y buena parte del curso, cuelga de aquí."
   },
@@ -70,6 +79,93 @@
    "notas": "N1: ¿Todo lo que huele a gas entra aquí?\nN2: Prácticamente todo, sí. El Reglamento cubre nueve tipos, pero no te aprendas nueve cosas sueltas, agrúpalas en cinco ideas y las retienes. Una, la red de la calle, o distribución por canalización, con sus tuberías de la compañía hasta dieciséis bar. Dos, todo el mundo del GLP: las bombonas, los depósitos fijos de los chalés y las plantas de gas natural licuado. Tres, las estaciones de servicio para repostar coches a gas. Cuatro, las instalaciones receptoras, que son tu terreno del día a día. Y cinco, los propios aparatos que queman el gas. De esas nueve letras, retén la hache, las receptoras, porque es donde vas a vivir como gasista de categoría B. Las demás las reconoces, pero la tuya es la hache."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Artículo 2 · Campo de aplicación",
+   "titulo": "A qué se aplica (letras a a e)",
+   "headers": [
+    "Letra",
+    "Instalación / aparato",
+    "En cristiano"
+   ],
+   "rows": [
+    [
+     "a",
+     "Distribución por canalización",
+     "La red de la calle: tuberías de la compañía, presión máxima de diseño ≤ 16 bar, con estaciones de regulación y acometidas."
+    ],
+    [
+     "b",
+     "Centros de almacenamiento y distribución de envases de GLP",
+     "La «nave de las bombonas»: donde se guardan y reparten los envases de GLP."
+    ],
+    [
+     "c",
+     "Almacenamiento de GLP en depósitos fijos",
+     "El depósito enterrado o de superficie (típico de chalés sin gas natural)."
+    ],
+    [
+     "d",
+     "Plantas satélite de GNL",
+     "Depósito de gas natural licuado (hasta 1.000 m³, presión de operación > 1 bar) que abastece una zona."
+    ],
+    [
+     "e",
+     "Estaciones de servicio para vehículos a gas",
+     "La «gasolinera de gas»: GLP a granel, GNC, GNL o hidrógeno para repostar coches."
+    ]
+   ],
+   "nota": "El Reglamento cubre nueve tipos; la lista completa es el artículo segundo (letras a a i).",
+   "notas": "N1: ¿Cuántos tipos de instalación mete el Reglamento bajo su paraguas y por dónde empieza la lista?\nN2: Esta tabla es el campo de aplicación del artículo segundo, la lista de todo lo que el Reglamento vigila, y se lee por letras. La a es la red de la calle, la distribución por canalización, con tuberías de la compañía hasta dieciséis bar. La b es la nave de las bombonas, donde se guardan y reparten los envases de GLP. La c es el depósito fijo, enterrado o de superficie, típico de un chalé sin gas natural. La d es la planta satélite de gas natural licuado, hasta mil metros cúbicos, que abastece una zona. Y la e es la gasolinera de gas, para repostar coches. Un ejemplo de obra: si llegas a un chalé con un depósito enterrado en el jardín, estás en la letra c, y eso ya te dice qué reglas de ese tipo te aplican."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Artículo 2 · Campo de aplicación",
+   "titulo": "A qué se aplica (letras f a i)",
+   "headers": [
+    "Letra",
+    "Instalación / aparato",
+    "En cristiano"
+   ],
+   "rows": [
+    [
+     "f",
+     "Instalaciones de envases de GLP",
+     "El conjunto de bombonas y tuberías hasta la llave de acometida (incluida)."
+    ],
+    [
+     "g",
+     "GLP de uso doméstico en caravanas y autocaravanas",
+     "La instalación de gas de la caravana o autocaravana."
+    ],
+    [
+     "h",
+     "Instalaciones receptoras de combustibles gaseosos",
+     "El corazón de Gas B (la instalación receptora; su definición exacta va aparte)."
+    ],
+    [
+     "i",
+     "Aparatos de gas",
+     "Los que queman el gas: caldera, calentador, cocina, etc."
+    ]
+   ],
+   "nota": "La letra h, las instalaciones receptoras, es tu terreno como gasista de categoría B.",
+   "notas": "N1: De estas cuatro últimas letras, ¿cuál es la que vas a pisar cada día?\nN2: Seguimos con la lista. La f son las instalaciones de envases de GLP, el conjunto de bombonas y tuberías hasta la llave de acometida. La g es el GLP doméstico de caravanas y autocaravanas. La h son las instalaciones receptoras, el corazón de tu oficio de categoría B, y por eso es la letra que más te importa. Y la i son los aparatos de gas, los que queman el gas, como la caldera, el calentador o la cocina. Cómo se lee esto en obra: cuando entras en una vivienda a montar la tubería hasta cada aparato, estás trabajando en la letra hache; el aparato en sí es la letra i, una cosa distinta. Retén la hache como tu terreno."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué letra del campo de aplicación corresponde a las instalaciones receptoras?",
+   "opciones": [
+    "La letra a, distribución por canalización",
+    "La letra f, instalaciones de envases de GLP",
+    "La letra h, instalaciones receptoras",
+    "La letra i, aparatos de gas"
+   ],
+   "correcta": 2,
+   "porque": "Las instalaciones receptoras son la letra h del artículo segundo y son el terreno propio del gasista de categoría B.",
+   "notas_p": "N1: Va la primera y es de tu terreno, así que no deberías fallarla. ¿Qué letra son las receptoras?\nN2: Piensa en cuál de las nueve letras es la que vas a pisar cada día dentro de las viviendas.",
+   "notas_r": "N1: ¿Por qué la hache?\nN2: Porque el artículo segundo ordena los tipos por letras y reserva la hache a las instalaciones receptoras. El truco es asociar 'mi terreno' con la hache: la a es la red de la calle y la i son los aparatos, y ninguna de esas es la receptora."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Artículo 2 · Instalación receptora",
    "titulo": "¿Dónde empieza y dónde acaba?",
@@ -81,6 +177,20 @@
    ],
    "img_brief": "gas shut off valve copper pipe wall",
    "notas": "N1: ¿Dónde está la frontera de lo que es tuyo?\nN2: El truco del 'incluida' y 'excluida' se entiende con la llave del portal. La llave de acometida es como la llave del portal que pone la compañía: no es tuya, y por eso va excluida, se queda fuera de tu instalación. Desde ahí hacia dentro, hasta las llaves de conexión de cada aparato, sí es tuyo, y por eso esas llaves van incluidas. Resúmelo en una frase que puedas recitar: la receptora empieza donde acaba la acometida y termina en la llave del aparato; el aparato y su tubito flexible, fuera. Y esto no es un tecnicismo de examen: esa frontera marca justo qué tramo pruebas con la estanquidad y qué firmas en el boletín. Si dejas un tramo fuera de la frontera sin probar, ahí es exactamente donde aparece la fuga que no viste."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Entre qué elementos está comprendida la instalación receptora?",
+   "opciones": [
+    "De la llave de acometida incluida a la llave de aparato incluida",
+    "De la llave de acometida excluida a la llave de conexión de aparato incluida",
+    "Del contador hasta los propios aparatos, ambos incluidos",
+    "De la llave de aparato excluida hasta el propio aparato"
+   ],
+   "correcta": 1,
+   "porque": "La receptora va de la llave de acometida, que queda excluida, a las llaves de conexión de aparato, que quedan incluidas; el aparato y su latiguillo quedan fuera.",
+   "notas_p": "N1: Una que cae fijo. ¿Dónde empieza y dónde acaba lo que es tuyo?\nN2: Acuérdate del truco de la llave del portal: lo que pone la compañía no es tuyo.",
+   "notas_r": "N1: ¿Por qué esa opción y no otra?\nN2: La acometida va excluida porque la pone la compañía, como la llave del portal; y la llave del aparato va incluida porque es lo último que es tuyo. El fallo típico es meter la acometida dentro o quedarse el aparato: ni una ni otra."
   },
   {
    "tipo": "contenido",

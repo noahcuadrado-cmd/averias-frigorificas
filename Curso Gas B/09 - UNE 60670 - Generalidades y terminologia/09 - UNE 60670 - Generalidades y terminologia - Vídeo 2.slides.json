@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["60", "términos en esta primera mitad"],
-    ["3", "tipos de aparato: A, B y C"],
-    ["100 m²", "separan aparcamiento de garaje"]
+    [
+     "60",
+     "términos en esta primera mitad"
+    ],
+    [
+     "3",
+     "tipos de aparato: A, B y C"
+    ],
+    [
+     "100 m²",
+     "separan aparcamiento de garaje"
+    ]
    ],
    "notas": "N1: ¿Y estos números resumen el vídeo?\nN2: Son tus anclas. Primera: vamos a ver unos sesenta términos, del tres punto uno al tres punto sesenta; parecen muchos, pero los agrupamos por temas y caen solos. Segunda: hay tres tipos de aparato de gas, el A, el B y el C, y distinguirlos es de lo más importante de todo el tema, porque va de ventilación y de monóxido de carbono. Y tercera: quédate con cien metros cuadrados, el número que separa un aparcamiento de un garaje. Con estas tres anclas ya tienes de qué va la cosa."
   },
@@ -85,6 +94,20 @@
    "notas": "N1: Los tipos A, B y C me lío siempre. ¿Cómo los distingo?\nN2: Este es el concepto estrella del tema, así que lo dejamos clavado. Tipo A: coge el aire del local y no evacúa los humos fuera; los suelta dentro. Ejemplo: la cocina de gas o un calentador atmosférico antiguo. Tipo B: coge el aire del local, igual que el A, pero sí evacúa los humos al exterior por un conducto o chimenea. Ejemplo: la caldera de tiro natural conectada a la chimenea. Tipo C: es estanco; su combustión no tiene ningún contacto con el aire del local, ni coge aire de él ni suelta humos en él. Ejemplo: la caldera estanca moderna, que coge aire y expulsa humos por un tubo al exterior. Regla para no fallar: el A no tira humos fuera; el B coge aire dentro y tira humos fuera; el C ni entra ni sale del local. Y por qué importa tanto: colocar el tipo equivocado, un B atmosférico en un cuarto de baño, por ejemplo, es causa directa de intoxicación por monóxido de carbono."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Qué caracteriza a un aparato de gas de tipo C?",
+   "opciones": [
+    "Es estanco: ni toma aire del local ni evacúa humos en él",
+    "Toma aire del local y no evacúa los humos al exterior",
+    "Toma aire del local y evacúa los humos por un conducto",
+    "Solo puede usarse con envases de menos de 3 kg"
+   ],
+   "correcta": 0,
+   "porque": "El tipo C es estanco: su circuito de combustión no tiene comunicación alguna con la atmósfera del local.",
+   "notas_p": "N1: El concepto estrella del tema: ¿qué distingue al tipo C?\nN2: Pista: es la caldera moderna que ni respira el aire de la cocina ni suelta humos en ella.",
+   "notas_r": "N1: ¿Por qué la A?\nN2: Porque el tipo C es estanco: su circuito de combustión no tiene ninguna comunicación con el aire del local. El tipo A coge aire del local y no evacúa fuera; el tipo B coge aire del local pero sí evacúa por conducto. Truco: el A no tira humos fuera, el B coge aire dentro y tira humos fuera, y el C ni entra ni sale del local."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Términos 3.12 y 3.13",
    "titulo": "Aparato móvil y aparato popular",
@@ -109,6 +132,20 @@
    ],
    "img_brief": "underground parking garage ventilation",
    "notas": "N1: Aparcamiento y garaje, ¿no son lo mismo?\nN2: Para la norma no, y el número que los separa es cien metros cuadrados. Si la superficie construida supera los cien metros cuadrados, es aparcamiento; si es igual o menor, es garaje, que veremos en el vídeo tres. Y dentro del aparcamiento hay dos clases. Abierto: sus fachadas tienen tanta abertura permanente al exterior que ventilan solas; en concreto, un área abierta de al menos un veinteavo de la superficie, con al menos un cuarentavo repartido de forma uniforme entre las paredes opuestas, y el borde superior de las aberturas a no más de medio metro del techo. Cerrado: el que no cumple eso. Por qué importa: cuanta más ventilación natural, menos riesgo de acumular gas; de ahí que la norma sea tan exigente con las aberturas."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué superficie construida separa un aparcamiento de un garaje?",
+   "opciones": [
+    "50 m²",
+    "75 m²",
+    "100 m²",
+    "150 m²"
+   ],
+   "correcta": 2,
+   "porque": "Por encima de 100 m² es aparcamiento; si es igual o inferior a 100 m², es garaje.",
+   "notas_p": "N1: Un número que cae seguro: ¿dónde está la frontera entre aparcamiento y garaje?\nN2: Pista: es una cifra redonda de metros cuadrados; piensa en la superficie construida.",
+   "notas_r": "N1: ¿Por qué cien metros cuadrados?\nN2: Porque si la superficie construida supera los cien metros cuadrados es aparcamiento, y si es igual o inferior es garaje. Es de los datos que más se preguntan. Truco: por encima de cien, aparcamiento; hasta cien, garaje."
   },
   {
    "tipo": "contenido",
@@ -226,6 +263,20 @@
    ],
    "img_brief": "gas riser pipe in apartment stairwell",
    "notas": "N1: ¿Dónde acaba la parte común y empieza la individual?\nN2: Todo se decide en una cadena de llaves, y con la regla de oro incluida-excluida. La instalación común va desde la llave de edificio, excluida, hasta las llaves de usuario, incluidas. La instalación individual arranca en la llave de usuario, excluida, y termina en las llaves de conexión de los aparatos, incluidas. Fíjate: la llave de usuario es la frontera; cierra la común y abre la individual. Por encima de las dos, la instalación receptora es el conjunto entero: desde la llave de acometida, excluida, hasta las llaves de conexión de aparato, incluidas, quedando fuera la conexión del aparato y el aparato mismo. Regla de oro: lo que pone la comunidad o la compañía va excluido; lo que es tuyo va incluido. Y un término suelto: intemperie es, sencillamente, a cielo descubierto, sin techo ni reparo. Por qué importa esto: ese límite decide qué tramo sometes a estanquidad y quién responde, la comunidad o el usuario."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué llave marca el límite entre la instalación común y la individual?",
+   "opciones": [
+    "La llave de acometida",
+    "La llave de usuario",
+    "La llave de edificio",
+    "La llave de conexión de aparato"
+   ],
+   "correcta": 1,
+   "porque": "La llave de usuario pertenece a la común y establece el límite con la individual: cierra una y da inicio a la otra.",
+   "notas_p": "N1: La joya del examen: ¿qué llave marca la frontera entre lo común y lo individual?\nN2: Pista: es la que pertenece a la instalación común pero da inicio a tu instalación de vivienda.",
+   "notas_r": "N1: ¿Por qué la llave de usuario?\nN2: Porque la instalación común llega hasta las llaves de usuario, incluidas, y la individual arranca justo en la llave de usuario, excluida. Es la frontera: cierra la común y abre la individual. La regla de oro: lo que pone la comunidad va excluido, y lo tuyo va incluido."
   },
   {
    "tipo": "cierre",

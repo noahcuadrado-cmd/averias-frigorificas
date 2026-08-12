@@ -91,6 +91,27 @@
    "notas": "N1: Dijiste que cada gas tiene su norma. ¿Cómo sé cuál usar?\nN2: Muy sencillo: no la eliges tú, la elige el gas. Separa la cabeza en dos cajones. Cajón uno, el GLP: va por una norma nacional española, la UNE sesenta mil seiscientos treinta. Cajón dos, todos los demás, el gas natural comprimido, el licuado y el hidrógeno: van por el marco europeo, la directiva de combustibles alternativos y sus reglamentos de desarrollo. ¿Por qué esta separación? Porque el GLP lo tenemos regulado en casa desde hace mucho, mientras que el hidrógeno y el gas natural para vehículos son más nuevos y Europa quiso ponerlos bajo un mismo paraguas. La chuleta: GLP por su lado con norma española; el resto de gases por el lado europeo. Diseñar con la norma que no toca es la vía directa a que luego no te pase la inspección y haya que rehacer la obra."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 3 · Diseño y ejecución",
+   "titulo": "Norma de diseño según el gas",
+   "headers": [
+    "Combustible",
+    "Norma de diseño, construcción, montaje y explotación"
+   ],
+   "rows": [
+    [
+     "GLP",
+     "UNE 60630"
+    ],
+    [
+     "GNC, GNL e hidrógeno",
+     "Directiva 2014/94/UE (combustibles alternativos) y sus reglamentos delegados, desde su fecha de aplicación"
+    ]
+   ],
+   "nota": "La norma de diseño no la eliges tú: la fija el tipo de gas.",
+   "notas": "N1: ¿Con qué norma se diseña la estación según el gas que reposte?\nN2: Esta tabla separa en dos mundos. El GLP va por la norma nacional española, la UNE sesenta mil seiscientos treinta. Todos los demás gases, el gas natural comprimido, el licuado y el hidrógeno, van por el marco europeo, la directiva de combustibles alternativos y sus reglamentos de desarrollo, desde el día en que sean de aplicación. Se lee fila a fila: primera fila, GLP con norma española; segunda fila, el resto de gases con Europa. Ejemplo de obra: si montas una estación de propano para autobuses, diseñas con la norma española del GLP; si es de hidrógeno, te vas al marco europeo."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 3 · Normas puente",
    "titulo": "Mientras Europa no aplica",
@@ -101,6 +122,45 @@
    ],
    "img_brief": "lng cryogenic tank at fuel terminal",
    "notas": "N1: ¿Y qué pasa mientras esa norma europea todavía no manda del todo?\nN2: Buena pregunta, porque hay un periodo puente. Mientras la directiva europea no sea de aplicación plena, cada gas tira de una norma transitoria. Para el gas natural comprimido, la dieciséis mil novecientos veintitrés. Para el gas natural licuado, la dieciséis mil novecientos veinticuatro. Y para el hidrógeno, la diecinueve mil ochocientos ochenta guion uno. Te doy el truco que las fija sin esfuerzo: las dos del gas natural van pegadas, veintitrés y veinticuatro, una detrás de otra, comprimido y licuado. Y el hidrógeno se va aparte, con un número muy distinto. Así, cuando en el examen te den una norma para un gas, compruebas: ¿son las gemelas veintitrés y veinticuatro? Entonces es gas natural. ¿Es la del hidrógeno? Va sola."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 3 · Normas transitorias",
+   "titulo": "Norma puente mientras Europa no aplica",
+   "headers": [
+    "Combustible",
+    "Norma transitoria"
+   ],
+   "rows": [
+    [
+     "GNC",
+     "UNE-EN ISO 16923"
+    ],
+    [
+     "GNL",
+     "UNE-EN ISO 16924"
+    ],
+    [
+     "Hidrógeno",
+     "ISO 19880-1"
+    ]
+   ],
+   "nota": "Norma que se aplica solo hasta que entre en vigor el marco europeo.",
+   "notas": "N1: ¿Y qué norma usas mientras el marco europeo todavía no manda?\nN2: Esta tabla te da las tres normas puente, una por gas. Se lee fila a fila: gas natural comprimido, la dieciséis mil novecientos veintitrés; gas natural licuado, la dieciséis mil novecientos veinticuatro; e hidrógeno, la diecinueve mil ochocientos ochenta guion uno. El truco para no fallar: las dos del gas natural van pegadas, veintitrés y veinticuatro, comprimido y licuado; el hidrógeno se va aparte con un número muy distinto. Ejemplo de obra: si montas hoy un surtidor de gas natural comprimido y Europa aún no aprieta el botón, diseñas con la veintitrés."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Con qué norma se diseña una estación de servicio de GLP para vehículos?",
+   "opciones": [
+    "UNE 60630",
+    "UNE-EN ISO 16923",
+    "ISO 19880-1",
+    "Directiva 2014/94/UE"
+   ],
+   "correcta": 0,
+   "porque": "El GLP va siempre por la norma nacional UNE 60630; el resto de gases, por el marco europeo.",
+   "notas_p": "N1: Vamos a ver si lo has fijado. Cuatro normas, un solo gas, el GLP. ¿Cuál es la suya?\nN2: Pista: el GLP es el único que va por norma nacional española; las otras tres son de gas natural, de hidrógeno o del marco europeo.",
+   "notas_r": "N1: ¿Por qué la primera?\nN2: Porque el GLP se diseña con la UNE sesenta mil seiscientos treinta, y punto. La dieciséis mil novecientos veintitrés es de gas natural comprimido, la diecinueve mil ochocientos ochenta es de hidrógeno, y la directiva es el marco europeo del resto de gases. El truco para no caer: si el gas es GLP, ni mires a Europa, tira de la norma española."
   },
   {
    "tipo": "contenido",
@@ -151,6 +211,49 @@
    "notas": "N1: De todo esto salen papeles. ¿Cuántos y quién firma cada uno?\nN2: Salen tres certificados, y lo bonito es que cada uno lo firma justo quien ha hecho su trabajo, así que es fácil de recordar. El certificado de instalación lo firma la empresa instaladora, la que ha montado. El certificado de inspección lo firma el organismo de control, el árbitro de antes. Y el certificado de dirección de obra lo firma el director de obra. Uno hace, otro examina, otro dirige, y cada uno certifica lo suyo. Dos detalles finos que caen: el certificado de instalación se hace por triplicado, tres copias, una queda de original, otra para el titular y otra para la Comunidad Autónoma. Y el certificado de inspección es la luz verde de verdad: hasta que el organismo de control no lo emite, la estación no está en disposición de servicio. Sin ese papel, no hay gasolinera."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 4 · Certificados",
+   "titulo": "Tres certificados, tres firmantes",
+   "headers": [
+    "Documento",
+    "Lo emite",
+    "Copias / destino"
+   ],
+   "rows": [
+    [
+     "Certificado de instalación",
+     "Empresa instaladora",
+     "Por triplicado: original, titular y órgano competente de la Comunidad Autónoma"
+    ],
+    [
+     "Certificado de inspección",
+     "Organismo de control (tras ensayos favorables)",
+     "Titular, empresa instaladora y director de obra. Deja la instalación en disposición de servicio"
+    ],
+    [
+     "Certificado de dirección de obra",
+     "Director de obra",
+     "Titular y órgano competente de la Comunidad Autónoma"
+    ]
+   ],
+   "nota": "Cada certificado lo firma quien hizo ese trabajo; el de inspección da la luz verde.",
+   "notas": "N1: ¿Qué certificado sale de cada actor y a dónde va cada copia?\nN2: Esta tabla asocia cada papel con quien lo firma, que cae fijo. Fila uno: el certificado de instalación lo emite la empresa instaladora, y se hace por triplicado, original, titular y Comunidad Autónoma. Fila dos: el certificado de inspección lo emite el organismo de control tras los ensayos favorables, va al titular, a la instaladora y al director de obra, y es el que deja la instalación en disposición de servicio. Fila tres: el certificado de dirección de obra lo firma el director de obra, con copia para titular y Comunidad Autónoma. Ejemplo de obra: hasta que el organismo de control no te entrega el de inspección, no puedes pedir el primer suministro."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué certificado deja la estación en disposición de servicio?",
+   "opciones": [
+    "El certificado de instalación",
+    "El certificado de inspección",
+    "El certificado de dirección de obra",
+    "El proyecto constructivo"
+   ],
+   "correcta": 1,
+   "porque": "Hasta que el organismo de control no emite el certificado de inspección, la estación no está en disposición de servicio.",
+   "notas_p": "N1: Chispa rápida. De los papeles que has visto, ¿cuál es la luz verde que permite pedir el primer gas?\nN2: Pista: es el que firma el árbitro independiente, no el que monta ni el que dirige.",
+   "notas_r": "N1: ¿Por qué el de inspección?\nN2: Porque es el que emite el organismo de control tras los ensayos favorables, y solo con él la instalación queda en disposición de servicio. El de instalación lo firma la instaladora y el de dirección de obra el director; ninguno de esos dos abre la estación. El truco: la luz verde la da siempre el tercero independiente."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 4 · Disposición de servicio",
    "titulo": "La luz verde del primer suministro",
@@ -173,6 +276,20 @@
    ],
    "img_brief": "person handing documents at government office counter",
    "notas": "N1: ¿Y ese aviso a la Administración cuándo hay que darlo?\nN2: Aquí van dos datos calientes que se preguntan casi seguro. El plazo es de quince días hábiles, ojo, hábiles, no naturales, así que no cuentas sábados, domingos ni festivos. Y ese plazo no se cuenta desde que acabas de montar, sino desde la fecha del primer llenado, la primera vez que entra gas de verdad. Dentro de esos quince días hábiles presentas la documentación por duplicado, en dos copias, ante el órgano competente de la Comunidad Autónoma, que te devuelve una copia sellada. ¿Dónde está la trampa? En que hay otro plazo parecido en el reglamento, el general de las instalaciones receptoras, que son treinta días. No los mezcles. Para la estación de servicio, grábate esto: quince días hábiles desde el primer llenado, por duplicado. Ese es el plazo que se olvida y cuesta un expediente."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué plazo hay para comunicar la estación tras el primer llenado?",
+   "opciones": [
+    "Treinta días naturales desde la puesta en servicio",
+    "Quince días hábiles desde el primer llenado",
+    "Quince días naturales desde el fin del montaje",
+    "Un mes desde la inspección inicial"
+   ],
+   "correcta": 1,
+   "porque": "Para la estación de servicio, la comunicación es en quince días hábiles contados desde la fecha del primer llenado.",
+   "notas_p": "N1: Pregunta trampa clásica. Tras el primer llenado, ¿cuánto margen tienes para avisar a la Administración?\nN2: Pista: ojo con confundirlo con el plazo general de las instalaciones receptoras; y fíjate en si los días son hábiles o naturales.",
+   "notas_r": "N1: ¿Por qué la segunda?\nN2: Porque para la estación de servicio son quince días hábiles, y se cuentan desde la fecha del primer llenado, no desde que acabas el montaje. Los treinta días son el plazo de la instalación receptora, que es otra cosa. El truco para no fallar: estación de servicio, quince hábiles desde el primer llenado, y por duplicado."
   },
   {
    "tipo": "contenido",

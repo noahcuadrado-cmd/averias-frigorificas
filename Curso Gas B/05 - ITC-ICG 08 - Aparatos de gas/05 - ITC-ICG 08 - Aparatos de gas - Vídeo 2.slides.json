@@ -45,6 +45,33 @@
    "notas": "N1: ¿En qué se diferencian el A, el B y el C?\nN2: Vamos con la frase paso a paso. El tipo A es no conducido: coge el aire del local y devuelve los humos al local, no tiene conducto de evacuación; por eso exige que el recinto esté bien ventilado, como una cocina o un horno. El tipo B es conducido de cámara abierta: coge el aire de combustión del local donde está, pero evacúa los humos al exterior por un conducto; su cámara está abierta al ambiente, como un calentador o una caldera atmosférica. El tipo C es estanco: su circuito, entrada de aire, cámara y salida de humos, está aislado respecto al local; toma el aire de fuera y echa los humos fuera, sin intercambiar aire con la estancia. La lógica: cuanto más aislado del local, más seguro respecto al ambiente; por eso el C es el que menos depende de la ventilación de la estancia."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Tipos A · B · C",
+   "titulo": "Clasificación por circuito de combustión",
+   "headers": ["Tipo", "Nombre", "Toma de aire", "Evacúa humos", "Ejemplos típicos"],
+   "rows": [
+    ["A", "No conducido", "Del local", "Al local (sin conducto de evacuación)", "Cocina, horno, encimera, calentadores pequeños"],
+    ["B", "Conducido de cámara abierta", "Del local", "Al exterior por conducto de humos", "Calentador atmosférico, caldera atmosférica"],
+    ["C", "Estanco", "Del exterior", "Al exterior (circuito estanco respecto al local)", "Caldera estanca, caldera de condensación estanca"]
+   ],
+   "nota": "Los tipos B y C son los aparatos conducidos: van unidos a un conducto de evacuación de los humos.",
+   "notas": "N1: ¿Cómo se leen de un vistazo los tres tipos de aparato?\nN2: Esta tabla es el mapa de la clasificación por combustión, y se lee con una frase: de dónde respira y por dónde echa el humo. Fila del tipo a, no conducido: respira del local y devuelve los humos al local, no tiene conducto; por eso exige buena ventilación, como una cocina o un horno. Fila del tipo be, conducido de cámara abierta: respira del local pero echa los humos fuera por un conducto, como un calentador atmosférico. Fila del tipo ce, estanco: respira del exterior y echa fuera, aislado del local, como una caldera estanca o de condensación. Los tipos be y ce son los conducidos. Ejemplo de obra: en un baño pequeño y poco ventilado, el tipo ce es la opción segura, porque no depende del aire de la estancia."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Qué tipos de aparato son los que la ITC llama conducidos?",
+   "opciones": [
+    "Solo el tipo A, el no conducido",
+    "Los tipos B y C, unidos a conducto",
+    "Solo el tipo C, el estanco",
+    "Los tipos A y B, de cámara abierta"
+   ],
+   "correcta": 1,
+   "porque": "Los aparatos de tipo B y C van unidos a un conducto de evacuación de los productos de la combustión; el A no tiene conducto y devuelve los humos al local.",
+   "notas_p": "N1: Con la tabla fresca, una pregunta directa.\nN2: Recuerda cuáles echaban los humos al exterior por un conducto. El que los suelta al propio local se queda fuera de la definición.",
+   "notas_r": "N1: ¿Por qué be y ce?\nN2: Porque ambos evacúan al exterior por un conducto de humos; el tipo a no está unido a ningún conducto, devuelve los productos al local. El truco: conducido es el que tiene conducto, y eso solo lo cumplen la be y la ce."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Conducidos vs. carné",
    "titulo": "No confundas tipo con categoría",
@@ -106,6 +133,20 @@
    ],
    "img_brief": "technician servicing gas boiler",
    "notas": "N1: ¿Quién puede poner en marcha, mantener y reparar un aparato?\nN2: Aquí hay una línea que separa el aparato exigente del aparato normal, y es la potencia. Los aparatos conducidos, es decir tipo B y C, de más de veinticuatro coma cuatro kilovatios de potencia útil, y las vitrocerámicas a gas de fuegos cubiertos, solo los pueden poner en marcha, mantener o reparar el servicio técnico del fabricante con un sistema de calidad certificado, o instaladores de gas que cumplan el capítulo cuatro de la ITC-ICG cero nueve. Para todo lo demás, los de menor potencia o los de tipo A, basta con el servicio técnico del fabricante o una empresa instaladora. Truco: más de veinticuatro coma cuatro kilovatios y con humos conducidos, gente especialmente cualificada."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿A partir de qué potencia un aparato conducido (tipo B o C) solo lo pone en marcha personal especialmente cualificado?",
+   "opciones": [
+    "Más de 20 kW de potencia útil",
+    "Más de 24,4 kW de potencia útil",
+    "Más de 30 kW de potencia útil",
+    "Más de 15 kW de potencia útil"
+   ],
+   "correcta": 1,
+   "porque": "Los conducidos de tipo B y C de más de 24,4 kW y las vitrocerámicas de fuegos cubiertos solo los atiende el SAT del fabricante con calidad certificada o un instalador que cumpla el capítulo 4 de la ITC-ICG 09.",
+   "notas_p": "N1: Un número muy concreto que le encanta al examen.\nN2: Es la línea que separa el aparato exigente del normal. Piensa en la cifra de potencia útil que marca la frontera; ojo, no la redondees.",
+   "notas_r": "N1: ¿Por qué esa cifra?\nN2: Porque la ITC fija el umbral en veinticuatro coma cuatro kilovatios de potencia útil para los aparatos conducidos; por encima de ahí, y las vitrocerámicas de fuegos cubiertos, solo los toca gente especialmente cualificada. El truco para no fallar: memoriza veinticuatro coma cuatro, no lo redondees a veinticinco."
   },
   {
    "tipo": "contenido",

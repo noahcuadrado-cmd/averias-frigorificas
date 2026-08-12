@@ -124,6 +124,15 @@
    "notas": "N1: ¿Por qué el tubo enterrado tiene que ser más grueso?\nN2: Porque debajo de la tierra el tubo lo pasa peor. Aguanta el peso del terreno, la humedad, cualquier movimiento del suelo... y encima, si algo empieza a corroerlo por fuera, cuanta más pared tenga, más tarda en perforarse. Por eso la norma pide dos espesores distintos que tienes que clavarte. Uno coma cinco milímetros para todo lo que va enterrado. Y un milímetro para todo lo demás: tubo visto, empotrado en la pared, metido en vaina o para la conexión de los aparatos. La regla para no fallar: enterrado, medio milímetro más gordo. Cuidado, que este es un clásico de examen; si ves 'un milímetro para tubo enterrado', está mal: la respuesta es uno coma cinco."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Qué espesor mínimo exige la norma para el tubo de cobre enterrado?",
+   "opciones": ["0,8 mm", "1 mm", "1,5 mm", "2 mm"],
+   "correcta": 2,
+   "porque": "El cobre enterrado sufre más (peso del terreno y corrosión), por eso pide 1,5 mm; el 1 mm queda para visto, empotrado, en vaina o conexión de aparatos.",
+   "notas_p": "N1: Va la primera, y esta cae en el examen casi seguro. ¿Qué espesor mínimo pide el cobre cuando va enterrado?\nN2: Piensa en que bajo tierra el tubo lo pasa peor; ¿le pedirás la misma pared que a uno visto, o un poco más?",
+   "notas_r": "N1: ¿Por qué el grueso mayor y no el fino?\nN2: Porque enterrado hay presión del terreno y corrosión, así que se le pide medio milímetro más de pared. El truco para no fallar: enterrado, medio milímetro más gordo. El otro espesor es para todo lo demás."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Materiales · Cobre",
    "titulo": "Duro, recocido y curvado",
@@ -174,6 +183,15 @@
    ],
    "img_brief": "multilayer pipe cross section aluminium layers",
    "notas": "N1: ¿Qué es eso del multicapa y por qué lleva limitadores obligatorios?\nN2: Imagínate el corte del tubo y lo entiendes de golpe: es un sándwich de tres capas, plástico por dentro, una lámina de aluminio en medio y plástico por fuera. De ahí el nombre, polímero-aluminio-polímero. Es ligero y rápido de montar, pero tiene una debilidad: aguanta mal el calor. Si se le acerca una fuente caliente, se reblandece. Por eso la norma le exige siempre dos piezas de seguridad: un limitador de caudal, que corta si sale más gas del previsto, y un limitador de temperatura, que corta si el tubo se calienta de más. Y aquí viene la trampa de examen: son obligatorios con independencia de la longitud del tramo. Aunque el trozo de multicapa sea de un palmo, van sus dos limitadores. Todo esto según la norma cincuenta y tres mil ocho."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "En un tramo de tubo multicapa, ¿cuándo son obligatorios el limitador de caudal y el de temperatura?",
+   "opciones": ["Solo en tramos largos", "Solo si el tubo va enterrado", "Siempre, sea cual sea la longitud", "Solo en instalaciones de propano"],
+   "correcta": 2,
+   "porque": "El multicapa aguanta mal el calor; por eso la norma exige sus dos limitadores con independencia de la longitud del tramo, aunque sea de un palmo.",
+   "notas_p": "N1: Segunda pregunta, y lleva trampa. Los dos limitadores del multicapa, ¿cuándo hay que ponerlos?\nN2: Ojo, que la norma usa una expresión muy concreta sobre la longitud; ¿te suena aquello de 'con independencia de'?",
+   "notas_r": "N1: ¿Por qué siempre y no solo en tramos largos?\nN2: Porque el multicapa se reblandece con el calor, y esos limitadores son su red de seguridad. La norma lo deja claro: van sea cual sea la longitud, aunque el tramo mida un palmo. Si una respuesta dice 'solo en tramos largos', es falsa."
   },
   {
    "tipo": "contenido",

@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["13 m³", "capacidad que exige proyecto"],
-    ["85 %", "corte del punto alto de llenado"],
-    ["15 años", "prueba de presión periódica"]
+    [
+     "13 m³",
+     "capacidad que exige proyecto"
+    ],
+    [
+     "85 %",
+     "corte del punto alto de llenado"
+    ],
+    [
+     "15 años",
+     "prueba de presión periódica"
+    ]
    ],
    "notas": "N1: Dame las tres cifras estrella antes de empezar.\nN2: Estas tres se caen del examen. La primera: por encima de trece metros cúbicos de capacidad, el depósito exige proyecto; por debajo, y sin complicaciones, basta memoria técnica. La segunda: el punto alto de llenado corta al ochenta y cinco por ciento del volumen, porque el GLP líquido se dilata con el calor y hace falta dejar un colchón. Y la tercera: la prueba de presión del depósito se hace cada quince años. Si retienes trece, ochenta y cinco y quince, ya llevas medio vídeo ganado."
   },
@@ -69,6 +78,20 @@
    ],
    "img_brief": "engineer with project plans site",
    "notas": "N1: ¿Cuándo hace falta proyecto y cuándo me vale una memoria?\nN2: Memoriza los cuatro disparadores de proyecto como una lista corta. Uno, el más preguntado: capacidad de almacenamiento superior a trece metros cúbicos. Dos: que alimente una red de distribución por canalización. Tres: que tenga vaporizador, equipo de trasvase o boca de carga a distancia enterrada, o que la instalación no discurra por terrenos de la misma propiedad. Y cuatro: que esté en un lugar de libre acceso al público. Si se da cualquiera de esos cuatro, proyecto firmado por técnico facultativo competente. Si no se da ninguno y el depósito es pequeño, basta memoria técnica. El número mágico que tienes que clavar es el de más de trece metros cúbicos."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿A partir de qué capacidad un depósito fijo de GLP exige proyecto en vez de memoria?",
+   "opciones": [
+    "Más de 10 m³",
+    "Más de 13 m³",
+    "Más de 15 m³",
+    "Más de 500 m³"
+   ],
+   "correcta": 1,
+   "porque": "Por encima de 13 m³ de capacidad hace falta proyecto de técnico competente.",
+   "notas_p": "N1: El número mágico del papeleo. ¿Por encima de cuántos metros cúbicos toca proyecto?\nN2: Es una de las cifras estrella del vídeo. Piensa en el umbral que separa la memoria del proyecto.",
+   "notas_r": "N1: ¿Por qué trece y no otro?\nN2: Porque la instrucción fija en más de trece metros cúbicos el disparador de proyecto por capacidad; por debajo, y sin otras complicaciones, basta memoria técnica que firma el instalador. Recuerda que hay más disparadores, como alimentar una red o el acceso público, pero el de la capacidad es el trece. El truco: trece, el número mágico del proyecto."
   },
   {
    "tipo": "contenido",
@@ -136,6 +159,20 @@
    "notas": "N1: ¿Por qué un depósito no se llena hasta arriba del todo?\nN2: Porque el GLP líquido se dilata cuando sube la temperatura, y necesita sitio para expandirse. Nunca se llena al cien por cien: el llamado punto alto de llenado corta la entrada de gas cuando el líquido alcanza el ochenta y cinco por ciento del volumen geométrico. Ese quince por ciento de hueco que queda arriba, la fase gaseosa, es el colchón para que, en pleno verano, el líquido tenga adónde crecer sin reventar el depósito ni disparar la válvula de seguridad. Por eso, durante el primer llenado de cada depósito, el personal comprueba la estanquidad de conexiones y valvulería, y que ese corte al ochenta y cinco por ciento actúe de verdad. El resultado se anota en el Libro de Mantenimiento. Cifra de examen segura: ochenta y cinco por ciento."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Hasta qué porcentaje del volumen se llena un depósito fijo de GLP?",
+   "opciones": [
+    "Hasta el 100 %",
+    "Hasta el 95 %",
+    "Hasta el 85 %",
+    "Hasta el 65 %"
+   ],
+   "correcta": 2,
+   "porque": "El punto alto de llenado corta al 85 %; ese 15 % de hueco es el colchón para que el líquido se dilate.",
+   "notas_p": "N1: Nunca se llena hasta arriba. ¿En qué porcentaje corta el llenado?\nN2: Recuerda que el GLP líquido se dilata con el calor y necesita sitio.",
+   "notas_r": "N1: ¿Por qué el ochenta y cinco y no el cien?\nN2: Porque el GLP líquido se dilata cuando sube la temperatura, así que el punto alto de llenado corta al ochenta y cinco por ciento y deja un quince por ciento de hueco como colchón. Sin ese margen, en pleno verano el depósito reventaría o dispararía la válvula. Cuidado con el sesenta y cinco, que es el coeficiente de otra fórmula distinta, la de los envases."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 6.1 · Mantenimiento",
    "titulo": "Contrato, urgencias y Libro",
@@ -199,6 +236,55 @@
    ],
    "img_brief": "pressure gauge industrial tank test",
    "notas": "N1: Aparte de las revisiones, ¿hay una prueba más seria de vez en cuando?\nN2: Sí, la prueba de presión, y su cita es cada quince años. La encarga el titular a un organismo de control, asistido por la empresa de mantenimiento, y se emite un acta de pruebas con resultado favorable. Hay un detalle de los depósitos de superficie que cae: no hace falta probar todo el lote de golpe; se prueba solo una muestra estadística. Y de esa muestra retén dos cosas. Una, el número se obtiene redondeando siempre hacia la unidad superior, y nunca puede bajar de ocho unidades. Y dos, es un control de calidad de los de a más fallos, más miras: si aparece una anomalía en un depósito de la muestra, se revisa el doble; si vuelve a salir otra, se revisa el lote completo. La cifra clave: quince años, y mínimo ocho unidades."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 6.3 · Muestreo (Cuadro I)",
+   "titulo": "Muestra para la primera prueba hidráulica (superficie)",
+   "headers": [
+    "Tramos por lote (de – a)",
+    "Muestra normal (%)",
+    "Muestra reducida (%)"
+   ],
+   "rows": [
+    [
+     "10 – 100",
+     "24",
+     "12"
+    ],
+    [
+     "101 – 200",
+     "20",
+     "10"
+    ],
+    [
+     "201 – 400",
+     "16",
+     "8"
+    ],
+    [
+     "401 – 800",
+     "12",
+     "6"
+    ],
+    [
+     "801 – 1.600",
+     "8",
+     "4"
+    ],
+    [
+     "1.601 – 3.200",
+     "4",
+     "2"
+    ],
+    [
+     "Ilimitado",
+     "2",
+     "1"
+    ]
+   ],
+   "nota": "El porcentaje se redondea a la unidad superior y nunca baja de 8 depósitos.",
+   "notas": "N1: De un lote grande de depósitos de superficie, ¿cuántos hay que probar como mínimo?\nN2: Este es el Cuadro uno del muestreo: los depósitos de superficie no prueban todo el lote, solo una muestra estadística, y su tamaño baja en porcentaje según crece el lote. Se lee así: buscas el tramo por número de depósitos y aplicas el porcentaje de la columna que toque, normal o reducida. La reducida solo vale si son del mismo tipo, mismo fabricante y sin ninguna anomalía el año anterior. Cuanto mayor el lote, menor el porcentaje, porque hay más confianza estadística. Dos reglas de oro que van fuera de la tabla: el resultado se redondea siempre hacia arriba, y nunca puede ser inferior a ocho depósitos. Ejemplo: en un lote de cincuenta depósitos, el veinticuatro por ciento son doce; pero si saliera menos de ocho, probarías ocho igualmente."
   },
   {
    "tipo": "contenido",

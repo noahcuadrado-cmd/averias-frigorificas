@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["500 kg", "tope de la 5.ª categoría"],
-    ["2 años", "inspección por organismo de control"],
-    ["2", "envases máx. en coche particular"]
+    [
+     "500 kg",
+     "tope de la 5.ª categoría"
+    ],
+    [
+     "2 años",
+     "inspección por organismo de control"
+    ],
+    [
+     "2",
+     "envases máx. en coche particular"
+    ]
    ],
    "notas": "N1: Dame tres cifras para arrancar.\nN2: Tres números que hoy caen seguro. El primero: quinientos kilos es el tope de la quinta categoría, la gasolinera y la tienda; por encima de ahí ya juegas en otra liga. El segundo: la inspección periódica del centro por un organismo de control es cada dos años, y sin ese papel no te llenan las bombonas. Y el tercero, muy preguntado: en tu coche particular solo puedes llevar dos envases de hasta quince kilos, ni uno más. Con estas tres ya tienes el mapa del vídeo."
   },
@@ -94,6 +103,20 @@
    ],
    "img_brief": "hardware store gas bottles shelf",
    "notas": "N1: ¿Y la tienda de barrio que vende bombonas, cómo se regula?\nN2: El comercio se parte en dos según los kilos que almacene, y esa frontera son los ciento cincuenta kilos. Por debajo, hasta ciento cincuenta kilos, es la tienda pequeña, con reglas más suaves. Por encima, de ciento cincuenta a quinientos kilos, es la tienda grande, más exigente. En ambos casos vendemos envases de menos de quince kilos, envases populares y cartuchos no rellenables. Y una frase de oro que cae en las dos: en el escaparate solo se exhiben envases vacíos. La que se ve desde la calle, vacía. Vamos a ver cada nivel por separado."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "En una tienda que almacena 300 kg de GLP, ¿cuántos extintores y de qué eficacia corresponden?",
+   "opciones": [
+    "2 de 13A-55B",
+    "3 de 21A-113B",
+    "2 de 21A-113B",
+    "5 de 21A-113B"
+   ],
+   "correcta": 1,
+   "porque": "De 150 a 500 kg es tienda grande: le tocan 3 extintores de 21A-113B.",
+   "notas_p": "N1: La tienda se parte en ciento cincuenta kilos. Tenemos trescientos. ¿Qué dotación?\nN2: Primero decide si es tienda pequeña o grande, y luego el extintor que le toca.",
+   "notas_r": "N1: ¿Por qué tres del veintiuno a, ciento trece b?\nN2: Trescientos kilos está por encima de ciento cincuenta, así que es tienda grande, la más exigente: tres extintores de veintiuno a, ciento trece b. La pequeña, hasta ciento cincuenta, llevaría dos del trece a, cincuenta y cinco b. El truco es no confundir los dos tipos de extintor con las dos tiendas."
   },
   {
    "tipo": "contenido",
@@ -186,6 +209,20 @@
    "notas": "N1: ¿Qué puedo llevar y cómo en mi propio coche?\nN2: Dato preguntadísimo: en un vehículo particular solo puedes llevar dos envases de hasta quince kilos, ni uno más. Y siempre de pie y bien sujetos, con lo necesario para que no vuelquen durante el trayecto, porque un envase que cae puede golpear la válvula y fugar. Hay una prohibición que no falla: jamás aparques un vehículo con bombonas en un garaje subterráneo, otra vez por la lógica del gas pesado que se acumula abajo sin ventilar. La única excepción a lo de ir de pie son los envases nuevos o reparados y sin gas, cuando van de la fábrica a la planta: esos, al estar vacíos de verdad, pueden ir tumbados."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Qué puedes transportar como máximo en un vehículo particular?",
+   "opciones": [
+    "2 envases de hasta 15 kg",
+    "4 envases de hasta 15 kg",
+    "2 envases de cualquier tamaño",
+    "1 envase de hasta 35 kg"
+   ],
+   "correcta": 0,
+   "porque": "El vehículo particular tiene la carga limitada a 2 envases móviles de hasta 15 kg.",
+   "notas_p": "N1: Dato preguntadísimo. En tu coche, ¿cuántas bombonas y de qué tamaño?\nN2: Piensa en el límite estricto que fija el Reglamento para los particulares.",
+   "notas_r": "N1: ¿Por qué solo dos y de hasta quince kilos?\nN2: Porque el vehículo particular tiene la carga limitada a dos envases móviles de hasta quince kilos, ni uno más y nada de botellas grandes. Además van de pie y bien sujetas, y jamás aparcas con ellas en un garaje subterráneo. El truco: dos y quince, los dos números del coche."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 6 · Reparto",
    "titulo": "El furgón del butanero",
@@ -197,6 +234,30 @@
    ],
    "img_brief": "delivery truck loaded gas cylinders",
    "notas": "N1: ¿Y el camión que reparte las bombonas, qué reglas lleva?\nN2: Tres detalles y una tabla. Primero, la caja del furgón tiene aberturas laterales y en la parte trasera, a ras del piso, para que si una botella fuga, el gas salga por abajo en vez de acumularse dentro. Segundo, cuando el camión entra a descargar en un sitio con más de quinientos kilos de GLP, un centro o una nave, monta el cortafuegos en el tubo de escape para que la chispa del motor no prenda la atmósfera; ese umbral de quinientos kilos va asociado al cortafuegos. Y tercero, los extintores dependen del tamaño del camión, con la frontera en tres mil quinientos kilos de peso máximo: por debajo, dos extintores de ocho a, treinta y cuatro b, uno en cabina y otro en la carga; por encima, el de la carga sube a trece a, cincuenta y cinco b. Ah, y prohibido llevar personas ajenas al servicio."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 6 · Reparto",
+   "titulo": "Extintores del vehículo de reparto",
+   "headers": [
+    "Vehículo (por PMA)",
+    "Cabina",
+    "Carga"
+   ],
+   "rows": [
+    [
+     "PMA ≤ 3.500 kg",
+     "1 extintor 8A-34B",
+     "1 extintor 8A-34B"
+    ],
+    [
+     "PMA > 3.500 kg",
+     "1 extintor 8A-34B",
+     "1 extintor 13A-55B"
+    ]
+   ],
+   "nota": "El PMA de 3.500 kg es la frontera: por encima, el extintor de la carga sube a 13A-55B.",
+   "notas": "N1: En un camión de reparto de más de tres mil quinientos kilos, ¿qué extintor lleva la carga?\nN2: Esta tabla reparte los extintores del vehículo de reparto según su peso máximo autorizado, con la frontera en tres mil quinientos kilos. Lee cada fila con sus dos casillas, cabina y carga. Primera fila, camiones de hasta tres mil quinientos kilos: un extintor de ocho a, treinta y cuatro b en la cabina y otro igual en la carga. Segunda fila, camiones de más de tres mil quinientos: en cabina sigue el de ocho a, treinta y cuatro b, pero el de la carga sube a trece a, cincuenta y cinco b. Ejemplo: un furgón grande de butano llevará el de la carga de trece a, cincuenta y cinco b, más potente, porque transporta más gas."
   },
   {
    "tipo": "cierre",

@@ -53,6 +53,20 @@
    "notas": "N1: ¿Cómo sé qué requisitos de medición me aplican?\nN2: Se decide por la potencia de diseño y por la familia de gas. Si la potencia es de hasta setenta kilovatios, te vas al anexo A, que es el esquema básico. Si pasa de setenta kilovatios y el gas es de la segunda familia, que es el gas natural, te remites a la legislación vigente. Y si pasa de setenta kilovatios pero el gas es de la tercera familia, que es el GLP, el butano y el propano, entonces aplicas el anexo B. La chuleta: setenta kilovatios es la puerta; por debajo, anexo A para todos; por encima, depende de la familia. Y recuerda del vídeo anterior que la segunda familia es el natural y la tercera es el GLP."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Qué potencia de diseño marca la frontera entre el anexo A y el anexo B?",
+   "opciones": [
+    "70 kW",
+    "100 kW",
+    "35 kW",
+    "150 kW"
+   ],
+   "correcta": 0,
+   "porque": "Hasta 70 kW se aplica el anexo A; por encima, el anexo B en tercera familia o la legislación vigente en segunda familia.",
+   "notas_p": "N1: Pregunta de brújula. La norma parte el mundo de la medición en dos según la potencia de diseño. ¿En qué cifra está esa frontera?\nN2: Es uno de los tres números estrella del vídeo, el que separa el esquema básico del esquema grande.",
+   "notas_r": "N1: ¿Por qué setenta y no otro valor?\nN2: Porque hasta setenta kilovatios el esquema de medición lo marca el anexo A, el sencillo. En cuanto pasas de setenta, cambias de liga: si el gas es de tercera familia, el GLP, aplicas el anexo B; y si es de segunda familia, el natural, te remites a la legislación vigente. El truco para no fallar: setenta kilovatios es la puerta; por debajo, anexo A para todos; por encima, depende de la familia de gas."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Excepciones y sustituciones",
    "titulo": "Cuando manda otra norma",
@@ -137,6 +151,20 @@
    "notas": "N1: ¿Qué le exige la norma a ese conversor?\nN2: Le exige precisión y memoria. Precisión: tiene que ser de clase C, que es la más fina, con un error máximo de más menos medio por ciento. Muy poco margen, porque de él depende la factura. Además lleva una pantalla de consulta donde, como mínimo, puedes ver el volumen bruto, el volumen convertido, la presión y la temperatura de medición y los factores de corrección. Y memoria: tiene que guardar los datos de al menos treinta y cinco días con discriminación horaria, es decir, hora a hora, y tener una salida serie para conectarse a los equipos remotos. Fíjate que ese treinta y cinco es el mismo número que verás en la telemedida: memoria de treinta y cinco días, un dato que se repite y que cae."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "¿Qué clase y error máximo admisible se exige a los conversores de volumen?",
+   "opciones": [
+    "Clase C, ± 0,5 %",
+    "Clase B, ± 1 %",
+    "Clase C, ± 1,6 %",
+    "Clase A, ± 0,2 %"
+   ],
+   "correcta": 0,
+   "porque": "La norma exige conversores de clase C con un error máximo admisible de ± 0,5 %, la exactitud más fina, porque de ellos depende la facturación.",
+   "notas_p": "N1: El conversor de volumen es el que traduce lo que ve el contador a lo que de verdad se consume. ¿Qué clase y qué error máximo le pide la norma?\nN2: De su precisión depende la factura, así que la exigencia es alta. Acabamos de verlo hace un momento.",
+   "notas_r": "N1: ¿Por qué clase C con medio por ciento?\nN2: Porque es la exactitud más fina que se le pide a estos equipos. Un error máximo de más menos medio por ciento deja muy poco margen, y eso protege al usuario y a la compañía a la hora de facturar. Las otras opciones mezclan clases y errores que suenan bien pero no son los de la norma. El truco: asocia el conversor a tres datos que van juntos, clase C, medio por ciento de error y treinta y cinco días de memoria."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Manómetros",
    "titulo": "Trabajar en el centro de la escala",
@@ -159,6 +187,45 @@
    ],
    "img_brief": "large pressure gauge dial detail",
    "notas": "N1: ¿Cómo elijo el manómetro según la presión que voy a medir?\nN2: Con una regla muy visual: a más presión, esfera más grande y clase más fina. Ojo con la clase, que es al revés de lo que parece: cuanto más bajo es el número, más preciso es. Así, la clase uno coma seis es menos fina que la uno, y la uno es menos fina que la cero coma seis. Para presiones bajas, esferas pequeñas y clase más holgada; para presiones altas, esferas grandes de ciento cincuenta o ciento sesenta milímetros y clase cero coma seis. Y hay una frontera que tienes que memorizar: seis décimas de bar. Por debajo de esa presión, el manómetro es de tipo cápsula; de esa presión en adelante, es de tubo Bourdon. Cada uno cumple su norma, que debe venir impresa en el aparato. La cifra bisagra: seis décimas de bar."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Manómetros · esfera y clase",
+   "titulo": "Esfera y clase según la presión",
+   "headers": [
+    "Presión de la medida (P)",
+    "Esfera y clase de exactitud"
+   ],
+   "rows": [
+    [
+     "P ≤ 0,08 bar",
+     "Esfera de Ø 80 mm o 100 mm y clase 1,6; o bien esfera de Ø 100 mm y clase 1"
+    ],
+    [
+     "0,08 bar < P ≤ 0,4 bar",
+     "Esfera de Ø 100 mm y clase 1; o bien esfera de Ø 150-160 mm y clase 0,6"
+    ],
+    [
+     "P > 0,4 bar",
+     "Esfera de Ø 150-160 mm y clase 0,6"
+    ]
+   ],
+   "nota": "A mayor presión de medida, esfera de mayor diámetro y clase de exactitud más fina; recuerda que un número de clase más bajo significa más preciso.",
+   "notas": "N1: ¿Cómo elijo el tamaño de esfera y la clase del manómetro según la presión?\nN2: Esta tabla cruza la presión que vas a medir con el tamaño de esfera y la clase de exactitud que te toca. Se lee de arriba abajo, de menos a más presión. Para presiones bajas, de hasta ocho centésimas de bar, vale una esfera pequeña de ochenta o cien milímetros y clase uno coma seis, o una de cien y clase uno. En el tramo medio, hasta cuatro décimas de bar, esfera de cien y clase uno, o una mayor y clase cero coma seis. Y para presiones altas, por encima de cuatro décimas, esfera grande de ciento cincuenta o ciento sesenta milímetros y clase cero coma seis. La regla que resume toda la tabla: a más presión, esfera más grande y clase más fina; y ojo, cuanto más bajo es el número de clase, más preciso es el aparato. Ejemplo de obra: para medir a media presión en un tren de medida, una esfera de ciento cincuenta con clase cero coma seis."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿En qué presión está la frontera entre el manómetro de cápsula y el de tubo Bourdon?",
+   "opciones": [
+    "0,6 bar",
+    "0,08 bar",
+    "0,4 bar",
+    "5 bar"
+   ],
+   "correcta": 0,
+   "porque": "Hasta 0,6 bar de fondo de escala el manómetro es de tipo cápsula (UNE-EN 837-3); de 0,6 bar en adelante, de tubo Bourdon (UNE-EN 837-1).",
+   "notas_p": "N1: Hay una presión bisagra que separa los dos grandes tipos de manómetro, la cápsula y el tubo Bourdon. ¿Cuál es esa cifra?\nN2: Cuidado, que en este vídeo aparecen varias presiones parecidas. Esta es la que decide la tecnología del manómetro.",
+   "notas_r": "N1: ¿Por qué seis décimas de bar?\nN2: Porque hasta seis décimas de bar de fondo de escala el manómetro es de tipo cápsula, para presiones bajas; y de seis décimas en adelante es de tubo Bourdon, para presiones más altas. Las otras cifras son distractores: ocho centésimas y cuatro décimas son tramos de la tabla de esferas, y cinco bar es el tope de la norma. El truco: quédate con seis décimas de bar como la frontera cápsula o Bourdon, y recuerda que cada uno cumple su propia norma impresa en el aparato."
   },
   {
    "tipo": "contenido",
@@ -207,6 +274,55 @@
    ],
    "img_brief": "industrial gas metering skid pipework",
    "notas": "N1: Y para lo grande de tercera familia, ¿cómo elijo el esquema?\nN2: Para potencias grandes de tercera familia, o sea GLP, el esquema no lo eliges tú a ojo: lo dice una tabla. Cruzas dos datos, el caudal máximo y el consumo anual, y la tabla te dice si te toca la figura B punto uno o la B punto dos. Los dos esquemas son casi iguales; la diferencia está en el último elemento: la B punto uno lleva una toma de presión de débil calibre, y la B punto dos lleva un disco en ocho, que es una pieza que permite dejar ciega la línea de by-pass cuando no se usa. Dos avisos importantes que caen: en estos esquemas la conversión se hace con un factor fijo, no con conversor electrónico; y por debajo de una décima de bar de presión no se instalan conversores de volumen."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Anexo B · tabla B.1",
+   "titulo": "Esquema según caudal y consumo",
+   "headers": [
+    "Caudal máximo [m³(n)/h]",
+    "≤ 2 GWh",
+    "> 2 y ≤ 5 GWh",
+    "> 5 y ≤ 10 GWh",
+    "> 10 y ≤ 100 GWh",
+    "> 100 GWh"
+   ],
+   "rows": [
+    [
+     "Q ≤ 150",
+     "Fig. B.1",
+     "Fig. B.1",
+     "Fig. B.1",
+     "Fig. B.2",
+     "–"
+    ],
+    [
+     "150 < Q ≤ 350",
+     "Fig. B.1",
+     "Fig. B.1",
+     "Fig. B.2",
+     "Fig. B.2",
+     "–"
+    ],
+    [
+     "350 < Q ≤ 600",
+     "Fig. B.1",
+     "Fig. B.1",
+     "Fig. B.2",
+     "Fig. B.2",
+     "–"
+    ],
+    [
+     "Q > 600",
+     "–",
+     "Fig. B.2",
+     "Fig. B.2",
+     "Fig. B.2",
+     "Fig. B.2"
+    ]
+   ],
+   "nota": "Cruzando el caudal máximo con el consumo anual sale el esquema que toca: la figura B.1 o la B.2; el guion (–) es un caso que no aplica.",
+   "notas": "N1: Para más de setenta kilovatios de tercera familia, ¿cómo sé si monto la figura B punto uno o la B punto dos?\nN2: Con esta tabla, que es la tabla B punto uno. No eliges a ojo: cruzas dos datos. En vertical, el caudal máximo en metros cúbicos por hora, en cuatro tramos, de menos a más. En horizontal, el consumo anual en gigavatios hora, en cinco columnas, de menos a más. Buscas la casilla donde se cruzan y ahí lees la figura que te toca. En términos generales, para caudales y consumos moderados sale la figura B punto uno, y a medida que crecen el caudal o el consumo pasas a la B punto dos. Las casillas con guion son combinaciones que no aplican. La diferencia entre las dos figuras está en el último elemento: la B punto uno lleva toma de presión de débil calibre, y la B punto dos, un disco en ocho. Ejemplo de obra: un caudal de trescientos con un consumo de ocho gigavatios hora cae en la figura B punto dos."
   },
   {
    "tipo": "contenido",

@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["7", "tipos de conexión de aparatos"],
-    ["2 m", "longitud máxima habitual del tubo"],
-    ["30 °C", "sobrecalentamiento máximo tras el horno"]
+    [
+     "7",
+     "tipos de conexión de aparatos"
+    ],
+    [
+     "2 m",
+     "longitud máxima habitual del tubo"
+    ],
+    [
+     "30 °C",
+     "sobrecalentamiento máximo tras el horno"
+    ]
    ],
    "notas": "N1: ¿Qué me adelantan estas tres cifras?\nN2: Son el esqueleto del vídeo. Siete: son los siete tipos de conexión que vamos a ver, del tubo rígido al de goma de la bombona. Dos metros: es la longitud máxima que más se repite, la de los flexibles metálicos; verás que casi todo gira en torno a que el tubo sea lo más corto posible. Y treinta grados: es el tope de sobrecalentamiento que permite que un flexible pase por detrás de un horno, y solo si el fabricante lo certifica por escrito. Si retienes estas tres, ya tienes colgadas las perchas donde ir poniendo el resto."
   },
@@ -44,6 +53,20 @@
    ],
    "img_brief": "corrugated stainless steel gas hose",
    "notas": "N1: Este flexible metálico, ¿cuándo lo uso?\nN2: Es el flexible metálico de acero corrugado, muy común. Para uso doméstico va según su norma habitual. Y aquí una idea importante: incluso en comercio o industria la norma te empuja a usar ese mismo flexible, siempre que su diámetro dé caudal suficiente para el aparato. Solo cuando se queda corto de caudal, cuando necesitas más diámetro del que ofrece, saltas a la otra norma, la europea. Por defecto el normal; el europeo solo si falta caudal. Y ojo a las longitudes, que son trampa: con diámetro fino, hasta dos metros; con diámetro gordo, mayor de quince, solo cuarenta y siete centímetros. Cuanto más gordo el tubo, más corta la conexión. Es contraintuitivo y por eso se pregunta."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Flexible de acero inox corrugado con DN mayor de 15: ¿longitud máxima?",
+   "opciones": [
+    "2 m",
+    "1,5 m",
+    "0,470 m",
+    "0,75 m"
+   ],
+   "correcta": 2,
+   "porque": "Cuanto más gordo el tubo (DN > 15), más corto: 0,470 m. El fino (DN ≤ 15) llega a 2 m.",
+   "notas_p": "N1: Cuidado con esta, que es contraintuitiva. Flexible de acero corrugado con el diámetro gordo, mayor de quince, ¿qué longitud máxima le toca?\nN2: Pista: cuanto más gordo es el tubo, más corta debe ser la conexión.",
+   "notas_r": "N1: ¿Por qué la más corta?\nN2: Justo por eso: con diámetro fino, hasta dos metros; con diámetro gordo, mayor de quince, solo cuarenta y siete centímetros. Es al revés de lo que uno pensaría, y por eso se pregunta tanto. Y por encima de la cifra, la regla de oro: el flexible nunca debe quedar bajo las llamas."
   },
   {
    "tipo": "contenido",
@@ -82,6 +105,20 @@
    ],
    "img_brief": "stainless steel gas connector kitchen",
    "notas": "N1: Y la otra con enchufe, ¿cambia mucho?\nN2: Son dos primas hermanas. Esta es de acero inoxidable corrugado y también lleva enchufe de seguridad, así que otra vez solo uso doméstico. Todo igual... menos las cifras, y ahí está la trampa del examen. La espirometálica de antes eran un metro y medio, y sesenta centímetros en calefacción móvil. Esta llega a dos metros en general, y setenta y cinco centímetros si es calefacción móvil. No las mezcles: mismo tipo de aparato, longitudes distintas. Un truco: casi todas las calefacciones móviles se quedan en sesenta centímetros; la única que se estira a setenta y cinco es justo esta, el acero corrugado con enchufe."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Acero inox corrugado con enchufe de seguridad en calefacción móvil: ¿longitud máxima?",
+   "opciones": [
+    "0,6 m",
+    "0,75 m",
+    "1,5 m",
+    "2 m"
+   ],
+   "correcta": 1,
+   "porque": "Es la excepción: casi todas las calefacciones móviles se quedan en 0,6 m, pero esta llega a 0,75 m.",
+   "notas_p": "N1: Esta es fina, para nota. Acero corrugado con enchufe de seguridad conectando una calefacción móvil, ¿cuánto puede medir como máximo?\nN2: Ojo, porque casi todas las calefacciones móviles comparten una misma cifra... menos una.",
+   "notas_r": "N1: ¿Cuál es el truco?\nN2: Casi todas las calefacciones móviles se quedan en sesenta centímetros: la espirometálica, el elastómero con armadura y el elastómero normal. La única que se estira a setenta y cinco centímetros es justo esta, el acero corrugado con enchufe. Si te la sabes, cazas la pregunta trampa."
   },
   {
    "tipo": "contenido",
@@ -132,6 +169,20 @@
    ],
    "img_brief": "orange butane rubber hose metal clamp",
    "notas": "N1: Este es el de toda la vida, ¿no? El de la bombona.\nN2: Exacto, el clásico tubo de goma naranja del butano. Va solo en aparatos móviles, mecheros y sopletes, y si sigue la norma europea, solo con GLP. El montaje tiene dos detalles que caen seguro. Uno: se une con boquillas, unas piezas según su norma, del mismo diámetro que el tubo; si el tubo es de nueve milímetros, boquilla de nueve, no se improvisa. Dos, y muy importante: se sujeta con abrazaderas metálicas, nunca de plástico. ¿Por qué metálicas? Porque la goma se dilata con el calor, y una brida de plástico cede, el tubo se suelta de la boquilla y tienes una fuga de gas y olor a butano en la cocina. Y recuerda: este tubo de goma caduca; el metálico, no."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "El tubo de goma de la bombona se sujeta a las boquillas con...",
+   "opciones": [
+    "Abrazaderas metálicas",
+    "Bridas de plástico",
+    "Racor de dos piezas",
+    "Soldadura por capilaridad"
+   ],
+   "correcta": 0,
+   "porque": "La goma se dilata con el calor y una brida de plástico cede; van boquillas UNE 60714 del mismo DN y abrazaderas metálicas.",
+   "notas_p": "N1: El clásico tubo naranja del butano, ¿con qué se sujeta a la boquilla?\nN2: Piensa en qué le pasa a la goma con el calor y qué sujeción aguanta eso sin ceder.",
+   "notas_r": "N1: ¿Por qué metálicas?\nN2: Porque la goma se dilata con el calor y una brida de plástico acabaría cediendo, el tubo se soltaría de la boquilla y tendrías fuga de gas y olor a butano. Van boquillas del mismo diámetro que el tubo y abrazaderas metálicas siempre, nunca de plástico."
   },
   {
    "tipo": "contenido",

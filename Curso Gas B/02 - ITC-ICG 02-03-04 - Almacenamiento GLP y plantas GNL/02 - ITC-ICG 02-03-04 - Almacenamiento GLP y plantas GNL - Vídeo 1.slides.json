@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["5", "categorías por kilos de GLP"],
-    ["0,65", "coeficiente de la fórmula de capacidad"],
-    ["25 m", "recorrido máximo hasta la salida"]
+    [
+     "5",
+     "categorías por kilos de GLP"
+    ],
+    [
+     "0,65",
+     "coeficiente de la fórmula de capacidad"
+    ],
+    [
+     "25 m",
+     "recorrido máximo hasta la salida"
+    ]
    ],
    "notas": "N1: Antes de entrar en materia, dame tres números para situarme.\nN2: Toma tres anclas. La primera: los centros se ordenan en cinco categorías según los kilos de gas que almacenan; de ahí cuelga todo lo demás. La segunda: para calcular esa capacidad se multiplica por un coeficiente de cero coma sesenta y cinco, que es un margen de seguridad, no el cien por cien del volumen. Y la tercera: una cifra de diseño que se repite, desde cualquier punto del almacenamiento el recorrido hasta la salida no puede pasar de veinticinco metros. Si retienes estas tres, el resto del vídeo encaja solo."
   },
@@ -59,6 +68,39 @@
    "notas": "N1: ¿Cómo se ordenan los centros, y por qué me suena al revés?\nN2: Se clasifican por su capacidad nominal de contenido total, es decir, por los kilos de GLP que pueden almacenar. Y aquí está la trampa: la numeración va al revés de la intuición. La primera es la más grande, hasta doscientos cincuenta mil kilos, y la quinta es la más pequeña, hasta quinientos kilos, esa jaula que ves en la gasolinera. Para no perderte, memoriza los saltos clave de menor a mayor: quinientos, mil, doce mil quinientos, veinticinco mil y doscientos cincuenta mil kilos. Y quédate con que la cuarta y la quinta son las de poca cosa, tienda de barrio y gasolinera, con reglas mucho más suaves que veremos en el vídeo dos."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 2 · Clasificación",
+   "titulo": "Las cinco categorías por kilos",
+   "headers": [
+    "Categoría",
+    "Capacidad nominal de contenido total"
+   ],
+   "rows": [
+    [
+     "1.ª",
+     "desde 25.001 kg hasta 250.000 kg"
+    ],
+    [
+     "2.ª",
+     "desde 12.501 kg hasta 25.000 kg"
+    ],
+    [
+     "3.ª",
+     "desde 1.001 kg hasta 12.500 kg"
+    ],
+    [
+     "4.ª",
+     "desde 501 kg hasta 1.000 kg"
+    ],
+    [
+     "5.ª",
+     "hasta 500 kg, en estaciones de servicio o locales comerciales"
+    ]
+   ],
+   "nota": "La categoría depende solo de los kilos de GLP: la 1.ª es la mayor y la 5.ª la menor.",
+   "notas": "N1: Si te digo que un centro almacena veinte mil kilos de GLP, ¿de qué categoría es?\nN2: Esta tabla es el corazón del vídeo: clasifica los centros por su capacidad en kilos, y de ella cuelga todo lo demás. Se lee de arriba abajo, de mayor a menor, y ojo, que va al revés de la intuición: la primera es la más grande, hasta doscientos cincuenta mil kilos, y la quinta la más pequeña, hasta quinientos. Fila a fila: primera, de veinticinco mil uno a doscientos cincuenta mil; segunda, de doce mil quinientos uno a veinticinco mil; tercera, de mil uno a doce mil quinientos; cuarta, de quinientos uno a mil; y quinta, hasta quinientos, la de la gasolinera y la tienda. Ejemplo de obra: veinte mil kilos caen entre doce mil quinientos uno y veinticinco mil, así que es un centro de segunda categoría."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 2 · Cálculo",
    "titulo": "Ct = Cn × N × 0,65",
@@ -70,6 +112,20 @@
    ],
    "img_brief": "empty gas cylinders warehouse row",
    "notas": "N1: ¿Cómo se calcula la capacidad y dónde están las trampas?\nN2: La fórmula es capacidad total igual a capacidad nominal del envase, por el número de envases, por cero coma sesenta y cinco. Hay dos trampas de examen escondidas en una sola línea. La primera es ese cero coma sesenta y cinco: un coeficiente de seguridad, porque no se cuenta el cien por cien del volumen del envase. La segunda está en la letra ene, el número de envases: cuentas los llenos y también los vacíos. ¿Por qué los vacíos, si están vacíos? Porque una bombona vacía nunca lo está del todo, siempre le queda un poco de gas y da la lata igual. Así que a la hora de sumar kilos, la botella vacía también suma. Truco para acordarte: en el recuento no perdono ni las vacías. Y la capacidad total del centro es la suma de las parciales de cada tipo de envase."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "En la fórmula Ct = Cn × N × 0,65, ¿qué envases se cuentan en N?",
+   "opciones": [
+    "Solo los envases llenos",
+    "Solo los envases vacíos",
+    "Los llenos y los vacíos",
+    "Únicamente los de más de 15 kg"
+   ],
+   "correcta": 2,
+   "porque": "Un envase vacío nunca lo está del todo: siempre le queda algo de gas, así que también suma en el recuento.",
+   "notas_p": "N1: Fórmula de capacidad a la vista. La pregunta del millón: en la letra ene, ¿qué botellas cuentas?\nN2: Piensa en esa bombona que devuelves supuestamente vacía. ¿De verdad no le queda nada dentro?",
+   "notas_r": "N1: ¿Por qué entran también las vacías?\nN2: Porque una bombona vacía siempre conserva un resto de gas y da la lata igual. Por eso en la ene cuentas llenos y vacíos, y encima multiplicas por cero coma sesenta y cinco, que es el margen de seguridad. El truco para no fallar: en el recuento no perdono ni las vacías."
   },
   {
    "tipo": "contenido",
@@ -124,6 +180,49 @@
    "notas": "N1: ¿Qué diferencia hay entre distancia interior y distancia exterior?\nN2: Piénsalo con tu propia parcela. La distancia interior es la que hay entre las bombonas y tus propios edificios, la oficina o el vestuario del centro: es de puertas para dentro, y vale seis, seis y dos metros para primera, segunda y tercera. La distancia exterior es la que hay entre las bombonas y lo que no es tuyo, la finca del vecino o la carretera pública: es de puertas para fuera, y vale veinte, quince y diez metros, medida entre los puntos más próximos. Regla de memoria: la exterior siempre es más grande, porque proteger al que está fuera, que no ha elegido tener gas al lado, pesa más. Y recuerda que estos centros grandes solo se pueden montar en zonas no residenciales."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 3.2 · Distancias (Cuadro I)",
+   "titulo": "Distancias mínimas de seguridad",
+   "headers": [
+    "Categoría",
+    "Distancia interior (m)",
+    "Distancia exterior (m)"
+   ],
+   "rows": [
+    [
+     "1.ª",
+     "6",
+     "20"
+    ],
+    [
+     "2.ª",
+     "6",
+     "15"
+    ],
+    [
+     "3.ª",
+     "2",
+     "10"
+    ]
+   ],
+   "nota": "Interior: a tus propios edificios. Exterior: al vecino y a la vía pública; siempre es mayor.",
+   "notas": "N1: ¿Cuál es siempre mayor, la distancia interior o la exterior?\nN2: Este es el Cuadro uno, y solo aplica a los centros grandes, primera, segunda y tercera. La distancia interior es la que separa las bombonas de tus propios edificios; la exterior, la que las separa de lo ajeno, la finca del vecino o la carretera. Lee cada fila emparejando las dos cifras: primera, seis de interior y veinte de exterior; segunda, seis y quince; tercera, dos y diez. Fíjate en que la exterior siempre es mayor, porque proteger al de fuera pesa más. Y no olvides el añadido: si al otro lado hay un colegio, un hospital o una línea de alta tensión, súmale diez metros a la exterior. Ejemplo: un centro de primera junto a un colegio necesita treinta metros de distancia exterior, veinte más diez."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "Un centro de 2.ª categoría tiene un instituto justo al otro lado de la valla. ¿Qué distancia exterior mínima le corresponde?",
+   "opciones": [
+    "15 m",
+    "20 m",
+    "25 m",
+    "10 m"
+   ],
+   "correcta": 2,
+   "porque": "La 2.ª tiene 15 m de exterior, pero un centro de enseñanza obliga a sumar 10 m: 15 + 10 = 25 m.",
+   "notas_p": "N1: Combinamos tabla y excepción. Segunda categoría, y enfrente un instituto. ¿Cuántos metros?\nN2: Mira el Cuadro y no te olvides del recargo de los sitios con mucha gente.",
+   "notas_r": "N1: ¿De dónde salen esos metros?\nN2: La segunda categoría tiene quince metros de distancia exterior. Pero un centro de enseñanza es de esos sitios sensibles que obligan a alejarse diez metros más. Quince más diez, veinticinco. El truco: primero lees la tabla, y solo después aplicas el más diez si toca."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.2 · Distancias",
    "titulo": "El +10 m de sitios sensibles",
@@ -163,6 +262,30 @@
    "notas": "N1: ¿Cuántas alturas de bombonas puedo apilar?\nN2: Depende del peso de la botella, y la regla es muy lógica. Las domésticas, esas de hasta quince kilos, la butano naranja de toda la vida, se apilan en jaulas: cuatro alturas si van llenas y seis si van vacías, porque una vacía pesa menos y aguanta más pisos encima. En cambio, las gordas, las de más de quince kilos, van a ras de suelo, una sola altura, tanto llenas como vacías. Truco para el examen: la pequeña sube, la grande no. Las jaulas se colocan de modo que entre la carretilla elevadora, y para moverlas nada de imanes ni de cuerdas o eslingas chapuceras. ¿Por qué tanto cuidado? Porque una jaula que cae es un golpe seco en la válvula, y eso es una fuga garantizada."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 3.2 · Apilado",
+   "titulo": "Alturas máximas de las jaulas",
+   "headers": [
+    "Tipo de envase",
+    "Envases llenos",
+    "Envases vacíos"
+   ],
+   "rows": [
+    [
+     "Jaulas de envases domésticos de hasta 15 kg",
+     "hasta 4 alturas",
+     "hasta 6 alturas"
+    ],
+    [
+     "Jaulas de envases de más de 15 kg",
+     "1 única altura",
+     "1 única altura"
+    ]
+   ],
+   "nota": "Cuanto más pesa la botella, menos se apila. Las vacías, al pesar menos, admiten más alturas.",
+   "notas": "N1: ¿Cuántas alturas puedo apilar de bombonas domésticas vacías?\nN2: Esta tabla te dice hasta dónde puedes apilar las jaulas, y la lógica es el peso. Primera fila, las domésticas de hasta quince kilos, la butano naranja de toda la vida: cuatro alturas si van llenas y seis si van vacías, porque una vacía pesa menos y aguanta más pisos. Segunda fila, las gordas de más de quince kilos: una sola altura, tanto llenas como vacías. Truco para el examen: la pequeña sube, la grande no. Ejemplo de obra: una jaula de bombonas domésticas vacías para devolver puede llegar hasta seis alturas; pero como sean de más de quince kilos, todas al suelo, en una única fila."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Apartado 3.2 · Incendios",
    "titulo": "Agua contra incendios (1.ª)",
@@ -187,6 +310,71 @@
    ],
    "img_brief": "red fire extinguisher industrial",
    "notas": "N1: ¿Tengo que memorizar toda la tabla de extintores?\nN2: No, tranquilo. Quédate con la lógica y con tres anclas. Primera ancla: cuanto mayor es el centro, más extintores lleva, sin más. Segunda: la tercera categoría es la única que va solo con extintores pequeños, cinco de eficacia veintiuno a, ciento trece b. Tercera: la primera categoría, la más grande, crece por tramos, sumando extintores por cada dieciocho mil setecientos cincuenta kilos que sobrepase. Y una equivalencia que preguntan mucho: puedes cambiar un extintor grande, el de cuarenta y tres a, ciento ochenta y tres b, por el pequeño de veintiuno a, ciento trece b, pero poniendo el doble. Idea sencilla: un extintor grande equivale a dos pequeños. Y un extra: si no hay agua suficiente, la Comunidad Autónoma puede permitir aumentar la dotación de extintores en un cincuenta por ciento en lugar de la red de agua."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Apartado 3.2 · Extintores (Cuadro II)",
+   "titulo": "Número mínimo de extintores",
+   "headers": [
+    "Categoría del centro",
+    "Extintor móvil 50 kg",
+    "Eficacia 43A-183B",
+    "Eficacia 21A-113B"
+   ],
+   "rows": [
+    [
+     "1.ª (más de 75.000 kg)",
+     "5, más 1 por cada 18.750 kg de exceso",
+     "7, más 2 por cada 18.750 kg de exceso",
+     "–"
+    ],
+    [
+     "1.ª (de 56.251 a 75.000 kg)",
+     "4",
+     "6",
+     "–"
+    ],
+    [
+     "1.ª (de 37.501 a 56.250 kg)",
+     "3",
+     "4",
+     "–"
+    ],
+    [
+     "1.ª (de 25.001 a 37.500 kg)",
+     "2",
+     "3",
+     "–"
+    ],
+    [
+     "2.ª",
+     "1",
+     "2",
+     "–"
+    ],
+    [
+     "3.ª",
+     "–",
+     "–",
+     "5"
+    ]
+   ],
+   "nota": "A mayor centro, más extintores. Un 43A-183B equivale a dos 21A-113B.",
+   "notas": "N1: ¿Qué categoría es la única que va solo con extintores pequeños?\nN2: Este es el Cuadro dos, y no hace falta memorizar cada casilla; quédate con la lógica y tres anclas. Primera ancla: cuanto mayor es el centro, más extintores lleva. Segunda: la primera categoría, la más grande, crece por tramos, sumando extintores por cada dieciocho mil setecientos cincuenta kilos que sobrepase los setenta y cinco mil. Tercera: la tercera categoría es la única que va solo con extintores pequeños, cinco de eficacia veintiuno a, ciento trece b. Y una equivalencia muy preguntada, que ves en las columnas: un extintor de cuarenta y tres a, ciento ochenta y tres b se puede cambiar por los de veintiuno a, ciento trece b, pero poniendo el doble. Ejemplo: donde te pide seis del grande, puedes poner doce del pequeño."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Cuál de estas afirmaciones sobre los extintores del Cuadro II es correcta?",
+   "opciones": [
+    "La 3.ª categoría no lleva ningún extintor",
+    "Un 43A-183B se sustituye por el doble de 21A-113B",
+    "La 1.ª siempre lleva exactamente cinco extintores",
+    "La 2.ª lleva más extintores que la 1.ª"
+   ],
+   "correcta": 1,
+   "porque": "Puedes cambiar cada 43A-183B por 21A-113B, pero poniendo como mínimo el doble.",
+   "notas_p": "N1: Repasamos la tabla de extintores. Solo una frase es verdad. ¿Cuál?\nN2: Fíjate en la equivalencia entre el extintor grande y el pequeño.",
+   "notas_r": "N1: ¿Por qué esa y no las otras?\nN2: La tercera sí lleva extintores, cinco pequeños. La primera no es fija: crece por tramos según los kilos. Y la segunda siempre lleva menos que la primera, no más. La única cierta es la equivalencia: un extintor grande equivale a dos pequeños. Idea sencilla: uno grande, dos pequeños."
   },
   {
    "tipo": "contenido",

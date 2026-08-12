@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["13", "partes de la norma UNE 60670"],
-    ["5 bar", "presión máxima de operación"],
-    ["40 cm", "distancia al foco de calor"]
+    [
+     "13",
+     "partes de la norma UNE 60670"
+    ],
+    [
+     "5 bar",
+     "presión máxima de operación"
+    ],
+    [
+     "40 cm",
+     "distancia al foco de calor"
+    ]
    ],
    "notas": "N1: ¿Y estas cifras qué me dicen del vídeo?\nN2: Te ubican de un vistazo. La primera: toda la norma de instalaciones receptoras se parte en trece cuadernos, y nosotros vivimos en el número siete, el del último metro. La segunda: cinco bar es la presión máxima de la que hablamos, la presión más alta que puede llevar en marcha una instalación receptora; por encima de eso ya es otro mundo. Y la tercera, cuarenta centímetros, es la distancia estrella del vídeo: lo que tiene que separar un calentador colgado encima de una cocina del fuego de abajo. Si te quedas con estas tres, ya sabes de qué palo va todo."
   },
@@ -92,6 +101,20 @@
    "notas": "N1: ¿Y por qué el tipo C se libra con solo diez?\nN2: Porque el tipo C es el listo de la clase: es un aparato estanco. Estanco quiere decir que está sellado respecto a la habitación; coge el aire de fuera y expulsa los humos por su propio conducto, sin respirar del cuarto donde está. Como no depende del aire de la habitación y está mucho más protegido de ese golpe de calor de los fuegos, la norma se conforma con diez centímetros siempre, tenga pantalla o no la tenga. Resumen para que no se te olvide: circuito abierto, cuarenta o diez según la pantalla; tipo C, diez fijos y a otra cosa."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Un calentador de circuito abierto va sobre la cocina sin pantalla. ¿Distancia horizontal mínima al quemador más cercano?",
+   "opciones": [
+    "10 cm",
+    "25 cm",
+    "40 cm",
+    "60 cm"
+   ],
+   "correcta": 2,
+   "porque": "Circuito abierto sin pantalla exige 40 cm; con protección baja a 10 cm, y el tipo C se queda en 10 cm siempre.",
+   "notas_p": "N1: Va pregunta rápida, que esta cae seguro. Calentador de circuito abierto colgado justo encima de los fuegos y sin pantalla, ¿cuánto tiene que separarse del quemador más cercano?\nN2: Piensa en la columna de calor que sube de la cocina; la norma quiere el calentador lo bastante lejos para que no lo achicharre.",
+   "notas_r": "N1: ¿Por qué esa y no otra?\nN2: Sin protección manda la cifra grande, cuarenta centímetros en horizontal al quemador más cercano. Si metes una pantalla que corte el calor, puedes bajar hasta diez. Y no lo confundas con el tipo C, que por ser estanco se queda en diez fijos, lleve pantalla o no. El truco: cuarenta sin protección, diez con protección."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Tipos de conexión",
    "titulo": "Todo pasa por la llave",
@@ -117,6 +140,101 @@
    "notas": "N1: La tabla tiene un montón de casillas, ¿me las aprendo todas?\nN2: Ni de broma, no memorices treinta casillas. Quédate con la lógica y colocas casi cualquier pregunta. Primera idea: la conexión rígida vale solo para aparatos fijos, dé igual que sea una casa o una industria; para algo móvil, rígida jamás. Segunda idea: los dos tubos que llevan enchufe de seguridad son solo de uso doméstico, de casa, pero sirven tanto para fijo como para móvil. Tercera idea: los tubos de elastómero, la goma, son el mundo de lo móvil y de las bombonas de GLP. Con esas tres frases resuelves la tabla uno sin empollarla."
   },
   {
+   "tipo": "tabla",
+   "eyebrow": "Tabla 1 · Aparatos",
+   "titulo": "Conexión de aparatos de gas",
+   "headers": [
+    "Tipo de conexión",
+    "Norma",
+    "Fijo D",
+    "Fijo ND",
+    "Móvil D",
+    "Móvil ND"
+   ],
+   "rows": [
+    [
+     "Rígida",
+     "UNE 60670-3; junta plana UNE 60719",
+     "SÍ",
+     "SÍ",
+     "NO",
+     "NO"
+    ],
+    [
+     "Acero inox corrugado (doméstico)",
+     "UNE 60713",
+     "SÍ",
+     "SÍ",
+     "NO",
+     "NO"
+    ],
+    [
+     "Acero inox corrugado (no doméstico)",
+     "UNE-EN ISO 10380",
+     "NO",
+     "SÍ",
+     "NO",
+     "SÍ"
+    ],
+    [
+     "Espirometálica con enchufe de seguridad",
+     "UNE 60715-1 + UNE-EN 15069",
+     "SÍ",
+     "NO",
+     "SÍ",
+     "NO"
+    ],
+    [
+     "Acero inox corrugado con enchufe de seguridad",
+     "UNE-EN 14800 + UNE-EN 15069",
+     "SÍ",
+     "NO",
+     "SÍ",
+     "NO"
+    ],
+    [
+     "Elastómero con armadura",
+     "UNE-EN 16436 clase 3",
+     "NO",
+     "NO",
+     "NO",
+     "SÍ (1)"
+    ],
+    [
+     "Elastómero",
+     "UNE 53539 o UNE-EN 16436 clase 1",
+     "NO",
+     "NO",
+     "SÍ (2)",
+     "SÍ (2)"
+    ],
+    [
+     "Metálica corrugada sin enchufe",
+     "UNE-EN 14800",
+     "SÍ",
+     "NO",
+     "SÍ (3)",
+     "NO"
+    ]
+   ],
+   "nota": "D es uso doméstico y ND no doméstico. (1) solo con GLP; (2) si es UNE-EN 16436 clase 1, solo envases de GLP; (3) solo desde envases de GLP con accesorios UNE 60719.",
+   "notas": "N1: A ver, profe, esta tabla tiene un montón de casillas. ¿Me la explicas?\nN2: Tranquilo, que no hay que memorizar treinta y dos casillas, solo leerla con lógica. Cada fila es un tipo de conexión con su norma, y las cuatro columnas de la derecha te dicen si vale para aparato fijo o móvil, y dentro de cada uno para uso doméstico o no doméstico. Fíjate en tres cosas y colocas casi todo. Uno: la rígida y los aceros corrugados de arriba solo dicen que sí en fijos, nunca en móvil. Dos: las dos filas con enchufe de seguridad, la espirometálica y el acero corrugado con enchufe, solo tienen sí en las columnas domésticas, valgan para fijo o para móvil. Y tres: los elastómeros de abajo son el mundo de lo móvil y del gas licuado. Un ejemplo de obra: te llega una cocina de gas suelta en una vivienda, o sea aparato móvil doméstico; miras la columna de móvil doméstico y ves que la rígida es que no, y que te vale, por ejemplo, un flexible con enchufe de seguridad o de elastómero. Las llamadas uno, dos y tres son matices del gas licuado, ahí abajo las tienes."
+  },
+  {
+   "tipo": "quiz",
+   "pregunta": "¿Para qué aparato no se admite nunca la conexión rígida?",
+   "opciones": [
+    "Un aparato fijo doméstico",
+    "Un aparato fijo no doméstico",
+    "Un aparato móvil",
+    "Una caldera mural fija"
+   ],
+   "correcta": 2,
+   "porque": "La rígida es exclusiva de aparatos fijos, dé igual doméstico o no; para cualquier aparato móvil se usa flexible.",
+   "notas_p": "N1: Otra de examen. La conexión rígida, ese tubo firme, ¿con qué aparato no la puedes usar jamás?\nN2: Acuérdate de la lógica de la primera tabla: el tubo rígido no acompaña el movimiento.",
+   "notas_r": "N1: ¿Por qué el móvil?\nN2: La rígida sirve solo para aparatos fijos, tanto en casa como en industria; en cambio, para cualquier aparato que se mueva se recurre al flexible, que absorbe el desplazamiento. Regla corta: rígida, solo fijos."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Concepto clave",
    "titulo": "El enchufe de seguridad",
@@ -129,6 +247,20 @@
    "notas": "N1: ¿Qué es exactamente ese enchufe de seguridad?\nN2: Es una conexión rápida, tipo enganche, que tiene un truco: al desenchufar el aparato, corta el gas ella sola, automáticamente. No tienes que ir a cerrar ninguna llave; tiras del enganche y el paso se cierra. ¿Ves por qué la norma la reserva para uso doméstico? Está pensada para que en casa puedas separar la cocina o el aparato para limpiar detrás, o para cambiarlo, sin que se escape ni una burbuja de gas. En industria y comercio no se admiten esas conexiones con enchufe; allí se montan de otra forma. Enchufe de seguridad es igual a casa y a comodidad segura."
   },
   {
+   "tipo": "quiz",
+   "pregunta": "Las dos conexiones con enchufe de seguridad, ¿para qué uso se admiten?",
+   "opciones": [
+    "Solo uso doméstico",
+    "Solo uso no doméstico",
+    "Doméstico y no doméstico",
+    "Solo mecheros de laboratorio"
+   ],
+   "correcta": 0,
+   "porque": "El enchufe de seguridad corta el gas al desenchufar y se reserva a uso doméstico; en no doméstico no se admite.",
+   "notas_p": "N1: Piensa en ese enganche rápido que corta el gas solo al tirar de él. ¿Dónde se permite usarlo?\nN2: Es una comodidad pensada para la casa, no para la industria ni el comercio.",
+   "notas_r": "N1: ¿Y el porqué?\nN2: El enchufe de seguridad está pensado para que en casa separes el aparato sin que se escape gas. Por eso las dos filas con enchufe de la tabla son solo de uso doméstico; en comercio o industria no se admiten. Enchufe de seguridad es igual a casa."
+  },
+  {
    "tipo": "contenido",
    "eyebrow": "Tabla 2 · Mecheros y sopletes",
    "titulo": "Aquí, rígida nunca",
@@ -139,6 +271,69 @@
    ],
    "img_brief": "laboratory bunsen burner flame",
    "notas": "N1: ¿Y la tabla dos en qué se diferencia?\nN2: La tabla dos es solo para mecheros de laboratorio, los tipo Bunsen, y para sopletes. Y aquí hay una diferencia gorda: la conexión rígida es siempre que no. Piénsalo, tiene toda la lógica: un mechero o un soplete los mueves con la mano para trabajar, no vas a soldarlos con un tubo rígido a la pared. Por eso van con tubos flexibles: con enchufe de seguridad, de elastómero, o metálico corrugado. Un detalle fino que a veces cae: el tubo de elastómero con armadura para sopletes sigue la norma de las mangueras de soldadura, la de soldeo y corte, porque un soplete al fin y al cabo es una herramienta de soldar."
+  },
+  {
+   "tipo": "tabla",
+   "eyebrow": "Tabla 2 · Mecheros y sopletes",
+   "titulo": "Conexión de mecheros y sopletes",
+   "headers": [
+    "Tipo de conexión",
+    "Norma",
+    "Mecheros",
+    "Sopletes"
+   ],
+   "rows": [
+    [
+     "Rígida",
+     "UNE 60670-3",
+     "NO",
+     "NO"
+    ],
+    [
+     "Acero inox corrugado (doméstico)",
+     "UNE 60713",
+     "NO",
+     "NO"
+    ],
+    [
+     "Acero inox corrugado (no doméstico)",
+     "UNE-EN ISO 10380",
+     "NO",
+     "NO"
+    ],
+    [
+     "Espirometálica con enchufe de seguridad",
+     "UNE 60715-1 + UNE-EN 15069",
+     "SÍ",
+     "SÍ"
+    ],
+    [
+     "Acero inox corrugado con enchufe de seguridad",
+     "UNE-EN 14800 + UNE-EN 15069",
+     "SÍ",
+     "SÍ"
+    ],
+    [
+     "Elastómero con armadura",
+     "UNE-EN ISO 3821",
+     "NO",
+     "SÍ"
+    ],
+    [
+     "Elastómero",
+     "UNE 53539 o UNE-EN 16436 clase 1",
+     "SÍ (*)",
+     "SÍ (*)"
+    ],
+    [
+     "Metálica corrugada sin enchufe",
+     "UNE-EN 14800",
+     "SÍ",
+     "NO"
+    ]
+   ],
+   "nota": "Mecheros y sopletes se mueven: la conexión rígida siempre es no. (*) según UNE-EN 16436 clase 1, solo para suministro con GLP.",
+   "notas": "N1: ¿Y esta segunda tabla en qué cambia?\nN2: Esta es solo para mecheros de laboratorio y para sopletes, esas herramientas que se mueven en la mano. Léela igual, fila a fila, pero fíjate en lo que salta a la vista: las tres primeras filas, la rígida y los aceros corrugados sin enchufe, son que no para los dos, porque a un mechero o a un soplete no los sueldas con tubo firme. Lo que sí vale son los flexibles con enchufe de seguridad, que dan sí en mecheros y sopletes, y los elastómeros. Ojo a un detalle que cae: el elastómero con armadura aquí va según la norma de las mangueras de soldeo y corte, distinta de la de la tabla anterior, porque un soplete al fin y al cabo es una herramienta de soldar. Ejemplo de taller: para el soplete del fontanero, un flexible de elastómero con armadura de soldeo; para un mechero de laboratorio, un flexible con enchufe de seguridad. La llamada con asterisco recuerda que el elastómero según la norma europea es solo para gas licuado."
   },
   {
    "tipo": "contenido",
