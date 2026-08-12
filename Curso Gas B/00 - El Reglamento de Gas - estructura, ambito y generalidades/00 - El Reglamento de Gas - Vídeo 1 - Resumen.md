@@ -2,7 +2,7 @@
 
 <p class="eyebrow">Tema 00 · Vídeo 1 de 3 · Marco normativo</p>
 
-**Antes de tocar un solo tubo, hay que saber qué manda.** Todo el trabajo del gasista se sostiene sobre un único texto: el Reglamento técnico de distribución y utilización de combustibles gaseosos, aprobado por el **Real Decreto 919/2006**. En este primer vídeo desmontamos su artículo de arranque: para qué sirve, a qué instalaciones se aplica y —lo más importante para el examen— el vocabulario exacto con el que trabaja. Domina estas definiciones y media asignatura estará ganada.
+**Antes de tocar un solo tubo, hay que saber qué manda.** Todo el trabajo del gasista se sostiene sobre un único texto: el Reglamento técnico de distribución y utilización de combustibles gaseosos, aprobado por el **Real Decreto 919/2006**. En este primer vídeo desmontamos su arranque: para qué sirve, a qué instalaciones se aplica y —lo más importante para el examen— el vocabulario exacto con el que trabaja. Domina estas definiciones y media asignatura estará ganada.
 
 ## Artículo 1 · Objeto
 
@@ -15,7 +15,9 @@ con una única finalidad de fondo: **preservar la seguridad de las personas y lo
 
 Sus prescripciones se aplican **con carácter general** a todas las instalaciones de su campo de aplicación, y **con carácter específico** a través de las **Instrucciones Técnicas Complementarias (ITC)** de cada tipo de instalación. Cumplir este Reglamento **no exime** de cumplir otras disposiciones que regulen materias distintas sobre esas mismas instalaciones.
 
-> **Nota del instructor —** Fíjate en la estructura de dos niveles: el **articulado** pone las reglas generales y cada **ITC** las concreta para su tipo de instalación. Cuando en obra te preguntes «¿esto de dónde sale?», la respuesta casi siempre es: lo general, del articulado; el detalle, de la ITC que toque. Es la lógica que se repite en todo el curso.
+> **Nota aclaratoria —** Imagina el Reglamento como el **tronco de un árbol** y las ITC como sus **ramas**. El tronco (articulado) dice lo que vale para todos; cada rama (ITC) baja al detalle de su tipo de instalación. Cuando en obra te preguntes «¿esto de dónde sale?», la respuesta casi siempre es: lo general, del tronco; el detalle, de la rama que toque. Esta lógica se repite en TODO el curso, así que grábatela ya.
+
+> **Nota aclaratoria —** ¿Por qué dos leyes por encima del Reglamento? Porque un reglamento no nace solo: **desarrolla** lo que una ley ordena. La **Ley de hidrocarburos** (34/1998) manda en el «negocio del gas» (quién distribuye, comercializa…) y la **Ley de industria** (21/1992) en la «seguridad industrial». El Reglamento es el manual de instrucciones que baja esas dos leyes al taller. Si te preguntan «¿de qué leyes cuelga el Reglamento?», ya lo sabes.
 
 ## Artículo 2 · Campo de aplicación
 
@@ -23,23 +25,25 @@ Sus prescripciones se aplican **con carácter general** a todas las instalacione
 
 El Reglamento se aplica a las siguientes instalaciones y aparatos:
 
-| Letra | Instalación / aparato | Nota rápida |
+| Letra | Instalación / aparato | En cristiano |
 |---|---|---|
-| a | **Distribución por canalización** | Redes de gas de presión máxima de diseño ≤ 16 bar y sus auxiliares (estaciones de regulación, acometidas). Incluye ciertos gasoductos > 16 bar y las líneas directas de la Ley 34/1998. |
-| b | **Centros de almacenamiento y distribución de envases de GLP** | Recepción y almacenamiento de envases de GLP para su venta y reparto a domicilio. |
-| c | **Almacenamiento de GLP en depósitos fijos** | Depósitos fijos y accesorios que alimentan redes o instalaciones receptoras. |
-| d | **Plantas satélite de GNL** | Almacenamiento de gas natural licuado hasta 1.000 m³ geométricos y presión máxima de operación > 1 bar, para suministro a redes o receptoras. |
-| e | **Estaciones de servicio para vehículos a gas** | Suministro de GLP a granel, GNC, GNL o hidrógeno en fase gas como carburante. |
-| f | **Instalaciones de envases de GLP** | Uno o varios envases más tuberías y accesorios hasta la llave de acometida (incluida), para alimentar receptoras. |
-| g | **GLP de uso doméstico en caravanas y autocaravanas** | Envases, tuberías, accesorios y aparatos para suministro doméstico en el vehículo. |
-| h | **Instalaciones receptoras de combustibles gaseosos** | El corazón del oficio (ver definición exacta abajo). |
-| i | **Aparatos de gas** | Los que utilizan los combustibles gaseosos. |
+| a | **Distribución por canalización** | La red de la calle: tuberías de la compañía, presión máxima de diseño ≤ 16 bar, con sus estaciones de regulación y acometidas. |
+| b | **Centros de almacenamiento y distribución de envases de GLP** | La «nave de las bombonas»: donde se guardan y reparten los envases de GLP. |
+| c | **Almacenamiento de GLP en depósitos fijos** | El **depósito enterrado o de superficie** (típico de chalés/urbanizaciones sin gas natural). |
+| d | **Plantas satélite de GNL** | Depósito de gas natural licuado (hasta 1.000 m³, presión de operación > 1 bar) que abastece una zona. |
+| e | **Estaciones de servicio para vehículos a gas** | La «gasolinera de gas»: GLP a granel, GNC, GNL o hidrógeno para repostar coches. |
+| f | **Instalaciones de envases de GLP** | El conjunto de bombonas + tuberías hasta la llave de acometida (incluida). |
+| g | **GLP de uso doméstico en caravanas y autocaravanas** | La instalación de gas de la caravana. |
+| h | **Instalaciones receptoras de combustibles gaseosos** | **El corazón de Gas B** (definición exacta abajo). |
+| i | **Aparatos de gas** | Los que queman el gas: caldera, calentador, cocina, etc. |
 
 **Definición clave — instalación receptora (letra h):** conjunto de tuberías y accesorios comprendidos **entre la llave de acometida (excluida) y las llaves de conexión de aparato (incluidas)**, quedando **excluidos** los tramos de conexión de los aparatos y los propios aparatos. En su caso más general se compone de **acometida interior, instalación común e instalación individual**. Cuando se alimenta desde envases de GLP de carga unitaria inferior a 15 kg, va **desde el regulador o reguladores acoplados a los envases (incluidos) hasta las llaves de conexión de aparato (incluidas)**.
 
 **No es instalación receptora** la alimentada por un **único envase o depósito móvil de GLP de contenido inferior a 15 kg** conectado por tubería flexible o acoplado directamente a **un solo aparato de utilización móvil**.
 
-> **Nota del instructor —** Las fronteras «incluida / excluida» son oro puro para el examen. Regla mental: la instalación receptora **empieza donde acaba la acometida** (la llave de acometida no es tuya) y **termina en la llave de conexión del aparato** (esa sí es tuya). El aparato y su tubo de conexión quedan fuera. Repite este límite hasta que te salga solo.
+> **Nota aclaratoria —** El truco de «incluida / excluida» se entiende con la **llave del portal**. La **llave de acometida** es como la llave del portal que pone la compañía: **no es tuya**, por eso va *excluida*. Desde la puerta de tu casa hacia dentro (las **llaves de conexión de aparato**) **sí es tuyo**, por eso van *incluidas*. Regla de una frase: **la receptora empieza donde acaba la acometida y termina en la llave del aparato**. El aparato y su tubito de conexión, fuera.
+
+> **Nota aclaratoria —** Ese límite de **15 kg** es el que separa «instalación» de «cacharro suelto». La bombona de camping-gas con su tubo a un solo hornillo **no es** instalación receptora (no hay que legalizarla como tal). Pero en cuanto pones **tubería fija, varios aparatos o una bombona más grande**, ya es instalación receptora y entra el Reglamento. Piensa: *bombona pequeña + un aparato móvil = fuera; todo lo demás = dentro*.
 
 ### Aplicación en el tiempo
 
@@ -49,6 +53,8 @@ En cuanto a instalaciones, el Reglamento se aplica:
 - a las instalaciones **existentes** que sean objeto de modificación o ampliación.
 
 Las instalaciones que ya existían quedan sometidas al **régimen de controles periódicos** (periodicidad y agentes). Los criterios técnicos en esas intervenciones son los de su ITC o, en su defecto, los de la reglamentación con la que fueron construidas.
+
+> **Nota aclaratoria —** Traducción práctica: una instalación vieja **no hay que rehacerla** porque salga un reglamento nuevo. Se respeta como está… **hasta que la tocas** (la amplías o modificas): en ese momento, lo que toques se pone al día. Y ojo, aunque no la toques, **los controles periódicos** (las inspecciones/revisiones) sí le caen igual. Nadie se libra del control periódico por ser antigua.
 
 ## Artículo 3 · Definiciones
 
@@ -126,13 +132,20 @@ Transportista
 Usuario
 : Persona física o jurídica que utiliza el gas para su consumo.
 
-> **Nota del instructor —** No memorices las definiciones como frases sueltas; agrúpalas. Un bloque son las **partes físicas** de la instalación (acometida interior → instalación común → instalación individual), que van encajadas como muñecas rusas siguiendo el gas. Otro bloque son los **agentes** (fabricante, instalador, empresa instaladora, distribuidor, suministrador, organismo de control, titular, usuario). Si distingues «partes» de «personas», las preguntas cruzadas dejan de tener trampa.
+> **Nota aclaratoria — las tres partes, como muñecas rusas.** El gas entra y va pasando por tres tramos encajados, siempre en este orden: **acometida interior** (de la calle al edificio) → **instalación común** (el montante que sube por el edificio, compartido) → **instalación individual** (lo que entra en tu vivienda hasta cada aparato). Cada tramo empieza donde acaba el anterior. Si visualizas el gas «subiendo por la escalera y entrando en tu piso», colocas los tres tramos sin fallar.
+
+> **Nota aclaratoria — ¿y si es un chalé?** No siempre existen los tres tramos. En una vivienda **unifamiliar** con contador en la valla, no hay «instalación común» ni «acometida interior»: va casi todo directo a la instalación individual. Por eso la definición dice «en su caso más general». No te agobies si en una instalación real falta un tramo: es normal.
+
+> **Nota aclaratoria — personas, no tuberías.** La otra mitad del diccionario son **los agentes** (quién es quién). Ata cabos: el **fabricante** hace el producto; la **empresa instaladora** (la razón social) monta y mantiene; el **instalador** (la persona con carné) ejecuta; el **distribuidor** lleva el gas por la red; el **comercializador** te lo vende; el **organismo de control** vigila; el **titular** es el dueño y el **usuario** el que lo gasta. Si separas «tuberías» de «personas», las preguntas cruzadas dejan de tener trampa.
+
+> **Nota aclaratoria — las tres familias de gas.** Cuando veas «tres familias» (UNE-EN 437), piensa: **1.ª familia** = gases manufacturados/aire propanado (casi en desuso), **2.ª familia** = **gas natural** (el de la ciudad), **3.ª familia** = **GLP** (butano y propano). Es una forma de clasificar los gases por cómo queman. Te sonará todo el curso.
 
 ## Ideas clave del vídeo
 
 - El Reglamento (**RD 919/2006**) fija **condiciones técnicas y garantías** para instalaciones y aparatos de gas; su fin es la **seguridad de personas y bienes**.
-- Funciona a dos niveles: **articulado** (general) + **ITC** (específico de cada tipo de instalación).
+- Cuelga de dos leyes: **hidrocarburos** (34/1998) e **industria** (21/1992), y funciona a dos niveles: **articulado** (general) + **ITC** (específico).
 - Se aplica a **nueve** tipos de instalaciones/aparatos; la **letra h**, instalaciones receptoras, es el núcleo de Gas B.
 - La **instalación receptora** va de la **llave de acometida (excluida)** a las **llaves de conexión de aparato (incluidas)**; aparatos y sus conexiones quedan fuera.
 - Un envase de GLP **< 15 kg** con tubo flexible a un **solo aparato móvil** **no** es instalación receptora.
-- El **Artículo 3** es el diccionario del oficio: separa **partes de la instalación** de **agentes** y las dominarás.
+- Las tres partes, como muñecas rusas: **acometida interior → instalación común → instalación individual**.
+- El **Artículo 3** es el diccionario: separa **partes de la instalación** de **agentes** y lo dominarás.
