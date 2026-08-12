@@ -14,8 +14,8 @@ Curso completo (sin recortes) montado con el PROMPT MAESTRO v9.
 | 04 | ITC-ICG 07 — Instalaciones receptoras ★ núcleo Gas B | Reglamento CNI + guía NEDGIA |
 | 05 | ITC-ICG 08 — Aparatos de gas | Reglamento CNI |
 | 06 | ITC-ICG 09 — Instaladores y empresas instaladoras | Reglamento CNI + resumen |
-| 07 | ITC-ICG 10 — Instalaciones de GLP de uso doméstico | Reglamento CNI |
-| 08 | ITC-ICG 11 — Revisiones, inspecciones periódicas y pruebas | Reglamento CNI |
+| 07 | ITC-ICG 10 — GLP de uso doméstico en caravanas y autocaravanas | Reglamento CNI |
+| 08 | ITC-ICG 11 — Relación de normas UNE de referencia | Reglamento CNI |
 
 ## Bloque B — Norma UNE 60670 (instalaciones receptoras, MOP ≤ 5 bar)
 
