@@ -1,0 +1,183 @@
+{
+ "pie": "Curso Gas B · Tema 01 · Distribución por canalización",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 01 · Reglamento · ITC-ICG 01",
+   "videoxy": "Vídeo 2 de 2",
+   "titulo": "Operación, mantenimiento y protección",
+   "subtitulo": "La vida diaria de una red de gas viva",
+   "notas": "N1: ¿Qué pasa con una red de gas una vez que ya tiene gas dentro?\nN2: Que hay que vigilarla, mantenerla y protegerla las veinticuatro horas. En el vídeo anterior vimos cómo se proyecta, se construye y se pone en servicio; ahora toca la vida diaria de la red. Cubrimos los apartados seis, siete y ocho de la instrucción: cómo se opera y se mantiene la distribución, qué documentación hay que archivar, y cómo se protege la red frente a las obras que hacen terceros en la calle. Aviso: aquí hay muchos plazos y listas cerradas, y eso es una mina de preguntas de examen."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    ["3", "clases de fuga según su gravedad"],
+    ["8", "puntos del plan de emergencia"],
+    ["5", "años de archivo de seguridad"]
+   ],
+   "notas": "N1: Tres números para ordenar el vídeo antes de empezar.\nN2: Hay tres clases de fuga según su gravedad, que veremos en el control de estanquidad. El plan de emergencia escrito tiene ocho puntos, una checklist que conviene memorizar. Y las intervenciones por motivos de seguridad y de emergencia se archivan un mínimo de cinco años. Si retienes estos tres, ya tienes tres respuestas de examen medio hechas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6 · Operación y mantenimiento",
+   "titulo": "Vigilar y cuidar la red",
+   "vinetas": [
+    "Operar: conducir el día a día",
+    "Mantener: cuidar y reparar",
+    "Responsabilidad del titular",
+    "Copia de procedimientos: Ministerio y CA"
+   ],
+   "img_brief": "gas control room operators monitors",
+   "notas": "N1: ¿Qué diferencia hay entre operar y mantener?\nN2: Operar es conducir la red día a día: vigilar presiones, la odorización, que todo fluya. Mantener es cuidarla y repararla. Las dos cosas recaen en el titular de la instalación, aunque las haga gente contratada, personal propio o ajeno, y siempre por personal cualificado. Y la Administración quiere ver los papeles: el distribuidor tiene que entregar copia de los procedimientos de sus centros de operación y de urgencias a dos sitios, al Ministerio, en materia de seguridad industrial, y a la Comunidad Autónoma que autorizó la red. Todo bajo el criterio de seguridad pública."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.1 · Centros de operación",
+   "titulo": "La torre de control",
+   "vinetas": [
+    "Medios materiales y humanos",
+    "Vigila presión y odorizante",
+    "Excepción: depósitos de GLP"
+   ],
+   "img_brief": "gas pipeline control center screens",
+   "notas": "N1: ¿Dónde se vigila que la red vaya bien?\nN2: En los centros de operación, que son como la torre de control de la red: allí están los medios materiales y humanos para controlar y supervisar. Los dos parámetros de calidad que hay que tener siempre a raya son la presión, que el gas llegue con la fuerza justa, y el odorizante, ese olor a huevo podrido que se le añade a propósito para que se huelan las fugas; si falta odorante, nadie detecta un escape. Y ojo a la excepción que se pregunta: las redes alimentadas desde depósitos de gas licuado del petróleo, típico de una urbanización con su depósito, no están obligadas a tener centro de operación; para ellas se dictan requisitos aparte según el tamaño."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.1 · Funciones",
+   "titulo": "Cuatro funciones",
+   "vinetas": [
+    "Controlar la red ahora",
+    "Planificar: plan de operación",
+    "Informar: informe mensual (PCS)",
+    "Programar las redes principales"
+   ],
+   "img_brief": "engineer analyzing data dashboard",
+   "notas": "N1: ¿Qué hace exactamente ese centro?\nN2: Cuatro funciones, y hay un orden lógico para recordarlas. Primero, controla lo que pasa ahora: presión y odorante, con registros y datos teleinformados de las estaciones de regulación. Segundo, planifica el futuro con un plan de operación, pensando en el crecimiento de la demanda de la próxima campaña. Tercero, informa: elabora cada mes un informe de calidad del gas, con la odorización y el valor medio del poder calorífico superior, el pe ce ese, que es cuánta energía tiene el gas. Y cuarto, programa las actuaciones sobre las redes principales. Un detalle de examen: el dato del pe ce ese lo facilita el Gestor Técnico del Sistema, con frecuencia horaria, aunque el informe se haga mensual."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.2 · Emergencias",
+   "titulo": "Plan de emergencia escrito",
+   "vinetas": [
+    "Documento: qué hacer y quién",
+    "8 puntos (objeto, grados, etapas…)",
+    "Avisar a policía, bomberos, sanitarios"
+   ],
+   "img_brief": "emergency response plan document",
+   "notas": "N1: ¿Qué es el plan de emergencia y qué lleva dentro?\nN2: Es un documento escrito que describe cómo se organizan los medios humanos y materiales ante una situación de emergencia previsible: dice qué hacer y quién hace qué. La norma le exige ocho puntos, como una checklist: objeto y ámbito, grados de emergencia, desarrollo de la emergencia, responsables, etapas, notificación a los servicios públicos (policía, bomberos, sanitarios), análisis de las emergencias y difusión del plan. No lo confundas con el teléfono de urgencias, que es lo siguiente: el plan es el documento; la atención de urgencias es quien coge la llamada."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.2 · Urgencias",
+   "titulo": "El teléfono 24 horas",
+   "vinetas": [
+    "Asistencia permanente y en campo",
+    "Capaz de activar el plan",
+    "Urgencias: olor, incendio, explosión",
+    "Fuga de gas: máxima prioridad"
+   ],
+   "img_brief": "emergency call center operator headset",
+   "notas": "N1: Cuando un vecino huele a gas, ¿a quién llama?\nN2: Al servicio de atención de urgencias, que tiene que estar en funcionamiento permanente, veinticuatro horas, con asistencia telefónica y también en campo, y ser capaz de activar el plan de emergencia en el menor tiempo posible. Las urgencias de seguridad en casa del usuario son una lista cerrada de tres: olor a gas, incendio o explosión; grábalas. Y el aviso de máxima prioridad por excelencia es la fuga de gas, que se atiende antes que nada. Un detalle económico que a veces cae: el coste de tener ese servicio siempre disponible se lo repercuten a los usuarios, según diga el reglamento."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.3 · Control de estanquidad",
+   "titulo": "Clasificar las fugas",
+   "vinetas": [
+    "Urgente: voy ya",
+    "Programada: la planifico",
+    "Vigilancia de progresión: la vigilo"
+   ],
+   "img_brief": "gas leak detector technician",
+   "notas": "N1: ¿Todas las fugas se tratan igual?\nN2: No. El titular comprueba la estanquidad de la red con un sistema de probada eficacia y clasifica las fugas en tres clases, de más a menos grave. Urgente: hay que ir ya, hay peligro inmediato. Programada: hay que arreglarla, pero se puede planificar la intervención. Y de vigilancia de progresión: es tan pequeña o tan poco peligrosa que de momento solo se vigila por si va a más. El truco para recordarlas: urgente ahora, programada pronto, progresión la miro. La documentación de estos controles queda en poder del titular, a disposición de la Comunidad Autónoma."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.3 · Factores",
+   "titulo": "¿Qué dispara la urgencia?",
+   "vinetas": [
+    "Características físicas del gas",
+    "Presión de operación",
+    "Indicaciones del detector",
+    "Proximidad a edificios habitados"
+   ],
+   "img_brief": "gas pipes near residential building",
+   "notas": "N1: ¿Por qué una misma fuga puede ser urgente o solo de vigilancia?\nN2: Porque depende de cuatro factores, y el más llamativo es dónde está la fuga. Una fuga pequeña en pleno campo no es lo mismo que la misma fuga pegada a un edificio habitado: la cercanía a propiedades y personas es lo que dispara la urgencia. Los otros tres factores son las características físicas del gas distribuido, la presión de operación de la instalación y las indicaciones del sistema detector de fugas. Así que el tamaño no lo es todo: pesa mucho la proximidad a edificios y el uso que se les da."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.4 · Mantenimiento",
+   "titulo": "Parche y reparación",
+   "vinetas": [
+    "Medida temporal si no hay arreglo ya",
+    "Reparación definitiva cuanto antes",
+    "Uniones nuevas: disolución jabonosa"
+   ],
+   "img_brief": "plumber soapy water leak test pipe",
+   "notas": "N1: Si aparece una fuga y no puedo arreglarla bien en el momento, ¿qué hago?\nN2: Se pone una medida temporal, un parche seguro, para que no haya peligro, y en cuanto se pueda se hace la reparación definitiva. Nunca se deja a medias y ya veremos. Después de tocar la red, la regla general es repetir las pruebas en obra, pero hay una excepción muy práctica: en reparaciones puntuales o en tramos de corta extensión no hace falta el ensayo completo, basta con verificar que las uniones nuevas no fugan con disolución jabonosa, agua con jabón; si burbujea, hay fuga. Es el truco del gasista de toda la vida. Los materiales y técnicas se ajustan a las normas seiscientas de siempre."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 6.4 · Precauciones",
+   "titulo": "Trabajar con gas presente",
+   "vinetas": [
+    "Detectar la presencia de gas",
+    "Señalizar y controlar la zona",
+    "Retirar fuentes de ignición",
+    "Extintor a mano"
+   ],
+   "img_brief": "gas detector safety cordon worksite",
+   "notas": "N1: ¿Qué precauciones se toman cuando puede salir gas?\nN2: Cuatro reflejos que conviene memorizar juntos. Detectar la presencia de gas con el detector; señalizar y controlar el área de trabajo para que no entre nadie; retirar las fuentes potenciales de ignición que no sean imprescindibles, cualquier cosa que pueda dar chispa; y tener a mano el equipo de extinción específico, el extintor. Y algo más: al reanudar el servicio, si pudo entrar aire en la tubería, hay que purgar la red por sus extremos para echarlo fuera antes de que se mezcle con el gas. Es la misma física del vídeo anterior: aire más gas más una chispa, deflagración."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 7 · Registro y archivo",
+   "titulo": "Qué se guarda y cuánto",
+   "vinetas": [
+    "Cartografía siempre al día",
+    "Estanquidad: las 2 últimas",
+    "Seguridad y emergencias: 5 años",
+    "Papel o informático, pero fiable"
+   ],
+   "img_brief": "pipeline map archive folders",
+   "notas": "N1: ¿Qué papeles hay que guardar y cuánto tiempo?\nN2: Memoriza los números, que caen. La cartografía, el mapa de por dónde van los tubos, siempre al día, permanentemente actualizada. Los documentos de autorización y los proyectos, con los resultados de las pruebas, se guardan durante toda la explotación. De las vigilancias y controles de estanquidad se conservan las dos últimas. Y las intervenciones por motivos de seguridad y las actuaciones en emergencias, un mínimo de cinco años. El truco: mapa siempre, estanquidad las dos últimas, seguridad cinco años. Y da igual el soporte: papel o informático, lo que cuenta es que la información esté y sea fiable; si ves obligatoriamente en papel, es falso."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 8 · Afecciones por terceros",
+   "titulo": "Antes de picar, pregunta",
+   "vinetas": [
+    "Aviso 30 días antes, por escrito",
+    "Distribuidor contesta en 20 días",
+    "Inicio: avisar 24 horas antes"
+   ],
+   "img_brief": "roadworks excavation warning signs",
+   "notas": "N1: Una empresa va a abrir zanja en la calle para fibra, ¿qué tiene que hacer antes?\nN2: Preguntar dónde está el gas, porque si mete la excavadora a ciegas puede reventar la tubería. Aquí hay tres plazos seguidos, y es una de las preguntas más golosas del tema. Quien vaya a hacer obra en la vía pública avisa al distribuidor y le pide información con un mínimo de treinta días de antelación, por escrito y con la localización concreta. El distribuidor tiene un máximo de veinte días para contestar con la mejor información de dónde están sus tubos y las normas a respetar. Y luego, justo antes de empezar a picar, el solicitante comunica el inicio con al menos veinticuatro horas de antelación. El truco temporal: pido con treinta, me contestan en veinte, aviso con veinticuatro horas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Apartado 8 · Conflictos",
+   "titulo": "Si la obra toca el gas",
+   "vinetas": [
+    "El distribuidor puede negarse",
+    "Razones técnicas o de seguridad",
+    "Decide la Comunidad Autónoma"
+   ],
+   "img_brief": "gas pipeline warning tape ground",
+   "notas": "N1: ¿Y si la obra choca de frente con la tubería de gas?\nN2: Entonces el distribuidor puede negarse a que se haga, por razones técnicas o de seguridad, cuando la obra afecta directamente al trazado o a la localización de la red. Si el que quiere hacer la obra no está de acuerdo, no decide él ni la compañía: resuelve el órgano competente de la Comunidad Autónoma. Y ojo, la carga de probar que hay que ejecutar esa obra tocando el gas es del solicitante, no del distribuidor. Antes de empezar, además, el solicitante tiene que haber recibido y aceptado formalmente la información; sin ese paso no puede arrancar."
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Qué me llevo",
+   "mapa": [
+    "El titular opera y mantiene 24 h",
+    "Fuga de gas = máxima prioridad",
+    "Antes de picar: 30 · 20 · 24"
+   ],
+   "notas": "N1: Si te quedas con tres cosas de este vídeo, que sean estas.\nN2: Primera: una red viva se opera y se mantiene las veinticuatro horas, y todo eso recae en el titular, con criterios de seguridad pública. Segunda: en las urgencias, la fuga de gas es máxima prioridad, y las incidencias de seguridad en casa del usuario son solo tres, olor a gas, incendio o explosión; el teléfono está siempre disponible y puede activar el plan de emergencia. Y tercera, la que es tu día a día en la calle: antes de picar la vía pública hay que preguntar dónde está el gas, con treinta días para avisar, veinte para que contesten y veinticuatro horas antes de arrancar. Meter la excavadora a ciegas es reventar el tubo y provocar la fuga."
+  }
+ ]
+}

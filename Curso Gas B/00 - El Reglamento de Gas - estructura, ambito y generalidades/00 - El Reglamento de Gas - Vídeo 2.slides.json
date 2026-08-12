@@ -1,0 +1,196 @@
+{
+ "pie": "Curso Gas B · Tema 00 · El Reglamento de Gas",
+ "slides": [
+  {
+   "tipo": "portada",
+   "tema": "Tema 00 · Marco normativo",
+   "videoxy": "Vídeo 2 de 3",
+   "titulo": "El Reglamento de Gas",
+   "subtitulo": "Materiales y puesta en servicio",
+   "notas": "N1: Ya sabemos qué regula el Reglamento; ahora, ¿cómo se lleva a la obra?\nN2: En este vídeo vemos lo que más se parece al día a día del gasista: qué materiales puedes usar y, sobre todo, el camino completo desde que terminas una instalación hasta que tiene gas. Diseño, ejecución, pruebas, certificados, puesta en servicio y comunicación a la Administración. Es el itinerario que vas a repetir en cada obra, así que conviene tenerlo grabado en orden, porque saltarte un paso casi siempre significa quedarte sin gas hasta arreglarlo."
+  },
+  {
+   "tipo": "cifras",
+   "titulo": "Sobre este vídeo",
+   "tarjetas": [
+    [
+     "8",
+     "pasos de la puesta en servicio"
+    ],
+    [
+     "3",
+     "certificados de arranque"
+    ],
+    [
+     "30",
+     "días para comunicar"
+    ]
+   ],
+   "notas": "N1: ¿Qué números vertebran este vídeo?\nN2: Ocho pasos en el artículo quinto, de diseño a puesta en marcha, que son la película completa de una instalación; tres certificados de arranque que no debes confundir, porque cada uno lo firma alguien distinto; y treinta días, el plazo que tiene el titular para comunicar la instalación a la Administración desde la puesta en servicio. Estos tres números son de los que más se preguntan y de los que más se usan en obra."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 4 · Materiales y aparatos",
+   "titulo": "El DNI del material",
+   "vinetas": [
+    "Cumplen directivas europeas o el Reglamento",
+    "Marcado visible e indeleble",
+    "Fabricante, marca y modelo",
+    "Instrucciones al menos en castellano"
+   ],
+   "img_brief": "copper pipe fittings label marking",
+   "notas": "N1: ¿Qué tiene que llevar cualquier material que montas?\nN2: Los materiales, equipos y aparatos deben cumplir las directivas europeas o, en su defecto, el Reglamento y sus ITC. Y tienen que llevar un marcado visible e indeleble. 'Indeleble' significa que no se borra: piénsalo como el DNI del material, grabado y permanente. ¿Por qué? Porque dentro de diez años, cuando alguien revise ese tubo o esa válvula, tiene que poder leer todavía de qué es y quién lo fabricó; una pegatina que se cae no vale. Ese marcado incluye fabricante, marca y modelo, y las instrucciones deben estar al menos en castellano. Si en el examen ves 'las instrucciones pueden venir solo en inglés', es falso: el castellano es el mínimo obligatorio."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 5 · Puesta en servicio",
+   "titulo": "La película, en ocho capítulos",
+   "vinetas": [
+    "Diseño → autorización → ejecución",
+    "Pruebas → certificados → puesta en servicio",
+    "Comunicación → puesta en marcha",
+    "Siempre en este orden"
+   ],
+   "img_brief": "gas installation checklist clipboard",
+   "notas": "N1: ¿Cómo no perderte entre tantos subapartados?\nN2: El artículo quinto es una sola historia con ocho capítulos, en orden. Primero el diseño, los papeles; luego la autorización, por si hace falta permiso; después la ejecución, el montaje; las pruebas, para ver si aguanta; los certificados, las firmas; la puesta en servicio, que es cuando por fin hay gas; la comunicación, avisar a la Administración; y la puesta en marcha, arrancar los aparatos. Si te sabes la película en orden, los detalles caen solos. Vamos capítulo a capítulo."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 5.1 · Diseño",
+   "titulo": "¿Proyecto o memoria técnica?",
+   "vinetas": [
+    "Proyecto: técnico facultativo competente",
+    "Memoria técnica: la firma el instalador",
+    "El tamaño lo marca cada ITC",
+    "Quien firma, responde"
+   ],
+   "img_brief": "engineer reviewing technical drawings",
+   "notas": "N1: ¿Quién firma los papeles de una instalación?\nN2: Cada instalación necesita una documentación técnica que acredite que cumple. Regla mental: instalación grande o complicada, proyecto, que lo firma un técnico titulado, un ingeniero; instalación normal o pequeña, memoria técnica, que la puede firmar el propio instalador en su categoría. Es como ir al médico: un catarro lo ve el de cabecera, memoria; una operación seria, el especialista, proyecto. Y cuidado con la frase clave: quien firma es directamente responsable. En gas la firma no es un trámite; si firmas la memoria y algo está mal, respondes tú. Por eso no se firma nada que no hayas comprobado."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 5.2 · Autorización",
+   "titulo": "Autorización no es comunicación",
+   "vinetas": [
+    "Autorización: solo si lo exige la ley",
+    "Lo normal: hacer y comunicar después",
+    "No pedir permiso y esperar"
+   ],
+   "img_brief": "government office permit stamp",
+   "notas": "N1: ¿Toda instalación necesita permiso previo?\nN2: No confundas autorización con comunicación. La autorización administrativa, el permiso previo, solo se pide cuando lo exige la Ley del sector de hidrocarburos y así lo dice la ITC; se reserva a casos gordos. La mayoría de instalaciones no necesitan que la Administración les dé permiso antes: basta con avisar después, que es la comunicación del apartado cinco punto siete. En categoría B lo normal es hacer y comunicar, no pedir permiso y quedarte esperando."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 5.3 · Ejecución",
+   "titulo": "El montaje",
+   "vinetas": [
+    "La ejecutan las empresas que fije la ITC",
+    "Cuidado con otras energías",
+    "Cruces y paralelismos: distancias mínimas"
+   ],
+   "img_brief": "plumber installing gas pipe wall",
+   "notas": "N1: Al montar, ¿qué hay que vigilar con las demás instalaciones?\nN2: Las instalaciones las realizan las empresas que determine cada ITC. Y cuando tu tubo de gas convive con otras energías o servicios, hay que tomar medidas de precaución. 'Cruces y paralelismos' es un tema que volverás a ver en la norma UNE: cuando el gas se cruza o va en paralelo con la luz, el agua o el saneamiento, hay que respetar distancias mínimas de seguridad para que no se toquen ni se afecten. Aquí el Reglamento solo lo enuncia; el 'cuántos centímetros' está en la norma técnica."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 5.4 · Pruebas e inspecciones",
+   "titulo": "Prueba no es inspección",
+   "vinetas": [
+    "Prueba: la hace quien monta",
+    "Estanquidad antes de meter gas",
+    "Inspección: un tercero independiente",
+    "Solo si la ITC la pide"
+   ],
+   "img_brief": "pressure gauge testing gas pipe",
+   "notas": "N1: ¿Quién comprueba que la instalación aguanta?\nN2: Distingue dos figuras que suenan parecido. La prueba la hace el que monta: compruebas tu propio trabajo, por ejemplo la prueba de estanquidad, antes de meter gas. La inspección la hace un tercero independiente, el organismo de control, y solo cuando la ITC lo exige. Uno es 'revisar lo mío', el otro es 'que me revise un árbitro'. Y ojo con la estanquidad: darla por buena sin hacerla es dejar que la fuga aparezca con el gas ya dentro y el cliente en casa. Esa prueba es tu red contra la fuga."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 5.5 · Certificados",
+   "titulo": "El boletín manda",
+   "vinetas": [
+    "Instalación: SIEMPRE, lo firma quien ejecuta",
+    "Dirección de obra: solo si hubo proyecto",
+    "Inspección: solo si la ITC lo exige",
+    "Sin certificado no hay gas"
+   ],
+   "img_brief": "signing installation certificate document",
+   "notas": "N1: ¿Qué papeles salen al terminar la instalación?\nN2: Con las pruebas favorables, la empresa que ejecutó emite el certificado de instalación, el famoso boletín: es el documento estrella, sin él no hay gas, y lo firma quien montó. Si la instalación necesitó proyecto, aparece además el certificado de dirección de obra, que firma el director de obra. Y si la ITC obligó a que viniera el organismo de control, este emite su certificado de inspección. Idea clara: certificado de instalación siempre; los otros dos, solo a veces."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 5.6 · Puesta en servicio",
+   "titulo": "La regla del año",
+   "vinetas": [
+    "El responsable recibe copia de certificados",
+    "Suministro provisional para pruebas",
+    "Parada +1 año: se trata como nueva",
+    "Menos de un año y control en vigor: se restablece"
+   ],
+   "img_brief": "closed empty house interior",
+   "notas": "N1: Una casa lleva años cerrada, ¿se reengancha sin más?\nN2: Para poner en servicio, el responsable debe recibir copia de los certificados. Puede pedirse un suministro de gas provisional para las pruebas de funcionamiento, y la responsabilidad de esas pruebas recae en la empresa instaladora. Pero retén esto, que cae fijo: si una instalación lleva más de un año sin gas, una casa cerrada, una herencia parada, no se reengancha sin más; se trata como si fuera nueva, con papeles y pruebas incluidos. Menos de un año y con su certificado de control periódico en vigor, sí se puede restablecer el suministro. El año es tu fecha de caducidad mental."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 5.7 · Comunicación",
+   "titulo": "Avisar a la Administración",
+   "vinetas": [
+    "Lo presenta el titular",
+    "Antes de 30 días desde la puesta en servicio",
+    "Ante la Comunidad Autónoma",
+    "Con documentación y certificados"
+   ],
+   "img_brief": "person filing paperwork office desk",
+   "notas": "N1: ¿Quién avisa a la Administración y en cuánto tiempo?\nN2: Salvo excepciones de las ITC, el titular presenta la documentación antes de que pasen treinta días desde la puesta en servicio, ante el órgano competente de la Comunidad Autónoma. Ojo a dos datos que se preguntan juntos: quién comunica es el titular, el dueño, no la empresa instaladora, aunque en la práctica lo tramite la instaladora en su nombre; y el plazo cuenta desde la puesta en servicio, no desde que acabaste el montaje. Se acompaña la identificación de la instalación, la documentación técnica y los certificados que correspondan."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 5.8 · Puesta en marcha",
+   "titulo": "Arrancar los aparatos",
+   "vinetas": [
+    "Según la ITC-ICG 08",
+    "Verifica gas, presión y combustión",
+    "Certificado de puesta en marcha",
+    "Se entrega al usuario"
+   ],
+   "img_brief": "technician checking boiler flame",
+   "notas": "N1: ¿La puesta en marcha es solo encender y ya?\nN2: No. La puesta en marcha de los aparatos se hace según la ITC-ICG cero ocho, y no es 'darle al botón': es verificar que la caldera o el calentador funcionan con su gas y su presión, y que la combustión cae dentro de lo que marca el fabricante. Hacerla mal o saltártela es la puerta directa a mala combustión, llama amarilla, ennegrecido, aparato que se apaga y monóxido de carbono. Quien la realiza emite y entrega al usuario un certificado de puesta en marcha. Ese papel es la prueba de que el aparato arrancó bien."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 5 · No los confundas",
+   "titulo": "Tres certificados, tres firmas",
+   "vinetas": [
+    "Instalación: la empresa que ejecutó",
+    "Dirección de obra: el director (si hay proyecto)",
+    "Puesta en marcha: el agente (ICG 08)",
+    "Cada uno lo firma alguien distinto"
+   ],
+   "img_brief": "three documents stack signatures",
+   "notas": "N1: ¿Quién firma cada certificado?\nN2: Aquí está una de las preguntas más repetidas del examen, así que no la mezcles. El certificado de instalación lo firma la empresa que ejecutó. El de dirección de obra lo firma el director de obra, y solo aparece si hubo proyecto, es decir, obra grande. Y el de puesta en marcha del aparato lo firma el agente de puesta en marcha, según la ITC-ICG cero ocho, y se entrega al usuario. Asocia cada papel con quién lo firma y no fallarás: ejecutas, diriges, arrancas."
+  },
+  {
+   "tipo": "contenido",
+   "eyebrow": "Artículo 6 · Información a usuarios",
+   "titulo": "Lo que recibe el cliente",
+   "vinetas": [
+    "Instrucciones de uso y mantenimiento",
+    "Croquis del trazado obligatorio",
+    "Anexo al certificado de instalación",
+    "Suministrador: recordatorio bienal"
+   ],
+   "img_brief": "hand drawn pipe layout sketch",
+   "notas": "N1: ¿Qué tiene derecho a recibir el cliente?\nN2: En las receptoras, como anexo al certificado de instalación que entregas al titular, la empresa instaladora prepara unas instrucciones de correcto uso y mantenimiento. Y algo que no puedes olvidar: incluyen un croquis del trazado, con materiales, uniones y válvulas. El cliente tiene derecho a saber por dónde van sus tubos, y se lo entregas tú. Además, el suministrador facilita a sus clientes, por escrito y con periodicidad al menos bienal, recomendaciones de uso y seguridad. 'Bienal' es cada dos años; no lo confundas con 'bianual', que sería dos veces al año."
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Qué me llevo",
+   "mapa": [
+    "El itinerario: diseño → … → puesta en marcha",
+    "El boletín manda: sin él no hay gas",
+    "La regla del año y los 30 días"
+   ],
+   "notas": "N1: ¿Qué te llevas de este vídeo?\nN2: Primero, el itinerario completo que repites en cada obra: diseño, autorización si aplica, ejecución, pruebas, certificados, puesta en servicio, comunicación y puesta en marcha; saltarte un paso deja la obra coja y sin gas. Segundo, el certificado de instalación, el boletín, es tu documento estrella: lo firma quien ejecuta, copia al titular, y el titular lo comunica a la Comunidad Autónoma antes de treinta días. Y tercero, dos reglas de oro: la del año, una instalación parada más de un año se trata como nueva; y no confundas los tres certificados de arranque, cada uno lo firma alguien. En el último vídeo cerramos el articulado: mantenimiento, inspección frente a revisión y las reglas finales."
+  }
+ ]
+}
