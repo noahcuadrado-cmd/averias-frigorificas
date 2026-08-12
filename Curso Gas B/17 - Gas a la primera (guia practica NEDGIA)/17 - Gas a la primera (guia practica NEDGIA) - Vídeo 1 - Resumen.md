@@ -69,6 +69,30 @@ Los **conjuntos de regulación** deben tener **grado de accesibilidad 2** y **se
 
 > **Nota aclaratoria — la puerta que se abre hacia fuera y sin llave desde dentro.** Es puro sentido común de seguridad: si alguien está dentro y hay una fuga o un susto, tiene que poder **salir de un empujón**, sin buscar la llave. Que la puerta abra **hacia fuera** ayuda además a que la presión de una deflagración no la selle. Junta esto con la **toma de corriente** y el **cartel «Contadores de gas»**: son los tres detalles del recinto que más se preguntan.
 
+
+<figure>
+<img src="imagenes_individuales/fig_p01.jpeg" alt="Figura de la guia Gas a la primera, pagina 1">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 1</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p07.jpeg" alt="Figura de la guia Gas a la primera, pagina 7">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 7</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p15.jpeg" alt="Figura de la guia Gas a la primera, pagina 15">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 15</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p19.jpeg" alt="Figura de la guia Gas a la primera, pagina 19">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 19</figcaption>
+</figure>
+
 ## Contadores en vivienda
 
 Si en **edificios ya construidos** la instalación de contadores **no se puede centralizar**, los contadores se pueden instalar en el **interior de las viviendas** o locales privados a los que suministran.
@@ -99,6 +123,30 @@ Si en **edificios ya construidos** la instalación de contadores **no se puede c
 - **No** en el **W.C.**
 - **No** en el **cuarto de baño**.
 - **No** en el **cuarto de ducha**.
+
+
+<figure>
+<img src="imagenes_individuales/fig_p03.jpeg" alt="Figura de la guia Gas a la primera, pagina 3">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 3</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p12.jpeg" alt="Figura de la guia Gas a la primera, pagina 12">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 12</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p16_infografia.png" alt="Figura de la guia Gas a la primera, pagina 16">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 16</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p20.jpeg" alt="Figura de la guia Gas a la primera, pagina 20">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 20</figcaption>
+</figure>
 
 ## Accesibilidad de los dispositivos
 
@@ -147,6 +195,30 @@ Grado 3
 > **Nota aclaratoria — «zona común» vs «dentro de casa».** Fíjate en el patrón: todo lo que la **distribuidora** necesita tocar (acometida, edificio, montante, contadores, regulación, usuario) vive en **zona comunitaria o pública** y pide **grado 2 o 3**. Todo lo que maneja el **usuario dentro de su vivienda** (llave de vivienda, de aparato, de regulador) es **grado 1**, a mano y sin llave. Si te preguntan por una llave, primero decide **quién la usa y dónde está**, y el grado casi se contesta solo.
 
 > **Nota aclaratoria — el obturador de cierre.** Es un tapón de seguridad que la **distribuidora** puede exigir para dejar sin gas una vivienda de forma controlada. Ojo al detalle de examen: **si montas contadores de funciones añadidas (telemedida/telecorte), NO se monta el obturador**, porque el propio contador ya hace esa función. Y su accesibilidad es **grado 3** y solo para la empresa distribuidora.
+
+
+<figure>
+<img src="imagenes_individuales/fig_p04_infografia.png" alt="Figura de la guia Gas a la primera, pagina 4">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 4</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p14.jpeg" alt="Figura de la guia Gas a la primera, pagina 14">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 14</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p18.jpeg" alt="Figura de la guia Gas a la primera, pagina 18">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 18</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p23_infografia.png" alt="Figura de la guia Gas a la primera, pagina 23">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 23</figcaption>
+</figure>
 
 ## Ideas clave del vídeo
 

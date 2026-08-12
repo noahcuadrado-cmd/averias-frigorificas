@@ -70,5 +70,11 @@ dl{ margin:0 0 8pt; }
 dt{ font-weight:700; color:var(--navy); margin-top:6pt; }
 dd{ margin:0 0 4pt 0; padding-left:0; }
 
+/* Figuras (imagenes de la guia) */
+figure{ margin:12pt 0; text-align:center; break-inside:avoid; }
+figure img{ max-width:86%; max-height:145mm; border-radius:12px; background:var(--note);
+  padding:6px; border:1px solid var(--line); box-shadow:0 2px 7px rgba(30,39,97,.16); }
+figcaption{ margin-top:5pt; font-size:8.5pt; color:var(--muted); font-style:italic; }
+
 hr{ border:0; border-top:1px solid var(--line); margin:14pt 0; }
 .small{ font-size:9pt; color:var(--muted); }

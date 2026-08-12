@@ -25,6 +25,18 @@ La norma fija las condiciones que deben cumplir los **locales que contienen apar
 
 > **Nota aclaratoria — «local único» y «zona exterior», dos comodines de 1,5 m².** Coincide el número pero son cosas distintas: **dos locales son uno solo** si los une una abertura **> 1,5 m²** (a efectos de sumar volúmenes y ventilación); y una galería o terraza cuenta como **exterior** si tiene una abertura **≥ 1,5 m²** con el borde a **≤ 0,5 m del techo**. Cuando veas 1,5 m², pregúntate: ¿me están uniendo locales o sacándome al exterior?
 
+
+<figure>
+<img src="imagenes_individuales/fig_p62_infografia.png" alt="Figura de la guia Gas a la primera, pagina 62">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 62</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p74.png" alt="Figura de la guia Gas a la primera, pagina 74">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 74</figcaption>
+</figure>
+
 ## Ventilaciones · Ubicación de las aberturas
 
 Condiciones de ubicación de las **aberturas de ventilación** según el tipo de aparato del local:
@@ -36,6 +48,18 @@ Condiciones de ubicación de las **aberturas de ventilación** según el tipo de
 | **Tipo A y B** juntos, o solo **tipo A**, con **∑Qn (tipo A) > 16 kW** | **Dividida en dos aberturas**, cada una de sección según la **UNE 60670-6, punto 6.2**: una **inferior** con el **extremo superior ≤ 50 cm** del suelo, y una **superior** con el **extremo inferior ≥ 1,80 m** del suelo y **≤ 40 cm** del techo. | La **inferior** puede ser directa o indirecta; la **superior debe ser directa**. |
 
 > **Nota aclaratoria — la frontera de los 16 kW en tipo A.** Con aparatos tipo A (los que sueltan los humos al propio local, como una cocina), la potencia manda: **hasta 16 kW** basta **una abertura arriba** (≥ 1,80 m del suelo, ≤ 40 cm del techo). **Por encima de 16 kW** necesitas **dos aberturas** (una abajo ≤ 50 cm y otra arriba), y la de arriba **obligatoriamente directa**. Idea: más potencia, más humos, más aire, y separado en entrada baja y salida alta.
+
+
+<figure>
+<img src="imagenes_individuales/fig_p64.jpeg" alt="Figura de la guia Gas a la primera, pagina 64">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 64</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p75_infografia.png" alt="Figura de la guia Gas a la primera, pagina 75">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 75</figcaption>
+</figure>
 
 ## Ventilaciones · Ejemplos
 
@@ -59,6 +83,18 @@ La superficie de ventilación se calcula como **kW × 5 = S (cm²)**, con un **m
 > **Nota aclaratoria — «kW por 5, mínimo 125».** La regla estrella de la ventilación de cocinas: multiplica la potencia total de circuito abierto por **5** y tienes los **cm² de ventilación**, pero **nunca menos de 125 cm²** (por eso una cocina de 10 kW, que daría 50, se queda en 125). Cuando pasas de **16 kW** repartes esa superficie en **dos aberturas iguales** (mitad arriba, mitad abajo). Y recuerda: los **estancos no cuentan**, solo el circuito abierto.
 
 > **Nota aclaratoria — la ventilación rápida y el corte por fallo.** «Ventilación rápida» (VR) es la que evacúa deprisa un exceso de gas; el valor típico es **0,4 m²**. Y fíjate en la frontera de los **30 kW**: por debajo puede ser directa o indirecta; **por encima de 30 kW**, la ventilación debe ser **directa** y montas un **sistema de corte por fallo** con **electroválvula de rearme manual fuera del local**. Más potencia, más exigencia.
+
+
+<figure>
+<img src="imagenes_individuales/fig_p65.jpeg" alt="Figura de la guia Gas a la primera, pagina 65">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 65</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p76.jpeg" alt="Figura de la guia Gas a la primera, pagina 76">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 76</figcaption>
+</figure>
 
 ## Volumen mínimo
 
@@ -101,6 +137,18 @@ Para locales con aparatos de **tipo A que no sean de calefacción**, se modifica
 
 > **Nota aclaratoria — rebajar volumen en obra existente tiene precio.** En un edificio ya construido no siempre hay 8 m³. La norma te deja bajar, pero **compensando**: entre el **75-100%** del volumen, **+50% de ventilación**; entre el **50-75%**, **+50% de ventilación y detector de CO** que corta el gas. Y una línea roja que no se cruza: **nunca por debajo de 6 m³**. Menos aire, más seguridad activa.
 
+
+<figure>
+<img src="imagenes_individuales/fig_p67.jpeg" alt="Figura de la guia Gas a la primera, pagina 67">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 67</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p77_infografia.png" alt="Figura de la guia Gas a la primera, pagina 77">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 77</figcaption>
+</figure>
+
 ## Patios de ventilación y evacuación
 
 Son los **espacios dentro del volumen del edificio**, en **comunicación directa con el exterior en su parte superior**, utilizables para la **ventilación** (entrada y/o salida de aire y/o evacuación de los productos de la combustión) de los locales que dan a ese espacio y en los que hay aparatos a gas.
@@ -125,6 +173,12 @@ Son los **espacios dentro del volumen del edificio**, en **comunicación directa
 > **Nota aclaratoria — patio de ventilación vs patio de evacuación.** No es lo mismo **meter aire** que **sacar humos**. El de **ventilación** pide poco: **3 m²**, lado menor **1 m**, y si está techado, **2 m² libres** al exterior. El de **evacuación** (donde desembocan calderas/calentadores conducidos) pide más: **0,5 m² por cada local (NT)** con un **mínimo de 4 m²**, y **25% libre** si está techado. Y ojo: en **finca nueva todo va a cubierta**, no se evacúan tipo B ni C al patio.
 
 > **Nota aclaratoria — NT son locales, no ventanas.** El error clásico: para calcular el patio de evacuación cuentas **locales** que pueden tener aparatos conducidos, **no** las ventanas ni las puertas que dan al patio. Si hay 8 locales que desembocan, NT = 8 → 8 × 0,5 = 4 m² (que además es el mínimo). Cuenta habitaciones-fuente de humos, no huecos.
+
+
+<figure>
+<img src="imagenes_individuales/fig_p68.jpeg" alt="Figura de la guia Gas a la primera, pagina 68">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 68</figcaption>
+</figure>
 
 ## RITE · Evacuación de los productos de la combustión
 
@@ -181,6 +235,12 @@ Casos de salida directa al exterior:
 En cualquiera de los casos anteriores, y de forma general, cuando la salida se realice **directamente al exterior**, se deben cumplir unas **distancias mínimas** respecto a paredes, ventanas o huecos de la construcción. Existen **deflectores divergentes** que permiten **reducir** las distancias mínimas. Estas distancias solo se tienen en cuenta **para la misma planta**; **las plantas superiores no se tienen en cuenta**.
 
 > **Nota aclaratoria — el 30 cm del techo y el 2,20 m.** Dos cifras que caen en salidas a exterior: la salida debe quedar **más de 30 cm por debajo del techo** de la terraza/balcón, y frente a la salida se respeta una **distancia (típica 2,20 m)** a huecos, que **no** aplica si evacúas a **zona privada** (ahí basta **30 cm del suelo**). Y truco importante: para medir distancias **solo cuenta tu planta**; lo que haya en pisos de arriba no se tiene en cuenta. Los **deflectores divergentes** son la ayuda cuando vas justo de distancia.
+
+
+<figure>
+<img src="imagenes_individuales/fig_p69.jpeg" alt="Figura de la guia Gas a la primera, pagina 69">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 69</figcaption>
+</figure>
 
 ## Certificados de instalación
 
@@ -308,6 +368,12 @@ Factores de simultaneidad S1 y S2 según el número de viviendas:
 > **Nota aclaratoria — la simultaneidad baja con más vecinos.** Es lógica pura: cuantas **más viviendas**, menos probable es que **todas** consuman a tope a la vez, así que el factor **S baja** (de 1,00 en una vivienda a 0,15/0,35 con más de 30). Y hay **dos columnas**: **S1 sin calefacción individual** (baja más rápido) y **S2 con calefacción individual** (baja menos, porque las calderas sí coinciden en invierno). La IRC no se dimensiona sumando a lo bruto, se aplica **S**.
 
 > **Nota aclaratoria — regulador común: entra MP-B, sale MP-A o BP.** En la instalación común el regulador coge la **media presión B (0,4 a 5 bar)** y la baja a **MP-A (0,055 bar)** o a **baja presión (0,021 bar)**, según el diseño del edificio. No lo confundas con el **individual**, que sale a **0,020 bar**. Y el **caudal de diseño** siempre sale de dividir la potencia entre el **poder calorífico superior (Hs)**.
+
+
+<figure>
+<img src="imagenes_individuales/fig_p71.jpeg" alt="Figura de la guia Gas a la primera, pagina 71">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 71</figcaption>
+</figure>
 
 ## Ideas clave del vídeo
 

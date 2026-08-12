@@ -37,6 +37,18 @@ Excepcionalmente, cuando **no se pueda respetar la distancia**, se puede **prote
 
 > **Nota aclaratoria —** La lista de prohibidos tiene una idea común: **no metas gas donde ya hay un riesgo o un camino para el fuego/humo**. Un hueco de ascensor, un bajante de basuras, una chimenea o un cuarto de transformador son sitios donde una fuga se convierte en problema gordo. La única excepción práctica es la **boca de ventilación**: puedes aprovecharla **si el tubo va envainado** y **sigue quedando** la superficie libre que la norma pide para ventilar.
 
+
+<figure>
+<img src="imagenes_individuales/fig_p36.jpeg" alt="Figura de la guia Gas a la primera, pagina 36">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 36</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p51.jpeg" alt="Figura de la guia Gas a la primera, pagina 51">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 51</figcaption>
+</figure>
+
 ## Materiales y accesorios
 
 Las tuberías y accesorios de las instalaciones receptoras deben ser de **materiales que no sufran deterioro** ni por el **gas distribuido** ni por el **medio exterior** con el que estén en contacto.
@@ -130,6 +142,18 @@ Existen distintos formatos de llave: llave con **limitador de caudal y temperatu
 
 > **Nota aclaratoria — el limitador de la cocina de multicapa.** Grábate estos dos números juntos porque van en pareja en la llave de la cocina de multicapa: **caudal 1,6 m³/h** y **temperatura 96 ºC**. El de temperatura es una seguridad extra: si el multicapa se calienta demasiado (un incendio cercano), corta el gas antes de que el plástico falle. Y el corrugado inox **no pasa de 0,5 bar** y va **roscado**, no lo mandes a más presión.
 
+
+<figure>
+<img src="imagenes_individuales/fig_p37_infografia.png" alt="Figura de la guia Gas a la primera, pagina 37">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 37</figcaption>
+</figure>
+
+
+<figure>
+<img src="imagenes_individuales/fig_p52.jpeg" alt="Figura de la guia Gas a la primera, pagina 52">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 52</figcaption>
+</figure>
+
 ## Tuberías en vainas o conducto
 
 Las tuberías de gas **no precisan vaina ni conducto** en los **locales donde estén los aparatos de consumo** a los que suministran, **siempre que** esos locales reúnan las condiciones de **ventilación** de la **UNE 60670 parte 6**.
@@ -197,6 +221,12 @@ En los casos marcados con (*) el material debe **asegurar la estanqueidad**.
 
 > **Nota aclaratoria — la vaina de ventilación tiene «dos bocas».** Para que ventile de verdad, la vaina de ventilación debe **respirar por sus dos extremos al exterior**; o, si solo respira por uno, el otro extremo va **sellado al tubo** (así el gas solo puede salir por la boca buena). Y cuidado con el metal: la vaina metálica **no debe tocar** ni estructuras ni otras tuberías, para que no se genere corrosión por contacto.
 
+
+<figure>
+<img src="imagenes_individuales/fig_p39.jpeg" alt="Figura de la guia Gas a la primera, pagina 39">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 39</figcaption>
+</figure>
+
 ## Pruebas de estanqueidad
 
 **Toda instalación** se debe someter a una **prueba de estanqueidad con resultado satisfactorio**. Para **instalaciones nuevas** se aplica la **UNE 60670 parte 8**, **antes de la puesta en servicio**. **No** es necesario realizar la prueba de estanqueidad a los **conjuntos de regulación ni a los contadores**. Los **tiempos** de prueba dependen de la **longitud, volumen y tipo** de instalación.
@@ -253,6 +283,12 @@ Se aplica la norma **UNE 60670 parte 5, punto 7.3**.
 > **Nota aclaratoria — un manómetro no se elige «a ojo».** Dos ideas prácticas: primero, la aguja debe trabajar **entre el 35% y el 75% de la escala** (ni pegada al cero ni al tope, donde miente); segundo, **a más presión, esfera más grande y clase más fina** (menor número de clase = más preciso). Y en baja presión de verdad, el rey sigue siendo la **columna de agua en U**: barata, fiable y sin trampa.
 
 > **Nota aclaratoria — «material de aportación a la vista».** En cualquier prueba, además de que aguante la presión, se **mira cada soldadura**: tiene que verse el **material de aportación** (que la soldadura «rellenó» de verdad) y las **roscas bien apretadas**. Una unión puede pasar la presión un rato y fallar luego; por eso la inspección visual va **siempre** de la mano de la prueba de estanqueidad.
+
+
+<figure>
+<img src="imagenes_individuales/fig_p47_infografia.png" alt="Figura de la guia Gas a la primera, pagina 47">
+<figcaption>Guía «Gas a la primera» · figura de la pág. 47</figcaption>
+</figure>
 
 ## Ideas clave del vídeo
 

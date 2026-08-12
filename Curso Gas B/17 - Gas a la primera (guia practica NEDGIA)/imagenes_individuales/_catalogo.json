@@ -1,0 +1,205 @@
+[
+ {
+  "pag": 1,
+  "archivo": "fig_p01.jpeg",
+  "tipo": "incrustada",
+  "w": 486,
+  "h": 393
+ },
+ {
+  "pag": 3,
+  "archivo": "fig_p03.jpeg",
+  "tipo": "incrustada",
+  "w": 589,
+  "h": 335
+ },
+ {
+  "pag": 4,
+  "archivo": "fig_p04_infografia.png",
+  "tipo": "infografia",
+  "w": 770,
+  "h": 670
+ },
+ {
+  "pag": 7,
+  "archivo": "fig_p07.jpeg",
+  "tipo": "incrustada",
+  "w": 441,
+  "h": 245
+ },
+ {
+  "pag": 12,
+  "archivo": "fig_p12.jpeg",
+  "tipo": "incrustada",
+  "w": 619,
+  "h": 426
+ },
+ {
+  "pag": 14,
+  "archivo": "fig_p14.jpeg",
+  "tipo": "incrustada",
+  "w": 557,
+  "h": 281
+ },
+ {
+  "pag": 15,
+  "archivo": "fig_p15.jpeg",
+  "tipo": "incrustada",
+  "w": 590,
+  "h": 353
+ },
+ {
+  "pag": 16,
+  "archivo": "fig_p16_infografia.png",
+  "tipo": "infografia",
+  "w": 770,
+  "h": 670
+ },
+ {
+  "pag": 18,
+  "archivo": "fig_p18.jpeg",
+  "tipo": "incrustada",
+  "w": 306,
+  "h": 247
+ },
+ {
+  "pag": 19,
+  "archivo": "fig_p19.jpeg",
+  "tipo": "incrustada",
+  "w": 612,
+  "h": 386
+ },
+ {
+  "pag": 20,
+  "archivo": "fig_p20.jpeg",
+  "tipo": "incrustada",
+  "w": 615,
+  "h": 419
+ },
+ {
+  "pag": 23,
+  "archivo": "fig_p23_infografia.png",
+  "tipo": "infografia",
+  "w": 770,
+  "h": 670
+ },
+ {
+  "pag": 36,
+  "archivo": "fig_p36.jpeg",
+  "tipo": "incrustada",
+  "w": 486,
+  "h": 393
+ },
+ {
+  "pag": 37,
+  "archivo": "fig_p37_infografia.png",
+  "tipo": "infografia",
+  "w": 770,
+  "h": 670
+ },
+ {
+  "pag": 39,
+  "archivo": "fig_p39.jpeg",
+  "tipo": "incrustada",
+  "w": 466,
+  "h": 245
+ },
+ {
+  "pag": 47,
+  "archivo": "fig_p47_infografia.png",
+  "tipo": "infografia",
+  "w": 770,
+  "h": 670
+ },
+ {
+  "pag": 51,
+  "archivo": "fig_p51.jpeg",
+  "tipo": "incrustada",
+  "w": 507,
+  "h": 324
+ },
+ {
+  "pag": 52,
+  "archivo": "fig_p52.jpeg",
+  "tipo": "incrustada",
+  "w": 506,
+  "h": 363
+ },
+ {
+  "pag": 62,
+  "archivo": "fig_p62_infografia.png",
+  "tipo": "infografia",
+  "w": 770,
+  "h": 670
+ },
+ {
+  "pag": 64,
+  "archivo": "fig_p64.jpeg",
+  "tipo": "incrustada",
+  "w": 615,
+  "h": 475
+ },
+ {
+  "pag": 65,
+  "archivo": "fig_p65.jpeg",
+  "tipo": "incrustada",
+  "w": 473,
+  "h": 457
+ },
+ {
+  "pag": 67,
+  "archivo": "fig_p67.jpeg",
+  "tipo": "incrustada",
+  "w": 575,
+  "h": 224
+ },
+ {
+  "pag": 68,
+  "archivo": "fig_p68.jpeg",
+  "tipo": "incrustada",
+  "w": 262,
+  "h": 195
+ },
+ {
+  "pag": 69,
+  "archivo": "fig_p69.jpeg",
+  "tipo": "incrustada",
+  "w": 427,
+  "h": 194
+ },
+ {
+  "pag": 71,
+  "archivo": "fig_p71.jpeg",
+  "tipo": "incrustada",
+  "w": 327,
+  "h": 313
+ },
+ {
+  "pag": 74,
+  "archivo": "fig_p74.png",
+  "tipo": "incrustada",
+  "w": 485,
+  "h": 380
+ },
+ {
+  "pag": 75,
+  "archivo": "fig_p75_infografia.png",
+  "tipo": "infografia",
+  "w": 770,
+  "h": 670
+ },
+ {
+  "pag": 76,
+  "archivo": "fig_p76.jpeg",
+  "tipo": "incrustada",
+  "w": 460,
+  "h": 386
+ },
+ {
+  "pag": 77,
+  "archivo": "fig_p77_infografia.png",
+  "tipo": "infografia",
+  "w": 770,
+  "h": 670
+ }
+]
