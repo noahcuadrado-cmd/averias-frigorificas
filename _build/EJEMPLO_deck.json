@@ -42,13 +42,15 @@
   },
   {
    "tipo": "cierre",
-   "titulo": "Qué me llevo",
+   "eyebrow": "Lo que ya dominas",
+   "titulo": "Ya sabes de dónde sale cada norma",
    "mapa": [
-    "Reglamento = tronco; ITC = ramas",
-    "Receptora: de la acometida al aparato",
-    "Artículo tercero = diccionario del oficio"
+    "Reglamento = tronco; las ITC = ramas",
+    "Receptora: de la acometida (fuera) al aparato (dentro)",
+    "El artículo tercero es tu diccionario del oficio"
    ],
-   "notas": "N1: si te quedas con tres cosas...\nN2: (conclusiones en diálogo, NO en pantalla)..."
+   "tagline": "Con esto colocas cualquier pregunta del examen en su sitio. Vamos a por el siguiente.",
+   "notas": "N1: Cerramos fuerte. Si te quedas con tres cosas, ¿cuáles?\nN2: Una, el Reglamento pone lo general y cada ITC el detalle: tronco y ramas. Dos, la instalación receptora va de la llave de acometida, que queda fuera, hasta la llave del aparato, que queda dentro. Y tres, el artículo tercero es tu diccionario: separa partes de agentes y lo tienes ganado.\nN1: ¿Y por qué importa tanto?\nN2: Porque en el examen te lo van a preguntar cruzado, y en la obra decide quién firma y qué papel entregas. Hoy ya eres más gasista que ayer. En el siguiente vídeo damos el salto a los materiales y a la puesta en servicio: cómo una instalación pasa de estar montada a tener gas. Te espero allí."
   }
  ]
 }

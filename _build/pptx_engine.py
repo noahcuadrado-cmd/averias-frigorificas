@@ -124,14 +124,24 @@ def contenido(prs,s,n,total,pie):
     _notas(sl,s.get("notas","")); return sl
 
 def cierre(prs,s,n,total,pie):
-    sl=_blank(prs); _fondo(sl,WHITE); _contador(sl,n,total); _pie(sl,pie)
-    tb=_box(sl,Inches(0.9),Inches(0.7),Inches(11),Inches(1.0))
-    r=tb.text_frame.paragraphs[0].add_run(); r.text=s["titulo"]; _font(r,30,NAVY,bold=True)
-    tb=_box(sl,Inches(0.9),Inches(2.2),Inches(11),Inches(4.0)); tf=tb.text_frame; first=True
+    sl=_blank(prs); _fondo(sl,NAVY)
+    # eyebrow gran final
+    tb=_box(sl,Inches(0.9),Inches(0.7),Inches(11.5),Inches(0.5))
+    r=tb.text_frame.paragraphs[0].add_run(); r.text=s.get("eyebrow","LO QUE YA DOMINAS").upper(); _font(r,14,CAD,bold=True)
+    # titulo grande
+    tb=_box(sl,Inches(0.9),Inches(1.25),Inches(11.5),Inches(1.2))
+    r=tb.text_frame.paragraphs[0].add_run(); r.text=s["titulo"]; _font(r,34,WHITE,bold=True)
+    # logros / mapa
+    tb=_box(sl,Inches(0.9),Inches(2.75),Inches(11.5),Inches(3.1)); tf=tb.text_frame; tf.word_wrap=True; first=True
     for m in s["mapa"]:
-        p=tf.paragraphs[0] if first else tf.add_paragraph(); first=False; p.space_after=Pt(14)
-        rb=p.add_run(); rb.text="✓  "; _font(rb,20,NAVY2,bold=True)
-        r=p.add_run(); r.text=m; _font(r,20,INK)
+        p=tf.paragraphs[0] if first else tf.add_paragraph(); first=False; p.space_after=Pt(12)
+        rb=p.add_run(); rb.text="✓  "; _font(rb,20,CAD,bold=True)
+        r=p.add_run(); r.text=m; _font(r,19,WHITE)
+    # tagline motivadora
+    if s.get("tagline"):
+        tl=_rect(sl,Inches(0.9),Inches(6.05),Inches(11.5),Inches(0.85),NAVY2)
+        t=_box(sl,Inches(1.15),Inches(6.13),Inches(11.0),Inches(0.7))
+        p=t.text_frame.paragraphs[0]; r=p.add_run(); r.text=s["tagline"]; _font(r,15,CAD,bold=True,italic=True)
     _notas(sl,s.get("notas","")); return sl
 
 def construir(slides, pie, salida):
