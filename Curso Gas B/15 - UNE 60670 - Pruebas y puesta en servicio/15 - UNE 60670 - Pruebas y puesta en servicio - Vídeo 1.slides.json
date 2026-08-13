@@ -91,8 +91,8 @@
    ],
    "correcta": 1,
    "porque": "La prueba se hace solo con aire o gas inerte: el gas combustible sería explosivo y el agua dejaría humedad dentro de la tubería.",
-   "notas_p": "N1: Vamos con una que cae fijo. ¿Con qué llenas la tubería para probarla?\nN2: Piensa en qué no dejaría rastro ni peligro dentro del tubo. Descarta lo explosivo y lo que deje humedad.",
-   "notas_r": "N1: ¿Por qué la be?\nN2: Solo aire o gas inerte, casi siempre nitrógeno. El propio gas metería una atmósfera explosiva a presión alta, y el agua u otro líquido dejaría humedad que luego corroe o hiela el regulador. El truco: entra seco, prueba y sale sin rastro."
+   "notas_p": "N1: Vamos con una que cae fijo. Escucha bien la pregunta y las cuatro opciones. ¿Con qué se realiza la prueba de estanquidad de entrega? Opción A, con el propio gas combustible de la red. Opción B, con aire o un gas inerte como el nitrógeno. Opción C, con agua a la presión de prueba. Opción D, con una mezcla de aire y gas natural. Párala un momento y piénsalo.\nN2: Pista: piensa en qué no dejaría rastro ni peligro dentro del tubo. Descarta lo explosivo y lo que deje humedad.",
+   "notas_r": "N2: La respuesta correcta es la opción B: con aire o un gas inerte como el nitrógeno. El propio gas combustible metería una atmósfera explosiva a presión alta, y el agua u otro líquido dejaría humedad que luego corroe o hiela el regulador. El truco para no fallar: lo que entra tiene que entrar seco, probar y salir sin dejar rastro.\nN1: Aire o nitrógeno; nunca el propio gas ni agua."
   },
   {
    "tipo": "contenido",
@@ -188,8 +188,8 @@
    ],
    "correcta": 0,
    "porque": "En el rango de dos a cinco bar la presión de prueba es de al menos siete bar y el tiempo con caudal pequeño es de sesenta minutos.",
-   "notas_p": "N1: Casi seguro que cae. MOP de cinco bar, caudal pequeño: dime presión y tiempo.\nN2: Recuerda que la presión de prueba va por encima de la de trabajo, y que el caudal pequeño usa el tiempo de la primera columna.",
-   "notas_r": "N1: ¿Por qué la a?\nN2: Fila de dos a cinco bar: al menos siete bar de prueba y sesenta minutos con caudal pequeño. Ojo a la trampa de la de, veinticuatro horas es solo para caudales muy grandes. Y no confundas presión de prueba con la de operación: no pruebas a cinco, pruebas a siete."
+   "notas_p": "N1: Casi seguro que cae. Atento a la pregunta y a las cuatro opciones. Con una MOP de cinco bar y caudal pequeño, ¿qué presión y tiempo de prueba aplicas? Opción A, siete bar durante sesenta minutos. Opción B, cinco bar durante treinta minutos. Opción C, tres coma cinco bar durante sesenta minutos. Opción D, siete bar durante veinticuatro horas. Tómate un momento y decide.\nN2: Pista: la presión de prueba va por encima de la de trabajo, y con caudal pequeño se usa el tiempo de la primera columna de la tabla.",
+   "notas_r": "N2: La respuesta correcta es la opción A: siete bar durante sesenta minutos. En la fila de dos a cinco bar la presión de prueba es de al menos siete bar y el tiempo con caudal pequeño es de sesenta minutos. El truco para no fallar: no pruebas a cinco, pruebas a siete; y las veinticuatro horas de la opción D son solo para caudales muy grandes.\nN1: Siete bar, sesenta minutos, y ojo con no confundir prueba y operación."
   },
   {
    "tipo": "contenido",
@@ -267,8 +267,8 @@
    ],
    "correcta": 1,
    "porque": "Regulación y contadores solo se comprueban a su presión de operación; la presión de prueba alta los estropearía por ser equipos calibrados.",
-   "notas_p": "N1: Diferencia de palabras que cae mucho. Regulación y contadores, ¿se prueban o se comprueban?\nN2: Fíjate en que son equipos calibrados y delicados. ¿Aguantarían la presión de prueba alta?",
-   "notas_r": "N1: ¿Por qué la be?\nN2: La tubería se prueba a presión alta, pero regulación y contadores solo se comprueban a su presión de trabajo, con detector o agua jabonosa. Meterles la presión de prueba los descalibraría. Frase para recordarlo: tubería, prueba; regulador y contador, comprobación."
+   "notas_p": "N1: Diferencia de palabras que cae mucho. Escucha la pregunta y las cuatro opciones. El conjunto de regulación y los contadores, ¿cómo se verifican? Opción A, con la prueba de estanquidad a la presión de prueba alta. Opción B, se comprueban a la presión de operación con detector o agua jabonosa. Opción C, no se verifican, van precintados de fábrica. Opción D, con agua a la presión máxima de operación. Piénsalo un momento.\nN2: Pista: son equipos calibrados y delicados. ¿Aguantarían la presión de prueba alta?",
+   "notas_r": "N2: La respuesta correcta es la opción B: se comprueban a la presión de operación con detector o agua jabonosa. La tubería se prueba a presión alta, pero regulación y contadores solo se comprueban a su presión de trabajo, porque meterles la presión de prueba los descalibraría. El truco para no fallar, una frase: tubería, prueba; regulador y contador, comprobación.\nN1: Comprobación a presión de trabajo, no prueba alta."
   },
   {
    "tipo": "cierre",

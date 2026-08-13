@@ -162,8 +162,8 @@
    ],
    "correcta": 2,
    "porque": "Las instalaciones receptoras son la letra h del artículo segundo y son el terreno propio del gasista de categoría B.",
-   "notas_p": "N1: Va la primera y es de tu terreno, así que no deberías fallarla. ¿Qué letra son las receptoras?\nN2: Piensa en cuál de las nueve letras es la que vas a pisar cada día dentro de las viviendas.",
-   "notas_r": "N1: ¿Por qué la hache?\nN2: Porque el artículo segundo ordena los tipos por letras y reserva la hache a las instalaciones receptoras. El truco es asociar 'mi terreno' con la hache: la a es la red de la calle y la i son los aparatos, y ninguna de esas es la receptora."
+   "notas_p": "N1: Vamos con la primera pregunta, y es de tu terreno, así que no deberías fallarla. Escucha bien: ¿qué letra del campo de aplicación corresponde a las instalaciones receptoras? Te leo las cuatro opciones. Opción A, la letra a, distribución por canalización. Opción B, la letra efe, instalaciones de envases de GLP. Opción C, la letra hache, instalaciones receptoras. Opción D, la letra i, aparatos de gas. Párala un momento si quieres y elige tu letra.\nN2: Piensa en cuál de las nueve letras es la que vas a pisar cada día dentro de las viviendas; esa es tu respuesta.",
+   "notas_r": "N2: La respuesta correcta es la opción C: la letra hache, instalaciones receptoras. El artículo segundo ordena los tipos por letras y reserva la hache justamente a las receptoras, que son el terreno propio del gasista de categoría B. El truco para no fallar es asociar 'mi terreno' con la hache: la opción A, la letra a, es la red de la calle, y la opción D, la letra i, son los aparatos; ninguna de esas es la receptora.\nN1: Hache de 'hogar', si te ayuda a recordarlo."
   },
   {
    "tipo": "contenido",
@@ -189,8 +189,8 @@
    ],
    "correcta": 1,
    "porque": "La receptora va de la llave de acometida, que queda excluida, a las llaves de conexión de aparato, que quedan incluidas; el aparato y su latiguillo quedan fuera.",
-   "notas_p": "N1: Una que cae fijo. ¿Dónde empieza y dónde acaba lo que es tuyo?\nN2: Acuérdate del truco de la llave del portal: lo que pone la compañía no es tuyo.",
-   "notas_r": "N1: ¿Por qué esa opción y no otra?\nN2: La acometida va excluida porque la pone la compañía, como la llave del portal; y la llave del aparato va incluida porque es lo último que es tuyo. El fallo típico es meter la acometida dentro o quedarse el aparato: ni una ni otra."
+   "notas_p": "N1: Esta cae fijo, presta atención. La pregunta es: ¿entre qué elementos está comprendida la instalación receptora? Escucha las cuatro opciones. Opción A, de la llave de acometida incluida a la llave de aparato incluida. Opción B, de la llave de acometida excluida a la llave de conexión de aparato incluida. Opción C, del contador hasta los propios aparatos, ambos incluidos. Opción D, de la llave de aparato excluida hasta el propio aparato. Tómate un segundo y decide.\nN2: Acuérdate del truco de la llave del portal: lo que pone la compañía no es tuyo, va fuera.",
+   "notas_r": "N2: La respuesta correcta es la opción B: de la llave de acometida excluida a la llave de conexión de aparato incluida. La acometida va excluida porque la pone la compañía, como la llave del portal; y la llave del aparato va incluida porque es lo último que es tuyo. El fallo típico es la opción A, que mete la acometida dentro, o la opción D, que se queda el aparato; ni una ni otra. La opción C se inventa el contador como frontera, y tampoco.\nN1: Acometida fuera, llave del aparato dentro; con eso la clavas."
   },
   {
    "tipo": "contenido",

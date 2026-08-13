@@ -78,8 +78,8 @@
    ],
    "correcta": 1,
    "porque": "El GNL está a unos -160 °C: exige una empresa especializada en trabajos criogénicos, no un instalador corriente.",
-   "notas_p": "N1: El GNL va muy frío. ¿Quién puede trabajarlo?\nN2: Piensa en que a esa temperatura un material normal se vuelve frágil como el cristal.",
-   "notas_r": "N1: ¿Por qué el criogénico y no un instalador cualquiera?\nN2: Porque el gas natural licuado está a unos ciento sesenta grados bajo cero, y trabajarlo pide formación y materiales especiales. Por eso lo monta y lo mantiene el especialista criogénico, y la norma de referencia es la une sesenta mil doscientos diez. La cadena para no confundirla con el GLP: gas natural licuado, norma sesenta mil doscientos diez, especialista criogénico."
+   "notas_p": "N1: El gas natural licuado va muy frío. ¿Quién debe montar y mantener una planta satélite de GNL? Opción A, una empresa instaladora de gas normal. Opción B, un especialista en trabajos criogénicos. Opción C, cualquier titular con carné de Gas B. Opción D, el organismo de control. Decídete.\nN2: Pista: piensa en que a esa temperatura un material normal se vuelve frágil como el cristal.",
+   "notas_r": "N2: La respuesta correcta es la opción B: un especialista en trabajos criogénicos. ¿Por qué? Porque el gas natural licuado está a unos ciento sesenta grados bajo cero, y trabajarlo pide formación y materiales especiales. Por eso lo monta y lo mantiene el especialista criogénico, y la norma de referencia es la une sesenta mil doscientos diez. La cadena para no confundirla con el GLP: gas natural licuado, norma sesenta mil doscientos diez, especialista criogénico.\nN1: Frío de verdad, manos especializadas."
   },
   {
    "tipo": "contenido",
@@ -170,8 +170,8 @@
    ],
    "correcta": 2,
    "porque": "Con V × P mayor de 300 el control lo tiene que hacer sí o sí un organismo de control independiente.",
-   "notas_p": "N1: Multiplica volumen por presión. Si pasa de trescientos, ¿quién controla?\nN2: Cuanto más grande y más presión, más ojos externos exige.",
-   "notas_r": "N1: ¿Por qué el organismo de control?\nN2: Porque la fórmula uve por pe mide el riesgo: si el volumen por la presión pasa de trescientos, la planta es lo bastante seria como para exigir un organismo de control independiente. Si es trescientos o menos, vale gente de la casa, el especialista criogénico o el propio usuario. El número que decide es el trescientos."
+   "notas_p": "N1: Multiplica volumen por presión, la fórmula uve por pe. En el control de una planta de GNL, si uve por pe supera trescientos, ¿quién debe hacerlo? Opción A, el propio usuario. Opción B, el especialista criogénico. Opción C, obligatoriamente un organismo de control. Opción D, no hace falta ningún control. Piénsalo.\nN2: Pista: cuanto más grande y más presión, más ojos externos exige.",
+   "notas_r": "N2: La respuesta correcta es la opción C: obligatoriamente un organismo de control. ¿Por qué? Porque la fórmula uve por pe mide el riesgo: si el volumen por la presión supera trescientos, la planta es lo bastante seria como para exigir un organismo de control independiente. Si es trescientos o menos, vale gente de la casa, el especialista criogénico o el propio usuario. El número que decide es el trescientos.\nN1: Pasa de trescientos, ojos de fuera."
   },
   {
    "tipo": "contenido",

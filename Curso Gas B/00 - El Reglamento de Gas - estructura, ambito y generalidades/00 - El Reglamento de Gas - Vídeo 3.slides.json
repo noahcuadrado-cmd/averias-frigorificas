@@ -51,8 +51,8 @@
    ],
    "correcta": 1,
    "porque": "La obligación de mantenimiento es del titular y, en su defecto, del usuario; el instalador ejecuta y aconseja, pero no responde por él.",
-   "notas_p": "N1: Que tú vayas con las herramientas no te hace el obligado. ¿De quién es el deber de mantener?\nN2: Piénsalo como el coche: el taller lo arregla, pero ¿quién debe llevarlo a revisión?",
-   "notas_r": "N1: ¿Por qué el titular?\nN2: Porque la ley pone el deber de conservación en el dueño y, si no, en quien usa la instalación. El instalador y la compañía ayudan y recomiendan, pero la responsabilidad última de que esté en disposición de servicio es del titular."
+   "notas_p": "N1: Que tú vayas con las herramientas no te hace el obligado. La pregunta es: ¿de quién es la obligación de mantener la instalación en buen estado? Opción A, de la empresa instaladora. Opción B, del titular y, en su defecto, del usuario. Opción C, del distribuidor de gas. Opción D, del organismo de control. Piénsalo un momento.\nN2: Míralo como el coche: el taller lo arregla, pero ¿quién está obligado a llevarlo a la revisión?",
+   "notas_r": "N2: La respuesta correcta es la opción B: del titular y, en su defecto, del usuario. La ley pone el deber de conservación en el dueño y, si no lo hay, en quien usa la instalación. La empresa instaladora de la opción A, el distribuidor de la opción C y el organismo de control de la opción D ayudan, ejecutan o vigilan, pero la responsabilidad última de que esté en disposición de servicio es del titular.\nN1: El taller arregla; el propietario responde."
   },
   {
    "tipo": "contenido",
@@ -78,8 +78,8 @@
    ],
    "correcta": 1,
    "porque": "Conectada a la red de distribución es inspección; por tu cuenta, sin red, revisión. Y si obliga organismo de control, inspección siempre.",
-   "notas_p": "N1: La pregunta estrella del tema. ¿Con qué se decide inspección o revisión?\nN2: Solo necesitas hacerte una pregunta, la de la tubería de la calle.",
-   "notas_r": "N1: ¿Por qué la conexión a la red?\nN2: Porque un fallo en una instalación de red afecta a muchos, así que la vigila alguien habilitado ajeno: eso es inspección. Lo privado, tu depósito, es revisión. Y si la ley obliga a organismo de control, gana esa regla: inspección siempre."
+   "notas_p": "N1: La pregunta estrella de todo el tema, presta atención. ¿Qué determina si un control periódico es inspección o revisión? Opción A, el tamaño de la vivienda. Opción B, si la instalación está conectada a la red de distribución. Opción C, la antigüedad de la instalación. Opción D, el tipo de aparato instalado. Tómate un segundo y elige.\nN2: Solo necesitas hacerte una pregunta: la de la tubería de la calle.",
+   "notas_r": "N2: La respuesta correcta es la opción B: si la instalación está conectada a la red de distribución. Si está enganchada a la red, un fallo puede afectar a muchos vecinos, así que la vigila alguien habilitado y ajeno; eso es inspección. Lo privado, tu depósito por tu cuenta, es revisión. El tamaño de la vivienda de la opción A, la antigüedad de la opción C o el tipo de aparato de la opción D no pintan nada aquí. Y recuerda la regla que gana cualquier empate: si la ley obliga a organismo de control, inspección siempre.\nN1: Conectada a red, inspección; por tu cuenta, revisión."
   },
   {
    "tipo": "contenido",
@@ -202,8 +202,8 @@
    ],
    "correcta": 0,
    "porque": "Primero se llama, en no más de veinticuatro horas, y luego se escribe el informe, en un máximo de siete días.",
-   "notas_p": "N1: Dos plazos que van en pareja. ¿Cuáles son ante un accidente grave?\nN2: El truco es el orden: primero llamas, luego escribes.",
-   "notas_r": "N1: ¿Por qué esos plazos?\nN2: Porque lo urgente es avisar cuanto antes, en no más de veinticuatro horas, y el informe detallado puede esperar un poco, hasta siete días. Recuerda además las cuatro clases cerradas: deflagración, explosión, intoxicación e incendio."
+   "notas_p": "N1: Dos plazos que van siempre en pareja. La pregunta: ante un accidente grave, ¿qué plazos debe cumplir el suministrador? Opción A, veinticuatro horas para avisar y siete días para el informe. Opción B, siete días para avisar y treinta para el informe. Opción C, cuarenta y ocho horas para avisar y quince para el informe. Opción D, aviso inmediato y el informe en veinticuatro horas. Piénsalo un momento.\nN2: El truco es el orden: primero llamas, luego escribes.",
+   "notas_r": "N2: La respuesta correcta es la opción A: veinticuatro horas para avisar y siete días para el informe. Lo urgente es avisar cuanto antes, en no más de veinticuatro horas, y el informe detallado puede esperar un poco, hasta siete días. Las opciones B, C y D cambian los números o los cruzan para liarte, pero el orden es siempre ese: primero llamo, veinticuatro horas; luego escribo, siete días. Y recuerda las cuatro clases cerradas de accidente: deflagración, explosión, intoxicación e incendio.\nN1: Primero el teléfono, después el papel."
   },
   {
    "tipo": "contenido",

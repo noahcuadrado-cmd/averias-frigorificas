@@ -115,8 +115,8 @@
    ],
    "correcta": 1,
    "porque": "De 150 a 500 kg es tienda grande: le tocan 3 extintores de 21A-113B.",
-   "notas_p": "N1: La tienda se parte en ciento cincuenta kilos. Tenemos trescientos. ¿Qué dotación?\nN2: Primero decide si es tienda pequeña o grande, y luego el extintor que le toca.",
-   "notas_r": "N1: ¿Por qué tres del veintiuno a, ciento trece b?\nN2: Trescientos kilos está por encima de ciento cincuenta, así que es tienda grande, la más exigente: tres extintores de veintiuno a, ciento trece b. La pequeña, hasta ciento cincuenta, llevaría dos del trece a, cincuenta y cinco b. El truco es no confundir los dos tipos de extintor con las dos tiendas."
+   "notas_p": "N1: La tienda se parte en ciento cincuenta kilos. Tenemos una tienda que almacena trescientos kilos de GLP. ¿Cuántos extintores y de qué eficacia le corresponden? Opción A, dos de trece a, cincuenta y cinco b. Opción B, tres de veintiuno a, ciento trece b. Opción C, dos de veintiuno a, ciento trece b. Opción D, cinco de veintiuno a, ciento trece b. Tómate un segundo.\nN2: Pista: primero decide si trescientos kilos es tienda pequeña o grande, y luego el extintor que le toca.",
+   "notas_r": "N2: La respuesta correcta es la opción B: tres extintores de veintiuno a, ciento trece b. ¿Por qué? Porque trescientos kilos está por encima de ciento cincuenta, así que es tienda grande, la más exigente, y le tocan tres extintores de veintiuno a, ciento trece b. La pequeña, hasta ciento cincuenta, llevaría dos del trece a, cincuenta y cinco b. El truco es no confundir los dos tipos de extintor con las dos tiendas.\nN1: Tienda grande, tres del veintiuno a, ciento trece b."
   },
   {
    "tipo": "contenido",
@@ -219,8 +219,8 @@
    ],
    "correcta": 0,
    "porque": "El vehículo particular tiene la carga limitada a 2 envases móviles de hasta 15 kg.",
-   "notas_p": "N1: Dato preguntadísimo. En tu coche, ¿cuántas bombonas y de qué tamaño?\nN2: Piensa en el límite estricto que fija el Reglamento para los particulares.",
-   "notas_r": "N1: ¿Por qué solo dos y de hasta quince kilos?\nN2: Porque el vehículo particular tiene la carga limitada a dos envases móviles de hasta quince kilos, ni uno más y nada de botellas grandes. Además van de pie y bien sujetas, y jamás aparcas con ellas en un garaje subterráneo. El truco: dos y quince, los dos números del coche."
+   "notas_p": "N1: Dato preguntadísimo del transporte. ¿Qué puedes transportar como máximo en un vehículo particular? Opción A, dos envases de hasta quince kilos. Opción B, cuatro envases de hasta quince kilos. Opción C, dos envases de cualquier tamaño. Opción D, un envase de hasta treinta y cinco kilos. Piénsalo antes de que te lo diga.\nN2: Pista: piensa en el límite estricto que fija el Reglamento para los particulares, y fíjate en que son dos números.",
+   "notas_r": "N2: La respuesta correcta es la opción A: dos envases de hasta quince kilos. ¿Por qué? Porque el vehículo particular tiene la carga limitada a dos envases móviles de hasta quince kilos, ni uno más y nada de botellas grandes. Además van de pie y bien sujetas, y jamás aparcas con ellas en un garaje subterráneo. El truco: dos y quince, los dos números del coche.\nN1: Dos y quince, y siempre de pie."
   },
   {
    "tipo": "contenido",

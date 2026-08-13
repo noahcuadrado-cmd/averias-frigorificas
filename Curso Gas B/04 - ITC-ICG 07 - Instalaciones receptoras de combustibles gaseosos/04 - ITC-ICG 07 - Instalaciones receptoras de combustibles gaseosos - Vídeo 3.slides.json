@@ -113,8 +113,8 @@
    ],
    "correcta": 1,
    "porque": "Hasta setenta kilovatios la inspección va de la llave de usuario a los aparatos, incluidos; el aparato sí se mira.",
-   "notas_p": "N1: Instalación pequeña, de hasta setenta kilovatios. ¿El inspector revisa también el aparato o solo las tuberías?\nN2: Acuérdate de la regla de la tabla: cuanto más grande la instalación, más se aleja el aparato de la inspección. Aquí estamos en la pequeña, la doméstica.",
-   "notas_r": "N1: ¿Por qué sí entra?\nN2: Porque en las instalaciones de hasta setenta kilovatios la inspección llega desde la llave de usuario hasta los aparatos, incluidos; el aparato se mira. El aparato solo queda excluido cuando la instalación es grande, de más de setenta o centralizada, o de más de cinco bar. Truco: en lo pequeño y doméstico, el aparato dentro; en lo grande, fuera."
+   "notas_p": "N1: Pregunta de alcance de la inspección. Escucha: en una instalación de hasta setenta kilovatios, ¿el aparato de gas entra en la inspección? Y las cuatro opciones. Opción A, no, siempre queda excluido. Opción B, sí, la inspección lo incluye. Opción C, solo si trabaja a más de cinco bar. Opción D, solo en instalaciones centralizadas. Piénsalo un momento.\nN2: Acuérdate de la regla de la tabla: cuanto más grande la instalación, más se aleja el aparato de la inspección. Y aquí estamos en la pequeña, la doméstica.",
+   "notas_r": "N1: ¿Ya lo tienes?\nN2: La respuesta correcta es la opción B: sí, la inspección lo incluye. En las instalaciones de hasta setenta kilovatios la inspección llega desde la llave de usuario hasta los aparatos, incluidos; el aparato se mira. El aparato solo queda excluido cuando la instalación es grande, de más de setenta o centralizada, o de más de cinco bar; por eso las opciones A, C y D se quedan cortas o cambian el caso. Truco: en lo pequeño y doméstico, el aparato dentro; en lo grande, fuera.\nN1: Hasta setenta, el aparato entra."
   },
   {
    "tipo": "contenido",
@@ -203,8 +203,8 @@
    ],
    "correcta": 1,
    "porque": "Todas las fugas se consideran anomalía principal; si no se corrige en el acto, se corta el suministro y se precinta.",
-   "notas_p": "N1: Aparece una fuga de gas en la inspección. ¿Es cosa leve con plazo o cosa grave de cortar en el acto?\nN2: Hay una frase tajante en la norma sobre las fugas que no admite excepciones. Piensa en lo que pasaría si dejases una fuga con un plazo de quince días.",
-   "notas_r": "N1: ¿Por qué principal?\nN2: Porque todas las fugas detectadas se consideran siempre anomalía principal, sin excepción. Y una anomalía principal que no se puede corregir en el momento obliga a interrumpir el suministro y precintar la parte afectada. La opción de los quince días es la trampa: ese plazo es para las secundarias por falta de estanquidad, no para una fuga. Truco: fuga, siempre principal, siempre corte."
+   "notas_p": "N1: Caso de anomalías. La pregunta: durante una inspección se detecta una fuga de gas, ¿cómo se clasifica? Escucha las opciones. Opción A, anomalía secundaria, con plazo de quince días. Opción B, anomalía principal, con corte y precinto. Opción C, defecto leve, se anota y nada más. Opción D, depende de la potencia de la instalación. Tómate un segundo.\nN2: Hay una frase tajante en la norma sobre las fugas que no admite excepciones. Piensa en lo que pasaría si dejases una fuga con un plazo de quince días.",
+   "notas_r": "N1: ¿Lo has pensado?\nN2: La respuesta correcta es la opción B: anomalía principal, con corte y precinto. Todas las fugas detectadas se consideran siempre anomalía principal, sin excepción; y una principal que no se puede corregir en el momento obliga a interrumpir el suministro y precintar la parte afectada. La opción A, la de los quince días, es la trampa: ese plazo es para las secundarias por falta de estanquidad, nunca para una fuga. Y ni es un defecto leve ni depende de la potencia. Truco: fuga, siempre principal, siempre corte.\nN1: Fuga igual a principal. Sin discusión."
   },
   {
    "tipo": "contenido",
@@ -344,8 +344,8 @@
    ],
    "correcta": 2,
    "porque": "El IRG-4 es la revisión periódica de instalaciones individuales y aparatos no alimentados desde red; el IRG-5 es el de las comunes.",
-   "notas_p": "N1: Un chalé con depósito propio, instalación individual, pasa su revisión periódica. ¿Qué modelo se firma?\nN2: Recuerda las parejas de la tabla: del uno al tres son de montaje, el cuatro y el cinco de revisión sin red. Y entre esos dos, uno es para individuales y otro para comunes.",
-   "notas_r": "N1: ¿Por qué el cuatro?\nN2: Porque el uno erre ge guion cuatro es el certificado de revisión periódica de instalaciones individuales y aparatos no alimentados desde red, justo el caso del depósito propio en una vivienda. El cinco sería si fuese la instalación común del edificio. El uno y el tres son de instalación, de montaje, no de revisión. Truco: revisión sin red e individual, el cuatro; común, el cinco."
+   "notas_p": "N1: Última de modelos de impreso. La pregunta: ¿qué modelo certifica la revisión periódica de una instalación individual de depósito propio? Escucha las opciones. Opción A, el uno erre ge guion uno. Opción B, el uno erre ge guion tres. Opción C, el uno erre ge guion cuatro. Opción D, el uno erre ge guion cinco. Piénsalo antes de la solución.\nN2: Recuerda las parejas de la tabla: del uno al tres son de montaje, y el cuatro y el cinco de revisión sin red. Y entre esos dos, uno es para individuales y otro para comunes.",
+   "notas_r": "N1: ¿Ya lo tienes?\nN2: La respuesta correcta es la opción C: el uno erre ge guion cuatro. Es el certificado de revisión periódica de instalaciones individuales y aparatos no alimentados desde red, justo el caso del depósito propio en una vivienda. La opción D, el guion cinco, sería si fuese la instalación común del edificio. Y las opciones del uno y el tres son de instalación, de montaje, no de revisión. Truco: revisión sin red e individual, el cuatro; común, el cinco.\nN1: Depósito propio e individual, el cuatro."
   },
   {
    "tipo": "contenido",

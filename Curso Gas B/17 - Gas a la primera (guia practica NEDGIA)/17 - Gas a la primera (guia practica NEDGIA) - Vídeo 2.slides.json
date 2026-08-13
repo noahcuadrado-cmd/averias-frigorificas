@@ -117,8 +117,8 @@
    ],
    "correcta": 0,
    "porque": "La frontera es 0,05 bar: hasta ahí, soldadura blanda; por encima, fuerte. Además, siempre fuerte en aparcamientos cerrados y cocinas tipo A de más de 30 kW.",
-   "notas_p": "N1: La frontera entre soldadura blanda y fuerte es una cifra pequeña de presión. ¿Cuál es?\nN2: Es la misma cifra que separa la baja presión del resto; piensa en centésimas de bar.",
-   "notas_r": "N1: ¿Por qué esa presión?\nN2: Porque la soldadura fuerte aguanta más temperatura y da más garantía, y por encima de cinco centésimas de bar te juegas más en cada unión. Y no olvides los dos sitios donde siempre pides fuerte aunque sea baja presión: aparcamientos cerrados y cocinas de tipo A que pasen de treinta kilovatios."
+   "notas_p": "N1: Frontera clásica de examen, y cuidado que las cifras se parecen mucho de oído. La pregunta: ¿por encima de qué presión se exige soldadura fuerte en tubería de cobre? Opción A, cinco centésimas de bar. Opción B, cinco décimas de bar. Opción C, cinco bar. Opción D, cuatro décimas de bar. Párala y elige con calma.\nN2: Pista: es la misma cifra que separa la baja presión del resto; piensa en centésimas de bar.",
+   "notas_r": "N2: La respuesta correcta es la opción A: cinco centésimas de bar. Hasta ahí vale soldadura blanda; por encima de cinco centésimas de bar, soldadura fuerte, porque aguanta más temperatura y da más garantía cuando te juegas más en cada unión. El truco para no caer en las opciones parecidas: la frontera son cinco centésimas, no cinco décimas ni cinco bar. Y no olvides los dos sitios donde siempre pides fuerte aunque sea baja presión: aparcamientos cerrados y cocinas de tipo A que pasen de treinta kilovatios.\nN1: Cinco centésimas de bar, esa es la raya."
   },
   {
    "tipo": "contenido",
@@ -243,8 +243,8 @@
    ],
    "correcta": 0,
    "porque": "El manguito CuNi hace de árbitro entre los dos metales y evita la corrosión galvánica; iguales se unen con su mismo metal, distintos con CuNi.",
-   "notas_p": "N1: Juntas un tubo de inoxidable con uno de cobre. Si no eliges bien la unión, aparece corrosión. ¿Qué manguito usas?\nN2: Es un metal intermedio que hace de árbitro entre los dos; piensa en cobre más níquel.",
-   "notas_r": "N1: ¿Por qué el de cuproníquel?\nN2: Porque dos metales distintos con humedad forman una pila que se come la unión, la corrosión galvánica. El cuproníquel media entre ambos y la evita. Regla: iguales con su mismo metal, inox con cobre, con cuproníquel."
+   "notas_p": "N1: Juntas un tubo de acero inoxidable con uno de cobre; si no eliges bien la unión, aparece corrosión. La pregunta: ¿qué manguito se emplea para esa unión? Opción A, de cuproníquel, es decir cobre-níquel. Opción B, de cobre. Opción C, de acero inoxidable. Opción D, de latón. Piensa cuál evita que se coman la unión.\nN2: Pista: es un metal intermedio que hace de árbitro entre los dos; cobre más níquel.",
+   "notas_r": "N2: La respuesta correcta es la opción A: el manguito de cuproníquel. Cuando juntas dos metales distintos y hay humedad, se forma una pila diminuta que se va comiendo la unión: es la corrosión galvánica. El cuproníquel media entre el inoxidable y el cobre y la frena. El truco: iguales, con su mismo metal, inox con inox y cobre con cobre; distintos, inox con cobre, con manguito de cuproníquel.\nN1: Cuproníquel, el árbitro entre los dos metales."
   },
   {
    "tipo": "contenido",
@@ -418,8 +418,8 @@
    ],
    "correcta": 0,
    "porque": "Es el tramo de mayor presión de la tabla, así que pide el tiempo base más largo: 60 minutos. Los tramos de mucho caudal ya se van a 6 o 24 horas con registro.",
-   "notas_p": "N1: Vamos con la escalera de tiempos. Para la presión más alta de la tabla, de dos a cinco bar, y caudal bajo, ¿cuánto tiempo mantienes la prueba?\nN2: A más presión, más tiempo; es el escalón más alto de todos.",
-   "notas_r": "N1: ¿Por qué sesenta minutos?\nN2: Porque es el tramo de mayor presión, y cuanta más presión, más tiempo de prueba para cazar una microfuga. La escalera base es sesenta, treinta, treinta y quince minutos de más a menos presión; y los caudales grandes se van a seis o veinticuatro horas con registro."
+   "notas_p": "N1: Vamos con la escalera de tiempos de la prueba de estanqueidad. Para la presión más alta de la tabla, una eme o pe de dos a cinco bar, y caudal bajo, de hasta ciento cincuenta metros cúbicos hora, la pregunta: ¿cuánto tiempo mantienes la prueba? Opción A, sesenta minutos. Opción B, treinta minutos. Opción C, quince minutos. Opción D, seis horas. Piénsalo.\nN2: Pista: a más presión, más tiempo; es el escalón más alto de todos.",
+   "notas_r": "N2: La respuesta correcta es la opción A: sesenta minutos. Es el tramo de mayor presión de la tabla, y cuanta más presión, más tiempo de prueba para cazar una microfuga. El truco de la escalera base, de más a menos presión, es sesenta, treinta, treinta y quince minutos. Cuidado con la opción D, seis horas: esa es para caudales grandes, de más de ciento cincuenta metros cúbicos hora, y con registro de presión y temperatura; aquí el caudal es bajo.\nN1: Sesenta minutos, el escalón más alto."
   },
   {
    "tipo": "contenido",

@@ -101,8 +101,8 @@
    ],
    "correcta": 2,
    "porque": "La ITC exige que la presión no disminuya durante un período no inferior a quince minutos desde la primera lectura.",
-   "notas_p": "N1: Cronómetro en mano, ¿cuánto tiene que aguantar la aguja sin moverse?\nN2: Piensa en un cuarto de hora; ni un tiempo más corto vale, ni hace falta uno entero.",
-   "notas_r": "N1: ¿Por qué esa y no otra?\nN2: La norma dice no inferior a quince minutos, es decir, como mínimo quince. El truco está en la palabra: no inferior significa que puedes esperar más, pero nunca menos. Si la presión baja antes, hay fuga y no se cierra."
+   "notas_p": "N1: Vamos con la pregunta, escúchala entera. Durante cuánto tiempo, como mínimo, no debe bajar la presión en la prueba de estanquidad. Y estas son las cuatro opciones. Opción A, cinco minutos. Opción B, diez minutos. Opción C, quince minutos. Opción D, treinta minutos.\nN2: Piénsalo un momento, cronómetro en mano: ¿cuánto tiene que aguantar la aguja sin moverse? Si vas conduciendo, quédate con tu letra antes de que te la diga.",
+   "notas_r": "N2: La respuesta correcta es la opción C: quince minutos. La norma dice que la presión no debe bajar durante un período no inferior a quince minutos desde la primera lectura. Y ahí está el truco, en esas dos palabras: no inferior significa como mínimo, así que puedes esperar más, pero nunca menos. Por eso los cinco minutos de la opción A y los diez de la B se quedan cortos, y los treinta de la D no hacen falta. Si la aguja cae antes de ese cuarto de hora, hay fuga y no se cierra.\nN1: Quince minutos clavados: ese es el número."
   },
   {
    "tipo": "contenido",
@@ -151,8 +151,8 @@
    ],
    "correcta": 1,
    "porque": "En esta ITC no es precisa ninguna comunicación; basta con que el titular conserve el certificado a disposición de la Administración.",
-   "notas_p": "N1: Ojo, que aquí hay una de las trampas favoritas del examen.\nN2: Compara con el régimen general del Reglamento y sus plazos; en la caravana la regla es justo la contraria.",
-   "notas_r": "N1: ¿Por qué esta?\nN2: A diferencia de casi todo el Reglamento, en la caravana no hay que comunicar nada a la Administración. El titular solo guarda el certificado y lo tiene a mano por si se lo piden. Si en la pregunta aparece un plazo de treinta días, ese es el cebo: es falso."
+   "notas_p": "N1: Ojo con esta, que esconde una de las trampas favoritas del examen. Escucha la pregunta entera. Tras la puesta en servicio de una instalación de GLP en caravana, qué debe hacer el titular. Y las cuatro opciones. Opción A, comunicarla a la Comunidad Autónoma en un plazo de treinta días. Opción B, no comunicar nada y conservar el certificado. Opción C, registrarla ante el Ministerio. Opción D, solicitar una inspección oficial.\nN2: Párate a pensarlo. Acuérdate de que en la caravana la regla es justo la contraria a la del régimen general del Reglamento. Elige tu letra.",
+   "notas_r": "N2: La respuesta correcta es la opción B: no comunicar nada y conservar el certificado. A diferencia de casi todo el Reglamento, en la instalación de la caravana no hay que comunicar nada a la Administración; el titular solo guarda el certificado y lo tiene a mano por si se lo reclaman. El truco para no fallar: en cuanto veas un plazo de treinta días, como en la opción A, ese es el cebo, es falso. Y ni registrar ante el Ministerio ni pedir una inspección oficial pintan nada aquí, así que la opción C y la D también caen.\nN1: Aquí no se comunica: solo se conserva. Que no te la cuelen."
   },
   {
    "tipo": "contenido",
@@ -203,8 +203,8 @@
    ],
    "correcta": 1,
    "porque": "Al funcionar con bombonas propias y no colgar de una red, la instalación se revisa (no se inspecciona) cada cuatro años.",
-   "notas_p": "N1: Dos trampas en una sola pregunta: el plazo y la palabra.\nN2: Acuérdate de que la caravana va con bombonas y no cuelga de ninguna red de distribución.",
-   "notas_r": "N1: ¿Por qué?\nN2: Todo lo que no cuelga de una red se revisa, no se inspecciona; y el plazo es cada cuatro años. La chuleta es fácil: caravana, bombonas, sin red, revisión, cada cuatro años."
+   "notas_p": "N1: Aquí hay dos trampas metidas en una sola pregunta: el plazo y la palabra. Escúchala entera. Cada cuánto y con qué nombre se controla periódicamente la instalación de una caravana. Y las cuatro opciones. Opción A, inspección cada cinco años. Opción B, revisión cada cuatro años. Opción C, inspección cada cuatro años. Opción D, revisión cada dos años.\nN2: Fíjate que cambian dos cosas entre unas opciones y otras: si es revisión o inspección, y cada cuántos años. Acuérdate de que la caravana va con bombonas y no cuelga de ninguna red de distribución. Piensa tu respuesta.",
+   "notas_r": "N2: La respuesta correcta es la opción B: revisión cada cuatro años. La clave está en que todo lo que no cuelga de una red se revisa, no se inspecciona; y como la caravana funciona con sus propias bombonas, le toca revisión. El plazo es cada cuatro años. Por eso las opciones que dicen inspección, la A y la C, caen solas por la palabra, aunque la C acierte los cuatro años; y la D falla en el plazo, dos años. La chuleta es fácil: caravana, bombonas, sin red, revisión, cada cuatro años.\nN1: Revisión, no inspección; y cuatro años, ni dos ni cinco."
   },
   {
    "tipo": "contenido",

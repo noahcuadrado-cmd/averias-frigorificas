@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["20", "prescripciones de seguridad"],
-    ["2", "anexos: placa y prescripciones"],
-    ["1", "norma para toda la placa"]
+    [
+     "20",
+     "prescripciones de seguridad"
+    ],
+    [
+     "2",
+     "anexos: placa y prescripciones"
+    ],
+    [
+     "1",
+     "norma para toda la placa"
+    ]
    ],
    "notas": "N1: ¿Qué tres números cierran la ITC?\nN2: Tres. Primero, veinte prescripciones de seguridad en el anexo tres, del dos tres uno al dos tres veinte, que agruparemos por ideas para no perdernos. Segundo, dos anexos, que son los que vemos hoy: el de la placa y el de las prescripciones. Y tercero, una sola norma, la UNE sesenta mil setecientos cincuenta, con la que se verifica todo lo de la placa: indelebilidad, corrosión y adherencia. Con estos tres números tienes el mapa del vídeo."
   },
@@ -92,8 +101,8 @@
    ],
    "correcta": 1,
    "porque": "Toda la placa (indelebilidad de los caracteres, resistencia a la corrosión y adherencia) se comprueba con la UNE 60750.",
-   "notas_p": "N1: Una sola norma resume toda la placa.\nN2: No te dejes liar por otras normas del tema. Piensa en la que garantiza que el marcado no se borra, no se corroe y no se despega.",
-   "notas_r": "N1: ¿Por qué esa norma?\nN2: Porque la ITC remite las tres cualidades de la placa, indelebilidad, corrosión y adherencia, a la misma norma, la une sesenta mil setecientos cincuenta. El truco: la parte siete es de conexión, la nueve mil uno es de calidad y la cuatrocientos treinta y siete es de gases; la de la placa es la sesenta mil setecientos cincuenta."
+   "notas_p": "N1: Una sola norma resume toda la placa. Escucha bien las siglas y los números: ¿con qué norma se verifican la indelebilidad, la corrosión y la adherencia de la placa de características? Opción a: la une sesenta mil seiscientos setenta, parte siete. Opción be: la une sesenta mil setecientos cincuenta. Opción ce: la une-en iso nueve mil uno. Opción de: la une-en cuatrocientos treinta y siete. Piénsalo... busca la que garantiza que el marcado no se borra, no se corroe y no se despega.",
+   "notas_r": "N2: La respuesta correcta es la opción be: la une sesenta mil setecientos cincuenta. El porqué: la ITC remite las tres cualidades de la placa, indelebilidad, corrosión y adherencia, a esa misma norma. El truco para no liarte con las otras: la parte siete es la de conexión de aparatos, la nueve mil uno es la de calidad, y la cuatrocientos treinta y siete es la de gases; la de la placa es la sesenta mil setecientos cincuenta.\nN1: Toda la placa, con la sesenta mil setecientos cincuenta."
   },
   {
    "tipo": "contenido",
@@ -168,8 +177,8 @@
    ],
    "correcta": 1,
    "porque": "La prueba comprueba la estanquidad del circuito de gas entre la llave del aparato y el quemador, a la presión máxima de utilización, y que las válvulas de corte no tengan fuga interior.",
-   "notas_p": "N1: Un tramo muy concreto que el examen pregunta tal cual.\nN2: Piensa en el circuito interno del aparato, no en la instalación de la casa. ¿Dónde empieza y dónde acaba ese tramo?",
-   "notas_r": "N1: ¿Por qué ese tramo?\nN2: Porque la prueba de estanquidad va entre la llave del aparato y el quemador, a presión máxima de utilización, y además comprueba que las válvulas de corte no dejen fuga interior. El truco: es el circuito de gas dentro del aparato, no la instalación receptora entera."
+   "notas_p": "N1: Un tramo muy concreto que el examen pregunta tal cual. La pregunta: ¿en qué tramo se comprueba la estanquidad del aparato en la prueba del anexo tres? Opción a: entre el contador y la llave de acometida. Opción be: entre la llave del aparato y el quemador. Opción ce: en toda la instalación receptora de la vivienda. Opción de: solo en el conducto de evacuación de humos. Piénsalo un momento... estamos hablando del circuito interno del aparato, no de la instalación de la casa. ¿Dónde empieza y dónde acaba ese tramo?",
+   "notas_r": "N2: La respuesta correcta es la opción be: entre la llave del aparato y el quemador. El porqué: la prueba de estanquidad comprueba el circuito de gas justo en ese tramo, a la presión máxima de utilización, y además que las válvulas de corte no dejen fuga interior cuando están cerradas. El truco: es el circuito de gas dentro del aparato, no la instalación receptora entera ni el conducto de humos.\nN1: De la llave del aparato al quemador. Ahí se caza la fuga."
   },
   {
    "tipo": "contenido",

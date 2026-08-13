@@ -180,8 +180,8 @@
    ],
    "correcta": 0,
    "porque": "Deben darse las tres condiciones a la vez: gas de familia normalizada, MOP no superior a 5 bar y destino a aparatos de gas.",
-   "notas_p": "N1: Va la primera, y con truco: ¿qué hace que un montaje sea de verdad instalación receptora?\nN2: Piensa en las tres patas de un taburete; si falta una, se cae. Gas normalizado, poca presión y para dar de comer a aparatos.",
-   "notas_r": "N1: ¿Por qué la A?\nN2: Porque las tres condiciones van juntas: gas de una familia reconocida, presión máxima de operación no superior a cinco bar y servir a aparatos de gas. Si falla una sola, ya no es instalación receptora a efectos de la norma. El truco para no fallar: gas normalizado, poca presión y para aparatos."
+   "notas_p": "N1: Va la primera pregunta del vídeo, y te la leo entera para que juegues conmigo, solo con el oído. ¿Cuándo es una instalación una instalación receptora según la UNE sesenta mil seiscientos setenta? Escucha las cuatro opciones. Opción A: cuando usa gas de familia normalizada, presión máxima de operación que no pasa de cinco bar y sirve a aparatos de gas. Opción B: cuando la presión supera los cinco bar y hay varios aparatos conectados. Opción C: siempre que haya una bombona conectada a un aparato móvil. Opción D: cuando la instalación es de gas natural, sea cual sea la presión.\nN2: Tómate un segundo y piénsalo. Acuérdate de las tres patas del taburete: gas normalizado, poca presión y para dar de comer a aparatos.",
+   "notas_r": "N2: La respuesta correcta es la opción A: cuando usa gas de familia normalizada, presión máxima de operación que no pasa de cinco bar y sirve a aparatos de gas. ¿Por qué? Porque las tres condiciones tienen que darse a la vez: gas de una familia reconocida, presión máxima de operación no superior a cinco bar y servir a aparatos de gas. Si falla una sola, ya no es instalación receptora a efectos de la norma. Por eso la B se cae, presión por encima de cinco bar; la C se queda corta, una bombona a un aparato móvil no es receptora; y la D se cuela, el gas natural a cualquier presión no vale. El truco para no fallar: gas normalizado, poca presión y para aparatos.\nN1: Tres patas, y si falta una, se cae."
   },
   {
    "tipo": "contenido",
@@ -244,8 +244,8 @@
    ],
    "correcta": 1,
    "porque": "El suministro desde depósitos fijos de GLP, o desde envases de carga superior a 15 kg, es de clase granel.",
-   "notas_p": "N1: Fácil de confundir: el depósito de GLP del jardín, ¿qué clase es?\nN2: Pista: no llega por red, y tampoco es una bombona pequeña. ¿Dónde encaja?",
-   "notas_r": "N1: ¿Por qué granel?\nN2: Porque granel es el suministro desde depósitos fijos de GLP o desde envases de carga superior a quince kilos. Canalizado sería por red de distribución, y envases serían las bombonas pequeñas por debajo de quince kilos. El truco: depósito fijo o envase grande, siempre granel."
+   "notas_p": "N1: Segunda pregunta, te la leo completa. Un depósito fijo de GLP en la parcela, ¿a qué clase de suministro corresponde? Escucha las cuatro opciones. Opción A: canalizado. Opción B: granel. Opción C: envases. Opción D: intemperie. Tómate un segundo para pensarlo.\nN2: Pista: no llega por una red, y tampoco es una bombona pequeña. ¿Dónde encaja?",
+   "notas_r": "N2: La respuesta correcta es la opción B: granel. ¿Por qué? Porque granel es el suministro desde depósitos fijos de GLP, o desde envases de carga superior a quince kilos. El canalizado sería por una red de distribución, y los envases serían las bombonas pequeñas, por debajo de quince kilos. Y la intemperie ni siquiera es una clase de suministro, es un despiste. El truco: depósito fijo o envase grande, siempre granel.\nN1: Depósito en el jardín, granel, clavado."
   },
   {
    "tipo": "contenido",
@@ -296,8 +296,8 @@
    ],
    "correcta": 0,
    "porque": "Toda instalación receptora obliga a un certificado firmado por la empresa habilitada de categoría B; sin él, la distribuidora no da gas.",
-   "notas_p": "N1: Última del vídeo: acabas la instalación y... ¿qué papel te pide la distribuidora?\nN2: Pista: es el documento que firma tu empresa habilitada y sin el cual no entra gas.",
-   "notas_r": "N1: ¿Por qué la A?\nN2: Porque toda instalación receptora obliga a un certificado de instalación, el boletín, que firma la empresa instaladora habilitada de categoría B y se entrega a la distribuidora, con copia para el titular. Sin ese documento no hay suministro. El truco: si es receptora, hay boletín, y lo firma tu empresa, no el ayuntamiento ni el fabricante."
+   "notas_p": "N1: Última pregunta del vídeo, atención que te la leo entera. En una instalación receptora nueva, ¿qué documento exige la distribuidora para dar suministro? Escucha las cuatro opciones. Opción A: el certificado o boletín firmado por la empresa instaladora de categoría B. Opción B: una autorización previa del ayuntamiento del municipio. Opción C: la factura de compra de la caldera y los aparatos. Opción D: el manual de instrucciones del fabricante del aparato. Piénsalo un momento.\nN2: Pista: es el papel que firma tu empresa habilitada y sin el cual no entra gas.",
+   "notas_r": "N2: La respuesta correcta es la opción A: el certificado o boletín firmado por la empresa instaladora de categoría B. ¿Por qué? Porque toda instalación receptora obliga a un certificado de instalación, el boletín, que firma tu empresa instaladora habilitada de categoría B y se entrega a la distribuidora, con copia para el titular. Sin ese documento no hay suministro. El ayuntamiento, la factura de la caldera o el manual del fabricante no pintan nada aquí. El truco: si es receptora, hay boletín, y lo firma tu empresa, no el ayuntamiento ni el fabricante.\nN1: Sin boletín, no hay gas."
   },
   {
    "tipo": "cierre",

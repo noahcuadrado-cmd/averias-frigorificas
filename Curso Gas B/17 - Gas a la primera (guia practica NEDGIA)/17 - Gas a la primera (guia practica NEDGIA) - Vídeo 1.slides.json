@@ -65,8 +65,8 @@
    ],
    "correcta": 0,
    "porque": "En vivienda el totalizador no puede superar 1,7 m; los 2 m (2,4 m en prefabricado) son para la centralización, donde hay escalera de servicio.",
-   "notas_p": "N1: Cuidado, que aquí caen dos alturas y mucha gente las cruza. ¿A qué altura como máximo va el totalizador dentro de la vivienda?\nN2: Piensa quién lo lee: dentro de casa lo lee el propio usuario, de pie y sin subirse a nada.",
-   "notas_r": "N1: ¿Por qué un metro setenta y no dos metros?\nN2: Porque en la vivienda no hay escalera de servicio; lo tiene que leer cómodamente el usuario. Truco para no fallar: centralizado dos metros, dos con cuarenta en prefabricado con escalera; en vivienda, uno setenta."
+   "notas_p": "N1: Atención, que esta cruza dos alturas y mucha gente las confunde. Escucha la pregunta y las cuatro opciones, que las jugamos solo de oído. La pregunta: ¿cuál es la altura máxima del totalizador cuando el contador va dentro de la vivienda? Opción A, un metro con setenta. Opción B, dos metros. Opción C, dos metros con cuarenta. Opción D, un metro con cincuenta. Si conduces, párala un momento y piensa tu respuesta.\nN2: Una pista mientras lo decides: piensa quién lo lee. Dentro de casa lo lee el propio usuario, de pie y sin subirse a nada.",
+   "notas_r": "N2: La respuesta correcta es la opción A: un metro con setenta. Dentro de la vivienda no hay escalera de servicio, así que el totalizador lo tiene que leer cómodamente el usuario, y por eso no puede pasar de un metro con setenta. Los dos metros, y los dos con cuarenta del módulo prefabricado con escalera, son de la centralización. El truco para no fallar: centralizado dos metros, prefabricado dos con cuarenta con escalera; en vivienda, un metro con setenta.\nN1: Dos alturas, dos escenarios; no los cruces."
   },
   {
    "tipo": "contenido",
@@ -184,8 +184,8 @@
    ],
    "correcta": 0,
    "porque": "En la tabla UNE 60490 solo el conducto técnico admite indirecta; armarios y locales exigen ventilación directa al exterior.",
-   "notas_p": "N1: De todos los recintos de la tabla, solo uno puede ventilar de forma indirecta, pasando antes por otro local. ¿Cuál es?\nN2: Repasa la fila de la indirecta: casi todo pone «no se permite» menos una columna.",
-   "notas_r": "N1: ¿Por qué justo ese?\nN2: Porque el conducto técnico es un hueco cerrado y estrecho por donde el aire ya circula; el resto, armarios y locales, tienen que soltar el aire directo al exterior para no llevar una posible fuga a otra estancia."
+   "notas_p": "N1: Pregunta de tabla, la jugamos de oído. De todos los recintos de contadores, solo uno admite ventilación indirecta, o sea salir pasando antes por otro local. La pregunta: ¿cuál es? Opción A, el conducto técnico. Opción B, el armario exterior. Opción C, el local técnico. Opción D, el armario interior. Piensa cuál de los cuatro es la excepción.\nN2: Pista: en la fila de la ventilación indirecta casi todo pone «no se permite» menos una columna.",
+   "notas_r": "N2: La respuesta correcta es la opción A: el conducto técnico. Es el único que admite ventilación indirecta, porque es un hueco cerrado y estrecho por donde el aire ya circula de por sí. Los demás, armarios y locales, tienen que soltar el aire directo al exterior para no llevar una posible fuga a otra estancia. El truco: si dudas, quédate con que solo el conducto técnico se libra; el resto, directa sí o sí.\nN1: Uno entre cuatro, y es el conducto técnico."
   },
   {
    "tipo": "contenido",
@@ -371,8 +371,8 @@
    ],
    "correcta": 0,
    "porque": "La llave de usuario se pone siempre y debe ser fácilmente accesible con grado 2 para la distribuidora, desde zona común o límite de propiedad.",
-   "notas_p": "N1: La llave de usuario es la que deja sin gas una vivienda concreta en una emergencia. ¿Con qué grado tiene que poder llegar a ella la distribuidora?\nN2: Piensa que la compañía debe poder cortar desde la zona común aunque no haya nadie en casa: ni tan libre como el grado más bajo, ni tan difícil como el más alto.",
-   "notas_r": "N1: ¿Por qué grado dos y no otro?\nN2: Porque grado dos es cerradura normalizada sin escalera: la distribuidora abre con su llave desde la zona común y corta el gas. Si la dejaras dentro de la vivienda inaccesible, no podría cerrar en caso de peligro, y eso es anomalía."
+   "notas_p": "N1: La llave de usuario es la que deja sin gas una vivienda concreta en una emergencia. Escucha la pregunta y las cuatro opciones. La pregunta: ¿con qué grado de accesibilidad tiene que quedar esa llave para la empresa distribuidora? Opción A, grado dos. Opción B, grado uno. Opción C, grado tres. Opción D, no exige grado. Piénsalo un momento.\nN2: Pista: la compañía debe poder cortar desde la zona común aunque no haya nadie en casa; ni tan libre como el grado más bajo, ni tan difícil como el más alto.",
+   "notas_r": "N2: La respuesta correcta es la opción A: grado dos. Grado dos es cerradura normalizada pero sin escalera, así que la distribuidora abre con su llave desde la zona común o el límite de la propiedad y corta el gas. Si la dejaras dentro de la vivienda, inaccesible, la compañía no podría cerrar en caso de peligro, y eso es una anomalía. El truco: la llave de usuario se pone siempre, y para la distribuidora es grado dos.\nN1: Grado dos: ni más libre ni más difícil."
   },
   {
    "tipo": "cierre",

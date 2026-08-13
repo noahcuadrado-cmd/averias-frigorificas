@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["4", "apartados que vemos hoy"],
-    ["2", "manuales que acompañan al aparato"],
-    ["3", "patas de condiciones normales"]
+    [
+     "4",
+     "apartados que vemos hoy"
+    ],
+    [
+     "2",
+     "manuales que acompañan al aparato"
+    ],
+    [
+     "3",
+     "patas de condiciones normales"
+    ]
    ],
    "notas": "N1: ¿Qué números conviene tener en la cabeza antes de empezar?\nN2: Tres. Cuatro apartados, que son objeto, comercialización, conformidad y marcado, el esqueleto del vídeo. Dos manuales distintos que van con todo aparato: el técnico, para ti, y el de uso, para el cliente. Y tres patas, las tres condiciones que se tienen que dar a la vez para que un aparato esté en condiciones normales de funcionamiento. Si retienes estos tres números, el vídeo entra solo."
   },
@@ -55,8 +64,8 @@
    ],
    "correcta": 1,
    "porque": "La ITC tiene dos puertas: la seguridad y la certificación solo alcanzan a los aparatos sin directiva propia, pero la documentación y la puesta en marcha se aplican a todos.",
-   "notas_p": "N1: Vamos con una de las trampas favoritas del examen sobre las dos puertas de la ITC.\nN2: Recuerda la regla mental: seguridad de fábrica solo a unos; arrancar el aparato en casa del cliente, a todos. ¿Cuál de las dos era la universal?",
-   "notas_r": "N1: ¿Por qué la be?\nN2: Porque la seguridad y la certificación solo se exigen a los aparatos que no van por una directiva europea propia; en cambio, la documentación y la puesta en marcha alcanzan a todos, lleven o no marcado ce. El truco para no fallar: si la opción dice a todos, casi siempre habla de documentación y puesta en marcha."
+   "notas_p": "N1: Pregunta de examen, y de las que más caen. Escucha con atención: la parte de documentación y puesta en marcha de la ITC-ICG cero ocho, ¿a qué aparatos se aplica? Opción a: solo a los que no tienen directiva europea propia. Opción be: a todos los aparatos a gas, tengan marcado ce o no. Opción ce: solo a los aparatos que ya llevan marcado ce. Opción de: solo a los aparatos de uso industrial. Si vas conduciendo, párala un momento y piénsalo... Recuerda la regla mental: seguridad de fábrica solo a unos; arrancar el aparato en casa del cliente, a todos.",
+   "notas_r": "N2: La respuesta correcta es la opción be: a todos los aparatos a gas, tengan marcado ce o no. ¿Por qué? Porque la ITC tiene dos puertas: la seguridad y la certificación solo alcanzan a los aparatos sin directiva europea propia, pero la documentación y la puesta en marcha se aplican a todos, lleven o no marcado ce. El truco para no fallar: si la opción dice 'a todos', casi siempre habla de documentación y puesta en marcha.\nN1: Así que la be. Documentación y arranque, para todos sin excepción."
   },
   {
    "tipo": "contenido",
@@ -169,8 +178,8 @@
    ],
    "correcta": 1,
    "porque": "Se somete al examen de tipo (a) más una verificación de la producción (b); o, alternativamente, a la verificación por unidad (c).",
-   "notas_p": "N1: Una fórmula corta que hay que llevar grabada a fuego.\nN2: Recuerda que hay dos caminos: el de la serie y el de la pieza única. ¿Cómo se escribía todo en una sola línea?",
-   "notas_r": "N1: ¿Por qué la be?\nN2: Porque hay dos caminos, no tres sueltos: examen de tipo más verificación de la producción para la serie, o bien verificación por unidad para la pieza única. El truco: la a nunca va sola, siempre la acompaña la be; y la ce es la alternativa completa por sí misma."
+   "notas_p": "N1: Vamos con una fórmula corta que hay que llevar grabada a fuego. La pregunta es: ¿qué fórmula resume los procedimientos válidos para certificar un aparato? Opción a: a y be a la vez, siempre las dos juntas. Opción be: a más be, o bien ce como alternativa. Opción ce: solo ce, en todos los casos posibles. Opción de: be o ce, pero nunca la a. Tómate un segundo y piensa cuál era... Pista: había dos caminos, el de la serie y el de la pieza única.",
+   "notas_r": "N2: La respuesta correcta es la opción be: a más be, o bien ce como alternativa. El porqué: hay dos caminos, no tres sueltos. El de la serie es el examen de tipo, la a, más la verificación de la producción, la be; y el de la pieza única es la verificación por unidad, la ce, ella sola. El truco para no fallar: la a nunca va sola, siempre la acompaña la be; y la ce es la alternativa completa por sí misma.\nN1: Repite conmigo: a más be, o bien ce."
   },
   {
    "tipo": "contenido",

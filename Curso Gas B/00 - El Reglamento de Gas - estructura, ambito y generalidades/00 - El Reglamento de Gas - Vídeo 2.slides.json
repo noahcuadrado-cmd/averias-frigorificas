@@ -136,8 +136,8 @@
    ],
    "correcta": 1,
    "porque": "El certificado de instalación lo firma quien ejecuta y no falta nunca; los otros aparecen solo si hay proyecto o si la ITC lo exige.",
-   "notas_p": "N1: Tres certificados, pero solo uno no falta jamás. ¿Cuál es?\nN2: Piensa en el que se pide siempre para poder dar gas, con proyecto o sin él.",
-   "notas_r": "N1: ¿Por qué el de instalación?\nN2: Porque es tu factura de que está bien hecho: sin él no hay gas, y lo firma quien ejecutó. El de dirección de obra solo aparece si hubo proyecto y el de inspección solo si la ITC obligó al organismo de control; por eso esos dos son 'a veces'."
+   "notas_p": "N1: Tres certificados de arranque, pero solo uno no falta jamás. La pregunta es: de los certificados de arranque, ¿cuál existe siempre en toda instalación? Opción A, el certificado de dirección de obra. Opción B, el certificado de instalación. Opción C, el certificado de inspección del organismo de control. Opción D, el certificado de puesta en marcha del aparato. Piénsalo un momento y quédate con una.\nN2: Busca el que se pide siempre para poder dar gas, haya proyecto o no lo haya.",
+   "notas_r": "N2: La respuesta correcta es la opción B: el certificado de instalación. Es tu factura de que la obra está bien hecha, y lo firma quien la ejecuta; sin él no hay gas, nunca falta. La opción A, la dirección de obra, solo aparece si hubo proyecto; y la opción C, la inspección, solo si la ITC obligó al organismo de control; por eso esos dos son 'a veces'. La opción D, la puesta en marcha, va del aparato, no de la instalación entera.\nN1: Instalación siempre; los demás, solo a veces."
   },
   {
    "tipo": "contenido",
@@ -162,8 +162,8 @@
    ],
    "correcta": 2,
    "porque": "Parada más de un año, la instalación se trata como nueva: documentación y pruebas incluidas.",
-   "notas_p": "N1: Una casa cerrada mucho tiempo, ¿se reengancha sin más?\nN2: Piensa en el año como una fecha de caducidad mental.",
-   "notas_r": "N1: ¿Por qué como nueva?\nN2: Porque pasado el año no hay garantía de que la instalación siga segura, así que borrón y cuenta nueva: papeles y pruebas como si se estrenara. Por debajo del año y con su certificado de control en vigor, sí se puede restablecer directamente."
+   "notas_p": "N1: La regla del año, que cae fijo. Escucha: una instalación lleva más de un año sin gas, ¿cómo se procede para darle suministro? Opción A, se reengancha directamente, sin ningún trámite. Opción B, basta con una prueba de estanquidad rápida. Opción C, se trata como una instalación nueva, con papeles y pruebas. Opción D, solo hace falta un aviso del suministrador. Elige tu opción.\nN2: Piensa en el año como una fecha de caducidad mental: pasado ese tiempo, ¿qué toca?",
+   "notas_r": "N2: La respuesta correcta es la opción C: se trata como una instalación nueva, con papeles y pruebas. Pasado el año no hay garantía de que la instalación siga siendo segura, así que borrón y cuenta nueva: documentación y pruebas como si se estrenara. Por eso las opciones A, B y D se quedan cortas; ni reenganchar sin más, ni una estanquidad rápida, ni un simple aviso bastan.\nN1: Y ojo, por debajo del año y con su certificado de control en vigor, entonces sí se puede restablecer directamente."
   },
   {
    "tipo": "contenido",
@@ -188,8 +188,8 @@
    ],
    "correcta": 1,
    "porque": "La responsabilidad de comunicar es del titular, ante la Comunidad Autónoma, antes de treinta días desde la puesta en servicio.",
-   "notas_p": "N1: Quién y cuándo, las dos juntas. ¿Quién avisa y en qué plazo?\nN2: Ojo, aunque lo tramite la instaladora, la responsabilidad legal es de otra persona.",
-   "notas_r": "N1: ¿Por qué el titular y treinta días?\nN2: Porque comunicar es obligación del dueño, no de la instaladora, aunque esta lo tramite en su nombre. Y el plazo se cuenta desde la puesta en servicio, desde que entra el gas, no desde que acabaste el montaje: ahí está la trampa."
+   "notas_p": "N1: Quién y cuándo, las dos preguntas juntas. Escucha bien: ¿quién comunica la instalación a la Administración y en qué plazo? Opción A, la empresa instaladora, antes de quince días. Opción B, el titular, antes de treinta días desde la puesta en servicio. Opción C, el distribuidor, antes de treinta días desde el montaje. Opción D, el instalador, antes de siete días desde las pruebas. Tómate un momento y decide.\nN2: Ojo, aunque en la práctica lo tramite la instaladora, la responsabilidad legal es de otra persona.",
+   "notas_r": "N2: La respuesta correcta es la opción B: el titular, antes de treinta días desde la puesta en servicio. Comunicar es obligación del dueño, no de la instaladora, aunque esta lo tramite en su nombre. Y cuidado con la trampa del plazo: se cuenta desde la puesta en servicio, desde que entra el gas, no desde el montaje ni desde las pruebas; por eso las opciones C y D te la intentan colar cambiando el punto de partida, y la opción A cambia además el plazo a quince días.\nN1: El dueño avisa, y tiene un mes desde que hay gas."
   },
   {
    "tipo": "contenido",

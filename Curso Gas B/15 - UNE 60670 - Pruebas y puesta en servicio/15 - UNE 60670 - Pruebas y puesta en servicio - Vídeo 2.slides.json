@@ -65,8 +65,8 @@
    ],
    "correcta": 2,
    "porque": "En la Parte nueve se verifica ya con gas real y a la presión de operación, distinto de la prueba con aire de la Parte ocho.",
-   "notas_p": "N1: Trampa clásica de las dos estanquidades. La de la Parte nueve, ¿con qué y a qué presión?\nN2: Recuerda: una prueba la tubería vacía antes de entregar; la otra confirma ya con gas. ¿Cuál es esta?",
-   "notas_r": "N1: ¿Por qué la ce?\nN2: La Parte ocho prueba con aire o inerte a presión de prueba, con el tubo vacío. La Parte nueve verifica ya con gas real y a la presión de operación, como paso final de la puesta en servicio. Son dos comprobaciones en dos momentos."
+   "notas_p": "N1: Trampa clásica de las dos estanquidades. Atento a la pregunta y a las cuatro opciones. La verificación de estanquidad de la Parte nueve, ¿cómo se hace? Opción A, con aire, a la presión de prueba alta. Opción B, con gas inerte y la tubería vacía. Opción C, con gas real, a la presión de operación. Opción D, con agua jabonosa, a la presión de prueba. Párate un momento a pensarlo.\nN2: Pista: una prueba la tubería vacía antes de entregar; la otra confirma ya con gas. ¿Cuál es esta?",
+   "notas_r": "N2: La respuesta correcta es la opción C: con gas real, a la presión de operación. La Parte ocho prueba con aire o inerte a presión de prueba y con el tubo vacío; la Parte nueve verifica ya con gas real y a la presión de operación, como paso final de la puesta en servicio. El truco para no fallar: son dos estanquidades en dos momentos, no las mezcles.\nN1: Gas real y presión de operación; esa es la de la Parte nueve."
   },
   {
    "tipo": "contenido",
@@ -131,8 +131,8 @@
    ],
    "correcta": 1,
    "porque": "Si la llave da a la nada se tapona además, para que aunque fuercen el precinto no salga gas al aire.",
-   "notas_p": "N1: Las cuatro palabras de la llave, que caen juntas. Llave sin nada detrás, ¿cómo la dejas?\nN2: Piensa qué pasaría si alguien forzara el precinto y detrás no hubiera ni vivienda ni aparato.",
-   "notas_r": "N1: ¿Por qué la be?\nN2: Sin nada detrás, tapón; con algo detrás, basta cerrar, bloquear y precintar. El tapón evita que salga gas al aire si alguien manipula el precinto de una llave que da a la nada."
+   "notas_p": "N1: Las cuatro palabras de la llave, que caen juntas. Escucha la pregunta y las cuatro opciones. Una llave que no entra en servicio y no tiene nada instalado detrás, ¿cómo queda? Opción A, cerrada, bloqueada y precintada solamente. Opción B, cerrada, bloqueada, precintada y taponada. Opción C, solo precintada. Opción D, abierta pero bloqueada. Piénsalo un momento.\nN2: Pista: imagina que alguien fuerza el precinto y detrás no hay ni vivienda ni aparato. ¿Qué falta para que no salga gas?",
+   "notas_r": "N2: La respuesta correcta es la opción B: cerrada, bloqueada, precintada y taponada. Si la llave da a la nada se tapona además, para que aunque alguien fuerce el precinto no salga gas al aire. El truco para no fallar: sin nada detrás, tapón; con algo detrás, basta cerrar, bloquear y precintar.\nN1: Sin nada detrás, siempre el tapón."
   },
   {
    "tipo": "contenido",
@@ -158,8 +158,8 @@
    ],
    "correcta": 1,
    "porque": "Al expulsar el aire con gas, en el punto intermedio conviven aire y gas y esa mezcla, en cierta proporción, es explosiva.",
-   "notas_p": "N1: Con chispa. ¿Qué hace del purgado el momento más delicado de todo el tema?\nN2: Piensa en qué hay dentro del tubo justo cuando el gas va empujando al aire hacia fuera.",
-   "notas_r": "N1: ¿Por qué la be?\nN2: Durante el purgado conviven aire y gas, y esa mezcla es explosiva con una simple chispa. Por eso se purga al exterior, sin llamas ni chispas y con detector, hasta que sale gas puro y queda fuera de los límites de inflamabilidad."
+   "notas_p": "N1: Con chispa, nunca mejor dicho. Atento a la pregunta y a las cuatro opciones. ¿Por qué es el purgado el momento más peligroso de la puesta en servicio? Opción A, porque se trabaja a la presión de prueba más alta. Opción B, porque puede formarse una mezcla aire-gas explosiva. Opción C, porque el gas sale muy frío y hiela la tubería. Opción D, porque hay que desmontar el contador. Tómate un segundo.\nN2: Pista: piensa en qué hay dentro del tubo justo cuando el gas va empujando al aire hacia fuera.",
+   "notas_r": "N2: La respuesta correcta es la opción B: porque puede formarse una mezcla aire-gas explosiva. Al expulsar el aire con gas, en el punto intermedio conviven aire y gas, y esa mezcla, en cierta proporción, estalla con una simple chispa. El truco para no fallar: por eso se purga al exterior, sin llamas ni chispas y con detector, hasta que sale gas puro.\nN1: Mezcla aire-gas: por eso el purgado es el paso más delicado."
   },
   {
    "tipo": "contenido",

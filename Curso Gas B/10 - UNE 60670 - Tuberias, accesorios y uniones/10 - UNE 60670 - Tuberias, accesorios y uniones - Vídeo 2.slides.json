@@ -53,8 +53,8 @@
    "opciones": ["MOP 0,4", "MOP 2", "MOP 5", "MOP 1,5"],
    "correcta": 1,
    "porque": "1,5 bar cae en el escalón 0,4 < MOP ≤ 2, que se nombra por su valor superior: MOP 2. El nombre no es la presión exacta del tramo, sino el techo del escalón.",
-   "notas_p": "N1: Recién vista la tabla, vamos a estrenarla. Un tramo que trabaja a uno coma cinco bar, ¿qué denominación le toca?\nN2: Busca en qué peldaño de la escalera cae ese valor, y recuerda que el escalón se nombra por su número de arriba.",
-   "notas_r": "N1: ¿Por qué eme-o-pe dos y no eme-o-pe uno coma cinco?\nN2: Porque uno coma cinco está entre cero coma cuatro y dos, y ese escalón se llama por su techo, que es dos. El nombre nunca es la presión exacta del tramo, sino el valor superior del peldaño. Por eso 'eme-o-pe uno coma cinco' ni siquiera existe."
+   "notas_p": "N1: Recién vista la tabla de presiones, vamos a estrenarla. Atento: un tramo que trabaja a una MOP de uno coma cinco bar, ¿cómo se denomina a efectos de diseño? Te leo las opciones. Opción A, eme-o-pe cero coma cuatro. Opción B, eme-o-pe dos. Opción C, eme-o-pe cinco. Opción D, eme-o-pe uno coma cinco. Piensa en qué peldaño de la escalera cae ese valor.\nN2: Recuerda que cada escalón se nombra por su número de arriba, no por la presión exacta del tramo.",
+   "notas_r": "N2: La respuesta correcta es la opción B: eme-o-pe dos. ¿Por qué eme-o-pe dos y no eme-o-pe uno coma cinco? Porque uno coma cinco cae en el escalón que va de cero coma cuatro a dos bar, y ese peldaño se nombra por su techo, que es dos. El nombre nunca es la presión exacta del tramo, sino el valor superior del escalón. El truco: 'eme-o-pe uno coma cinco' ni siquiera existe, así que esa opción descártala de entrada.\nN1: Localiza el peldaño y quédate con su número de arriba."
   },
   {
    "tipo": "contenido",
@@ -127,8 +127,8 @@
    "opciones": ["De rearme automático", "De rearme manual", "De accionamiento eléctrico", "De tarado sin precintar"],
    "correcta": 1,
    "porque": "La de máxima es siempre de rearme manual: obliga a que alguien acuda, vea por qué saltó y la reponga a mano; además, sus elementos de tarado van precintados.",
-   "notas_p": "N1: Hablemos de los dos guardianes. La válvula de máxima presión, ¿cómo se rearma cuando salta?\nN2: Piensa en para qué salta: si la presión ha subido de más, ¿te interesa que se reponga sola sin que nadie mire qué ha pasado?",
-   "notas_r": "N1: ¿Por qué manual y no automática?\nN2: Porque si se rearmara sola, nadie se enteraría de que hubo un problema de presión. Al ser de rearme manual, obliga a que alguien vaya, mire por qué saltó y lo resuelva. Y sus tornillos de tarado van precintados para que nadie los toque."
+   "notas_p": "N1: Hablemos de los dos guardianes de la presión. Pregunta: la válvula de seguridad por máxima presión debe ser siempre... ¿cómo? Escucha las cuatro opciones. Opción A, de rearme automático. Opción B, de rearme manual. Opción C, de accionamiento eléctrico. Opción D, de tarado sin precintar. Párate a pensarlo.\nN2: Una pista: piensa para qué salta esa válvula; si la presión ha subido de más, ¿te interesa que se reponga sola sin que nadie mire qué ha pasado?",
+   "notas_r": "N2: La respuesta correcta es la opción B: de rearme manual. ¿Por qué manual y no automática? Porque si se rearmara sola, nadie se enteraría de que hubo un problema de presión. Al ser de rearme manual, obliga a que alguien vaya, mire por qué saltó y lo resuelva. Y ojo al detalle de la opción D: sus tornillos de tarado van precintados justamente para que nadie los toque, así que 'sin precintar' también es falso.\nN1: Máxima presión, siempre rearme manual y tarado precintado."
   },
   {
    "tipo": "contenido",
@@ -201,8 +201,8 @@
    "opciones": ["0,50 m", "0,80 m", "1,00 m", "1,50 m"],
    "correcta": 1,
    "porque": "El flexible de acero inoxidable corrugado del contador (UNE 60713) no puede pasar de 0,80 m; un flexible más largo cuelga, se mueve y acaba fallando.",
-   "notas_p": "N1: Dato de cifra exacta, de los que valen un punto entero. ¿Cuánto puede medir como mucho el flexible del contador?\nN2: Es un número redondo por debajo del metro; piensa en ochenta centímetros.",
-   "notas_r": "N1: ¿Por qué se limita esa longitud?\nN2: Porque un flexible largo cuelga, se mueve, sufre y termina fallando; cuanto más corto, más seguro. El tope es cero coma ochenta metros. Y no lo confundas con los flexibles de aparato o de bombona, que tienen sus propias longitudes en la parte siete."
+   "notas_p": "N1: Dato de cifra exacta, de los que valen un punto entero. La pregunta: ¿cuál es la longitud máxima del tubo flexible que conecta el contador de gas? Aquí van las opciones. Opción A, cero coma cincuenta metros. Opción B, cero coma ochenta metros. Opción C, un metro. Opción D, uno coma cincuenta metros. Piensa un momento antes de seguir.\nN2: Una pista: es un número redondo por debajo del metro; piensa en ochenta centímetros.",
+   "notas_r": "N2: La respuesta correcta es la opción B: cero coma ochenta metros. ¿Por qué se limita esa longitud? Porque un flexible largo cuelga, se mueve, sufre y termina fallando; cuanto más corto, más seguro. El flexible del contador es de acero inoxidable corrugado y no puede pasar de cero coma ochenta metros, ochenta centímetros. El truco para no fallar: no lo confundas con los flexibles de aparato o de bombona, que tienen sus propias longitudes en la parte siete.\nN1: Contador, ochenta centímetros como mucho."
   },
   {
    "tipo": "contenido",

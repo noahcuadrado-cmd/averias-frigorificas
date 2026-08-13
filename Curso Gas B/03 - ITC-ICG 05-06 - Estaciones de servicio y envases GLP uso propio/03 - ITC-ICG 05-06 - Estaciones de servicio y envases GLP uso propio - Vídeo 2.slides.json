@@ -165,8 +165,8 @@
    ],
    "correcta": 2,
    "porque": "El hogar es lo más peligroso del Cuadro 1: metro y medio, reducible a medio metro solo con protección antirradiación.",
-   "notas_p": "N1: A ver el Cuadro 1 fresquito. El elemento más peligroso, un hogar o fuente de calor, ¿cuánto lo separas de la bombona?\nN2: Pista: es la distancia mayor de la tabla, la de lo que da fuego de verdad.",
-   "notas_r": "N1: ¿Por qué metro y medio?\nN2: Porque en envases de hasta quince kilos el hogar es lo que más lejos se pone, un metro y medio, y solo baja a medio metro si intercalas una protección antirradiación. Treinta centímetros son los hornillos, interruptores y conductores; medio metro las tomas de corriente; y tres metros ya es cosa del Cuadro 2 de los envases grandes. El truco: más peligro, más metros."
+   "notas_p": "N1: A ver el Cuadro uno fresquito, y tienes las cuatro opciones para jugar. Con envases de hasta quince kilos, ¿a qué distancia mínima va un hogar o fuente de calor? Opción A, treinta centímetros; opción B, medio metro; opción C, un metro y medio; opción D, tres metros. Elige antes de seguir.\nN2: Pista: es el elemento más peligroso de la tabla, lo que da fuego de verdad, así que le toca la distancia mayor.",
+   "notas_r": "N2: La respuesta correcta es la opción C: un metro y medio. En envases de hasta quince kilos el hogar es lo que más lejos se pone, un metro y medio, y solo baja a medio metro si intercalas una protección antirradiación. La opción A, treinta centímetros, son los hornillos, los interruptores y los conductores; la opción B, medio metro, son las tomas de corriente; y la opción D, tres metros, ya es cosa del Cuadro dos, el de los envases grandes. El truco: más peligro, más metros.\nN1: El fuego, lo más lejos: metro y medio."
   },
   {
    "tipo": "contenido",
@@ -216,8 +216,8 @@
    ],
    "correcta": 1,
    "porque": "Solo se pueden tener dentro si el contenido total no pasa de setenta kilos y el local es grande y bien ventilado.",
-   "notas_p": "N1: Los envases grandes van fuera por defecto. Para colarlos dentro del local, ¿qué tope de gas no puedes superar?\nN2: Pista: no lo confundas con los topes de almacenamiento de trescientos o mil, ni con el disparador de los extintores; es la frontera dentro o fuera.",
-   "notas_r": "N1: ¿Por qué setenta?\nN2: Porque la única puerta para tener envases de más de quince kilos dentro del local es que el contenido total no pase de setenta kilos, y además el local sea grande, más de mil metros cúbicos y ciento cincuenta metros cuadrados, bien ventilado y con dos extintores. Trescientos y mil son topes de almacenamiento según el tamaño del envase; trescientos cincuenta es cuándo pones extintores en la caseta. La frontera dentro o fuera es setenta."
+   "notas_p": "N1: Escucha la pregunta y las cuatro opciones, que aquí es fácil confundirse. Con envases de más de quince kilos dentro del local, ¿cuál es el contenido total máximo de GLP? Opción A, trescientos kilos; opción B, setenta kilos; opción C, trescientos cincuenta kilos; opción D, mil kilos. Piensa cuál es la frontera de dentro o fuera.\nN2: Pista: no lo confundas con los topes de almacenamiento ni con el disparador de los extintores; es la línea que decide si pueden estar dentro.",
+   "notas_r": "N2: La respuesta correcta es la opción B: setenta kilos. La única puerta para tener envases de más de quince kilos dentro del local es que el contenido total no pase de setenta kilos, y además el local sea grande, más de mil metros cúbicos y ciento cincuenta metros cuadrados, bien ventilado y con dos extintores. La opción A, trescientos, y la opción D, mil, son topes de almacenamiento según el tamaño del envase; la opción C, trescientos cincuenta, es cuándo pones extintores en la caseta. La frontera dentro o fuera es setenta.\nN1: Setenta kilos: si te pasas, fuera sí o sí."
   },
   {
    "tipo": "contenido",
@@ -353,8 +353,8 @@
    ],
    "correcta": 1,
    "porque": "Los tres datos fijos: una vez y media la presión de operación, diez minutos, con aire, gas inerte o GLP en fase gaseosa.",
-   "notas_p": "N1: Números de la prueba de estanquidad. ¿Cuánta presión y cuánto tiempo?\nN2: Pista: la presión se multiplica por una vez y media, no por dos; y el tiempo es corto.",
-   "notas_r": "N1: ¿Por qué la segunda?\nN2: Porque la prueba es a una vez y media la presión de operación durante diez minutos, con aire, gas inerte o GLP en fase gaseosa. Si te ofrecen dos veces la presión o media hora, es falso. El truco: vez y media y diez minutos, ni más presión ni más tiempo."
+   "notas_p": "N1: Números de la prueba de estanquidad, con las cuatro opciones para que juegues. La prueba de estanquidad de las canalizaciones se hace a... Opción A, dos veces la presión de operación durante treinta minutos; opción B, una vez y media la presión de operación durante diez minutos; opción C, una vez y media la presión de operación durante treinta minutos; opción D, dos veces la presión de operación durante diez minutos. Decídete antes de la respuesta.\nN2: Pista: la presión se multiplica por una vez y media, no por dos; y el tiempo es corto.",
+   "notas_r": "N2: La respuesta correcta es la opción B: una vez y media la presión de operación durante diez minutos, con aire, gas inerte o GLP en fase gaseosa. Fíjate en las trampas: la opción A y la opción D suben la presión al doble, que es falso; y la opción C acierta la presión pero alarga a media hora, que también es falso. Ni más presión ni más tiempo. El truco: vez y media y diez minutos, y se acabó.\nN1: Vez y media y diez minutos, grábatelo."
   },
   {
    "tipo": "contenido",

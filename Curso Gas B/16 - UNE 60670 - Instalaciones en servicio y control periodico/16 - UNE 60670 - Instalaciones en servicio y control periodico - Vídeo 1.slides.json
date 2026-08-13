@@ -202,8 +202,8 @@
    ],
    "correcta": 0,
    "porque": "Retirar o colocar el contador es competencia exclusiva de la distribuidora; ni la instaladora ni el servicio técnico pueden hacerlo.",
-   "notas_p": "N1: Vamos con una de reparto de papeles, que en el examen las cruzan sin piedad. ¿Quién puede retirar o colocar el contador de gas?\nN2: Piensa de quién es el equipo de medida y quién manda en la parte de la red, no en la tubería de dentro de casa.",
-   "notas_r": "N1: ¿Por qué la distribuidora y no la instaladora?\nN2: Porque el contador es el equipo de medida de la distribuidora, igual que la llave de acometida. La instaladora manda en la tubería de dentro; el servicio técnico, solo en los aparatos. El truco para no fallar: contador y acometida, distribuidora; tubería, instaladora; aparato, servicio técnico."
+   "notas_p": "N1: Vamos con una de reparto de papeles, que en el examen las cruzan sin piedad. Escucha bien la pregunta y las cuatro opciones. ¿Quién puede retirar o colocar el contador de gas? Opción A, solo la empresa distribuidora; opción B, solo la empresa instaladora; opción C, el fabricante o el servicio técnico; opción D, cualquiera de las tres figuras. Párate un momento y quédate con tu respuesta.\nN2: Pista: piensa de quién es el equipo de medida y quién manda en la parte de la red, no en la tubería de dentro de casa.",
+   "notas_r": "N2: La respuesta correcta es la opción A: solo la empresa distribuidora. El contador es el equipo de medida de la distribuidora, igual que la llave de acometida, así que ni la instaladora ni el servicio técnico pueden tocarlo. La instaladora manda en la tubería de dentro; el servicio técnico, solo en los aparatos. El truco para no fallar: contador y acometida, distribuidora; tubería, instaladora; aparato, servicio técnico.\nN1: Recuérdalo así y no vuelves a cruzar las columnas."
   },
   {
    "tipo": "contenido",
@@ -278,8 +278,8 @@
    ],
    "correcta": 2,
    "porque": "Ante olor a gas no se acciona ningún interruptor ni se generan chispas: se ventila y se cierra la llave de paso.",
-   "notas_p": "N1: La clásica que mata en el examen y en la vida real. Al entrar hueles a gas fuerte. ¿Primer gesto?\nN2: Cuidado, que la respuesta intuitiva de mucha gente es justo la peligrosa. Piensa en qué produce chispas.",
-   "notas_r": "N1: ¿Por qué ventilar y cerrar, y no apagar la luz?\nN2: Porque accionar cualquier interruptor, encender o apagar, produce un chispazo que puede detonar la mezcla de aire y gas. Nada de llamas, nada de móvil dentro del recinto. Abres para ventilar y cierras la llave de paso. El truco: ante olor a gas, manos fuera de los interruptores."
+   "notas_p": "N1: La clásica que mata en el examen y en la vida real. Escucha la pregunta y las cuatro opciones. Entras en una vivienda y hay un fuerte olor a gas, ¿qué haces primero? Opción A, apagar la luz para evitar chispas; opción B, encender una llama para localizar la fuga; opción C, ventilar y cerrar la llave de paso, sin tocar interruptores; opción D, llamar por el móvil desde dentro del recinto. Piénsalo un momento antes de seguir.\nN2: Cuidado, que la respuesta intuitiva de mucha gente es justo la peligrosa. Piensa en qué produce chispas.",
+   "notas_r": "N2: La respuesta correcta es la opción C: ventilar y cerrar la llave de paso, sin tocar interruptores. Accionar cualquier interruptor, encender o apagar, produce un chispazo que puede detonar la mezcla de aire y gas; y encender una llama o usar el móvil dentro del recinto es igual de peligroso. Por eso abres para ventilar y cierras la llave de paso. El truco: ante olor a gas, manos fuera de los interruptores.\nN1: Ventila y cierra; lo demás, fuera."
   },
   {
    "tipo": "contenido",
@@ -317,8 +317,8 @@
    ],
    "correcta": 1,
    "porque": "Por encima de un metro con cambio de trazado o material es modificación, y exige la prueba de estanquidad completa de la UNE 60670-8.",
-   "notas_p": "N1: Una de la frontera mágica. Tocas un tramo de más de un metro y le cambias el trazado. ¿Reparación o modificación?\nN2: Acuérdate de dónde está la raya y de qué te obliga a probar cada lado.",
-   "notas_r": "N1: ¿Por qué es modificación?\nN2: Porque el metro es la frontera. Hasta un metro es reparación y compruebas solo el tramo. Por encima, con cambio de material o de trazado, o si amplías consumo, o si pones un aparato distinto, es modificación y toca prueba completa según la parte ocho. El truco: poco tubo, tramo; mucho tubo, prueba entera."
+   "notas_p": "N1: Una de la frontera mágica. Escucha la pregunta y las cuatro opciones. Actúas sobre un tramo de tubería de más de un metro cambiando su trazado, ¿qué es? Opción A, una reparación, compruebas solo el tramo; opción B, una modificación, con prueba completa según la UNE sesenta mil seiscientos setenta, parte ocho; opción C, un mantenimiento sin necesidad de prueba; opción D, una anulación de punto de consumo. Tómate un segundo y decide.\nN2: Acuérdate de dónde está la raya, el metro, y de qué te obliga a probar cada lado.",
+   "notas_r": "N2: La respuesta correcta es la opción B: una modificación, con prueba completa según la parte ocho de la norma. El metro es la frontera: hasta un metro es reparación y compruebas solo el tramo; por encima, con cambio de trazado o de material, o si amplías consumo, o si pones un aparato distinto, es modificación y toca prueba de estanquidad completa. El truco: poco tubo, tramo; mucho tubo, prueba entera.\nN1: Ese metro lo cambia todo, no lo sueltes."
   },
   {
    "tipo": "contenido",

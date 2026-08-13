@@ -115,7 +115,7 @@
     ]
    ],
    "nota": "La parte 6 es la tuya: locales, ventilación y humos. No la confundas con el tema 13 del curso, aunque coincida el número.",
-   "notas": "N1: ¿Cuántas partes tiene la norma y cuál es la mía?\nN2: La UNE seis mil seiscientos setenta se divide en trece partes bajo un mismo título general. La uno es generalidades, la dos terminología, la tres tuberías, la cuatro diseño y construcción, la cinco los recintos de contadores. La tuya es la parte seis: configuración, ventilación y evacuación de humos en los locales que contienen aparatos a gas. De la siete en adelante van la instalación de aparatos, las pruebas de estanquidad, la puesta en servicio y los controles periódicos. Fíjate en la coincidencia que despista: esta parte seis es el tema trece de tu curso, y son cosas distintas con números que no tienen nada que ver. Cuando leas «guion seis», piensa siempre: locales, ventilación y humos."
+   "notas": "N1: ¿Cuántas partes tiene la norma y cuál es la mía?\nN2: Presta atención a esta tabla, que enumera las trece partes de la UNE seis mil seiscientos setenta, cada fila con su número y su contenido. Te leo las que importan: la parte uno, generalidades; la dos, terminología; la tres, tuberías y sus uniones; la cuatro, diseño y construcción; la cinco, los recintos de contadores. Y aquí está la tuya, la parte seis: configuración, ventilación y evacuación de humos en los locales que contienen aparatos a gas. De la siete en adelante van la instalación de aparatos, las pruebas de estanquidad, la puesta en servicio y los controles periódicos, hasta la trece. Fíjate en la coincidencia que despista: esta parte seis es el tema trece de tu curso, y son cosas distintas con números que no tienen nada que ver. Cuando leas «guion seis», piensa siempre: locales, ventilación y humos."
   },
   {
    "tipo": "contenido",
@@ -237,8 +237,8 @@
    ],
    "correcta": 2,
    "porque": "El acumulador de agua caliente sanitaria de tipo A estaría soltando humos dentro de casa durante horas; la norma lo prohíbe siempre, sin excepción por potencia.",
-   "notas_p": "N1: Pregunta trampa clásica. Un termo de agua de tipo A pequeñito, ¿pasa?\nN2: Ojo, que aquí la poca potencia no te salva. Piensa cuántas horas estaría soltando humos dentro de casa.",
-   "notas_r": "N1: ¿Por qué nunca?\nN2: Porque aunque los «otros aparatos» de tipo A de menos de cuatro coma sesenta y cinco kilovatios se permiten, la norma saca una excepción tajante: el aparato de producción de agua caliente sanitaria por acumulación de tipo A no se instala jamás. Un depósito soltando humos durante horas dentro de casa es un riesgo de intoxicación. El truco: si ves «acumulador de ACS de tipo A», la respuesta es no, nunca, da igual la potencia."
+   "notas_p": "N1: Vamos con una pregunta trampa clásica. Escucha bien el enunciado: ¿se puede instalar un acumulador de agua caliente sanitaria de tipo A si es de poca potencia? Y estas son las cuatro opciones. Opción A: sí, si es menor de cuatro coma sesenta y cinco kilovatios. Opción B: sí, con ventilación rápida. Opción C: no, no se instala en ningún caso. Opción D: solo en zona exterior.\nN2: Párala un momento y piénsalo. Pista: aquí la poca potencia no te salva; piensa cuántas horas estaría ese depósito soltando humos dentro de casa.",
+   "notas_r": "N2: La respuesta correcta es la opción C: no, no se instala en ningún caso. Aunque los «otros aparatos» de tipo A de menos de cuatro coma sesenta y cinco kilovatios sí se permiten, la norma saca una excepción tajante: el aparato de producción de agua caliente sanitaria por acumulación de tipo A no se instala jamás, da igual la potencia. Un depósito soltando humos durante horas dentro de casa es un riesgo directo de intoxicación.\nN1: ¿El truco para no fallar?\nN2: Si ves «acumulador de ACS de tipo A», la respuesta es no, nunca; la poca potencia es solo un cebo para despistarte."
   },
   {
    "tipo": "contenido",
@@ -299,8 +299,8 @@
    ],
    "correcta": 2,
    "porque": "El tipo C es estanco: no coge aire del local ni suelta humos dentro, por eso es el único admitido en dormitorios y baños, cumpliendo el REBT de locales húmedos.",
-   "notas_p": "N1: Una de examen puro. En un dormitorio, ¿qué aparato tiene permiso para entrar?\nN2: Piensa en cuál no respira el aire de la habitación ni suelta humos dentro. Ese es el bueno.",
-   "notas_r": "N1: ¿Por qué el C y no los otros?\nN2: Porque el tipo A suelta los humos en el propio local y el tipo B roba aire del cuarto para tirarlos fuera; los dos están prohibidos donde se duerme o donde uno se encierra con vapor. El tipo C es estanco: coge aire de fuera y echa humos fuera, sin tocar el aire del dormitorio. El truco para no fallar: tipo A y tipo B prohibidos en dormitorio y baño; el único que entra es el C."
+   "notas_p": "N1: Una de examen puro. Atento a la pregunta: ¿qué tipo de aparato se puede instalar en un dormitorio? Y las cuatro opciones. Opción A: solo el tipo A. Opción B: solo el tipo B. Opción C: solo el tipo C. Opción D: cualquiera de los tres.\nN2: Tómate un segundo para elegir. Pista: piensa en cuál no respira el aire de la habitación ni suelta humos dentro. Ese es el bueno.",
+   "notas_r": "N2: La respuesta correcta es la opción C: solo el tipo C. El tipo A suelta los humos en el propio local y el tipo B roba aire del cuarto para tirarlos fuera; los dos están prohibidos donde se duerme o donde uno se encierra con vapor. El tipo C es estanco: coge aire de fuera y echa humos fuera, sin tocar el aire del dormitorio.\nN1: ¿La chuleta para no fallar?\nN2: Tipo A y tipo B, prohibidos en dormitorio y baño; el único que entra es el C."
   },
   {
    "tipo": "cierre",

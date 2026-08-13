@@ -143,8 +143,8 @@
    ],
    "correcta": 0,
    "porque": "Las cuantías por siniestro son 900.000 € la A, 600.000 € la B y 300.000 € la C; la B necesita 600.000 €.",
-   "notas_p": "N1: Pregunta de número puro, de las que caen sí o sí. Tu empresa es categoría be: ¿cuánto seguro por siniestro necesitas?\nN2: Acuérdate del truco: bajan de mayor a menor con la letra y en saltos de trescientos mil. La be está justo en el medio.",
-   "notas_r": "N1: ¿Por qué seiscientos mil y no otra cifra?\nN2: Porque las tres cuantías son novecientos mil la a, seiscientos mil la be y trescientos mil la ce. La be, la reina del día a día, cae en medio: seiscientos mil euros por siniestro, y siempre vigente. La trampa suele ser colarte el millón doscientos mil, que no existe en la norma."
+   "notas_p": "N1: Pregunta de número puro, de las que caen sí o sí. Escucha la pregunta y las cuatro cifras. Tu empresa es de categoría be: ¿qué seguro de responsabilidad civil por siniestro necesita? Opción A, seiscientos mil euros. Opción B, novecientos mil euros. Opción C, trescientos mil euros. Opción D, un millón doscientos mil euros. Tómate un segundo.\nN2: Acuérdate del truco: las cuantías bajan de mayor a menor según la letra, en saltos de trescientos mil. La be está justo en el medio.",
+   "notas_r": "N2: La respuesta correcta es la opción A: seiscientos mil euros. Las tres cuantías por siniestro son novecientos mil la a, seiscientos mil la be y trescientos mil la ce. La be, la reina del día a día, cae en el centro: seiscientos mil euros, y siempre vigente. La trampa es la opción D, el millón doscientos mil, que suena a mucho pero no existe en la norma.\nN1: Novecientos, seiscientos, trescientos; tú, be, seiscientos mil."
   },
   {
    "tipo": "contenido",
@@ -181,8 +181,8 @@
    ],
    "correcta": 0,
    "porque": "El cambio o el cese se comunican en el plazo de un mes; no lo confundas con los 15 días para alegar ni con los 3 meses de suspensión cautelar.",
-   "notas_p": "N1: Cuidado, que aquí el examen mezcla plazos a propósito. ¿Cuánto tienes para avisar de un cambio de datos o del cierre de tu empresa?\nN2: Hay tres plazos en este vídeo y solo uno es el correcto para avisar tú, por tu cuenta. Los otros son del régimen sancionador.",
-   "notas_r": "N1: ¿Por qué un mes y no quince días o tres meses?\nN2: Porque el mes es el plazo para comunicar tú los cambios o el cese, algo voluntario. Los quince días naturales son para alegar cuando te abren expediente, y los tres meses son el tope de la suspensión cautelar si la infracción es grave. Y los cuatro años son la garantía por mala ejecución, otra cosa distinta. Ordénalos: un mes para avisar, quince días para defenderte, tres meses de suspensión como tope."
+   "notas_p": "N1: Cuidado, que aquí el examen mezcla plazos a propósito. Escucha la pregunta y las cuatro opciones. ¿En qué plazo debe la empresa comunicar a la comunidad autónoma un cambio de datos o el cese de la actividad? Opción A, un mes. Opción B, quince días naturales. Opción C, tres meses. Opción D, cuatro años. Piénsalo, que hay varios plazos rondando este vídeo.\nN2: Una pista: de todos esos plazos, solo uno es el que usas tú, por tu cuenta, para avisar. Los otros son del régimen sancionador o de la garantía.",
+   "notas_r": "N2: La respuesta correcta es la opción A: un mes. Ese es el plazo para comunicar tú los cambios o el cese, algo que haces voluntariamente. Los quince días naturales de la opción B son para alegar cuando te abren expediente; los tres meses de la opción C son el tope de la suspensión cautelar si la infracción es grave; y los cuatro años de la opción D son la garantía por mala ejecución, otra cosa distinta.\nN1: Ordénalos: un mes para avisar, quince días para defenderte, tres meses de suspensión como tope, y cuatro años de garantía."
   },
   {
    "tipo": "contenido",

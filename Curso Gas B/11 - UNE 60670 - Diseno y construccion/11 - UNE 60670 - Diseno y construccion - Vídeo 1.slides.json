@@ -136,8 +136,8 @@
    ],
    "correcta": 1,
    "porque": "El grado 2 abarca las potencias por encima de 30 kW y hasta 70 kW, y 65 kW cae dentro de ese tramo.",
-   "notas_p": "N1: Vamos con una rápida. Tienes sobre la mesa una instalación de sesenta y cinco kilovatios. ¿Qué grado le pones?\nN2: Piensa en las dos cifras clave, treinta y setenta, y mira entre qué números cae el sesenta y cinco.",
-   "notas_r": "N1: ¿Por qué grado dos?\nN2: Porque el grado dos es el tramo que va por encima de treinta y hasta setenta kilovatios, y sesenta y cinco está justo ahí dentro. El truco para no fallar: si no pasa de setenta, todavía no es grado tres; y como supera los treinta, ya no es grado uno. Solo cuando se rebasa el setenta salta a grado tres y hay que individualizar."
+   "notas_p": "N1: Vamos con una pregunta. Escúchala entera. Una instalación individual de sesenta y cinco kilovatios, ¿qué grado de gasificación tiene? Te leo las cuatro opciones. Opción A, grado uno. Opción B, grado dos. Opción C, grado tres. Opción D, no se le asigna grado. Párala un momento y piensa tu respuesta.\nN2: Una pista: acuérdate de las dos cifras clave, treinta y setenta kilovatios, y mira entre qué dos números cae el sesenta y cinco.",
+   "notas_r": "N2: La respuesta correcta es la opción B: grado dos. ¿Por qué? Porque el grado dos es el tramo que va por encima de treinta y hasta setenta kilovatios, y sesenta y cinco está justo ahí dentro. El truco para no fallar: como no pasa de setenta, todavía no es grado tres; y como supera los treinta, ya no es grado uno. Solo cuando se rebasa el setenta salta a grado tres y hay que individualizar.\nN1: Así que sesenta y cinco kilovatios, grado dos. Descartas la opción A y la C por las cifras, y la D ni existe: a una instalación siempre le corresponde un grado."
   },
   {
    "tipo": "contenido",
@@ -439,8 +439,8 @@
    ],
    "correcta": 2,
    "porque": "La norma fija que la velocidad del gas no debe superar los 20 m/s para evitar ruidos, vibraciones y arrastre de suciedad.",
-   "notas_p": "N1: Pregunta de las que caen fijo. ¿A qué velocidad como mucho puede circular el gas por el tubo?\nN2: Piensa en por qué se limita: si el gas corre demasiado, silba y arrastra suciedad. Es un número redondo.",
-   "notas_r": "N1: ¿Por qué veinte metros por segundo?\nN2: Porque la norma pone ese tope para que el gas no vaya tan rápido que empiece a silbar, a vibrar y a arrastrar la suciedad del tubo hasta el aparato. El truco para no fallar: es un número redondo y bajo, veinte, no lo confundas con presiones ni con potencias. Si en el cálculo te pasas de esa velocidad, tienes que subir el diámetro del tubo."
+   "notas_p": "N1: Pregunta de las que caen fijo. Escucha con atención. ¿Cuál es la velocidad máxima admisible del gas dentro de la tubería? Estas son las opciones. Opción A, diez metros por segundo. Opción B, quince metros por segundo. Opción C, veinte metros por segundo. Opción D, veinticinco metros por segundo. Piénsalo un momento antes de que te dé la solución.\nN2: Una pista: piensa en por qué se limita; si el gas corre demasiado, silba y arrastra suciedad. Y es un número redondo.",
+   "notas_r": "N2: La respuesta correcta es la opción C: veinte metros por segundo. ¿Por qué? Porque la norma pone ese tope para que el gas no vaya tan rápido que empiece a silbar, a vibrar y a arrastrar la suciedad del tubo hasta el aparato. El truco para no fallar: es un número redondo y bajo, veinte, no lo confundas con presiones ni con potencias.\nN1: Y recuerda: si en el cálculo te pasas de esa velocidad, la solución es subir el diámetro del tubo."
   },
   {
    "tipo": "contenido",

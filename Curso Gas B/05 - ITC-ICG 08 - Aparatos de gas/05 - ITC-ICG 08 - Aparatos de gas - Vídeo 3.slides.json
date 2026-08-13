@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["3", "procedimientos de certificación"],
-    ["1", "año: intervalo máximo de control"],
-    ["2", "listas de documentación de diseño"]
+    [
+     "3",
+     "procedimientos de certificación"
+    ],
+    [
+     "1",
+     "año: intervalo máximo de control"
+    ],
+    [
+     "2",
+     "listas de documentación de diseño"
+    ]
    ],
    "notas": "N1: ¿Qué tres números resumen el anexo uno?\nN2: Tres. Primero, tres procedimientos de certificación: examen de tipo, verificación de la producción y verificación por unidad. Segundo, un año, que es el intervalo máximo entre los controles sin aviso del organismo en el camino del examen de producto. Y tercero, dos listas de documentación de diseño: una para el examen de tipo y otra para la verificación por unidad, parecidas pero con truco. Con estos tres números tienes el esqueleto del vídeo."
   },
@@ -93,8 +102,8 @@
    ],
    "correcta": 0,
    "porque": "El organismo controla los aparatos in situ y sin aviso previo, a intervalos máximos de un año; si rechaza alguno, evita su comercialización.",
-   "notas_p": "N1: Un dato numérico del camino de la inspección sorpresa.\nN2: Recuerda que el organismo aparece sin avisar. La clave es el intervalo máximo que puede pasar entre una visita y la siguiente.",
-   "notas_r": "N1: ¿Por qué un año?\nN2: Porque la norma fija controles in situ y sin aviso a intervalos máximos de un año; el organismo prueba al menos un aparato y, si lo rechaza, bloquea su comercialización. El truco: es intervalo máximo, es decir, como mucho un año, puede ser antes."
+   "notas_p": "N1: Un dato numérico del camino de la inspección sorpresa. La pregunta: en el examen de producto, ¿cada cuánto realiza el organismo los controles sin aviso previo? Opción a: a intervalos máximos de un año. Opción be: a intervalos máximos de dos años. Opción ce: cada seis meses, en fecha fija. Opción de: solo cuando el fabricante lo solicita. Piénsalo un momento... el organismo aparece sin avisar; la clave es el intervalo máximo entre una visita y la siguiente.",
+   "notas_r": "N2: La respuesta correcta es la opción a: a intervalos máximos de un año. El porqué: la norma fija controles in situ y sin aviso previo a intervalos máximos de un año; el organismo prueba al menos un aparato y, si lo rechaza, bloquea su comercialización. El truco: fíjate en que es intervalo máximo, es decir, como mucho un año; puede ser antes, pero nunca más.\nN1: Un año como máximo, y siempre por sorpresa."
   },
   {
    "tipo": "contenido",
@@ -172,8 +181,8 @@
    ],
    "correcta": 1,
    "porque": "La categoría del aparato indica qué gases y presiones acepta, según la UNE-EN 437; no es el tipo A/B/C de combustión ni la categoría del carné del instalador.",
-   "notas_p": "N1: Cuidado, que aquí conviven tres clasificaciones que comparten palabras.\nN2: Piensa en qué describe la categoría del aparato. No la confundas con cómo quema ni con el carné del instalador.",
-   "notas_r": "N1: ¿Por qué la be?\nN2: Porque la categoría del aparato es la categoría de gases que admite: qué gases y presiones acepta. El tipo a, be o ce describe la combustión; y la categoría a, be o ce del carné es el nivel del instalador. Son tres cosas distintas: no las mezcles."
+   "notas_p": "N1: Cuidado, que aquí conviven tres clasificaciones que comparten palabras. La pregunta: la categoría del aparato que aparece en la documentación de diseño, ¿a qué se refiere? Opción a: al tipo de combustión a, be o ce. Opción be: a los gases y presiones que admite el aparato. Opción ce: al nivel del carné del instalador. Opción de: a la potencia útil en kilovatios. Tómate un momento y piensa qué describe exactamente la categoría del aparato...",
+   "notas_r": "N2: La respuesta correcta es la opción be: a los gases y presiones que admite el aparato. El porqué: la categoría del aparato es la categoría de gases, qué gases y a qué presiones acepta, según la norma UNE-EN cuatrocientos treinta y siete. No la confundas: el tipo a, be o ce describe cómo quema, la combustión; y la categoría a, be o ce del carné es el nivel del instalador. Son tres cosas distintas. El truco: si la frase habla de gases, es la categoría del aparato.\nN1: Categoría del aparato, igual a qué gases admite."
   },
   {
    "tipo": "cierre",

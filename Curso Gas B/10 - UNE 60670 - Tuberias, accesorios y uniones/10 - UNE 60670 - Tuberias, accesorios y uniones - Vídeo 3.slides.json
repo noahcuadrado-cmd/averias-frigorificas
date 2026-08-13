@@ -64,8 +64,8 @@
    "opciones": ["Por encima de 0,05 bar", "Por encima de 0,15 bar", "Por encima de 0,4 bar", "Por encima de 2 bar"],
    "correcta": 0,
    "porque": "Por encima de 0,05 bar la soldadura debe ser siempre fuerte; la blanda solo se admite hasta 0,05 bar en uso doméstico o cocina tipo A ≤ 30 kW. Y en aparcamiento cerrado, fuerte aunque la presión sea baja.",
-   "notas_p": "N1: La frontera de oro del vídeo. ¿A partir de qué presión te obligan a soldadura fuerte sí o sí?\nN2: Es el escalón más bajo de la escalera de presiones; piensa en cero coma cero cinco bar.",
-   "notas_r": "N1: ¿Por qué justo en ese punto?\nN2: Porque la soldadura fuerte, hecha a mucha más temperatura, aguanta el calor de un incendio muchísimo mejor que la blanda. Por encima de cero coma cero cinco bar, siempre fuerte. Y ojo al matiz: en un aparcamiento cerrado es fuerte aunque la presión sea baja, porque es zona de riesgo."
+   "notas_p": "N1: La frontera de oro del vídeo. Pregunta: ¿a partir de qué presión es obligatoria siempre la soldadura fuerte? Escucha las opciones. Opción A, por encima de cero coma cero cinco bar. Opción B, por encima de cero coma quince bar. Opción C, por encima de cero coma cuatro bar. Opción D, por encima de dos bar. Tómate un segundo.\nN2: Una pista: es el escalón más bajo de la escalera de presiones; piensa en cero coma cero cinco bar.",
+   "notas_r": "N2: La respuesta correcta es la opción A: por encima de cero coma cero cinco bar. ¿Por qué justo en ese punto? Porque la soldadura fuerte, hecha a mucha más temperatura, aguanta el calor de un incendio muchísimo mejor que la blanda. Por encima de cero coma cero cinco bar, siempre fuerte; la blanda solo se admite hasta ahí, y en uso doméstico o cocina de tipo A de hasta treinta kilovatios. El truco: en un aparcamiento cerrado es fuerte aunque la presión sea baja, porque es zona de riesgo de incendio.\nN1: Por encima de cero coma cero cinco, fuerte sí o sí."
   },
   {
    "tipo": "contenido",
@@ -125,8 +125,8 @@
    "opciones": ["Soldarlos directamente por capilaridad", "Intercalar un accesorio de aleación de cobre", "Unirlos con una junta de elastómero", "Usar soldadura blanda de estaño-plomo"],
    "correcta": 1,
    "porque": "Cobre y acero nunca se unen directos (formarían un par galvánico que corroe la junta); se intercala un accesorio de aleación de cobre, soldado al acero a tope por bordón a 850 °C.",
-   "notas_p": "N1: Pregunta de las que caen seguro. Cobre con acero, ¿se pueden soldar directamente el uno al otro?\nN2: Recuerda la regla del traductor: entre metales distintos siempre va algo por medio.",
-   "notas_r": "N1: ¿Por qué no directo?\nN2: Porque dos metales distintos con humedad forman una pila, un par galvánico, y uno se corroe hasta que la junta fuga. Por eso se mete de intermediario un accesorio de aleación de cobre, el traductor. Si ves 'unión directa de cobre y acero', es falsa."
+   "notas_p": "N1: Pregunta de las que caen seguro. Para unir un tubo de cobre con uno de acero, la norma exige... ¿qué? Te leo las cuatro opciones. Opción A, soldarlos directamente por capilaridad. Opción B, intercalar un accesorio de aleación de cobre. Opción C, unirlos con una junta de elastómero. Opción D, usar soldadura blanda de estaño-plomo. Piénsalo.\nN2: Una pista: recuerda la regla del traductor; entre metales distintos siempre va algo por medio.",
+   "notas_r": "N2: La respuesta correcta es la opción B: intercalar un accesorio de aleación de cobre. ¿Por qué no directo? Porque dos metales distintos con humedad forman una pila, lo que se llama un par galvánico, y uno se corroe hasta que la junta fuga. Por eso se mete de intermediario ese accesorio de aleación de cobre, el traductor, que se suelda al acero a tope por bordón a ochocientos cincuenta grados. El truco: si ves 'unión directa de cobre y acero', es falsa; y el estaño-plomo está prohibido por tóxico, así que la opción D también cae.\nN1: Metales distintos, siempre el traductor por medio."
   },
   {
    "tipo": "contenido",
@@ -173,8 +173,8 @@
    "opciones": ["Hasta 0,05 bar", "Hasta 0,4 bar", "Hasta 2 bar", "Hasta 5 bar"],
    "correcta": 3,
    "porque": "Todas las uniones mecánicas, desmontables y no desmontables, se admiten hasta una MOP de 5 bar, el mismo tope de aplicación de toda la norma.",
-   "notas_p": "N1: Una tapa que vale para todas las mecánicas. ¿Hasta qué presión se pueden usar?\nN2: Coincide con el techo de aplicación de toda esta norma; piensa en el valor más alto de la escalera.",
-   "notas_r": "N1: ¿Por qué ese tope y no otro?\nN2: Porque es el límite de aplicación de toda la norma seis-cero-seis-siete-cero, y las uniones mecánicas no van más allá. Da igual que sean desmontables o no desmontables: todas, hasta cinco bar."
+   "notas_p": "N1: Una tapa que vale para todas las uniones mecánicas: roscadas, press-fitting, bridas... Pregunta: ¿hasta qué MOP se pueden utilizar? Escucha las opciones. Opción A, hasta cero coma cero cinco bar. Opción B, hasta cero coma cuatro bar. Opción C, hasta dos bar. Opción D, hasta cinco bar. Piensa un momento.\nN2: Una pista: coincide con el techo de aplicación de toda esta norma; piensa en el valor más alto de la escalera.",
+   "notas_r": "N2: La respuesta correcta es la opción D: hasta cinco bar. ¿Por qué ese tope y no otro? Porque cinco bar es el límite de aplicación de toda la norma seis-cero-seis-siete-cero, y las uniones mecánicas no van más allá. Da igual que sean desmontables, como las bridas, o no desmontables, como el press-fitting o las roscadas: todas comparten el mismo tope. El truco: cualquier opción por debajo de cinco bar se queda corta.\nN1: Uniones mecánicas, todas hasta cinco bar."
   },
   {
    "tipo": "contenido",

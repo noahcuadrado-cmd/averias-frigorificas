@@ -113,8 +113,8 @@
    ],
    "correcta": 1,
    "porque": "Los estancos y de tiro forzado, más seguros, pueden salir a fachada hasta setenta kilovatios; el tiro natural de solo agua caliente se queda en veinticuatro con cuatro.",
-   "notas_p": "N1: Aquí va una de las cifras estrella del vídeo. Un aparato estanco o de tiro forzado quiere sacar los humos por la pared en lugar de por el tejado. ¿Hasta qué potencia se lo permiten?\nN2: Piensa que el estanco y el de tiro forzado son los que mejor controlan sus humos, así que el reglamento les da más margen que al tiro natural. Una de las opciones es la del tiro natural, no la mezcles.",
-   "notas_r": "N1: ¿Por qué setenta y no otra?\nN2: Porque la salida directa a fachada se reserva a aparatos estancos o de tiro forzado de potencia igual o menor de setenta kilovatios. La cifra de veinticuatro con cuatro es la trampa: esa es solo para el tiro natural que hace únicamente agua caliente. El truco para no fallar: más control sobre los humos, más potencia permitida; setenta para los seguros, veinticuatro con cuatro para el primitivo."
+   "notas_p": "N1: Vamos con una de las cifras estrella del vídeo. Escucha bien la pregunta: ¿hasta qué potencia puede un aparato estanco o de tiro forzado evacuar los humos a fachada? Y estas son las cuatro opciones. Opción A, veinticuatro con cuatro kilovatios. Opción B, setenta kilovatios. Opción C, dos mil kilovatios. Opción D, cinco kilovatios. Párate un momento y piénsalo antes de que te demos la solución.\nN2: Una pista: el estanco y el de tiro forzado son los que mejor controlan sus humos, así que el reglamento les da más margen que al tiro natural. Una de esas cifras es justo la del tiro natural de solo agua caliente; no la mezcles.",
+   "notas_r": "N1: ¿Ya lo tienes? Venga, lo resolvemos.\nN2: La respuesta correcta es la opción B: setenta kilovatios. La salida directa a fachada se reserva a los aparatos estancos o de tiro forzado de potencia igual o menor de setenta kilovatios, porque son los que mejor controlan por dónde echan los humos. La opción A, veinticuatro con cuatro, es la trampa: esa cifra es solo para el tiro natural que hace únicamente agua caliente. Y las de dos mil y cinco kilovatios no pintan nada aquí. El truco para no fallar: más control sobre los humos, más potencia permitida; setenta para los seguros, veinticuatro con cuatro para el primitivo.\nN1: Setenta para estanco y tiro forzado. Grabado."
   },
   {
    "tipo": "contenido",
@@ -199,8 +199,8 @@
    ],
    "correcta": 1,
    "porque": "La potencia se suma: tres por treinta son noventa kilovatios, se pasa de setenta y toca sala de máquinas con UNE 60601.",
-   "notas_p": "N1: Tres equipos de treinta kilovatios cada uno, funcionando a la vez. ¿Hay que hacer algo especial?\nN2: La palabra clave es conjunta. Fíjate en si las potencias se miran por separado o se suman. Ahí está el truco de la pregunta.",
-   "notas_r": "N1: ¿Por qué sala de máquinas?\nN2: Porque la potencia útil nominal es conjunta, o sea que se suma: treinta más treinta más treinta son noventa kilovatios. Al pasar de setenta, deja de ser cosa doméstica y exige sala de máquinas con la UNE sesenta mil seiscientos uno. La trampa era mirar cada equipo por separado y ver treinta; pero si trabajan juntos, mandan los noventa."
+   "notas_p": "N1: Atento a este caso práctico. La pregunta dice: tres equipos de gas de treinta kilovatios trabajan juntos, ¿qué exige la norma? Escucha las cuatro opciones. Opción A, nada especial, porque cada uno baja de setenta kilovatios. Opción B, sala de máquinas conforme a la UNE sesenta mil seiscientos uno. Opción C, salida obligatoria a fachada. Opción D, proyecto según la UNE sesenta mil seiscientos veinte. Tómate un segundo y decide.\nN2: La palabra clave es una que ya salió: conjunta. Pregúntate si las potencias se miran por separado o se suman. Ahí está todo el truco.",
+   "notas_r": "N1: ¿Ya lo has pensado?\nN2: La respuesta correcta es la opción B: sala de máquinas conforme a la UNE sesenta mil seiscientos uno. La potencia útil nominal es conjunta, o sea que se suma: treinta más treinta más treinta son noventa kilovatios. Al pasar de setenta, deja de ser cosa doméstica y exige sala de máquinas con la sesenta mil seiscientos uno. La opción A es la trampa: miraba cada equipo por separado y veía treinta; pero si trabajan juntos, mandan los noventa. Truco: sesenta mil seiscientos uno, salas de calderas.\nN1: Se suman las potencias. Nunca por separado."
   },
   {
    "tipo": "contenido",
@@ -246,8 +246,8 @@
    ],
    "correcta": 2,
    "porque": "Por encima de cinco bar manda la UNE 60620, la de alta presión; hasta cinco bar sería la 60670.",
-   "notas_p": "N1: Seis bar, por encima de la raya. ¿Qué norma toca?\nN2: Acuérdate de la frontera de los cinco bar que acabamos de ver en la tabla. Dos de las opciones son normas que ni siquiera van de esto; céntrate en el par de la presión.",
-   "notas_r": "N1: ¿Por qué la seiscientos veinte?\nN2: Porque seis bar es superior a cinco, y por encima de cinco bar manda la UNE sesenta mil seiscientos veinte, la de alta presión. La seiscientos setenta se habría quedado corta, es para hasta cinco bar. Las otras dos, la seiscientos uno de salas de máquinas y la trescientos diez de acometidas, son de otra cosa. Truco: pasas de cinco, subes de norma."
+   "notas_p": "N1: Una de presiones. La pregunta: una instalación receptora trabaja a seis bar, ¿qué norma UNE le corresponde? Y las opciones. Opción A, la UNE sesenta mil seiscientos setenta. Opción B, la UNE sesenta mil seiscientos uno. Opción C, la UNE sesenta mil seiscientos veinte. Opción D, la UNE sesenta mil trescientos diez. Piénsalo antes de la solución.\nN2: Acuérdate de la frontera de los cinco bar que acabamos de ver en la tabla. Y fíjate: dos de esas opciones ni siquiera van de esto; céntrate en el par de la presión.",
+   "notas_r": "N1: Venga, la resolvemos.\nN2: La respuesta correcta es la opción C: la UNE sesenta mil seiscientos veinte. Seis bar es superior a cinco, y por encima de cinco bar manda la seiscientos veinte, la de alta presión. La opción A, la seiscientos setenta, se habría quedado corta, porque esa es para hasta cinco bar. Y las otras dos son de otra cosa: la seiscientos uno es de salas de máquinas y la trescientos diez de acometidas. Truco: pasas de cinco, subes de norma.\nN1: Más de cinco bar, seiscientos veinte."
   },
   {
    "tipo": "contenido",

@@ -124,8 +124,8 @@
    ],
    "correcta": 2,
    "porque": "Un envase vacío nunca lo está del todo: siempre le queda algo de gas, así que también suma en el recuento.",
-   "notas_p": "N1: Fórmula de capacidad a la vista. La pregunta del millón: en la letra ene, ¿qué botellas cuentas?\nN2: Piensa en esa bombona que devuelves supuestamente vacía. ¿De verdad no le queda nada dentro?",
-   "notas_r": "N1: ¿Por qué entran también las vacías?\nN2: Porque una bombona vacía siempre conserva un resto de gas y da la lata igual. Por eso en la ene cuentas llenos y vacíos, y encima multiplicas por cero coma sesenta y cinco, que es el margen de seguridad. El truco para no fallar: en el recuento no perdono ni las vacías."
+   "notas_p": "N1: Pregunta de la fórmula de capacidad. Escucha bien: en la fórmula, capacidad total igual a capacidad nominal, por número de envases, por cero coma sesenta y cinco, ¿qué envases se cuentan en la letra ene? Opción A, solo los envases llenos. Opción B, solo los envases vacíos. Opción C, los llenos y los vacíos. Opción D, únicamente los de más de quince kilos. Párate un momento y elige.\nN2: Pista: piensa en esa bombona que devuelves supuestamente vacía. ¿De verdad no le queda nada dentro?",
+   "notas_r": "N2: La respuesta correcta es la opción C: los llenos y los vacíos. ¿Por qué? Porque un envase vacío nunca lo está del todo: siempre le queda algo de gas, así que también suma en el recuento. Por eso en la ene cuentas llenos y vacíos, y encima multiplicas por cero coma sesenta y cinco, que es el margen de seguridad. El truco para no fallar: en el recuento no perdono ni las vacías.\nN1: Ni las vacías se libran."
   },
   {
    "tipo": "contenido",
@@ -219,8 +219,8 @@
    ],
    "correcta": 2,
    "porque": "La 2.ª tiene 15 m de exterior, pero un centro de enseñanza obliga a sumar 10 m: 15 + 10 = 25 m.",
-   "notas_p": "N1: Combinamos tabla y excepción. Segunda categoría, y enfrente un instituto. ¿Cuántos metros?\nN2: Mira el Cuadro y no te olvides del recargo de los sitios con mucha gente.",
-   "notas_r": "N1: ¿De dónde salen esos metros?\nN2: La segunda categoría tiene quince metros de distancia exterior. Pero un centro de enseñanza es de esos sitios sensibles que obligan a alejarse diez metros más. Quince más diez, veinticinco. El truco: primero lees la tabla, y solo después aplicas el más diez si toca."
+   "notas_p": "N1: Combinamos la tabla de distancias con la excepción de los sitios sensibles. Un centro de segunda categoría tiene un instituto justo al otro lado de la valla. ¿Qué distancia exterior mínima le corresponde? Opción A, quince metros. Opción B, veinte metros. Opción C, veinticinco metros. Opción D, diez metros. Piénsalo un momento.\nN2: Pista: mira primero lo que dice el Cuadro para la segunda, y no te olvides del recargo por tener enfrente un centro de enseñanza.",
+   "notas_r": "N2: La respuesta correcta es la opción C: veinticinco metros. ¿Por qué? Porque la segunda categoría tiene quince metros de distancia exterior, pero un centro de enseñanza obliga a sumar diez metros más: quince más diez, veinticinco. El truco: primero lees la tabla, y solo después aplicas el más diez si al otro lado hay algo sensible.\nN1: Primero la tabla, luego el recargo."
   },
   {
    "tipo": "contenido",
@@ -373,8 +373,8 @@
    ],
    "correcta": 1,
    "porque": "Puedes cambiar cada 43A-183B por 21A-113B, pero poniendo como mínimo el doble.",
-   "notas_p": "N1: Repasamos la tabla de extintores. Solo una frase es verdad. ¿Cuál?\nN2: Fíjate en la equivalencia entre el extintor grande y el pequeño.",
-   "notas_r": "N1: ¿Por qué esa y no las otras?\nN2: La tercera sí lleva extintores, cinco pequeños. La primera no es fija: crece por tramos según los kilos. Y la segunda siempre lleva menos que la primera, no más. La única cierta es la equivalencia: un extintor grande equivale a dos pequeños. Idea sencilla: uno grande, dos pequeños."
+   "notas_p": "N1: Repasamos la tabla de extintores, el Cuadro dos. Solo una de estas cuatro afirmaciones es verdad. Opción A, la tercera categoría no lleva ningún extintor. Opción B, un extintor de cuarenta y tres a, ciento ochenta y tres b se sustituye por el doble de veintiuno a, ciento trece b. Opción C, la primera categoría siempre lleva exactamente cinco extintores. Opción D, la segunda lleva más extintores que la primera. Elige la correcta.\nN2: Pista: fíjate en la equivalencia entre el extintor grande y el pequeño.",
+   "notas_r": "N2: La respuesta correcta es la opción B: un extintor de cuarenta y tres a, ciento ochenta y tres b se sustituye por el doble de veintiuno a, ciento trece b. ¿Por qué? Porque puedes cambiar cada extintor grande por los pequeños, pero poniendo como mínimo el doble. Las otras fallan: la tercera sí lleva extintores, cinco pequeños; la primera no es fija, crece por tramos según los kilos; y la segunda siempre lleva menos que la primera, no más. Idea sencilla: uno grande, dos pequeños.\nN1: Uno grande equivale a dos pequeños."
   },
   {
    "tipo": "contenido",

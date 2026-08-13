@@ -215,8 +215,8 @@
    ],
    "correcta": 0,
    "porque": "La superficie es kW × 5, pero nunca menos de 125 cm²; por eso una cocina de 10 kW, que daría 50, se queda en 125.",
-   "notas_p": "N1: La ventilación se calcula multiplicando por cinco, pero hay un suelo por debajo del cual no se baja. ¿Cuánto es ese mínimo?\nN2: Piensa en una cocina pequeña de diez kilovatios: la cuenta daría cincuenta, pero la norma no deja bajar de cierto valor.",
-   "notas_r": "N1: ¿Por qué ciento veinticinco y no cincuenta?\nN2: Porque la regla es kilovatios por cinco, pero con un mínimo de ciento veinticinco centímetros cuadrados. Aunque la cuenta dé menos, ese es el suelo: por eso una cocina de diez kilovatios se queda en ciento veinticinco. Y recuerda, los estancos no cuentan, solo el circuito abierto."
+   "notas_p": "N1: La ventilación se calcula multiplicando por cinco, pero hay un suelo por debajo del cual no se baja. La pregunta: ¿cuál es la superficie mínima de ventilación de un local con gas, aunque la potencia sea pequeña? Opción A, ciento veinticinco centímetros cuadrados. Opción B, cien centímetros cuadrados. Opción C, ciento cincuenta centímetros cuadrados. Opción D, doscientos centímetros cuadrados. Piénsalo un momento.\nN2: Pista: una cocina pequeña de diez kilovatios daría cincuenta por la cuenta, pero la norma no deja bajar de cierto valor.",
+   "notas_r": "N2: La respuesta correcta es la opción A: ciento veinticinco centímetros cuadrados. La regla es kilovatios por cinco, pero con ese suelo de ciento veinticinco: aunque la cuenta dé menos, no bajas de ahí. Por eso una cocina de diez kilovatios, que daría cincuenta, se queda en ciento veinticinco. El truco: multiplica por cinco, y si te sale menos de ciento veinticinco, sube al mínimo. Y recuerda, los aparatos estancos no cuentan, solo el circuito abierto.\nN1: Ciento veinticinco, ese es el suelo."
   },
   {
    "tipo": "contenido",
@@ -422,8 +422,8 @@
    ],
    "correcta": 0,
    "porque": "Cambiar el aparato equivale a aplicar el RITE: caldera de condensación, clase 5 de NOx y estanca, con humos a cubierta y sin atmosféricos de tiro natural.",
-   "notas_p": "N1: Solo vas a cambiar una caldera vieja por otra. ¿Puedes poner cualquiera? ¿Qué te pide la norma?\nN2: Recuerda la frase de examen: cambiar el aparato es aplicar el reglamento nuevo, aunque la instalación sea antigua.",
-   "notas_r": "N1: ¿Por qué esa y no un atmosférico de recambio?\nN2: Porque al sustituir la caldera entras en las reglas actuales: condensación, clase cinco de óxidos de nitrógeno y estanca, con los humos a cubierta por conducto. Y queda prohibido montar nuevos calentadores atmosféricos de tiro natural en interior, ni de estreno ni como recambio."
+   "notas_p": "N1: Solo vas a cambiar una caldera vieja por otra; ¿puedes poner cualquiera? La pregunta: al sustituir una caldera antigua por una nueva, ¿qué exige el RITE para la caldera? Opción A, que sea de condensación, clase cinco de óxidos de nitrógeno y estanca. Opción B, que sea atmosférica de tiro natural. Opción C, que sea de tiro forzado y clase tres. Opción D, cualquiera que tenga marcado CE. Piénsalo.\nN2: Pista: recuerda la frase de examen; cambiar el aparato es aplicar el reglamento nuevo, aunque la instalación sea antigua.",
+   "notas_r": "N2: La respuesta correcta es la opción A: de condensación, clase cinco de óxidos de nitrógeno y estanca. Al sustituir la caldera entras en las reglas actuales, con los humos evacuados a cubierta por conducto. Y ojo, porque la opción B es justo lo prohibido: queda vetado montar nuevos calentadores atmosféricos de tiro natural en interior, ni de estreno ni como recambio. El truco: cambiar el aparato es aplicar el RITE, y el RITE pide condensación, clase cinco y estanca.\nN1: Condensación, clase cinco y estanca; lo demás, fuera."
   },
   {
    "tipo": "contenido",
@@ -610,8 +610,8 @@
    ],
    "correcta": 0,
    "porque": "Aunque la fórmula dé menos, la Piv se toma como mínimo 30 kW; es el suelo para dimensionar la instalación individual.",
-   "notas_p": "N1: Calculas la potencia de diseño de una vivienda y te sale un número bajo. Pero hay un suelo que no se baja. ¿Cuál es?\nN2: Es la potencia mínima de partida para dimensionar cualquier vivienda, aunque tenga pocos aparatos.",
-   "notas_r": "N1: ¿Por qué treinta y no lo que dé la cuenta?\nN2: Porque la norma fija un mínimo: aunque la fórmula, con los dos aparatos mayores enteros y el resto a la mitad por uno coma diez, dé menos, la potencia de diseño individual se toma como mínimo treinta kilovatios. Es el suelo para no quedarte corto al dimensionar la instalación."
+   "notas_p": "N1: Calculas la potencia de diseño de una vivienda y te sale un número bajo, pero hay un suelo que no se baja. La pregunta: ¿cuál es la potencia de diseño individual, la Piv, mínima de una vivienda? Opción A, treinta kilovatios. Opción B, veinte kilovatios. Opción C, dieciséis kilovatios. Opción D, cuarenta kilovatios. Piénsalo un momento.\nN2: Pista: es la potencia mínima de partida para dimensionar cualquier vivienda, aunque tenga pocos aparatos.",
+   "notas_r": "N2: La respuesta correcta es la opción A: treinta kilovatios. Aunque la fórmula, con los dos aparatos mayores enteros, el resto a la mitad y todo por uno coma diez, te dé menos, la potencia de diseño individual se toma como mínimo treinta kilovatios. Es el suelo para no quedarte corto al dimensionar la instalación. El truco: haz la cuenta, pero si baja de treinta, súbela a treinta.\nN1: Treinta kilovatios, el punto de partida."
   },
   {
    "tipo": "contenido",

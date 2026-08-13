@@ -56,8 +56,8 @@
    ],
    "correcta": 0,
    "porque": "La autoriza el órgano competente de la Comunidad Autónoma y las obras del año anterior se entregan dentro del primer trimestre.",
-   "notas_p": "N1: Aquí van dos datos que caen casi siempre juntos, no los sueltes por separado.\nN2: Piensa quién da el permiso y en qué momento del calendario se rinden cuentas de lo construido. Uno es una administración; el otro, un trimestre concreto.",
-   "notas_r": "N1: ¿Por qué la primera?\nN2: Porque la que autoriza es la Comunidad Autónoma, no el Ayuntamiento ni el Ministerio, y el proyecto de las obras realizadas se entrega dentro del primer trimestre del año siguiente. El truco: primero digo lo que pienso hacer y luego justifico lo que hice, y quien manda es la comunidad autónoma."
+   "notas_p": "N1: Vamos con una pregunta, y esta cae casi siempre. Escucha con atención la pregunta y sus cuatro opciones. ¿Quién autoriza la red y cuándo se entrega el proyecto de lo ejecutado? Opción A: la Comunidad Autónoma; en el primer trimestre del año siguiente. Opción B: el Ayuntamiento; en el último trimestre del mismo año. Opción C: el Ministerio; dentro de los treinta días tras la obra. Opción D: el distribuidor; cuando finalice cada tramo de tubería.\nN2: Piénsalo un momento, que aquí hay dos datos que van juntos: quién da el permiso y en qué trimestre se rinden cuentas de lo construido. Cuando lo tengas, seguimos.",
+   "notas_r": "N2: La respuesta correcta es la opción A: la Comunidad Autónoma; en el primer trimestre del año siguiente. ¿Por qué? Porque quien autoriza es el órgano competente de la Comunidad Autónoma, no el Ayuntamiento ni el Ministerio, y el proyecto de las obras realizadas se entrega dentro del primer trimestre del año siguiente. Las otras tres opciones bailan el organismo o el plazo. El truco para no fallar: primero digo lo que pienso hacer y luego justifico lo que hice, y quien manda es la comunidad autónoma.\nN1: Eso es: comunidad autónoma y primer trimestre, siempre de la mano."
   },
   {
    "tipo": "contenido",
@@ -145,8 +145,8 @@
    ],
    "correcta": 0,
    "porque": "La estanquidad verifica que no hay fugas; que aguante la presión sin romper es la prueba de resistencia.",
-   "notas_p": "N1: Cuidado, que estas dos pruebas se confunden a la primera de cambio.\nN2: Una mira si el tubo es fuerte; la otra, si el tubo es hermético. La pregunta va por la segunda.",
-   "notas_r": "N1: ¿Por qué la a?\nN2: Porque estanquidad es que no se escape ni una burbuja por las uniones. Que aguante la presión sin reventar es la de resistencia, que es otra cosa. Recuerda el truco: resistencia, que no rompa; estanquidad, que no fugue."
+   "notas_p": "N1: Atención a esta, porque estas dos pruebas se confunden a la primera de cambio. Escucha la pregunta y las cuatro opciones. En las pruebas previas, ¿qué comprueba exactamente la prueba de estanquidad? Opción A: que la tubería no deja escapar el gas por ninguna unión. Opción B: que la tubería aguanta la presión sin reventar. Opción C: que el material resiste la corrosión del terreno. Opción D: que la red tiene el diámetro adecuado a la demanda.\nN2: Tómate un segundo. Una prueba mira si el tubo es fuerte; la otra, si el tubo es hermético. La pregunta va por la hermeticidad. ¿Lo tienes?",
+   "notas_r": "N2: La respuesta correcta es la opción A: que la tubería no deja escapar el gas por ninguna unión. ¿Por qué? Porque estanquidad significa justo eso, que no se escape ni una burbuja por las uniones. La opción B, aguantar la presión sin reventar, es la prueba de resistencia, que es otra cosa distinta. Y la corrosión del terreno o el diámetro no tienen nada que ver con esta prueba. El truco para no confundirlas nunca: resistencia, que no rompa; estanquidad, que no fugue.\nN1: Clavado: estanquidad, ni una burbuja."
   },
   {
    "tipo": "contenido",
@@ -184,8 +184,8 @@
    ],
    "correcta": 0,
    "porque": "Ni el gas solo ni el aire solo arden; el riesgo es la mezcla en proporción inflamable, por eso se llena despacio o con tapón inerte.",
-   "notas_p": "N1: Pregunta de las que salvan vidas, no solo exámenes.\nN2: El gas solo no arde y el aire solo tampoco. Piensa qué aparece cuando se juntan los dos en la proporción justa.",
-   "notas_r": "N1: ¿Por qué la a?\nN2: Porque el peligro no es el gas ni el aire por separado, sino la mezcla aire-gas cuando cae dentro de los límites de inflamabilidad y basta una chispa. Por eso se mete el gas despacio o con un tapón de gas inerte que separe ambos fluidos."
+   "notas_p": "N1: Esta pregunta salva vidas, no solo exámenes. Escúchala entera con sus cuatro opciones. Al llenar la red de gas, ¿dónde está realmente el peligro? Opción A: en la mezcla aire-gas dentro de los límites de inflamabilidad. Opción B: en el gas puro, que arde en cuanto sale del tubo. Opción C: en el aire de la tubería, que se inflama solo. Opción D: en la presión alta del gas al entrar en la red.\nN2: Piénsalo un momento. El gas solo no arde y el aire solo tampoco. ¿Qué aparece cuando se juntan los dos en la proporción justa?",
+   "notas_r": "N2: La respuesta correcta es la opción A: en la mezcla aire-gas dentro de los límites de inflamabilidad. ¿Por qué? Porque ni el gas solo ni el aire solo arden; el peligro es la mezcla de ambos en la proporción justa, esa en la que basta una chispa para provocar una deflagración. Por eso se llena la red despacio o metiendo en medio un tapón de gas inerte que separe el aire del gas. Las opciones B, C y D te despistan con el gas puro, con el aire o con la presión, pero el riesgo real es la mezcla.\nN1: Grábatelo: aire, más gas, más una chispa, igual a explosión."
   },
   {
    "tipo": "contenido",

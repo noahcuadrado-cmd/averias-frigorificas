@@ -65,8 +65,8 @@
    ],
    "correcta": 2,
    "porque": "Cuanto más gordo el tubo (DN > 15), más corto: 0,470 m. El fino (DN ≤ 15) llega a 2 m.",
-   "notas_p": "N1: Cuidado con esta, que es contraintuitiva. Flexible de acero corrugado con el diámetro gordo, mayor de quince, ¿qué longitud máxima le toca?\nN2: Pista: cuanto más gordo es el tubo, más corta debe ser la conexión.",
-   "notas_r": "N1: ¿Por qué la más corta?\nN2: Justo por eso: con diámetro fino, hasta dos metros; con diámetro gordo, mayor de quince, solo cuarenta y siete centímetros. Es al revés de lo que uno pensaría, y por eso se pregunta tanto. Y por encima de la cifra, la regla de oro: el flexible nunca debe quedar bajo las llamas."
+   "notas_p": "N1: Cuidado con esta, que es contraintuitiva y se juega de oído. Un flexible de acero inoxidable corrugado con el diámetro gordo, mayor de quince, ¿qué longitud máxima le toca? Opción A, dos metros; opción B, un metro y medio; opción C, cuarenta y siete centímetros, es decir cero coma cuatrocientos setenta metros; opción D, setenta y cinco centímetros.\nN2: Pista para pensarlo un momento: cuanto más gordo es el tubo, más corta debe ser la conexión. ¿Cuál eliges?",
+   "notas_r": "N2: La respuesta correcta es la opción C: cuarenta y siete centímetros, o sea cero coma cuatrocientos setenta metros. Con el diámetro fino, hasta quince, el tubo llega a dos metros; pero en cuanto pasas a diámetro gordo, mayor de quince, se queda en solo cuarenta y siete centímetros. Es justo al revés de lo que uno pensaría, y por eso se pregunta tanto. El truco: más gordo el tubo, más corta la conexión. Y por encima de la cifra, la regla de oro: el flexible nunca debe quedar bajo las llamas.\nN1: Diámetro gordo, tubo corto."
   },
   {
    "tipo": "contenido",
@@ -117,8 +117,8 @@
    ],
    "correcta": 1,
    "porque": "Es la excepción: casi todas las calefacciones móviles se quedan en 0,6 m, pero esta llega a 0,75 m.",
-   "notas_p": "N1: Esta es fina, para nota. Acero corrugado con enchufe de seguridad conectando una calefacción móvil, ¿cuánto puede medir como máximo?\nN2: Ojo, porque casi todas las calefacciones móviles comparten una misma cifra... menos una.",
-   "notas_r": "N1: ¿Cuál es el truco?\nN2: Casi todas las calefacciones móviles se quedan en sesenta centímetros: la espirometálica, el elastómero con armadura y el elastómero normal. La única que se estira a setenta y cinco centímetros es justo esta, el acero corrugado con enchufe. Si te la sabes, cazas la pregunta trampa."
+   "notas_p": "N1: Esta es fina, para nota, y se juega solo escuchando. Un acero inoxidable corrugado con enchufe de seguridad conectando una calefacción móvil, ¿cuánto puede medir como máximo? Opción A, sesenta centímetros; opción B, setenta y cinco centímetros; opción C, un metro y medio; opción D, dos metros.\nN2: Ojo, porque casi todas las calefacciones móviles comparten una misma cifra... menos una. Piénsalo un segundo.",
+   "notas_r": "N2: La respuesta correcta es la opción B: setenta y cinco centímetros. Aquí está el truco: casi todas las calefacciones móviles se quedan en sesenta centímetros, la espirometálica, el elastómero con armadura y el elastómero normal. La única que se estira a setenta y cinco centímetros es justo esta, el acero corrugado con enchufe de seguridad. Si te sabes esa excepción, cazas la pregunta trampa.\nN1: La rara que llega a setenta y cinco es el acero con enchufe."
   },
   {
    "tipo": "contenido",
@@ -181,8 +181,8 @@
    ],
    "correcta": 0,
    "porque": "La goma se dilata con el calor y una brida de plástico cede; van boquillas UNE 60714 del mismo DN y abrazaderas metálicas.",
-   "notas_p": "N1: El clásico tubo naranja del butano, ¿con qué se sujeta a la boquilla?\nN2: Piensa en qué le pasa a la goma con el calor y qué sujeción aguanta eso sin ceder.",
-   "notas_r": "N1: ¿Por qué metálicas?\nN2: Porque la goma se dilata con el calor y una brida de plástico acabaría cediendo, el tubo se soltaría de la boquilla y tendrías fuga de gas y olor a butano. Van boquillas del mismo diámetro que el tubo y abrazaderas metálicas siempre, nunca de plástico."
+   "notas_p": "N1: Última de este vídeo, para jugar de oído. El clásico tubo naranja del butano, el de la bombona, ¿con qué se sujeta a la boquilla? Opción A, abrazaderas metálicas; opción B, bridas de plástico; opción C, racor de dos piezas; opción D, soldadura por capilaridad.\nN2: Piensa un momento en qué le pasa a la goma con el calor y qué sujeción aguanta eso sin ceder. ¿Ya lo tienes?",
+   "notas_r": "N2: La respuesta correcta es la opción A: abrazaderas metálicas. La goma se dilata con el calor, y una brida de plástico, la opción B, acabaría cediendo: el tubo se soltaría de la boquilla y tendrías fuga de gas y olor a butano en la cocina. Por eso van boquillas del mismo diámetro que el tubo y abrazaderas metálicas siempre, nunca de plástico. El racor de dos piezas y la soldadura no pintan nada aquí.\nN1: Abrazadera metálica, y a dormir tranquilo."
   },
   {
    "tipo": "contenido",

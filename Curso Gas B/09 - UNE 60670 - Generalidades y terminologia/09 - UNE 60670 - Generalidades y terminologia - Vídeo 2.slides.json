@@ -104,8 +104,8 @@
    ],
    "correcta": 0,
    "porque": "El tipo C es estanco: su circuito de combustión no tiene comunicación alguna con la atmósfera del local.",
-   "notas_p": "N1: El concepto estrella del tema: ¿qué distingue al tipo C?\nN2: Pista: es la caldera moderna que ni respira el aire de la cocina ni suelta humos en ella.",
-   "notas_r": "N1: ¿Por qué la A?\nN2: Porque el tipo C es estanco: su circuito de combustión no tiene ninguna comunicación con el aire del local. El tipo A coge aire del local y no evacúa fuera; el tipo B coge aire del local pero sí evacúa por conducto. Truco: el A no tira humos fuera, el B coge aire dentro y tira humos fuera, y el C ni entra ni sale del local."
+   "notas_p": "N1: Primera pregunta, y va del concepto estrella del tema. Te la leo entera para que la juegues solo con el oído. ¿Qué caracteriza a un aparato de gas de tipo C? Escucha las cuatro opciones. Opción A: es estanco, ni toma aire del local ni evacúa humos en él. Opción B: toma aire del local y no evacúa los humos al exterior. Opción C: toma aire del local y evacúa los humos por un conducto. Opción D: solo puede usarse con envases de menos de tres kilos. Tómate un segundo.\nN2: Pista: es la caldera moderna que ni respira el aire de la cocina ni suelta humos en ella.",
+   "notas_r": "N2: La respuesta correcta es la opción A: es estanco, ni toma aire del local ni evacúa humos en él. ¿Por qué? Porque el tipo C es estanco, su circuito de combustión no tiene ninguna comunicación con el aire del local. La opción B describe en realidad el tipo A, que coge aire del local y no evacúa fuera; la opción C describe el tipo B, que coge aire del local pero sí evacúa por un conducto; y lo de los tres kilos no tiene nada que ver con el tipo. El truco: el A no tira humos fuera, el B coge aire dentro y tira humos fuera, y el C ni entra ni sale del local.\nN1: A, B y C, cazados."
   },
   {
    "tipo": "contenido",
@@ -144,8 +144,8 @@
    ],
    "correcta": 2,
    "porque": "Por encima de 100 m² es aparcamiento; si es igual o inferior a 100 m², es garaje.",
-   "notas_p": "N1: Un número que cae seguro: ¿dónde está la frontera entre aparcamiento y garaje?\nN2: Pista: es una cifra redonda de metros cuadrados; piensa en la superficie construida.",
-   "notas_r": "N1: ¿Por qué cien metros cuadrados?\nN2: Porque si la superficie construida supera los cien metros cuadrados es aparcamiento, y si es igual o inferior es garaje. Es de los datos que más se preguntan. Truco: por encima de cien, aparcamiento; hasta cien, garaje."
+   "notas_p": "N1: Segunda pregunta, un número que cae seguro. Te la leo. ¿Qué superficie construida separa un aparcamiento de un garaje? Escucha las cuatro opciones. Opción A: cincuenta metros cuadrados. Opción B: setenta y cinco metros cuadrados. Opción C: cien metros cuadrados. Opción D: ciento cincuenta metros cuadrados. Piénsalo un momento.\nN2: Pista: es una cifra redonda de metros cuadrados; piensa en la superficie construida.",
+   "notas_r": "N2: La respuesta correcta es la opción C: cien metros cuadrados. ¿Por qué? Porque si la superficie construida supera los cien metros cuadrados es aparcamiento, y si es igual o inferior a cien metros cuadrados es garaje. Es de los datos que más se preguntan; las otras cifras, cincuenta, setenta y cinco o ciento cincuenta, son solo distractores. El truco: por encima de cien, aparcamiento; hasta cien, garaje.\nN1: Cien metros cuadrados, la frontera."
   },
   {
    "tipo": "contenido",
@@ -275,8 +275,8 @@
    ],
    "correcta": 1,
    "porque": "La llave de usuario pertenece a la común y establece el límite con la individual: cierra una y da inicio a la otra.",
-   "notas_p": "N1: La joya del examen: ¿qué llave marca la frontera entre lo común y lo individual?\nN2: Pista: es la que pertenece a la instalación común pero da inicio a tu instalación de vivienda.",
-   "notas_r": "N1: ¿Por qué la llave de usuario?\nN2: Porque la instalación común llega hasta las llaves de usuario, incluidas, y la individual arranca justo en la llave de usuario, excluida. Es la frontera: cierra la común y abre la individual. La regla de oro: lo que pone la comunidad va excluido, y lo tuyo va incluido."
+   "notas_p": "N1: Tercera pregunta, la joya del examen. Te la leo entera. ¿Qué llave marca el límite entre la instalación común y la individual? Escucha las cuatro opciones. Opción A: la llave de acometida. Opción B: la llave de usuario. Opción C: la llave de edificio. Opción D: la llave de conexión de aparato. Tómate un segundo.\nN2: Pista: es la que pertenece a la instalación común pero da inicio a tu instalación de vivienda.",
+   "notas_r": "N2: La respuesta correcta es la opción B: la llave de usuario. ¿Por qué? Porque la instalación común llega hasta las llaves de usuario, incluidas, y la individual arranca justo en la llave de usuario, excluida; es la frontera, cierra la común y abre la individual. La llave de acometida separa lo de la compañía de lo tuyo, la de edificio corta todo el inmueble y la de conexión de aparato está pegada al aparato; ninguna de esas es la frontera. La regla de oro: lo que pone la comunidad va excluido, y lo tuyo va incluido.\nN1: La llave de usuario, el mojón entre lo común y lo tuyo."
   },
   {
    "tipo": "cierre",

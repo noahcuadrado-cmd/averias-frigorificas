@@ -159,8 +159,8 @@
    ],
    "correcta": 0,
    "porque": "El GLP va siempre por la norma nacional UNE 60630; el resto de gases, por el marco europeo.",
-   "notas_p": "N1: Vamos a ver si lo has fijado. Cuatro normas, un solo gas, el GLP. ¿Cuál es la suya?\nN2: Pista: el GLP es el único que va por norma nacional española; las otras tres son de gas natural, de hidrógeno o del marco europeo.",
-   "notas_r": "N1: ¿Por qué la primera?\nN2: Porque el GLP se diseña con la UNE sesenta mil seiscientos treinta, y punto. La dieciséis mil novecientos veintitrés es de gas natural comprimido, la diecinueve mil ochocientos ochenta es de hidrógeno, y la directiva es el marco europeo del resto de gases. El truco para no caer: si el gas es GLP, ni mires a Europa, tira de la norma española."
+   "notas_p": "N1: Vamos con la pregunta, y escucha bien las cuatro opciones porque puedes jugar tú solo. La pregunta es: ¿con qué norma se diseña una estación de servicio de GLP para vehículos? Opción A, la UNE sesenta mil seiscientos treinta; opción B, la UNE-EN ISO dieciséis mil novecientos veintitrés; opción C, la ISO diecinueve mil ochocientos ochenta guion uno; opción D, la directiva europea de combustibles alternativos. Párala un momento y piensa cuál es.\nN2: Pista para orientarte: el GLP es el único gas que va por norma nacional española; las otras tres son de gas natural, de hidrógeno o del marco europeo.",
+   "notas_r": "N2: La respuesta correcta es la opción A: la UNE sesenta mil seiscientos treinta. El GLP se diseña siempre con esa norma nacional española, y punto. La opción B, la dieciséis mil novecientos veintitrés, es de gas natural comprimido; la opción C, la diecinueve mil ochocientos ochenta, es de hidrógeno; y la opción D, la directiva, es el marco europeo del resto de gases. El truco para no caer: si el gas es GLP, ni mires a Europa, tira de la norma española.\nN1: Eso es: GLP igual a norma española, siempre."
   },
   {
    "tipo": "contenido",
@@ -250,8 +250,8 @@
    ],
    "correcta": 1,
    "porque": "Hasta que el organismo de control no emite el certificado de inspección, la estación no está en disposición de servicio.",
-   "notas_p": "N1: Chispa rápida. De los papeles que has visto, ¿cuál es la luz verde que permite pedir el primer gas?\nN2: Pista: es el que firma el árbitro independiente, no el que monta ni el que dirige.",
-   "notas_r": "N1: ¿Por qué el de inspección?\nN2: Porque es el que emite el organismo de control tras los ensayos favorables, y solo con él la instalación queda en disposición de servicio. El de instalación lo firma la instaladora y el de dirección de obra el director; ninguno de esos dos abre la estación. El truco: la luz verde la da siempre el tercero independiente."
+   "notas_p": "N1: Otra pregunta, y de nuevo tienes las cuatro opciones para jugar. ¿Qué certificado deja la estación en disposición de servicio? Opción A, el certificado de instalación; opción B, el certificado de inspección; opción C, el certificado de dirección de obra; opción D, el proyecto constructivo. Tómate un segundo y decídete.\nN2: Pista: es el papel que firma el árbitro independiente, no el que monta ni el que dirige.",
+   "notas_r": "N2: La respuesta correcta es la opción B: el certificado de inspección. Es el que emite el organismo de control tras los ensayos favorables, y solo con él la instalación queda en disposición de servicio. La opción A, el de instalación, lo firma la empresa instaladora; la opción C, el de dirección de obra, lo firma el director de obra; y la opción D, el proyecto constructivo, es de la fase de papel y no abre nada. Ninguno de esos tres da la luz verde. El truco: la luz verde la da siempre el tercero independiente.\nN1: El árbitro de fuera, ese es el que abre la estación."
   },
   {
    "tipo": "contenido",
@@ -288,8 +288,8 @@
    ],
    "correcta": 1,
    "porque": "Para la estación de servicio, la comunicación es en quince días hábiles contados desde la fecha del primer llenado.",
-   "notas_p": "N1: Pregunta trampa clásica. Tras el primer llenado, ¿cuánto margen tienes para avisar a la Administración?\nN2: Pista: ojo con confundirlo con el plazo general de las instalaciones receptoras; y fíjate en si los días son hábiles o naturales.",
-   "notas_r": "N1: ¿Por qué la segunda?\nN2: Porque para la estación de servicio son quince días hábiles, y se cuentan desde la fecha del primer llenado, no desde que acabas el montaje. Los treinta días son el plazo de la instalación receptora, que es otra cosa. El truco para no fallar: estación de servicio, quince hábiles desde el primer llenado, y por duplicado."
+   "notas_p": "N1: Pregunta trampa clásica, escucha las cuatro opciones enteras. Tras el primer llenado, ¿qué plazo hay para comunicar la estación? Opción A, treinta días naturales desde la puesta en servicio; opción B, quince días hábiles desde el primer llenado; opción C, quince días naturales desde el fin del montaje; opción D, un mes desde la inspección inicial. Piénsalo antes de que te lo diga.\nN2: Pista: fíjate bien en dos cosas, si los días son hábiles o naturales, y desde qué momento se cuentan.",
+   "notas_r": "N2: La respuesta correcta es la opción B: quince días hábiles desde el primer llenado. Son hábiles, no naturales, así que no cuentas sábados, domingos ni festivos, y se cuentan desde la fecha del primer llenado, no desde que acabas el montaje. La opción A, los treinta días, es el plazo de la instalación receptora, que es otra cosa distinta; la opción C se equivoca en lo de naturales y en contar desde el montaje; y la opción D, el mes desde la inspección, se lo inventa. El truco para no fallar: estación de servicio, quince hábiles desde el primer llenado, y por duplicado.\nN1: Quince hábiles y desde el primer gas; no lo mezcles con los treinta de la receptora."
   },
   {
    "tipo": "contenido",

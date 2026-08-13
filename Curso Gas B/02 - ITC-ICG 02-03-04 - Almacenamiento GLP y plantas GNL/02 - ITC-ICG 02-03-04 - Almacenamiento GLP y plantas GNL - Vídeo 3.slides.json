@@ -90,8 +90,8 @@
    ],
    "correcta": 1,
    "porque": "Por encima de 13 m³ de capacidad hace falta proyecto de técnico competente.",
-   "notas_p": "N1: El número mágico del papeleo. ¿Por encima de cuántos metros cúbicos toca proyecto?\nN2: Es una de las cifras estrella del vídeo. Piensa en el umbral que separa la memoria del proyecto.",
-   "notas_r": "N1: ¿Por qué trece y no otro?\nN2: Porque la instrucción fija en más de trece metros cúbicos el disparador de proyecto por capacidad; por debajo, y sin otras complicaciones, basta memoria técnica que firma el instalador. Recuerda que hay más disparadores, como alimentar una red o el acceso público, pero el de la capacidad es el trece. El truco: trece, el número mágico del proyecto."
+   "notas_p": "N1: El número mágico del papeleo. ¿A partir de qué capacidad un depósito fijo de GLP exige proyecto en vez de memoria? Opción A, más de diez metros cúbicos. Opción B, más de trece metros cúbicos. Opción C, más de quince metros cúbicos. Opción D, más de quinientos metros cúbicos. Elige.\nN2: Pista: es una de las cifras estrella del vídeo; piensa en el umbral que separa la memoria del proyecto.",
+   "notas_r": "N2: La respuesta correcta es la opción B: más de trece metros cúbicos. ¿Por qué? Porque la instrucción fija en más de trece metros cúbicos el disparador de proyecto por capacidad; por debajo, y sin otras complicaciones, basta memoria técnica que firma el instalador. Recuerda que hay más disparadores, como alimentar una red o el acceso público, pero el de la capacidad es el trece. El truco: trece, el número mágico del proyecto.\nN1: Trece, el número mágico."
   },
   {
    "tipo": "contenido",
@@ -169,8 +169,8 @@
    ],
    "correcta": 2,
    "porque": "El punto alto de llenado corta al 85 %; ese 15 % de hueco es el colchón para que el líquido se dilate.",
-   "notas_p": "N1: Nunca se llena hasta arriba. ¿En qué porcentaje corta el llenado?\nN2: Recuerda que el GLP líquido se dilata con el calor y necesita sitio.",
-   "notas_r": "N1: ¿Por qué el ochenta y cinco y no el cien?\nN2: Porque el GLP líquido se dilata cuando sube la temperatura, así que el punto alto de llenado corta al ochenta y cinco por ciento y deja un quince por ciento de hueco como colchón. Sin ese margen, en pleno verano el depósito reventaría o dispararía la válvula. Cuidado con el sesenta y cinco, que es el coeficiente de otra fórmula distinta, la de los envases."
+   "notas_p": "N1: Un depósito nunca se llena hasta arriba. ¿Hasta qué porcentaje del volumen se llena un depósito fijo de GLP? Opción A, hasta el cien por cien. Opción B, hasta el noventa y cinco por ciento. Opción C, hasta el ochenta y cinco por ciento. Opción D, hasta el sesenta y cinco por ciento. Piensa un momento.\nN2: Pista: recuerda que el GLP líquido se dilata con el calor y necesita sitio para crecer.",
+   "notas_r": "N2: La respuesta correcta es la opción C: hasta el ochenta y cinco por ciento. ¿Por qué? Porque el GLP líquido se dilata cuando sube la temperatura, así que el punto alto de llenado corta al ochenta y cinco por ciento y deja un quince por ciento de hueco como colchón. Sin ese margen, en pleno verano el depósito reventaría o dispararía la válvula. Cuidado con la opción D, el sesenta y cinco, que es el coeficiente de otra fórmula distinta, la de los envases.\nN1: Ochenta y cinco de llenado, y no lo confundas con el sesenta y cinco."
   },
   {
    "tipo": "contenido",

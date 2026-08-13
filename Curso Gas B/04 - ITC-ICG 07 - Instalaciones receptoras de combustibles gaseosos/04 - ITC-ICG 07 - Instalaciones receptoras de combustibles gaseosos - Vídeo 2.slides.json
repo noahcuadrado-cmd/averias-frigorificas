@@ -64,8 +64,8 @@
    ],
    "correcta": 1,
    "porque": "La individual, por ser la pequeña, salta con setenta kilovatios; la común y la acometida aguantan hasta dos mil.",
-   "notas_p": "N1: Instalación individual. ¿Cuántos kilovatios tiene que superar para obligarte a hacer proyecto?\nN2: Recuerda que la individual es la pequeña de la familia, así que salta antes que la común y la acometida. Una de las opciones es justo el listón de esas dos grandes, no las confundas.",
-   "notas_r": "N1: ¿Por qué setenta?\nN2: Porque una instalación individual necesita proyecto en cuanto pasa de setenta kilovatios. Los dos mil son el listón de la común y de la acometida interior, que son mayores. La lógica: la pequeña salta antes. Y por encima de todo, si la red da más de cinco bar, siempre hay proyecto, sea cual sea la potencia."
+   "notas_p": "N1: Pregunta de proyecto. Escucha: ¿a partir de qué potencia necesita proyecto una instalación individual? Cuatro opciones. Opción A, dos mil kilovatios. Opción B, setenta kilovatios. Opción C, treinta kilovatios. Opción D, veinticuatro con cuatro kilovatios. Piénsalo un momento.\nN2: Recuerda que la individual es la pequeña de la familia, así que salta antes que la común y la acometida. Una de las opciones es justo el listón de esas dos grandes; no las confundas.",
+   "notas_r": "N1: ¿Lo tienes claro?\nN2: La respuesta correcta es la opción B: setenta kilovatios. Una instalación individual necesita proyecto en cuanto pasa de setenta kilovatios. La opción A, los dos mil, es el listón de la común y de la acometida interior, que son mayores; la lógica es que la pequeña salta antes. Las de treinta y veinticuatro con cuatro son cifras de otros apartados que se cuelan para despistar. Y no lo olvides: si la red da más de cinco bar, siempre hay proyecto, sea cual sea la potencia.\nN1: Individual, setenta; común y acometida, dos mil."
   },
   {
    "tipo": "contenido",
@@ -114,8 +114,8 @@
    ],
    "correcta": 2,
    "porque": "La prueba de entrega la hace quien monta, es decir la empresa instaladora, y el resultado queda en el certificado de instalación.",
-   "notas_p": "N1: Antes de entregar la instalación hay que probar que no tiene fugas. ¿Quién hace esa prueba de estanquidad?\nN2: Piensa en el matiz del reglamento entre probar e inspeccionar. La prueba de entrega la hace quien ha montado; la inspección, en cambio, la hace un tercero. No mezcles los dos papeles.",
-   "notas_r": "N1: ¿Por qué la instaladora?\nN2: Porque la prueba de estanquidad de entrega la realiza la propia empresa instaladora, la que ha montado, siguiendo la UNE sesenta mil seiscientos setenta guion ocho en baja o la seiscientos veinte en alta, y el resultado favorable se hace constar en el certificado de instalación. El distribuidor aparece después, en la puesta en servicio; no lo confundas con la prueba de entrega. Truco: quien monta, prueba."
+   "notas_p": "N1: Pregunta de quién hace qué. La cuestión: ¿quién realiza la prueba de estanquidad antes de entregar la instalación? Escucha las opciones. Opción A, el distribuidor. Opción B, un organismo de control independiente. Opción C, la empresa instaladora. Opción D, el usuario titular. Tómate un segundo.\nN2: Piensa en el matiz del reglamento entre probar e inspeccionar. La prueba de entrega la hace quien ha montado; la inspección, en cambio, la hace un tercero. No mezcles los dos papeles.",
+   "notas_r": "N1: ¿Ya lo has decidido?\nN2: La respuesta correcta es la opción C: la empresa instaladora. La prueba de estanquidad de entrega la hace la propia empresa que ha montado, siguiendo la UNE sesenta mil seiscientos setenta guion ocho en baja o la seiscientos veinte en alta, y el resultado favorable se hace constar en el certificado de instalación. La opción A, el distribuidor, es la trampa: ese aparece después, en la puesta en servicio, no en la prueba de entrega. Y ni el organismo de control ni el usuario pintan aquí. Truco: quien monta, prueba.\nN1: La instaladora prueba; el distribuidor llega luego."
   },
   {
    "tipo": "contenido",
@@ -165,8 +165,8 @@
    ],
    "correcta": 2,
    "porque": "Solo el individual, el IRG-3, llega hasta los aparatos dentro de la vivienda, así que es el único que los lista con su consumo nominal.",
-   "notas_p": "N1: Tres certificados, uno por tramo. ¿Cuál es el que tiene que listar los aparatos de consumo con sus kilovatios?\nN2: Piensa en cuál de los tres tramos llega de verdad hasta los aparatos dentro de la casa. Los otros dos se quedan por el camino, en la entrada y en el montante.",
-   "notas_r": "N1: ¿Por qué el individual?\nN2: Porque el uno erre ge guion tres, el de la instalación individual, es el único tramo que llega hasta los aparatos dentro de la vivienda; por eso es el único que los lista con su consumo calorífico nominal. El de la acometida y el de la común se quedan en la entrada y en el montante, sin aparatos que anotar. Truco: si la pregunta habla de listar aparatos y potencias, piensa siempre en el individual."
+   "notas_p": "N1: Pregunta de certificados. Escucha bien: ¿cuál de los certificados de instalación lista los aparatos y su consumo? Las opciones. Opción A, el uno erre ge guion uno, el de la acometida interior. Opción B, el uno erre ge guion dos, el de la instalación común. Opción C, el uno erre ge guion tres, el de la instalación individual. Opción D, los tres por igual. Piénsalo.\nN2: Pista: ¿cuál de los tres tramos llega de verdad hasta los aparatos dentro de la casa? Los otros dos se quedan por el camino, en la entrada y en el montante.",
+   "notas_r": "N1: ¿Lo tienes?\nN2: La respuesta correcta es la opción C: el uno erre ge guion tres, el de la instalación individual. Es el único tramo que llega hasta los aparatos dentro de la vivienda, así que es el único que los lista con su consumo calorífico nominal. El uno erre ge guion uno y el guion dos se quedan en la entrada y en el montante, sin aparatos que anotar; por eso la opción de los tres por igual es falsa. Truco: si la pregunta habla de listar aparatos y potencias, piensa siempre en el individual.\nN1: Aparatos con su consumo, el tres."
   },
   {
    "tipo": "contenido",

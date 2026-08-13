@@ -258,8 +258,8 @@
    ],
    "correcta": 2,
    "porque": "Por encima de quinientas partes por millón de CO corregido no diluido en los humos, el aparato no se pone en marcha.",
-   "notas_p": "N1: Uno de los números estrella del tema. ¿Cuál es el tope de monóxido en los humos?\nN2: No lo confundas con el del ambiente, que es mucho más bajo. Este se mide dentro del humo.",
-   "notas_r": "N1: ¿Por qué la ce?\nN2: El monóxido corregido no diluido en los humos no puede pasar de quinientas partes por millón; si las supera, el aparato no arranca. Ojo a las trampas: quince es el del ambiente, y dos mil quinientas es el del dióxido en ambiente."
+   "notas_p": "N1: Uno de los números estrella del tema. Escucha la pregunta y las cuatro opciones. ¿Cuál es el tope de monóxido corregido no diluido en los humos para poder arrancar? Opción A, quince partes por millón. Opción B, doscientas cincuenta partes por millón. Opción C, quinientas partes por millón. Opción D, dos mil quinientas partes por millón. Piénsalo un momento.\nN2: Pista: no lo confundas con el del ambiente, que es mucho más bajo. Este se mide dentro del humo.",
+   "notas_r": "N2: La respuesta correcta es la opción C: quinientas partes por millón. Por encima de quinientas partes por millón de monóxido corregido no diluido en los humos, el aparato no se pone en marcha. El truco para no fallar: quince es el del ambiente y dos mil quinientas es el del dióxido en ambiente; no los mezcles.\nN1: Quinientas en humos; ese es el tope."
   },
   {
    "tipo": "contenido",
@@ -285,8 +285,8 @@
    ],
    "correcta": 1,
    "porque": "La sonda se sitúa a un metro de los aparatos y a uno coma ochenta de altura, y se mide a los cinco minutos de funcionamiento.",
-   "notas_p": "N1: El trío de la medida del monóxido en ambiente. ¿Dónde va la sonda y cuándo mides?\nN2: Recuerda que se mide donde respira la gente, más o menos a la altura de la cara.",
-   "notas_r": "N1: ¿Por qué la be?\nN2: Cinco minutos, un metro de los aparatos y uno coma ochenta de altura. La de quince minutos es la del anexo B para radiantes de tipo A, no la general. Memoriza el trío: cinco minutos, un metro, uno coma ochenta."
+   "notas_p": "N1: El trío de la medida del monóxido en ambiente. Atento a la pregunta y a las cuatro opciones. En la medición del monóxido en el ambiente, ¿dónde y cuándo se coloca la sonda? Opción A, a dos metros de los aparatos y al minuto. Opción B, a un metro de los aparatos, a uno coma ochenta de altura, a los cinco minutos. Opción C, pegada al quemador, nada más encender. Opción D, a uno coma ochenta de altura, a los quince minutos. Piénsalo un momento.\nN2: Pista: se mide donde respira la gente, más o menos a la altura de la cara.",
+   "notas_r": "N2: La respuesta correcta es la opción B: a un metro de los aparatos, a uno coma ochenta de altura, a los cinco minutos. La de quince minutos, la opción D, es la del anexo B para radiantes de tipo A, no la general. El truco para no fallar, memoriza el trío: cinco minutos, un metro, uno coma ochenta.\nN1: Cinco minutos, un metro, uno coma ochenta de altura."
   },
   {
    "tipo": "contenido",
@@ -338,8 +338,8 @@
    ],
    "correcta": 2,
    "porque": "La calibración se repite como máximo cada dieciocho meses; puede hacerse antes, pero nunca más tarde.",
-   "notas_p": "N1: Los tres números de los equipos. ¿Cuál es el máximo entre calibración y calibración?\nN2: Recuerda el truco: dieciocho meses de vigencia, cinco años de papeles, cinco por ciento de margen.",
-   "notas_r": "N1: ¿Por qué la ce?\nN2: Dieciocho meses es el tope entre calibraciones; puede hacerse antes si mides mucho, pero nunca después. No lo mezcles con los cinco años del registro documental ni con el más menos cinco por ciento de incertidumbre."
+   "notas_p": "N1: Los tres números de los equipos. Escucha la pregunta y las cuatro opciones. ¿Cada cuánto, como máximo, debe calibrarse el analizador de combustión? Opción A, cada seis meses. Opción B, cada doce meses. Opción C, cada dieciocho meses. Opción D, cada veinticuatro meses. Tómate un momento.\nN2: Pista: recuerda el truco, dieciocho meses de vigencia, cinco años de papeles, cinco por ciento de margen.",
+   "notas_r": "N2: La respuesta correcta es la opción C: cada dieciocho meses. Es el tope entre calibración y calibración; puede hacerse antes si mides mucho, pero nunca después. El truco para no fallar: no lo mezcles con los cinco años del registro documental ni con el más menos cinco por ciento de incertidumbre.\nN1: Dieciocho meses como máximo; antes sí, después no."
   },
   {
    "tipo": "contenido",

@@ -55,8 +55,8 @@
    ],
    "correcta": 0,
    "porque": "Los parámetros de calidad son, al menos, la presión y el odorizante; sin odorante nadie huele la fuga.",
-   "notas_p": "N1: Dos parámetros, ni uno más para esta pregunta.\nN2: Uno hace que el gas llegue con fuerza; el otro hace que puedas olerlo si se escapa. Esos dos.",
-   "notas_r": "N1: ¿Por qué la a?\nN2: Porque los dos parámetros de calidad que se vigilan siempre son la presión y el odorizante. El odorante es el que huele a huevo podrido: si falta, hay fuga y nadie la nota hasta que es tarde."
+   "notas_p": "N1: Vamos con una pregunta. Escucha la pregunta y las cuatro opciones. ¿Cuáles son los dos parámetros de calidad que vigila el centro de operación? Opción A: la presión y la concentración de odorizante. Opción B: la temperatura y el caudal del gas. Opción C: la humedad y el poder calorífico. Opción D: el diámetro del tubo y la profundidad de la zanja.\nN2: Tómate un momento. Uno de los dos hace que el gas llegue con fuerza; el otro hace que puedas olerlo si se escapa. Con eso lo tienes.",
+   "notas_r": "N2: La respuesta correcta es la opción A: la presión y la concentración de odorizante. ¿Por qué? Porque los dos parámetros de calidad que se vigilan siempre son la presión, para que el gas llegue con la fuerza justa, y el odorizante, esa sustancia que huele a huevo podrido y que se le añade al gas a propósito. Si falta el odorante, hay una fuga y nadie la nota hasta que es tarde. La temperatura, el caudal, la humedad o el diámetro son distractores. El truco: fuerza y olfato, presión y odorante.\nN1: Esos dos, siempre a raya."
   },
   {
    "tipo": "contenido",
@@ -121,8 +121,8 @@
    ],
    "correcta": 0,
    "porque": "La misma fuga es urgente pegada a una vivienda y solo de vigilancia en campo abierto; decide la cercanía a propiedades y su uso.",
-   "notas_p": "N1: Una fuga igual puede ser urgente o de simple vigilancia. ¿De qué depende?\nN2: No es solo el tamaño. Piensa dónde está la fuga y quién vive al lado.",
-   "notas_r": "N1: ¿Por qué la a?\nN2: Porque lo que dispara la urgencia es la proximidad a propiedades y edificios y el uso que se les da: junto a una vivienda el gas se acumula y hace daño. También cuentan el tipo de gas, la presión de operación y el detector, pero la cercanía es la que más pesa."
+   "notas_p": "N1: Pregunta con miga. Escúchala con sus cuatro opciones. ¿Qué factor pesa más para clasificar una fuga como urgente? Opción A: la proximidad de la fuga a edificios habitados. Opción B: el color de la llama en los aparatos cercanos. Opción C: la antigüedad de la tubería afectada. Opción D: el día de la semana en que se detecta.\nN2: Piénsalo un momento. Una misma fuga puede ser urgente o de simple vigilancia, y no es solo el tamaño. ¿Dónde está la fuga y quién vive al lado?",
+   "notas_r": "N2: La respuesta correcta es la opción A: la proximidad de la fuga a edificios habitados. ¿Por qué? Porque lo que dispara la urgencia es la cercanía a propiedades y edificios y el uso que se les da: pegada a una vivienda, el gas se acumula y hace daño a la gente, mientras que esa misma fuga en pleno campo solo se vigila. También cuentan el tipo de gas, la presión de operación y lo que diga el detector, pero la cercanía es la que más pesa. El color de la llama, la antigüedad del tubo o el día de la semana no pintan nada aquí.\nN1: La clave: no es el tamaño, es a quién tiene al lado."
   },
   {
    "tipo": "contenido",
@@ -187,8 +187,8 @@
    ],
    "correcta": 0,
    "porque": "Se solicita información con treinta días, el distribuidor responde en veinte y el inicio de la obra se avisa con veinticuatro horas.",
-   "notas_p": "N1: Tres números seguidos, y el orden importa.\nN2: Pido con antelación larga, me contestan algo más rápido y el arranque lo aviso con un día justo. ¿Cuántos días y horas exactos?",
-   "notas_r": "N1: ¿Por qué la a?\nN2: Porque el truco temporal es: pido con treinta, me contestan en veinte, aviso con veinticuatro horas. Las demás bailan los números. Y ojo, no se puede empezar hasta recibir y aceptar formalmente la información."
+   "notas_p": "N1: Tres números seguidos, y el orden importa. Escucha la pregunta y las cuatro opciones. Obras de terceros: ¿cuáles son los tres plazos, en orden? Opción A: aviso treinta días antes; el distribuidor contesta en veinte; inicio con veinticuatro horas. Opción B: aviso veinte días antes; el distribuidor contesta en treinta; inicio con cuarenta y ocho horas. Opción C: aviso quince días antes; el distribuidor contesta en diez; inicio con veinticuatro horas. Opción D: aviso treinta días antes; el distribuidor contesta en veinticuatro; inicio con veinte horas.\nN2: Tómate un momento. Pido con antelación larga, me contestan algo más rápido y el arranque lo aviso con un día justo. ¿Cuántos días y cuántas horas exactos?",
+   "notas_r": "N2: La respuesta correcta es la opción A: aviso treinta días antes; el distribuidor contesta en veinte; inicio con veinticuatro horas. ¿Por qué? Porque el truco temporal es pido con treinta, me contestan en veinte y aviso con veinticuatro horas. Las demás opciones bailan los números: cambian el orden o meten cuarenta y ocho o veinte horas donde no toca. Y ojo a un detalle: no se puede empezar a picar hasta haber recibido y aceptado formalmente esa información.\nN1: Treinta, veinte y veinticuatro. En ese orden."
   },
   {
    "tipo": "contenido",

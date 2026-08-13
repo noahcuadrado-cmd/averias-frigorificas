@@ -13,9 +13,18 @@
    "tipo": "cifras",
    "titulo": "Sobre este vídeo",
    "tarjetas": [
-    ["3", "tipos de aparato por combustión"],
-    ["24,4", "kW: umbral de aparatos exigentes"],
-    ["5", "años archivando el certificado"]
+    [
+     "3",
+     "tipos de aparato por combustión"
+    ],
+    [
+     "24,4",
+     "kW: umbral de aparatos exigentes"
+    ],
+    [
+     "5",
+     "años archivando el certificado"
+    ]
    ],
    "notas": "N1: ¿Qué tres números marcan este vídeo?\nN2: Tres. Primero, tres tipos de aparato según el circuito de combustión: A, B y C. Segundo, veinticuatro coma cuatro kilovatios, que es la potencia que separa los aparatos exigentes de los normales, a la hora de decidir quién puede arrancarlos. Y tercero, cinco años, que es lo que tienes que guardar el certificado de puesta en marcha a disposición de la comunidad autónoma. Con estos tres números tienes las claves numéricas del vídeo."
   },
@@ -48,11 +57,35 @@
    "tipo": "tabla",
    "eyebrow": "Tipos A · B · C",
    "titulo": "Clasificación por circuito de combustión",
-   "headers": ["Tipo", "Nombre", "Toma de aire", "Evacúa humos", "Ejemplos típicos"],
+   "headers": [
+    "Tipo",
+    "Nombre",
+    "Toma de aire",
+    "Evacúa humos",
+    "Ejemplos típicos"
+   ],
    "rows": [
-    ["A", "No conducido", "Del local", "Al local (sin conducto de evacuación)", "Cocina, horno, encimera, calentadores pequeños"],
-    ["B", "Conducido de cámara abierta", "Del local", "Al exterior por conducto de humos", "Calentador atmosférico, caldera atmosférica"],
-    ["C", "Estanco", "Del exterior", "Al exterior (circuito estanco respecto al local)", "Caldera estanca, caldera de condensación estanca"]
+    [
+     "A",
+     "No conducido",
+     "Del local",
+     "Al local (sin conducto de evacuación)",
+     "Cocina, horno, encimera, calentadores pequeños"
+    ],
+    [
+     "B",
+     "Conducido de cámara abierta",
+     "Del local",
+     "Al exterior por conducto de humos",
+     "Calentador atmosférico, caldera atmosférica"
+    ],
+    [
+     "C",
+     "Estanco",
+     "Del exterior",
+     "Al exterior (circuito estanco respecto al local)",
+     "Caldera estanca, caldera de condensación estanca"
+    ]
    ],
    "nota": "Los tipos B y C son los aparatos conducidos: van unidos a un conducto de evacuación de los humos.",
    "notas": "N1: ¿Cómo se leen de un vistazo los tres tipos de aparato?\nN2: Esta tabla es el mapa de la clasificación por combustión, y se lee con una frase: de dónde respira y por dónde echa el humo. Fila del tipo a, no conducido: respira del local y devuelve los humos al local, no tiene conducto; por eso exige buena ventilación, como una cocina o un horno. Fila del tipo be, conducido de cámara abierta: respira del local pero echa los humos fuera por un conducto, como un calentador atmosférico. Fila del tipo ce, estanco: respira del exterior y echa fuera, aislado del local, como una caldera estanca o de condensación. Los tipos be y ce son los conducidos. Ejemplo de obra: en un baño pequeño y poco ventilado, el tipo ce es la opción segura, porque no depende del aire de la estancia."
@@ -68,8 +101,8 @@
    ],
    "correcta": 1,
    "porque": "Los aparatos de tipo B y C van unidos a un conducto de evacuación de los productos de la combustión; el A no tiene conducto y devuelve los humos al local.",
-   "notas_p": "N1: Con la tabla fresca, una pregunta directa.\nN2: Recuerda cuáles echaban los humos al exterior por un conducto. El que los suelta al propio local se queda fuera de la definición.",
-   "notas_r": "N1: ¿Por qué be y ce?\nN2: Porque ambos evacúan al exterior por un conducto de humos; el tipo a no está unido a ningún conducto, devuelve los productos al local. El truco: conducido es el que tiene conducto, y eso solo lo cumplen la be y la ce."
+   "notas_p": "N1: Con la tabla de los tipos fresca, una pregunta directa: ¿qué tipos de aparato son los que la ITC llama conducidos? Opción a: solo el tipo a, el no conducido. Opción be: los tipos be y ce, unidos a conducto. Opción ce: solo el tipo ce, el estanco. Opción de: los tipos a y be, de cámara abierta. Piénsalo un momento... ¿cuáles echaban los humos al exterior por un conducto? El que los suelta al propio local se queda fuera.",
+   "notas_r": "N2: La respuesta correcta es la opción be: los tipos be y ce, unidos a conducto. El porqué es claro: tanto el be como el ce evacúan los humos al exterior por un conducto de evacuación; en cambio, el tipo a no está unido a ningún conducto, devuelve los productos de la combustión al propio local. El truco: conducido es el que tiene conducto, y eso solo lo cumplen la be y la ce.\nN1: Be y ce, los conducidos. El a se queda fuera."
   },
   {
    "tipo": "contenido",
@@ -145,8 +178,8 @@
    ],
    "correcta": 1,
    "porque": "Los conducidos de tipo B y C de más de 24,4 kW y las vitrocerámicas de fuegos cubiertos solo los atiende el SAT del fabricante con calidad certificada o un instalador que cumpla el capítulo 4 de la ITC-ICG 09.",
-   "notas_p": "N1: Un número muy concreto que le encanta al examen.\nN2: Es la línea que separa el aparato exigente del normal. Piensa en la cifra de potencia útil que marca la frontera; ojo, no la redondees.",
-   "notas_r": "N1: ¿Por qué esa cifra?\nN2: Porque la ITC fija el umbral en veinticuatro coma cuatro kilovatios de potencia útil para los aparatos conducidos; por encima de ahí, y las vitrocerámicas de fuegos cubiertos, solo los toca gente especialmente cualificada. El truco para no fallar: memoriza veinticuatro coma cuatro, no lo redondees a veinticinco."
+   "notas_p": "N1: Un número muy concreto que le encanta al examen. Escucha: ¿a partir de qué potencia un aparato conducido, tipo be o ce, solo lo pone en marcha personal especialmente cualificado? Opción a: más de veinte kilovatios de potencia útil. Opción be: más de veinticuatro coma cuatro kilovatios de potencia útil. Opción ce: más de treinta kilovatios de potencia útil. Opción de: más de quince kilovatios de potencia útil. Piensa la cifra exacta, y ojo, no la redondees...",
+   "notas_r": "N2: La respuesta correcta es la opción be: más de veinticuatro coma cuatro kilovatios de potencia útil. El porqué: la ITC fija ahí el umbral para los aparatos conducidos; por encima de veinticuatro coma cuatro kilovatios, y también las vitrocerámicas a gas de fuegos cubiertos, solo los toca el servicio técnico del fabricante con calidad certificada o un instalador que cumpla el capítulo cuatro de la ITC-ICG cero nueve. El truco para no fallar: memoriza veinticuatro coma cuatro, y no lo redondees a veinticinco.\nN1: Veinticuatro coma cuatro, ni un decimal de más."
   },
   {
    "tipo": "contenido",

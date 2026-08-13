@@ -91,8 +91,8 @@
    ],
    "correcta": 1,
    "porque": "Se mide en el caso más desfavorable: puertas y ventanas cerradas y campana apagada, para no diluir el monóxido con aire limpio.",
-   "notas_p": "N1: De procedimiento fino. ¿Con qué condiciones de puertas, ventanas y campana se mide el CO del aire del local?\nN2: Piensa en cuándo hay de verdad riesgo: ¿con la casa abierta o cerrada?",
-   "notas_r": "N1: ¿Por qué con todo cerrado?\nN2: Porque queremos el peor escenario. Con las ventanas abiertas, el aire limpio diluiría el monóxido y te daría una lectura falsamente buena. Cerrado y con la campana apagada compruebas qué pasa cuando la familia tiene la cocina cerrada en invierno, que es cuando hay riesgo de verdad."
+   "notas_p": "N1: De procedimiento fino. Escucha la pregunta y las cuatro opciones. ¿En qué condiciones se mide el CO-ambiente de un local, es decir, el monóxido del aire? Opción A, con puertas y ventanas abiertas y campana encendida; opción B, con puertas y ventanas cerradas y campana apagada; opción C, solo con la ventana del baño abierta; opción D, da igual, la lectura no cambia. Piénsalo un momento.\nN2: Piensa en cuándo hay de verdad riesgo: ¿con la casa abierta o cerrada?",
+   "notas_r": "N2: La respuesta correcta es la opción B: con puertas y ventanas cerradas y campana apagada. Se mide en el peor escenario: con las ventanas abiertas, el aire limpio diluiría el monóxido y te daría una lectura falsamente buena. Cerrado y con la campana apagada compruebas qué pasa cuando la familia tiene la cocina cerrada en invierno, que es cuando hay riesgo de verdad.\nN1: Todo cerrado: así ves el caso más desfavorable."
   },
   {
    "tipo": "contenido",
@@ -157,8 +157,8 @@
    ],
    "correcta": 1,
    "porque": "Mil partes por millón es el límite del CO dentro del conducto (combustión no higiénica); en el aire del local la frontera grave es cincuenta.",
-   "notas_p": "N1: La trampa estrella del vídeo. Mil partes por millón de monóxido: ¿de dónde es ese número?\nN2: No confundas el aire del local con lo que hay dentro del tubo de humos.",
-   "notas_r": "N1: ¿Por qué del conducto y no del aire del local?\nN2: Porque son dos escaleras distintas que no puedes mezclar. Cincuenta es el CO-ambiente, el del aire del local. Quinientas y mil son el CO dentro del conducto de humos: por encima de mil, combustión no higiénica, principal. Ten clavados los tres números y colocas cualquier medida en su sitio."
+   "notas_p": "N1: La trampa estrella del vídeo. Escucha la pregunta y las cuatro opciones. Mil partes por millón de monóxido de carbono, ¿a qué medida corresponde ese límite? Opción A, al CO del aire del local, el CO-ambiente; opción B, al CO medido dentro del conducto de humos; opción C, al dióxido de carbono ambiente; opción D, al oxígeno de la vena de humos. Tómate un segundo.\nN2: No confundas el aire del local con lo que hay dentro del tubo de humos.",
+   "notas_r": "N2: La respuesta correcta es la opción B: al CO medido dentro del conducto de humos. Son dos escaleras distintas que no puedes mezclar: cincuenta es el CO-ambiente, el del aire del local; quinientas y mil son el CO dentro del conducto, y por encima de mil ya es combustión no higiénica, principal. Ten clavados esos tres números y colocas cualquier medida en su sitio.\nN1: Mil es del conducto; cincuenta, del aire del local."
   },
   {
    "tipo": "contenido",
@@ -235,8 +235,8 @@
    ],
    "correcta": 2,
    "porque": "El analizador se comprueba, por el fabricante o laboratorio acreditado, en periodos nunca superiores a dieciocho meses.",
-   "notas_p": "N1: De cifras del anexo, que caen tal cual. ¿Cada cuánto se calibra el analizador de combustión?\nN2: Es el mismo plazo que ya viste para el detector de fugas de la parte once.",
-   "notas_r": "N1: ¿Por qué dieciocho meses?\nN2: Porque un analizador descalibrado te da una medida falsa y firmarías como bueno un aparato peligroso. Por eso se comprueba, por el fabricante o por un laboratorio acreditado, en periodos que nunca superen los dieciocho meses. No lo confundas con los cinco años, que es cuánto se guarda el registro documental."
+   "notas_p": "N1: De cifras del anexo, que caen tal cual. Escucha la pregunta y las cuatro opciones. ¿Cada cuánto tiempo, como máximo, hay que calibrar el analizador de combustión? Opción A, cada seis meses; opción B, cada doce meses; opción C, cada dieciocho meses; opción D, cada cinco años. Piénsalo un momento.\nN2: Es el mismo plazo que ya viste para el detector de fugas de la parte once.",
+   "notas_r": "N2: La respuesta correcta es la opción C: cada dieciocho meses. Un analizador descalibrado te da una medida falsa y firmarías como bueno un aparato peligroso, por eso se comprueba, por el fabricante o por un laboratorio acreditado, en periodos que nunca superen los dieciocho meses. No lo confundas con los cinco años, que es lo que se guarda el registro documental.\nN1: Dieciocho meses la calibración; cinco años, el papel."
   },
   {
    "tipo": "contenido",

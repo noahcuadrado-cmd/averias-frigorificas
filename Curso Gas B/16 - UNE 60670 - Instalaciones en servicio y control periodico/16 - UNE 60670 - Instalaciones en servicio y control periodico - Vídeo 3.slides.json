@@ -64,8 +64,8 @@
    ],
    "correcta": 1,
    "porque": "Entre uno y cinco litros por hora la instalación queda en aptitud de uso pendiente de corrección, que es anomalía secundaria.",
-   "notas_p": "N1: A usar la escalera. Gas natural, sitio no peligroso, y mides tres litros por hora de fuga. ¿En qué cajón cae?\nN2: Recuerda los dos escalones, el de abajo y el de arriba, y mira dónde queda el tres.",
-   "notas_r": "N1: ¿Por qué pendiente de corrección?\nN2: Porque tres litros por hora está entre uno y cinco, la franja intermedia: apta pendiente de corrección, secundaria. Por debajo de un litro por hora sería apta; por encima de cinco, no apta y principal. Memoriza los dos números, uno y cinco, y los tres cajones."
+   "notas_p": "N1: A usar la escalera. Escucha la pregunta y las cuatro opciones. Gas natural, sitio interior no peligroso, y mides una fuga de tres litros por hora, ¿cómo queda la instalación? Opción A, apta, sin más; opción B, en aptitud pendiente de corrección, secundaria; opción C, no apta, principal; opción D, no apta solo si no hay ventilación. Piensa un momento dónde cae el tres.\nN2: Recuerda los dos escalones, el de abajo y el de arriba, uno y cinco.",
+   "notas_r": "N2: La respuesta correcta es la opción B: en aptitud pendiente de corrección, que es secundaria. Tres litros por hora está entre uno y cinco, la franja intermedia. Por debajo de un litro por hora sería apta; por encima de cinco, no apta y principal. Memoriza los dos números, uno y cinco, y los tres cajones: apta, pendiente, no apta.\nN1: El tres cae en medio: pendiente de corrección."
   },
   {
    "tipo": "contenido",
@@ -102,8 +102,8 @@
    ],
    "correcta": 1,
    "porque": "Con gases más densos que el aire cualquier fuga deja la instalación no apta, sin medir: el GLP se acumula a ras de suelo y explota abajo.",
-   "notas_p": "N1: Ojo con esta, que cambia toda la lógica. Fuga pequeña, pero es GLP. ¿Sacas el medidor?\nN2: Piensa en el peso del gas y en dónde se va cuando escapa.",
-   "notas_r": "N1: ¿Por qué no apta sin medir?\nN2: Porque el GLP es más pesado que el aire: cuando escapa se va al suelo y se acumula abajo, formando una bolsa invisible que espera una chispa. No hay escalera de litros por hora que valga. El truco: el gas natural sube y se disipa; el propano no perdona, baja y explota abajo."
+   "notas_p": "N1: Ojo con esta, que cambia toda la lógica. Escucha la pregunta y las cuatro opciones. Detectas una pequeña fuga en una instalación de GLP, un gas más denso que el aire, ¿qué haces? Opción A, mides el caudal y aplicas la escalera de litros por hora; opción B, es no apta sin necesidad de medir el caudal; opción C, es apta si baja de un litro por hora; opción D, solo es secundaria si el local ventila. Párate a pensarlo.\nN2: Piensa en el peso del gas y en dónde se va cuando escapa.",
+   "notas_r": "N2: La respuesta correcta es la opción B: es no apta sin necesidad de medir el caudal. El GLP es más pesado que el aire: cuando escapa se va al suelo y se acumula abajo, formando una bolsa invisible que espera una chispa. Por eso cualquier fuga lo deja no apto y no hay escalera de litros por hora que valga. El truco: el gas natural sube y se disipa; el propano no perdona, baja y explota abajo.\nN1: Con GLP, guardas el medidor: no apta y punto."
   },
   {
    "tipo": "contenido",
@@ -179,8 +179,8 @@
    ],
    "correcta": 1,
    "porque": "La norma exige un extintor de polvo seco de capacidad igual a doce kilos, accesible y en el exterior del recinto, revisado en fecha.",
-   "notas_p": "N1: Un dato que cae tal cual y con trampa en las cifras. ¿Qué extintor va junto al recinto de la ERM?\nN2: Fíjate en tres cosas: el tipo de agente, los kilos y si va dentro o fuera.",
-   "notas_r": "N1: ¿Por qué doce kilos y en el exterior?\nN2: Porque si la emergencia está dentro del recinto no vas a entrar a por el extintor entre llamas o gas: lo quieres a mano, fuera y accesible. Y el agente es polvo seco, capacidad igual a doce kilos, revisado en fecha. En el examen te cambian el número para que piques: son doce, ni diez ni seis."
+   "notas_p": "N1: Un dato que cae tal cual y con trampa en las cifras. Escucha la pregunta y las cuatro opciones. ¿Qué extintor debe existir junto al recinto de la estación de regulación y medida? Opción A, de dióxido de carbono, de seis kilos, dentro del recinto; opción B, de polvo seco, de doce kilos, en el exterior del recinto; opción C, de agua, de diez kilos, junto al contador; opción D, de polvo seco, de seis kilos, dentro del recinto. Fíjate en el agente, los kilos y si va dentro o fuera.\nN2: Tres cosas que mirar: tipo de agente, capacidad y ubicación.",
+   "notas_r": "N2: La respuesta correcta es la opción B: de polvo seco, de doce kilos, en el exterior del recinto. Si la emergencia está dentro del recinto no vas a entrar a por el extintor entre llamas o gas: lo quieres a mano, fuera y accesible, revisado en fecha. En el examen te cambian el número para que piques: son doce kilos, ni diez ni seis, y polvo seco, no dióxido de carbono ni agua.\nN1: Doce kilos, polvo seco, exterior. Clavado."
   },
   {
    "tipo": "contenido",

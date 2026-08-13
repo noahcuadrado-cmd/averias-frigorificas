@@ -156,8 +156,8 @@
    ],
    "correcta": 3,
    "porque": "La MOP es la presión máxima de operación: la máxima admitida de forma continuada en condiciones normales.",
-   "notas_p": "N1: Bloque estrella, las siglas de presión: ¿cuál es la máxima continuada?\nN2: Pista: la letra eme te ayuda; piensa en mantenida.",
-   "notas_r": "N1: ¿Por qué la MOP?\nN2: Porque la presión máxima de operación es la más alta a la que la instalación puede estar sometida de forma continuada en condiciones normales. La MIP es la máxima en un incidente breve, la TOP la máxima temporal y la OP la que hay ahora mismo. Truco: eme de MOP igual a mantenida, i de MIP igual a incidente, te de TOP igual a temporal."
+   "notas_p": "N1: Primera pregunta, y va del bloque estrella, las siglas de presión. Te la leo entera. ¿Qué presión es la máxima a la que la instalación puede estar sometida de forma continuada? Escucha las cuatro opciones. Opción A: la MIP, eme i pe. Opción B: la TOP, te o pe. Opción C: la OP, o pe. Opción D: la MOP, eme o pe. Piénsalo un momento.\nN2: Pista: la letra eme te ayuda; piensa en mantenida.",
+   "notas_r": "N2: La respuesta correcta es la opción D: la MOP. ¿Por qué? Porque la presión máxima de operación es la más alta a la que la instalación puede estar sometida de forma continuada, en condiciones normales. La MIP es la máxima en un incidente breve, la TOP la máxima temporal y la OP la que hay ahora mismo. El truco de las iniciales: eme de MOP igual a mantenida, i de MIP igual a incidente, te de TOP igual a temporal.\nN1: MOP, la mantenida."
   },
   {
    "tipo": "contenido",
@@ -261,8 +261,8 @@
    ],
    "correcta": 2,
    "porque": "Si el material de aportación funde a 450 °C o más, la soldadura es fuerte; por debajo, es blanda.",
-   "notas_p": "N1: Un solo número lo decide: ¿desde qué temperatura la soldadura es fuerte?\nN2: Pista: es la frontera entre blanda y fuerte, una cifra redonda en grados.",
-   "notas_r": "N1: ¿Por qué cuatrocientos cincuenta grados?\nN2: Porque la soldadura fuerte es aquella cuyo material de aportación funde a cuatrocientos cincuenta grados o más; la blanda funde por debajo, a partir de doscientos veinte. La fuerte aguanta más y se exige en los tramos más comprometidos. Truco: un solo número, cuatrocientos cincuenta grados."
+   "notas_p": "N1: Segunda pregunta, un solo número lo decide. Te la leo. ¿A partir de qué temperatura de fusión del material de aportación la soldadura es fuerte? Escucha las cuatro opciones. Opción A: doscientos veinte grados. Opción B: trescientos cincuenta grados. Opción C: cuatrocientos cincuenta grados. Opción D: seiscientos grados. Tómate un segundo.\nN2: Pista: es la frontera entre blanda y fuerte, una cifra redonda en grados.",
+   "notas_r": "N2: La respuesta correcta es la opción C: cuatrocientos cincuenta grados. ¿Por qué? Porque la soldadura fuerte es aquella cuyo material de aportación funde a cuatrocientos cincuenta grados o más; la blanda funde por debajo, a partir de doscientos veinte grados. Los doscientos veinte marcan el arranque de la blanda, no la frontera; y trescientos cincuenta o seiscientos son solo distractores. La fuerte aguanta más y se exige en los tramos más comprometidos. El truco: un solo número, cuatrocientos cincuenta grados.\nN1: Cuatrocientos cincuenta, blanda abajo, fuerte arriba."
   },
   {
    "tipo": "contenido",
@@ -288,8 +288,8 @@
    ],
    "correcta": 1,
    "porque": "La VAS alivia: evacúa una pequeña cantidad de gas al exterior para reducir la presión y luego sigue trabajando.",
-   "notas_p": "N1: Tres válvulas, tres papeles: ¿qué hace la de sobrepresión, la VAS?\nN2: Pista: no corta, respira; suelta algo al exterior y sigue trabajando.",
-   "notas_r": "N1: ¿Por qué la B?\nN2: Porque la válvula de alivio de seguridad, o de sobrepresión, alivia: cuando la presión pasa de un valor suelta al exterior una pequeña cantidad de gas para bajarla, y luego sigue trabajando. La que corta por presión alta es la de máxima presión, y la que corta por presión baja es la de mínima. Regla: la de alivio respira, y las de máxima y mínima cierran."
+   "notas_p": "N1: Última pregunta del tema, tres válvulas y tres papeles. Te la leo entera. ¿Qué hace la válvula de alivio de seguridad, la VAS, o de sobrepresión? Escucha las cuatro opciones. Opción A: corta el suministro cuando la presión baja demasiado. Opción B: alivia soltando un poco de gas al exterior para bajar la presión. Opción C: corta el suministro cuando la presión sube demasiado. Opción D: regula la presión aguas abajo de forma continua. Piénsalo un momento.\nN2: Pista: esta no corta, respira; suelta algo al exterior y sigue trabajando.",
+   "notas_r": "N2: La respuesta correcta es la opción B: alivia soltando un poco de gas al exterior para bajar la presión. ¿Por qué? Porque la válvula de alivio de seguridad, o de sobrepresión, cuando la presión pasa de un valor suelta al exterior una pequeña cantidad de gas para bajarla, y luego sigue trabajando. La opción C, cortar por presión alta, es la de máxima presión; la opción A, cortar por presión baja, es la de mínima; y regular de forma continua, la opción D, es el regulador, no una válvula de seguridad. La regla: la de alivio respira, y las de máxima y mínima cierran.\nN1: La VAS respira, las VIS cierran."
   },
   {
    "tipo": "cierre",

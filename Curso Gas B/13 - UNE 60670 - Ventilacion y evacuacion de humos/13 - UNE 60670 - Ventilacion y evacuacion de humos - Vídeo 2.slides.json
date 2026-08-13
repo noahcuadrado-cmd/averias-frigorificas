@@ -95,7 +95,7 @@
     ]
    ],
    "nota": "Volumen bruto = el que hay entre paredes, sin restar muebles. Q̄ₙ es el valor de ∑Qₙ (en kW) tomado como m³.",
-   "notas": "N1: ¿Qué volumen mínimo pide una cocina de gas?\nN2: Lo da la tabla uno, y es corta. Primero sumas el consumo de todos los aparatos de tipo A que no sean de calefacción del local. Si esa suma es de dieciséis kilovatios o menos, basta con ocho metros cúbicos. Si pasa de dieciséis, el volumen mínimo es ese número de kilovatios menos ocho, tomado como metros cúbicos. Ejemplo de obra: una cocina que sume veinte kilovatios pide veinte menos ocho, doce metros cúbicos. Y recuerda que es volumen bruto: se mide entre paredes, sin descontar la nevera ni los muebles."
+   "notas": "N1: ¿Qué volumen mínimo pide una cocina de gas?\nN2: Presta atención a esta tabla, la tabla uno; tiene dos filas y te da el volumen bruto mínimo según el consumo. Primera fila: si la suma del consumo de los aparatos de tipo A que no son de calefacción es de dieciséis kilovatios o menos, el volumen mínimo es ocho metros cúbicos, un valor fijo. Segunda fila: si esa suma pasa de dieciséis kilovatios, el volumen mínimo es el número de kilovatios menos ocho, tomado como metros cúbicos. Ejemplo de obra: una cocina que sume veinte kilovatios cae en la segunda fila, veinte menos ocho, doce metros cúbicos. Y recuerda que es volumen bruto: se mide entre paredes, sin descontar la nevera ni los muebles."
   },
   {
    "tipo": "quiz",
@@ -108,8 +108,8 @@
    ],
    "correcta": 1,
    "porque": "Al pasar de 16 kW se aplica Q̄ₙ − 8: veinte menos ocho igual a doce metros cúbicos.",
-   "notas_p": "N1: Vamos a calcular. Cocina de tipo A que suma veinte kilovatios, ¿cuánto volumen?\nN2: Ojo, veinte pasa de dieciséis, así que no vale el ocho de tabla. Aplica la fórmula de la segunda fila.",
-   "notas_r": "N1: ¿Por qué doce?\nN2: Porque al superar los dieciséis kilovatios el volumen mínimo ya no es el fijo de ocho metros cúbicos, sino la potencia menos ocho, tomada como metros cúbicos: veinte menos ocho, doce. El error típico es quedarse en el ocho, o poner los veinte directos. El truco: por debajo de dieciséis, ocho fijo; por encima, resta ocho a los kilovatios."
+   "notas_p": "N1: Vamos a calcular. Escucha el enunciado: una cocina de tipo A, no de calefacción, suma veinte kilovatios; ¿qué volumen bruto mínimo pide? Y las cuatro opciones. Opción A: ocho metros cúbicos. Opción B: doce metros cúbicos. Opción C: veinte metros cúbicos. Opción D: veintiocho metros cúbicos.\nN2: Párala y haz la cuenta. Pista: veinte pasa de dieciséis, así que no vale el ocho fijo; aplica la fórmula de la segunda fila de la tabla.",
+   "notas_r": "N2: La respuesta correcta es la opción B: doce metros cúbicos. Al superar los dieciséis kilovatios, el volumen mínimo ya no es el fijo de ocho metros cúbicos, sino la potencia menos ocho, tomada como metros cúbicos: veinte menos ocho, doce.\nN1: ¿Dónde falla la gente?\nN2: En quedarse en el ocho de la primera fila, o en poner los veinte directos. El truco: por debajo de dieciséis, ocho fijo; por encima, resta ocho a los kilovatios."
   },
   {
    "tipo": "contenido",
@@ -254,8 +254,8 @@
    ],
    "correcta": 1,
    "porque": "Veinte por cinco son cien, pero el mínimo es 125 cm²; manda el mínimo.",
-   "notas_p": "N1: La regla de oro en acción. Veinte kilovatios entre tipo A y tipo B, ¿cuánta rejilla?\nN2: Haz la multiplicación, y luego acuérdate de que hay un suelo que no se puede bajar.",
-   "notas_r": "N1: ¿Por qué ciento veinticinco y no cien?\nN2: Porque cinco centímetros cuadrados por cada kilovatio dan cien, pero la norma fija un mínimo de ciento veinticinco centímetros cuadrados aunque salga menos. Como cien es menor que ciento veinticinco, manda el mínimo: pones ciento veinticinco. El truco: calcula cinco por kilovatio, y si el resultado baja de ciento veinticinco, sube a ciento veinticinco."
+   "notas_p": "N1: La regla de oro en acción. Escucha: un local con veinte kilovatios entre tipo A y tipo B; ¿qué superficie libre de ventilación pones? Y las cuatro opciones. Opción A: cien centímetros cuadrados. Opción B: ciento veinticinco centímetros cuadrados. Opción C: ciento cincuenta centímetros cuadrados. Opción D: doscientos centímetros cuadrados.\nN2: Haz la multiplicación y párala un momento. Pista: acuérdate de que hay un suelo mínimo que no se puede bajar.",
+   "notas_r": "N2: La respuesta correcta es la opción B: ciento veinticinco centímetros cuadrados. Cinco centímetros cuadrados por cada kilovatio dan cien, pero la norma fija un mínimo de ciento veinticinco aunque salga menos. Como cien es menor que ciento veinticinco, manda el mínimo.\nN1: ¿El truco?\nN2: Calcula cinco por kilovatio, y si el resultado baja de ciento veinticinco, súbelo a ciento veinticinco."
   },
   {
    "tipo": "contenido",
@@ -286,7 +286,7 @@
     ]
    ],
    "nota": "Gas natural: ligero, sube. Por eso la abertura va arriba. Con mucho tipo A (> 16 kW) hacen falta dos, y la de arriba siempre directa.",
-   "notas": "N1: Con gas natural, ¿dónde coloco la abertura de ventilación?\nN2: El gas natural es ligero y sube, así que la abertura va arriba: su extremo inferior a un metro ochenta o más del suelo y a cuarenta centímetros o menos del techo. Si el local solo tiene aparatos conducidos de tipo B, o poco tipo A, con una sola abertura arriba basta, directa o indirecta; en edificios ya construidos se relaja la altura. Pero cuando hay bastante tipo A, por encima de dieciséis kilovatios, necesitas dos aberturas, cada una de al menos la mitad de la sección calculada: una abajo, con su extremo superior a cincuenta centímetros o menos del suelo, y otra arriba. Y ahí la de arriba tiene que ser directa sí o sí, porque los humos calientes tienen que salir de verdad al exterior. Ejemplo: en una cocina con calentador y varios fuegos que sumen más de dieciséis kilovatios, pones rejilla abajo y rejilla arriba, la de arriba dando a la calle."
+   "notas": "N1: Con gas natural, ¿dónde coloco la abertura de ventilación?\nN2: Presta atención a esta tabla; es la de ubicación de aberturas para gas natural, que al ser ligero sube, así que la abertura va arriba. Tiene tres columnas según lo que haya en el local. Primera columna, solo aparatos conducidos de tipo B: basta una abertura arriba, con su extremo inferior a un metro ochenta o más del suelo y a cuarenta centímetros o menos del techo; en edificios ya construidos se relaja la altura, y vale ventilación directa o indirecta. Segunda columna, mezcla de tipo A y B, o solo tipo A, sumando el tipo A dieciséis kilovatios o menos: mismo criterio, una abertura arriba. Tercera columna, cuando el tipo A pasa de dieciséis kilovatios: ya hacen falta dos aberturas, cada una de al menos la mitad de la sección calculada; una abajo, con su extremo superior a cincuenta centímetros o menos del suelo, y otra arriba, y esa de arriba tiene que ser directa sí o sí, porque los humos calientes tienen que salir de verdad al exterior. Ejemplo: en una cocina con calentador y varios fuegos que sumen más de dieciséis kilovatios, pones rejilla abajo y rejilla arriba, la de arriba dando a la calle."
   },
   {
    "tipo": "tabla",
@@ -305,7 +305,7 @@
     ]
    ],
    "nota": "GLP (butano/propano): pesa y baja. Por eso siempre hay abertura abajo, a ≤ 15 cm del suelo.",
-   "notas": "N1: ¿Y con butano o propano cambia la cosa?\nN2: Cambia, y mucho, porque el GLP es más pesado que el aire y baja: se acumula a ras de suelo. Por eso siempre hay una abertura abajo, con su extremo inferior a quince centímetros o menos del suelo, por donde escaparía el gas fugado. Si solo hay aparatos conducidos de tipo B, con esa abertura baja basta. En cuanto hay tipo A, aparece también una abertura arriba, a un metro ochenta o más del suelo, para sacar los humos; y con mucho tipo A, por encima de dieciséis kilovatios, la de arriba tiene que ser directa. Idea clave de toda la tabla dos: la ventilación se coloca donde se acumula el gas si hay fuga. Gas natural arriba porque sube; GLP abajo porque baja."
+   "notas": "N1: ¿Y con butano o propano cambia la cosa?\nN2: Presta atención a esta tabla, la gemela para el GLP; como el butano y el propano pesan más que el aire y bajan, aquí siempre hay una abertura abajo. Tres columnas otra vez. Primera columna, solo aparatos conducidos de tipo B: una única abertura abajo, con su extremo inferior a quince centímetros o menos del suelo, directa o indirecta. Segunda columna, mezcla de tipo A y B o solo tipo A con el tipo A hasta dieciséis kilovatios: dos aberturas, cada una de al menos media sección; la de abajo a quince centímetros o menos del suelo y la de arriba a un metro ochenta o más, para sacar los humos. Tercera columna, tipo A por encima de dieciséis kilovatios: igual, dos aberturas, pero la de arriba tiene que ser directa. Idea clave de toda la tabla dos: la ventilación se coloca donde se acumula el gas si hay fuga. Gas natural arriba porque sube; GLP abajo porque baja."
   },
   {
    "tipo": "quiz",
@@ -318,8 +318,8 @@
    ],
    "correcta": 1,
    "porque": "El GLP es más denso que el aire: baja y se acumula a ras de suelo, así que la abertura va abajo, a ≤ 15 cm del suelo.",
-   "notas_p": "N1: Butano en el local. ¿La rejilla arriba o abajo?\nN2: Piensa en qué hace ese gas si se escapa, ¿sube o se queda por el suelo?",
-   "notas_r": "N1: ¿Por qué abajo?\nN2: Porque el GLP, butano o propano, pesa más que el aire y baja: se acumula a ras de suelo. La abertura se pone donde se junta el gas, o sea abajo, a quince centímetros o menos del suelo. Con el gas natural sería justo al revés, arriba, porque sube. El truco: la ventilación se coloca donde se acumularía la fuga. Ligero arriba, pesado abajo."
+   "notas_p": "N1: Atento a la pregunta: en un local con GLP, con butano, ¿dónde se coloca la abertura de ventilación? Y las cuatro opciones. Opción A: arriba, cerca del techo. Opción B: abajo, cerca del suelo. Opción C: en el centro de la pared. Opción D: da igual la altura.\nN2: Piénsalo un segundo. Pista: ¿qué hace ese gas si se escapa, sube o se queda por el suelo?",
+   "notas_r": "N2: La respuesta correcta es la opción B: abajo, cerca del suelo. El GLP, butano o propano, pesa más que el aire y baja, se acumula a ras de suelo, así que la abertura se pone donde se junta el gas: abajo, a quince centímetros o menos del suelo. Con el gas natural sería justo al revés, arriba, porque sube.\nN1: ¿La regla que no falla?\nN2: La ventilación se coloca donde se acumularía la fuga. Ligero arriba, pesado abajo."
   },
   {
    "tipo": "contenido",
