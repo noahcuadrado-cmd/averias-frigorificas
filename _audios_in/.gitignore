@@ -1,2 +1,3 @@
-_audios_in/**/*.wav
-_audios_in/**/*.mp3
+# audios intermedios (no versionar, pesan mucho)
+*.wav
+*.mp3
